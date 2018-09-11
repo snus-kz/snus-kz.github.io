@@ -1,5 +1,5 @@
 ---
-title: other-brands
+title: Other-brands
 permalink: other-brands
 title-seo: Другие бренды снюс
 descr: Снюс различных брендов, Скиф, skruf и другие.
