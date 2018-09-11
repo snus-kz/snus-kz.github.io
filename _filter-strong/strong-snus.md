@@ -1,5 +1,5 @@
 ---
-title: крепкий
+title: Крепкий
 permalink: strong-snus
 title-seo: Крепкий снюс | Купить в Казахстане
 descr: Крепкий снюс. Siberia, Odens, Epok, Thunder. примерно 22 мг никотина.
