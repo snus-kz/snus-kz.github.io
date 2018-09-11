@@ -3,7 +3,7 @@ title: Thunder
 permalink: thunder
 title-seo: Thunder Snus
 descr: Бренд Thunder - это Датский бренд. Хороший снюс по приемлимой цене.
-h1-brand-name: Другие бренды
+h1-brand-name: Thunder Snus
 filter-brand-list: Thunder
 layout: filter-brand
 ---
