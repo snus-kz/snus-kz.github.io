@@ -32,7 +32,14 @@ defaults:
     portions: 13
     gram: 10
     price: 2500
+    new-price: 
+    brand: Odens
+    composition: Порционный
+    strong: Очень крепкий
+    sale: 1
+    taste: Мята
     image: "/img/products/odens-cold-extreme-white-dry-portion.jpg"
+    has_availability: true
 exclude:
 - package.json
 - gulpfile.js
