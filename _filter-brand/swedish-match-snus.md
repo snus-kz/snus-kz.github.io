@@ -1,0 +1,11 @@
+---
+title: swedish-match
+permalink: swedish-match
+title-seo: Swedish Match Snus
+descr: Снюс изготовлен компанией Swedish Match. Высокое качество и широкий выбор.
+h1-brand-name: Другие бренды
+filter-brand-list: Other Brands
+layout: filter-brand
+---
+
+Снюс изготовлен компанией Swedish Match. Компания славится большим ассортиментом и высоким качеством.

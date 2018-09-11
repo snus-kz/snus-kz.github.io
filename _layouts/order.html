@@ -1,0 +1,40 @@
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+		
+		<main class="container mt-t-head" id="checkout">
+			<h1>Оформление заказа</h1>
+
+			<div class="order">
+
+				<div class="simpleCart_items"></div>
+				<div class="wrap-order-total">
+					<div class="order-total">
+						<div>Итого:<span id="form-total" class="simpleCart_total"></span></div>
+					</div>
+				</div>
+				
+				<b>Оставьте Выши данные и мы с Вами свяжемся:</b>
+				<form id="contact-form" class="order-contact">
+					<label>
+						<span>Ваш телефон:</span>
+						<input type="tel" placeholder="Телефон" id="phone" required name="Телефон">
+					</label>
+					<label>
+						<span>Ваш комментарий:</span>
+						<textarea placeholder="Ваши пожелания и т.д." rows="3" name="Сообщение" id="message"></textarea>
+					</label>
+					<input type="hidden" name="_subject" value="Новый заказ" />
+					<button type="submit">Отправить</button>
+				</form>
+			</div>
+
+		</main>
+
+	</div>
+
+	{% include footer.html %}
+	{% include foot-script.html %}

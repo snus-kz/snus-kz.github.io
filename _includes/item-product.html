@@ -1,0 +1,41 @@
+<div class="col-md-4 col-sm-6">
+						<article class="item-product simpleCart_shelfItem" id="item-product-pjax">
+							<a href="{{product.url}}"><img class="item_thumb" src="{{ product.image }}" alt="{{product.product-name}}"></a>
+							<a href="{{product.url}}"><h3 class="item_name">{{product.product-name | truncate: 75}}</h3></a>
+
+							{% if product.sale == 1 %}
+							<div class="product-lable product-sale">Акция</div>
+							{% endif %}
+							{% if product.sale == 2 %}
+							<div class="product-lable product-new">Новинка</div>
+							{% endif %}
+							{% if product.sale == 3 %}
+							<div class="product-lable product-hit">Хит продаж</div>
+							{% endif %}
+
+							<span class="item_link d-none">{{ product.url }}</span>
+							
+							<div class="info">
+								<div>{{product.portions}} <span>порций</span></div>
+								<div>{{product.nicotine}} мг/г <span>крепость</span></div>
+								<div>{{product.gram}} <span>грамм</span></div>
+							</div>
+
+							<div class="price-wrap">
+								{% if product.new-price%}
+								<div class="wrap-prices">
+									<div class="old-price">{{product.price}} ₸</div>
+									<div class="price item_price">{{product.new-price}} ₸</div>
+								</div>
+								{% else %}
+								<div class="price item_price">{{product.price}} ₸</div>
+								{% endif %}
+							</div>
+
+							{% if product.has_availability == false %}
+							<div class="btn-cart btn-not-available">Нет в наличии</div>
+							{% else %}
+							<div class="btn-cart btn-available item_add">Добавить в корзину</div>
+							{% endif %}
+						</article>
+					</div>

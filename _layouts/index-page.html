@@ -1,0 +1,82 @@
+{% include head.html %}
+<body>
+
+	{% include header.html %}
+
+	<div class="banner" role="banner">
+		<div class="container">
+			<div class="wrap-banner">
+				<div class="banner-text">
+					<h1>{{ page.h1-index }}</h1>
+					<p>{{ page.descr-index }}</p>
+					<small>Самовывоз по адресу:<br><address>{{ page.address }}</address></small>
+					<ul class="social">
+						<li><a href="//www.instagram.com/snus.kz/" target="_blank" title="Instagram snus.kz"><img src="/img/social/instagram.svg" alt="Instagram snus.kz"></a></li>
+						<li><a href="//t.me/Snuskz" target="_blank" title="Telegram @Snuskz"><img src="/img/social/telegram.svg" alt="Telegram @Snuskz"></a></li>
+						<li><a href="viber://chat?number=+77087752231" target="_blank" title="Написать в Viber"><img src="/img/social/viber.svg" alt="Viber"></a></li>
+						<li><a href="//api.whatsapp.com/send?phone=77087752231" target="_blank" title="Написать в WhatsApp"><img src="/img/social/whatsapp.svg" alt="WhatsApp"></a></li>
+					</ul>
+					<a class="phone" href="tel:+77087752231" title="Позвонить">+7 708 775 2231</a><br>
+					<a class="phone" href="tel:+77473438299" title="Позвонить">+7 747 343 8299</a><br>
+					<a class="btn" href="/reviews.html">Читать отзывы</a>
+				</div>
+				<div class="banner-img">
+					<a href="/siberia-white-dry" title="Siberia white dry"><img src="/img/bg-siberia.png" alt="Снюс siberia white dry в Казахстане"></a>
+					<a href="/odens-cold-dry" title="Odens cold dry"><img src="/img/bg-odens.png" alt="Снюс odens cold dry в Казахстане"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+
+	<main class="container main">
+		<div class="row">
+			<div class="col-lg-10 order-1">		
+				<h2>Каталог снюса</h2>
+
+				<div class="row">
+
+					{% assign sorted_items = site.products | sort:"position" %}
+					{% for product in sorted_items offset:0 limit:12 %}
+					
+					{% include item-product.html %}
+
+					{% endfor %}
+
+					<!-- выводим pagination если товаров больше 12 -->
+					{% assign count_products = sorted_items | size %}
+					{% if count_products > 12 %}
+					<div class="col-12">
+						<nav class="main-pagination" aria-label="Page navigation">
+							<ul class="pagination">
+
+								{% if count_products > 24 %}
+								<li class="page-item active"><a class="page-link" href="/">1</a></li>
+								<li class="page-item"><a class="page-link" href="/page-2">2</a></li>
+								<li class="page-item"><a class="page-link" href="/page-3">3</a></li>
+								{% elsif count_products > 12 %}
+								<li class="page-item active"><a class="page-link" href="/">1</a></li>
+								<li class="page-item"><a class="page-link" href="/page-2">2</a></li>
+								{% endif %}
+
+							</ul>
+						</nav>
+					</div>
+					{% endif %}
+
+				</div>
+
+			</div>
+			<div class="col-lg-2">
+				{% include filter.html %}
+			</div>
+		</div>
+	</main>
+
+	<a class="cart popup-with-move-anim" href="#small-dialog"><span class="cart-count-mini simpleCart_quantity"></span></a>
+
+	{% include modal-cart.html %}
+
+	{% include footer.html %}
+	{% include foot-script.html %}
