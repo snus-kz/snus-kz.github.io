@@ -1,7 +1,8 @@
 ---
 title: siberia-80°c-slim-white-dry
 title-seo: cd
-descr: Siberia -80°C Slim White Dry, Сибирь Красная слим - очень крепкий, порции очень приятные и много. Самая низкая цена в Казахстане.
+descr: Siberia -80°C Slim White Dry, Сибирь Красная слим - очень крепкий, порции очень
+  приятные и много. Самая низкая цена в Казахстане.
 product-name: cd
 nicotine: 43
 portions: 21
