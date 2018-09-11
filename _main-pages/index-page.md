@@ -1,6 +1,7 @@
 ---
 title: index
 permalink: index
+position: 0
 title-seo: Снюс купить в Казахстане | снюс Караганда
 descr: Интрнет-магазин шведского снюса в Казахстане. Odens, Siberia, Epok, Thunder,
   General, Скиф и другие бренды. Звоните +77087752231. Самовывоз в Караганде.

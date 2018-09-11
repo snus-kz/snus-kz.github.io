@@ -1,6 +1,7 @@
 ---
 title: delivery-and-pay
 permalink: delivery-and-pay
+position: 3
 title-seo: Оплата и доставка
 descr: У нас можно купить снюс в Караганде. Отправка в любые регионы Казахстана. Оплата
   на карту.

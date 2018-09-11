@@ -1,6 +1,7 @@
 ---
 title: reviews
 permalink: reviews
+position: 6
 title-seo: Отзывы о нас | Снюс Казахстан
 descr: Отзывы о нашем магазине. Снюс Казахстан.
 layout: reviews
