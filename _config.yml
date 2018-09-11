@@ -38,6 +38,7 @@ exclude:
 - gulpfile.js
 - node_modules
 - app/
+- gulp-app/
 - Gemfile
 - Gemfile.lock
 - readme.md

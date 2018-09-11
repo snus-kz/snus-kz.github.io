@@ -1,0 +1,517 @@
+@import "vars"
+@import "fonts"
+@import "libs"
+
+::placeholder
+	color: #666
+
+::selection
+	background-color: $accent
+	color: #fff
+
+*
+	outline: none
+
+html, body
+	height: 100%
+
+body
+	min-width: 320px
+	position: relative
+	overflow-x: hidden
+	color: #333
+	background: #f8f9fa
+	display: flex
+	flex-direction: column
+	input, textarea
+		border: #666 1px solid
+		outline: none
+		&:focus:required:invalid
+			border-color: red
+		&:required:valid
+			border-color: green
+
+// прижать footer
+.content
+	flex: 1 0 auto
+
+dl, ol, ul
+	margin: 0
+
+h1, h2, h3, h4, h5, h6
+	font-weight: 400
+
+h1
+	font-size: 1.5rem
+h2
+	font-size: 1.3rem
+
+a:hover
+	text-decoration: none
+
+ul
+	list-style-type: none
+	margin: 0
+	padding: 0
+
+.mt-t-head
+	margin-top: 5rem
+	margin-bottom: 1rem
+
+.btn
+	color: #fff
+	padding: 7px 10px
+	border: 1px solid #fff
+	border-radius: 7px
+	display: inline-block
+	transition: all 0.3s
+	&:hover
+		color: #000
+		background: #fff
+	&:active
+		background: darken(#fff, 15%)
+
+
+
+// HEADER START
+.main-head
+	padding: 10px 0
+	color: #fff
+	background: #333
+	text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, .5)
+	position: fixed
+	width: 100%
+	z-index: 10
+	top: 0
+	left: 0
+	.container
+		display: flex
+		justify-content: space-between
+		align-items: center
+	ul
+		li
+			display: inline-block
+			margin-left: 25px
+		a
+			color: rgba(255, 255, 255, .5)
+			padding: .25rem 0
+			border-bottom: .15rem solid transparent
+			font-weight: 600
+			&:hover
+				border-bottom: .15rem solid rgba(255, 255, 255, .5)
+			&:active
+				color: rgba(255, 255, 255, .8)
+				border-bottom: .15rem solid rgba(255, 255, 255, .8)
+		.active
+			a
+				color: #fff
+				border-bottom: .15rem solid #fff
+				&:active
+					color: #fff
+					border-bottom: .15rem solid #fff
+
+.logo
+	line-height: 1
+	color: #fff
+	&:hover
+		color: #fff
+	span
+		font-size: 1.5rem
+		font-weight: 600
+	small
+		letter-spacing: 1px
+
+// HEADER END
+
+// BANNER START
+.banner
+	color: #fff
+	background: #333
+	text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, .5)
+.wrap-banner
+	padding: 7rem 0
+	display: flex
+	justify-content: space-between
+	align-items: center
+	h1
+		color: #fff
+		margin-bottom: 0
+		font-size: 2.3rem
+		line-height: 1.2
+	p
+		font-size: 1.2rem
+		color: #fff
+		margin-bottom: 0
+		font-weight: 300
+	small
+		font-weight: 400
+		a
+			&:hover
+				color: lighten($link, 10%)
+	address
+		color: gold
+		display: inline-block
+		font-size: 1rem
+	.btn
+		margin-top: 2rem
+
+.banner-img
+	animation: jump 6s infinite
+	img
+		opacity: .7
+		&:hover
+			opacity: 1
+			
+
+@keyframes jump
+	0%
+		transform: translateY(0)
+	50%
+		transform: translateY(20px)
+	100%
+		transform: translateY(0)
+
+
+.social
+	margin-bottom: 1rem
+	li
+		display: inline-block
+		margin-right: 7px
+	img
+		width: 35px
+		height: 35px
+		background: #fff
+		display: inline-block
+		border-radius: 3px
+		opacity: .85
+		&:hover
+			opacity: 1
+
+
+.phone
+	font-size: 1.3rem
+	letter-spacing: 1px
+	color: gold
+	&:hover
+		color: darken(gold, 5%)
+// BANNER EDN
+
+// MAIN START
+.main
+	margin-top: 2rem
+	margin-bottom: 2rem
+
+
+// ITEM PRODUCTS START
+.item-product
+	background: #fff
+	text-align: center
+	border-radius: 5px
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+	margin-bottom: 2rem
+	transition: all .3s
+	position: relative
+	a
+		color: #333
+		display: block
+
+	img
+		width: 100%
+		max-width: 250px
+		padding: 15px
+		transition: all .3s
+		&:hover
+			transform: scale(1.05)
+	h3
+		text-align: center
+		padding: 5px 20px
+		font-size: 1.2rem
+		line-height: 1.2
+		font-weight: 600
+		height: 56px
+		max-height: 56px
+		overflow: hidden
+	.info
+		display: flex
+		justify-content: center
+		line-height: 1.1
+		font-size: .9rem
+		color: #333
+		border-top: 1px solid $line
+		border-bottom: 1px solid $line
+		div
+			padding: 5px
+			text-align: center
+			flex-grow: 1
+			&:nth-child(2)
+				border-left: 1px solid $line
+				border-right: 1px solid $line
+		span
+			display: block
+	.btn-cart
+		cursor: pointer
+		padding: 10px 10px
+		background: #28a745
+		color: #fff
+		text-align: center
+		transition: all .3s
+	.btn-available
+		&:hover
+			background: darken(#28a745, 7%)
+		&:active
+			background: darken(#28a745, 12%)
+	.btn-not-available
+		cursor: default
+		background: #a5acb3
+
+.price-wrap
+	padding: 10px
+	display: flex
+	justify-content: space-around
+	align-items: center
+.price
+	font-size: 1.3rem
+	font-weight: bold
+.wrap-prices
+	div
+		display: inline-block
+	.old-price
+		font-size: .85rem
+		text-decoration: line-through
+		color: #a5acb3
+	.price
+		color: #28a745
+
+.product-lable
+	background: #fb383b
+	position: absolute
+	top: 25px
+	left: -20px
+	text-align: center
+	color: #fff
+	padding: 5px 20px
+	&:after
+		content: ''
+		position: absolute
+		left: 0
+		bottom: -20px
+		width: 0
+		height: 0
+		border-style: solid
+		border-width: 0 20px 20px 0
+		border-color: transparent darken(#fb383b, 15%) transparent transparent
+.product-new
+	background: #FFC107
+	&:after
+		border-right-color: darken(#FFC107, 5%)
+.product-hit
+	background: #219ff3
+	&:after
+		border-right-color: darken(#219ff3, 5%)
+// ITEM PRODUCTS END
+
+// MAIN END
+
+// FILTER START
+.filter
+	padding-top: .3rem
+
+.btn-filter
+	display: none
+
+.item-filter
+	padding-bottom: 1.5rem
+	margin-bottom: 1.5rem
+	position: relative
+	&:after
+		content: ''
+		width: 75px
+		height: 2px
+		background: #e9ecef
+		position: absolute
+		bottom: 0
+	&:last-child
+		&:after
+			display: none
+	h3
+		text-transform: uppercase
+		letter-spacing: 3px
+		font-size: 1rem
+		color: #adb5bd
+	a
+		color: #495057
+		transition: all .3s
+		padding: .2rem 0
+		display: block
+		&:hover
+			opacity: .7
+	.active
+		color: $link
+		&:hover
+			opacity: 1
+// FILTER END
+
+// CART START
+.cart
+	position: fixed
+	right: 15px
+	top: 35px
+	z-index: 10
+	padding: 30px
+	cursor: pointer
+	border-radius: 50%
+	background: rgb(122, 183, 43) url(../img/icon/cart.svg) no-repeat 50% 75%
+	background-size: 50%
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px 0px, rgba(0, 0, 0, 0.15) 0px 3px 5px 0px
+	opacity: .85
+	transition: all 0.3s
+	&:hover
+		opacity: 1
+		box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px 0px, rgba(0, 0, 0, 0.15) 0px 5px 10px 0px
+	&:active
+		background-color: darken(rgb(122, 183, 43), 5%)
+	.cart-count-mini
+		position: absolute
+		font-size: 1.1rem
+		font-weight: bold
+		color: #fff
+		top: 0
+		right: 50%
+		transform: translateX(50%)
+
+#small-dialog
+	background: #fff
+	padding: 20px
+	max-width: 600px
+	width: 100%
+	margin: 40px auto
+	position: relative
+	h3
+		font-size: 1.2rem
+		font-weight: 600
+		border-bottom: 1px solid $line
+		margin-bottom: 0
+		padding-bottom: 1rem
+	.cart-text
+		font-size: .9rem
+		text-align: right
+		margin-bottom: 0
+
+.cart-item
+	border-bottom: 1px solid $line
+	padding: .5rem 25px .5rem 0
+	position: relative
+	display: flex
+	align-items: center
+	.cart-item-content
+		flex-grow: 1
+		a
+			display: inline-block
+	.cart-item-wrap-img
+		flex-grow: 0
+	img
+		max-width: 75px
+		margin-right: 15px
+	h4
+		line-height: 1.3
+		color: #333
+		font-weight: 600
+		margin-bottom: .3rem
+	.cart-item-prices-count
+		display: flex
+		justify-content: space-between
+		align-items: center
+	.cart-item-price,
+	.cart-item-total-price
+		font-weight: bold
+	.cart-item-count
+		text-align: center
+		max-width: 60px
+		border: 1px solid #ededed
+		border-radius: .19rem
+		transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out
+		padding: .3rem .5rem
+		margin: 0 10px
+
+.cart-item-del
+	cursor: pointer
+	opacity: .75
+	position: absolute
+	color: $accent
+	top: 0
+	right: 0
+	&:before
+		content: '⨯'
+		font-size: 1.5rem
+		padding: 5px
+	&:hover
+		opacity: 1
+
+.cart-total
+	margin-top: 1rem
+	display: flex
+	justify-content: flex-end
+	align-items: flex-end
+	.cart-total-price
+		font-weight: bold
+		font-size: 1.2rem
+		margin-left: 5px
+
+.cart-foot
+	padding: 1rem 0 0
+	display: flex
+	justify-content: flex-end
+	.cart-btn-clear
+		margin-right: 10px
+	.cart-btn-order,
+	.cart-btn-clear
+		color: #fff
+		border-radius: .18rem
+		border: none
+		background: $accent
+		padding: .5rem 1rem
+		letter-spacing: 1px
+		cursor: pointer
+		outline: none
+		transition: all .3s
+	.cart-btn-clear
+		background: #868e96
+		&:hover
+			background: darken(#868e96, 5%)
+		&:active
+			background: darken(#868e96, 10%)
+	.cart-btn-order
+		&:hover
+			background: darken($accent, 5%)
+		&:active
+			background: darken($accent, 10%)
+// CART END
+
+// PRODUCT START
+@import "product"
+// PRODUCT END
+
+// ORDER START
+@import "order"
+// ORDER END
+
+// FOOTER START
+.main-foot
+	color: #fff
+	background: #333
+	text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, .5)
+	padding: 20px 0 10px
+	flex: 0 0 auto
+
+.foot-contact
+	display: flex
+	justify-content: space-between
+
+.foot-bottom
+	display: flex
+	justify-content: space-between
+	font-size: .9rem
+// FOOTER END
+
+
+@import "media" // Always at the end

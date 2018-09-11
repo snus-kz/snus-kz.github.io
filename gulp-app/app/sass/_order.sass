@@ -1,0 +1,70 @@
+.order-coupon
+	display: flex
+	justify-content: flex-end
+	margin: 1.5rem 0
+
+.order-coupon-code,
+.order-coupon-btn
+	padding: 5px 10px
+	background: transparent
+	outline: none
+	border-radius: .19rem
+	border: 2px solid $line
+	max-width: 150px
+	&:focus
+		outline: none
+
+.order-coupon-btn
+	margin-left: 10px
+	border-color: $accent
+	cursor: pointer
+	transition: all .3s
+	&:hover
+		background: $accent
+		color: #fff
+	&:active
+		background: darken($accent, 5%)
+		color: #fff
+
+.wrap-order-total
+	display: flex
+	justify-content: flex-end
+	margin-bottom: 2rem
+.order-total
+	max-width: 400px
+	width: 100%
+	div
+		display: flex
+		justify-content: space-between
+		align-items: flex-end
+		font-size: 1.1rem
+		border-bottom: 1px solid $line
+		padding: .3rem 0
+		&:last-child
+			span
+				font-size: 1.2rem
+	span
+		font-weight: bold
+
+.order-contact
+	label, input, textarea
+		width: 100%
+	input, textarea
+		padding: 5px 10px
+		border-radius: .19rem
+		background: transparent
+		border-color: darken($line, 10%)
+	button
+		padding: 5px 10px
+		background: transparent
+		outline: none
+		border-radius: .19rem
+		border: 2px solid #28a745
+		cursor: pointer
+		transition: all .3s
+		&:hover
+			background: #28a745
+			color: #fff
+		&:active
+			background: darken(#28a745, 5%)
+			color: #fff
