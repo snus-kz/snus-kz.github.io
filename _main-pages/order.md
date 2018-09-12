@@ -1,5 +1,5 @@
 ---
-title: order
+title: Страница оформления заказа
 permalink: order
 position: 5
 title-seo: Оформить заказ | Заказать снюс в Казахстане
