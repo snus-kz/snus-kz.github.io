@@ -8,3 +8,4 @@ sale-h1: Лучший выбор
 filter-sale-list: Лучший
 layout: filter-sale/filter-best
 ---
+

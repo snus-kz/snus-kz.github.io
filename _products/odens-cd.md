@@ -1,19 +1,20 @@
 ---
 title: siberia-80°c-slim-white-dry
 title-seo: cd
-descr: Siberia -80°C Slim White Dry, Сибирь Красная слим - очень крепкий, порции очень приятные и много. Самая низкая цена в Казахстане.
+descr: Siberia -80°C Slim White Dry, Сибирь Красная слим - очень крепкий, порции очень
+  приятные и много. Самая низкая цена в Казахстане.
 product-name: cd
 nicotine: 43
 portions: 21
+gram: 13
 price: 2500
 new-price: 2300
 brand: Odens
 composition: Порционный
 strong: Средней крепости
-sale: 2
-gram: 13
-image: "/img/products/siberia-slim-white-dry.jpg"
+sale: 0
 taste: Мята
+image: "/img/products/siberia-slim-white-dry.jpg"
 has_availability: false
 ---
 

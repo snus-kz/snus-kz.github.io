@@ -8,3 +8,4 @@ sale-h1: Новинки снюса
 filter-sale-list: Новинка
 layout: filter-sale/filter-new
 ---
+

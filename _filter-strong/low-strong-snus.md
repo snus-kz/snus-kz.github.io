@@ -1,5 +1,5 @@
 ---
-title: легкий
+title: Легкий
 permalink: low-strong
 title-seo: Снюс низкой крпости | Купить в Казахстане
 descr: Снюс низкой крпости. Odens, Epok, Thunder. Ниже 18 мг никотина.
