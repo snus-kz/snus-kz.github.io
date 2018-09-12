@@ -1,7 +1,7 @@
 ---
 title: СКИФ Синий
 date: 2018-09-12 08:41:00 Z
-position: 3
+position: 9
 title-seo: СКИФ Синий
 product-name: СКИФ Синий
 nicotine: 24
