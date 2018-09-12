@@ -1,5 +1,5 @@
 ---
-title: delivery-and-pay
+title: Доставка и оплата
 permalink: delivery-and-pay
 position: 1
 title-seo: Оплата и доставка
