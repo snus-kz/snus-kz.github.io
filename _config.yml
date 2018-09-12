@@ -36,7 +36,7 @@ defaults:
     brand: Odens
     composition: Порционный
     strong: Очень крепкий
-    sale: 1
+    sale:
     taste: Мята
     image: "/img/products/odens-cold-extreme-white-dry-portion.jpg"
     has_availability: true

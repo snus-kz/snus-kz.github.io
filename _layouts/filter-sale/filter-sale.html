@@ -13,7 +13,7 @@
 
 					
 					
-					{% assign sorted_items = site.products | sort:"position" | where: "sale", 1 %}
+					{% assign sorted_items = site.products | sort:"position" | where: "sale", "Акция" %}
 					{% for product in sorted_items %}
 					
 					{% include item-product.html %}
