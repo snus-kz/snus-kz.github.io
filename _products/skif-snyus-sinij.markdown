@@ -5,7 +5,7 @@ position: 3
 title-seo: СКИФ Синий
 product-name: СКИФ Синий
 nicotine: 24
-portions: "-"
+portions: 18-20
 gram: 16
 price: 1370
 brand: Other brands
