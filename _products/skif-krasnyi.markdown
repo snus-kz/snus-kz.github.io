@@ -1,7 +1,7 @@
 ---
 title: Скиф Красный
 date: 2018-09-12 09:07:00 Z
-position: 2
+position: 4
 title-seo: СКИФ Красный
 descr: СКИФ Красный
 product-name: СКИФ Красный
