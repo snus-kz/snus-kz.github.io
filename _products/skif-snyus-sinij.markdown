@@ -7,7 +7,10 @@ nicotine: 24
 portions: Неизвестно
 gram: 16
 price: 1370
+brand: Other brands
+sale: new-snus
 image: "/img/products/skif-blue.jpeg"
+has_availability: false
 ---
 
 СКИФ — это лучший альтернативный продукт
