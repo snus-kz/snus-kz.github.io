@@ -9,7 +9,7 @@ gram: 20
 price: 2700
 new-price: 2500
 brand: Siberia
-sale: best-snus
+sale: Ничего
 taste: Классический
 image: "/img/products/siberia-brown.jpg"
 ---
