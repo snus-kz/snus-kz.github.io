@@ -1,7 +1,7 @@
 ---
 title: Siberia Brown Portion Snus
 date: 2018-09-12 08:35:00 Z
-position: 7
+position: 1
 title-seo: Siberia Brown Portion Snus
 product-name: Siberia Brown Portion Snus
 nicotine: 43
