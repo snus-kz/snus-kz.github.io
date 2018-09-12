@@ -10,7 +10,7 @@ portions: 21
 gram: 13
 price: 2500
 brand: Siberia
-sale: Ничего
+sale: best-snus
 image: "/img/products/siberia-slim-white-dry.jpg"
 ---
 
