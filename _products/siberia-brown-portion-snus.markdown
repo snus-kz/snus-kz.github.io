@@ -7,7 +7,9 @@ nicotine: 43
 portions: 20
 gram: 20
 price: 2700
+new-price: 2500
 brand: Siberia
+sale: best-snus
 taste: Классический
 image: "/img/products/siberia-brown.jpg"
 ---
