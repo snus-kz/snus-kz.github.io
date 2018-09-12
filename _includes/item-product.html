@@ -3,13 +3,13 @@
 							<a href="{{product.url}}"><img class="item_thumb" src="{{ product.image }}" alt="{{product.product-name}}"></a>
 							<a href="{{product.url}}"><h3 class="item_name">{{product.product-name | truncate: 75}}</h3></a>
 
-							{% if product.sale == 1 %}
+							{% if product.sale == "sale" %}
 							<div class="product-lable product-sale">Акция</div>
 							{% endif %}
-							{% if product.sale == 2 %}
+							{% if product.sale == "new-snus" %}
 							<div class="product-lable product-new">Новинка</div>
 							{% endif %}
-							{% if product.sale == 3 %}
+							{% if product.sale == "best-snus" %}
 							<div class="product-lable product-hit">Хит продаж</div>
 							{% endif %}
 

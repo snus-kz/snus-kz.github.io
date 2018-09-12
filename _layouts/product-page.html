@@ -12,13 +12,13 @@
 						<div class="product-img-wrap">
 							<img class="product-img item_thumb" src="{{ page.image }}" alt="{{ page.product-name }}">
 
-							{% if page.sale == 1 %}
+							{% if page.sale == "sale" %}
 							<div class="product-lable product-sale">Акция</div>
 							{% endif %}
-							{% if page.sale == 2 %}
+							{% if page.sale == "new-snus" %}
 							<div class="product-lable product-new">Новинка</div>
 							{% endif %}
-							{% if page.sale == 3 %}
+							{% if page.sale == "best-snus" %}
 							<div class="product-lable product-hit">Хит продаж</div>
 							{% endif %}
 
