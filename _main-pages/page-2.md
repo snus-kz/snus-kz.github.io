@@ -1,5 +1,5 @@
 ---
-title: page-2
+title: Каталог вторая страница
 permalink: page-2
 position: 3
 title-seo: Страница 2 | Снюс Казахстан
