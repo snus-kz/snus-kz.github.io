@@ -11,7 +11,7 @@ price: 1370
 brand: Other brands
 sale: new-snus
 image: "/img/products/skif-blue.jpeg"
-has_availability: false
+has_availability: true
 ---
 
 СКИФ — это лучший альтернативный продукт
