@@ -1,5 +1,5 @@
 ---
-title: about
+title: О нас
 permalink: about
 position: 2
 title-seo: Снюс Казахстан - о нас
