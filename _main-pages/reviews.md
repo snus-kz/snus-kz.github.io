@@ -1,5 +1,5 @@
 ---
-title: reviews
+title: Страница отзывов
 permalink: reviews
 position: 6
 title-seo: Отзывы о нас | Снюс Казахстан
