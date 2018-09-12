@@ -9,7 +9,7 @@ nicotine: 43
 portions: 18-20
 gram: 16
 price: 1630
-brand: Swedish match
+brand: Other brands
 sale: new-snus
 image: "/img/products/skif-red.jpeg"
 ---
