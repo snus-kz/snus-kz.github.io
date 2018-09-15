@@ -49,8 +49,8 @@ defaults:
     taste: Мята
     image: "/img/products/odens-cold-extreme-white-dry-portion.jpg"
     has_availability: true
-plugins: 
-  - jekyll-sitemap
+plugins:
+- jekyll-sitemap
 exclude:
 - package.json
 - gulpfile.js
