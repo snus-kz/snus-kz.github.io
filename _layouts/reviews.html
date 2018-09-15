@@ -9,7 +9,12 @@
 			<h1>Отзывы о нас</h1>
 			{{ content }}
 
-			всунуть виджет вк
+			<!-- Put this script tag to the <head> of your page -->
+				<script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+
+				<script type="text/javascript">
+					VK.init({apiId: API_ID, onlyWidgets: true});
+				</script>
 
 			</main>
 
