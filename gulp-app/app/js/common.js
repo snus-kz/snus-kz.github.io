@@ -121,7 +121,7 @@
 			var cartTotalForm = $('#form-total').text();
 
 			$.ajax({
-				url: "//formspree.io/12BDC21@gmail.com", 
+				url: "//formspree.io/ya.orthodoxy@yandex.ru", 
 				method: "POST",
 				data: formMail.serialize() + "&Итого= " + cartTotalForm,
 				dataType: "json"
