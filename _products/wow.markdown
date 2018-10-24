@@ -11,7 +11,7 @@ gram: 15
 price: 2600
 brand: Other brands
 taste: Мята, мед
-image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
+image: "/uploads/1304Chew.png"
 ---
 
 Очень крепкий снюс
