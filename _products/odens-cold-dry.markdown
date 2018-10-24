@@ -8,7 +8,7 @@ descr: Odens cold dry, еще называют оденс кд - очень кр
 product-name: Odens Cold White Dry Extreme
 price: 2000
 sale: best-snus
-image: "/img/products/odens-cold-extreme-white-dry-portion.jpg"
+image: "/uploads/255x240-Cold-Exteme-White-Dry-portion.png"
 ---
 
 Odens cold dry, еще называют оденс кд - очень крепкий, порции очень приятные и мягки. Самая низкая цена в Казахстане.
