@@ -12,6 +12,6 @@ gram: 13
 price: 2500
 brand: Siberia
 sale: best-snus
-image: "/img/products/siberia-slim-white-dry.jpg"
+image: "/uploads/255x240-Siberia-White-Dry-Slim-portion-c2c534.png"
 ---
 
