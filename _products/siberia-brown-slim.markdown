@@ -13,7 +13,7 @@ gram: 20
 price: 2500
 brand: Siberia
 taste: Классический
-image: "/img/products/siberia-slim-brown.jpg"
+image: "/uploads/255x240-Siberia-Brown-Slim-portion.png"
 ---
 
 Siberia brown slim -не реально крепкий табак ,пользуется огромным спросом на территории СНГ,24 пакетиков очень удобны в использовании ,самая лучшая и низкая цена в Казахстане.
