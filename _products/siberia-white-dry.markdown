@@ -9,7 +9,7 @@ portions: 17
 gram: 13
 price: 2300
 brand: Siberia
-image: "/img/products/siberia-white-dry.jpg"
+image: "/uploads/255x240-Siberia-White-Dry-portion.png"
 ---
 
 Самый крепкий в мире снюс
