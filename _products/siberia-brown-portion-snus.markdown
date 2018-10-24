@@ -12,7 +12,7 @@ new-price: 2500
 brand: Siberia
 sale: Ничего
 taste: Классический
-image: "/img/products/siberia-brown.jpg"
+image: "/uploads/255x240-Siberia-Brown-portion.png"
 ---
 
 Коричневая сибирь очень крепкая.
