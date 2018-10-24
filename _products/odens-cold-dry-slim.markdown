@@ -11,6 +11,6 @@ gram: 10
 price: 2000
 brand: Odens
 strong: Крепкий
-image: "/img/products/odens-extreme-slim-cold-white-dry.jpg"
+image: "/uploads/255x240-Cold-Extreme-White-Dry-Slim-portion.png"
 ---
 
