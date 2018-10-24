@@ -15,7 +15,7 @@ new-price: 3500
 brand: Epok
 strong: Крепкий
 sale: sale
-image: "/img/products/epok-strong-ice-cool-mint-white.jpg"
+image: "/uploads/epok-ice-cool-mint-slim-strong-white.jpg.png"
 ---
 
 EPOK не окрашивает зубы, не течёт и содержит минимум токсинов. Пакетик остаётся совершенно белым до и после применения. По потребительским качествам белый жевательный табак ни в чём не уступает традиционному.
