@@ -11,7 +11,7 @@ layout: delivery-and-pay
 
 ![СДЭК.jpg](/uploads/%D0%A1%D0%94%D0%AD%D0%9A.jpg)
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
