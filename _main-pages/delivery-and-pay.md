@@ -18,7 +18,6 @@ layout: delivery-and-pay
 <div class="col-md-6">
 <img style="width: 100%" src="https://rfranch.ru/wp-content/uploads/2018/04/LOGOTIP.jpg" alt="СДЭК"/>
  </div>
-</div>
 
 <div class="row">
 <div class="col-md-6">
