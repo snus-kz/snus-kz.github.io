@@ -26,7 +26,7 @@ layout: delivery-and-pay
 <p>Способы оплаты</p>
 </div>
 <div class="col-md-6">
-<img style="width: 100%" src=""">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfV0bP1PdtQhvBTiWgLKjv6BJiolfoTo0SKuOu1Ux6AoRNRMNIg" alt="Карта каспи" />
 </div>
 </div>
 </div>
