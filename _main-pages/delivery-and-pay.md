@@ -16,9 +16,8 @@ layout: delivery-and-pay
 
 <p>Мы отправляем снюс по всей территории СНГ курьерской службой "СДЭК" Доставка 2-3 дня Средняя стоимость доставки 1000-2300 (без наложенного платежа). Отправляем каждый день с г.Караганды, на следующий день в Вашем городе или стране, в некоторые города и страны доставка занимает 2 дня
 <div class="col-md-6">
-<img style="width: 100%" src="https://rfranch.ru/wp-content/uploads/2018/04/LOGOTIP.jpg" alt="СДЭК" />
-
-</div>
+<img style="width: 100%" src="https://rfranch.ru/wp-content/uploads/2018/04/LOGOTIP.jpg" alt="СДЭК"/>
+ </div>
 </div>
 
 <div class="row">
@@ -26,7 +25,6 @@ layout: delivery-and-pay
 <p>Способы оплаты</p>
 </div>
 <div class="col-md-6">
-<img style="width: 100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfV0bP1PdtQhvBTiWgLKjv6BJiolfoTo0SKuOu1Ux6AoRNRMNIg" alt="Карта каспи" />
-</div>
+<img style="width: 100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfV0bP1PdtQhvBTiWgLKjv6BJiolfoTo0SKuOu1Ux6AoRNRMNIg" alt="Карта каспи"/>
 </div>
 </div>
