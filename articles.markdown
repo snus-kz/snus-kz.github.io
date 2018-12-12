@@ -1,0 +1,27 @@
+---
+title: articles
+date: 2018-12-12 16:53:00 Z
+---
+
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+		
+		<main class="container mt-t-head">
+			<h1>О нас</h1>
+			{{ content }}
+			
+
+		</main>
+
+		<a class="cart popup-with-move-anim" href="#small-dialog"><span class="cart-count-mini simpleCart_quantity"></span></a>
+
+	</div>
+
+	{% include modal-cart.html %}
+
+	{% include footer.html %}
+	{% include foot-script.html %}
