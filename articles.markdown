@@ -1,7 +1,6 @@
 ---
 title: articles
 date: 2018-12-12 16:53:00 Z
-published: false
 ---
 
 {% include head.html %}
