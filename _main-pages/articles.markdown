@@ -1,6 +1,7 @@
 ---
 title: articles
 date: 2018-12-12 17:31:00 Z
+permalink: articles
 ---
 
 {% include head.html %}
