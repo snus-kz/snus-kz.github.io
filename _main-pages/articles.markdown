@@ -2,8 +2,16 @@
 title: articles
 date: 2018-12-12 17:31:00 Z
 permalink: articles
+Field name: 
 ---
 
+---
+permalink: articles
+title-seo: Информация о снюсе | Блог
+descr: Блог интернет-магазина Snustop.com.ua Интересная информация о снюсе.
+keywords: снюс блог, о снюсе
+layout: compress
+---
 {% include head.html %}
 <body>
 
