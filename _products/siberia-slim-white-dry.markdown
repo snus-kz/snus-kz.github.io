@@ -1,7 +1,7 @@
 ---
 title: siberia slim white dry
 date: 2018-09-12 08:17:00 Z
-position: 0
+position: 1
 title-seo: Siberia -80°C Slim White Dry купить в Казахстане
 descr: Siberia -80°C Slim White Dry, Сибирь Красная слим - очень крепкий, порции очень
   приятные и много. Самая низкая цена в Казахстане.
