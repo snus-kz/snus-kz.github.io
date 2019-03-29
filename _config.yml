@@ -2,9 +2,6 @@
 title: Snus Kz.Github.Io
 timezone: UTC
 collections:
-  articles:
-    title: Articles
-    output: true
   filter-brand:
     title: Brand
     output: true
