@@ -13,4 +13,3 @@ address: г.Караганда Ержанова 30
 layout: index-page
 ---
 
-Интрнет-магазин шведского снюса в Казахстане. Odens, Siberia, Epok, Thunder, General, Swedish Match , GN Tobacco, V2Tobacco, Thunder, Offroad, WoW , и другие бренды.  Звоните +77087752231.Самовывоз в Караганде.
