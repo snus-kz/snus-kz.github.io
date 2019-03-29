@@ -2,7 +2,7 @@
 title: Главная страница
 permalink: index
 position: 0
-title-seo: Снюс купить в Казахстане | снюс Караганда
+title-seo: Снюс купить в Казахстане | снюс Караганда.
 descr: Интрнет-магазин шведского снюса в Казахстане. Odens, Siberia, Epok, Thunder,
   General, Swedish Match , GN Tobacco, V2Tobacco, Thunder, Offroad, WoW , и другие
   бренды.  Звоните +77087752231.Самовывоз в Караганде.
