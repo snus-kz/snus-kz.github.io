@@ -1,12 +1,12 @@
 ---
 title: Epok
 permalink: epok
-title-seo: Epok Snus купить в Казахстане
-descr: Cнюс бренда Epok - очень приятный. Они используют белый табак, который не красит
+title-seo: Lyft Snus купить в Казахстане
+descr: Cнюс бренда Lyft - очень приятный. Они используют белый табак, который не красит
   зубы.
-keywords: снюс, epok, эпок, епок
-h1-brand-name: Epok Snus
-filter-brand-list: Epok
+keywords: снюс, epok, эпок, епок,lyft,snus,
+h1-brand-name: Lyft Snus
+filter-brand-list: Lyft
 layout: filter-brand
 ---
 
