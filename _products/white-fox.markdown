@@ -11,6 +11,7 @@ portions: 20
 gram: 15
 brand: White Fox
 strong: Крепкий
+sale: new-snus
 image: "/uploads/white-fox-2.png"
 ---
 
