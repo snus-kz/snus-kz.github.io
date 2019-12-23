@@ -8,7 +8,7 @@ Key: 'снюс Казахстан, снюс купить, снюс, snus, сню
   killa, nicopods, arqa, alfa, blax , corvus, '
 h1-index: Купить снюс в Казахстане.
 descr-index: 'Интернет-магазин шведского снюса, доставка по всей стране. '
-address: 'г. Караганда, '
+address: г. Караганда,
 layout: index-page
 ---
 
