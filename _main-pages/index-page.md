@@ -1,7 +1,6 @@
 ---
 title: Главная страница
 permalink: index
-published: false
 position: 0
 title-seo: Снюс купить в Казахстане | снюс Караганда.
 descr: 'Интрнет-магазин шведского снюса в Казахстане. '
