@@ -1,7 +1,7 @@
 ---
 title: siberia white dry
 date: 2018-09-12 09:25:00 Z
-position: 8
+position: 7
 title-seo: Siberia Extremely Strong White Dry Snus
 product-name: Siberia Extremely Strong White Dry
 nicotine: 43
