@@ -1,7 +1,7 @@
 ---
 title: Odens cold dry
 date: 2018-09-12 09:24:00 Z
-position: 5
+position: 6
 title-seo: Odens cold dry white dry portion купить в Казахстане
 descr: Odens cold dry, еще называют оденс кд - очень крепкий, порции очень приятные
   и мягки. Самая низкая цена в Казахстане.
