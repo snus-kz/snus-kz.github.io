@@ -15,7 +15,7 @@ new-price: 2800
 brand: Lyft
 strong: Крепкий
 sale: best-snus
-image: "/uploads/lyft%20ice%20cool-f90af2.png"
+image: "/uploads/lyft%20ice%20cool.png"
 has_availability: true
 ---
 
