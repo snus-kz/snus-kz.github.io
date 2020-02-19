@@ -15,7 +15,7 @@ new-price: 2800
 brand: Lyft
 strong: Крепкий
 sale: Ничего
-image: "/uploads/Lyft%20ice%20cool.png"
+image: "/uploads/lyft%20ice%20cool-f90af2.png"
 has_availability: true
 ---
 
