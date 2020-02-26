@@ -14,6 +14,7 @@ price: 2700
 new-price: 2700
 brand: Siberia
 sale: best-snus
+taste: Традиционный табак, мята
 image: "/uploads/siberia%20white%20dry%20slim%20portion.png"
 ---
 
