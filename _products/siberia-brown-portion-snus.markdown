@@ -1,18 +1,25 @@
 ---
-title: Siberia Brown Portion Snus
+title: Siberia Brown
 date: 2018-09-12 08:35:00 Z
 position: 2
-title-seo: Siberia Brown Portion Snus
-product-name: Siberia Brown Portion Snus
+title-seo: 'Siberia Brown -купить в Казахстане '
+descr: Siberia Brown - оригинальная порционная версия Сибири при температуре -80 °C,
+  со свежим ароматом мяты и чрезвычайно высоким содержанием никотина - 43 мг / г!
+product-name: Siberia Brown
 nicotine: 43
 portions: 20
 gram: 20
-price: 2700
+price: 2500
 new-price: 2500
 brand: Siberia
 sale: Ничего
 taste: Классический
-image: "/uploads/255x240-Siberia-Brown-portion.png"
+image: "/uploads/siberia%20brown%20portion.png"
 ---
 
-Коричневая сибирь очень крепкая.
+Siberia Brown  - Коричневая сибирь очень крепкая.
+
+Это коричневая оригинальная порционная версия Сибири при температуре -80 °C, со свежим ароматом мяты и чрезвычайно высоким содержанием никотина - 43 мг / г! Это один из самых сильных жевательных табаков (снюсов) в мире! Увлажненные оригинальные порции обеспечивают более быстрое выделение никотина и аромата.
+
+
+
