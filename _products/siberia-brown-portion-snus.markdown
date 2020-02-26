@@ -13,7 +13,7 @@ price: 2500
 new-price: 2500
 brand: Siberia
 sale: Ничего
-taste: Классический
+taste: 'Традиционный табак, мята '
 image: "/uploads/siberia%20brown%20portion.png"
 ---
 
