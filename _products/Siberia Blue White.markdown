@@ -15,6 +15,7 @@ new-price: 2500
 brand: Siberia
 strong: Средней крепости
 sale: new-snus
+taste: Традиционный табак, мята
 image: "/uploads/siberia%20white%20portion.png"
 ---
 
