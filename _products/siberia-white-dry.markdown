@@ -13,7 +13,7 @@ price: 2500
 new-price: 2500
 brand: Siberia
 strong: Очень крепкий
-taste: 'Мята, табак '
+taste: традиционный табак, мята
 image: "/uploads/siberia%20white%20dry%20portion%20png.png"
 ---
 
