@@ -11,7 +11,6 @@ nicotine: 24
 portions: 22
 gram: 20
 price: 2700
-new-price: 2700
 brand: Siberia
 strong: Средней крепости
 sale: new-snus
