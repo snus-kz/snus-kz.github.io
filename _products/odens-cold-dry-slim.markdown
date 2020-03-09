@@ -11,7 +11,6 @@ nicotine: 22
 portions: 20-24
 gram: 13
 price: 2500
-new-price: 2500
 brand: Odens
 strong: Средней крепости
 sale: best-snus
