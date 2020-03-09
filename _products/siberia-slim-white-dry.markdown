@@ -11,7 +11,6 @@ nicotine: 43
 portions: 21
 gram: 13
 price: 2700
-new-price: 2700
 brand: Siberia
 sale: best-snus
 taste: Традиционный табак, мята
