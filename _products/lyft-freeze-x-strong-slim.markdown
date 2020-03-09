@@ -11,7 +11,6 @@ nicotine: 16
 portions: 24
 gram: 16.8
 price: 2800
-new-price: 2800
 brand: Lyft
 composition: Порционный
 strong: Очень крепкий
