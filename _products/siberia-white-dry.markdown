@@ -10,7 +10,6 @@ nicotine: 43
 portions: 17
 gram: 13
 price: 2500
-new-price: 2500
 brand: Siberia
 strong: Очень крепкий
 taste: традиционный табак, мята
