@@ -12,6 +12,7 @@ price: 2600
 brand: Other brands
 taste: Мята, мед
 image: "/uploads/1304Chew.png"
+has_availability: false
 ---
 
 Очень крепкий снюс
