@@ -1,6 +1,7 @@
 ---
 title: Siberia Red White Dry
 date: 2020-03-12 23:42:00 Z
+position: 1
 title-seo: Siberia Red White Dry
 descr: Siberia Red White Dry - очень популярный жевательный табак  (Снюс) на территории
   многих стран СНГ и во всем мире
