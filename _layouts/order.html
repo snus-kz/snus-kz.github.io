@@ -30,11 +30,30 @@
 					<input type="hidden" name="_subject" value="Новый заказ" />
 					<button type="submit">Отправить</button>
 				</form>
-			</div>
 
-		</main>
+				<form
+				action="https://formspree.io/ya.orthodoxy@yandex.ru"
+				method="POST"
+				>
+				<label>
+					Your Name:
+					<input type="text" name="name">
+				</label>
+				<label>
+					Your Email:
+					<input type="email" name="_replyto">
+				</label>
+				<label>
+					Message:
+					<textarea name="message"></textarea>
+				</label>
+				<input type="submit" value="Send">
+			</form>
+		</div>
 
-	</div>
+	</main>
 
-	{% include footer.html %}
-	{% include foot-script.html %}
+</div>
+
+{% include footer.html %}
+{% include foot-script.html %}
