@@ -10,7 +10,7 @@ product-name: Siberia Blue White
 nicotine: 24
 portions: 20
 gram: 20
-price: 2500
+price: 3200
 brand: Siberia
 strong: Средней крепости
 sale: new-snus
