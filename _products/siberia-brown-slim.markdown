@@ -10,7 +10,7 @@ product-name: Siberia -80°C Slim Brown Portion
 nicotine: 43
 portions: 24
 gram: 20
-price: 2700
+price: 3000
 brand: Siberia
 sale: best-snus
 taste: 'Традиционный табак,  мята '
