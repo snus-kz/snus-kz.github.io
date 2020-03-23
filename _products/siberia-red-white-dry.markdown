@@ -9,7 +9,7 @@ product-name: Siberia Red White Dry
 nicotine: 43
 portions: 24
 gram: 16
-price: 3000
+price: 3200
 brand: Siberia
 strong: Очень крепкий
 taste: Традиционный табак, мята
