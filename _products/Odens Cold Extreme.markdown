@@ -9,7 +9,7 @@ product-name: Odens Cold Extreme
 nicotine: 22
 portions: 20
 gram: 20
-price: 2500
+price: 2800
 brand: Odens
 composition: Порционный
 strong: Средней крепости
