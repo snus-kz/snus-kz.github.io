@@ -8,7 +8,7 @@ product-name: WOW! Summer Honey White Dry Explosion
 nicotine: 43
 portions: 20
 gram: 17
-price: 2700
+price: 3700
 brand: Other brands
 taste: Мед, Лимон, Бузина
 image: "/uploads/chew.png"
