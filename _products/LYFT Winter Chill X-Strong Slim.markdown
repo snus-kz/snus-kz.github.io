@@ -10,7 +10,7 @@ product-name: LYFT Winter Chill X-Strong Slim
 nicotine: 16
 portions: 24
 gram: 16.8
-price: 2800
+price: 3800
 brand: Lyft
 sale: new-snus
 image: "/uploads/lyft%20winter%20chill.png"
