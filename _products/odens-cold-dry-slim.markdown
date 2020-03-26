@@ -10,7 +10,7 @@ product-name: Odens Cold Extreme White Dry Slim
 nicotine: 22
 portions: 20-24
 gram: 13
-price: 2500
+price: 2800
 brand: Odens
 strong: Средней крепости
 sale: best-snus
