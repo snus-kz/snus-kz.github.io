@@ -10,7 +10,7 @@ product-name: LYFT Liquorice Strong Slim
 nicotine: 14
 portions: 24
 gram: 16.8
-price: 2800
+price: 3800
 brand: Lyft
 strong: Средней крепости
 sale: new-snus
