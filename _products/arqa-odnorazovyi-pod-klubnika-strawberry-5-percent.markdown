@@ -5,8 +5,12 @@ title-seo: ARQA одноразовый POD "Клубника" (strawberry) 5% -�
 descr: 'ARQA одноразовый POD "Клубника" (strawberry) 5% -Купить в Казахстане '
 product-name: 'ARQA одноразовый POD "Клубника" (strawberry) 5% '
 nicotine: 50
+portions: "-"
+gram: "-"
 price: 2200
 brand: Other brands
+composition: "-"
+strong: "-"
 sale: new-snus
 taste: Клубника
 image: "/uploads/Arqa%20strawberry.jpeg"
