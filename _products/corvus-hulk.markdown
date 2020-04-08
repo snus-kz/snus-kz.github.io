@@ -7,7 +7,7 @@ product-name: 'Corvus Hulk '
 nicotine: 50
 portions: 27
 gram: 13
-price: 2200
+price: 2000
 brand: Russian products
 sale: new-snus
 taste: 'Фейхоа '
