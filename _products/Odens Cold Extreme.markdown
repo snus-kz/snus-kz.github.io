@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Extreme
 date: 2020-03-09 18:06:00 Z
-position: 7
+position: 8
 title-seo: 'Odens Cold Extreme - купить в Казахстане '
 descr: Odens Cold Extreme - еще один отличный продукт от Оденс ,очень популярный брэнд
   на территории СНГ
