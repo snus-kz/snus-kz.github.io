@@ -1,6 +1,7 @@
 ---
 title: Corvus Logan
 date: 2020-04-08 17:41:00 Z
+position: 2
 title-seo: Corvus Logan -купить в Казахстане
 descr: Corvus Logan -купить в Казахстане
 product-name: Corvus Logan
