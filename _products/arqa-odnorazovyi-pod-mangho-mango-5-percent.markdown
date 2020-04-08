@@ -8,7 +8,7 @@ nicotine: 50
 portions: "-"
 gram: "-"
 price: 2200
-brand: Other brands
+brand: Электронные сигареты
 composition: "-"
 strong: "-"
 sale: new-snus
