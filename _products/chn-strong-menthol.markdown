@@ -11,6 +11,7 @@ price: 2000
 brand: Russian products
 composition: Порционный
 strong: Очень крепкий
+sale: new-snus
 taste: Мята
 image: "/uploads/CHN.png"
 ---
