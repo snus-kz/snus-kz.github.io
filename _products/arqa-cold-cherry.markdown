@@ -1,0 +1,17 @@
+---
+title: Arqa Cold cherry
+date: 2020-04-09 05:32:00 Z
+title-seo: Arqa Cold cherry - купить в Казахстане
+descr: Arqa Cold cherry - купить в Казахстане
+product-name: 'Arqa Cold cherry '
+nicotine: 30
+portions: 16
+gram: 16
+price: 1700
+brand: Russian products
+strong: Средней крепости
+taste: Вишня
+image: "/uploads/%D1%81%D0%BD%D1%8E%D1%81-arqa-cold-cherry.jpg"
+---
+
+Снюс Arqa Cold cherry — жевательная смесь со вкусом вишни. Порционность: 16 порций Никотин: 30 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
