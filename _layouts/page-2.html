@@ -11,7 +11,7 @@
 				<div class="row">
 
 					{% assign sorted_items = site.products | sort:"position" %}
-					{% for product in sorted_items offset:12 limit:12 %}
+					{% for product in sorted_items offset:15 limit:15 %}
 					
 					{% include item-product.html %}
 
