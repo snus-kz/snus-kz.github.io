@@ -10,6 +10,7 @@ nicotine: 43
 portions: 20
 gram: 20
 price: 3200
+brand: Siberia
 sale: new-snus
 image: "/uploads/Chew.Siberia%20black.png"
 ---
