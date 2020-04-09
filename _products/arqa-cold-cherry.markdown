@@ -10,6 +10,7 @@ gram: 16
 price: 1700
 brand: Russian products
 strong: Средней крепости
+sale: new-snus
 taste: Вишня
 image: "/uploads/%D1%81%D0%BD%D1%8E%D1%81-arqa-cold-cherry.jpg"
 ---
