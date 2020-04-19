@@ -7,7 +7,7 @@ product-name: G.4 CRYO SLIM ALL WHITE SUPER STRONG
 nicotine: 22
 portions: 24
 gram: 19.2
-price: 3000
+price: 3200
 brand: Swedish match
 strong: Крепкий
 sale: new-snus
