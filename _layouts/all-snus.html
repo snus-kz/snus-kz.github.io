@@ -1,0 +1,29 @@
+{% include head.html %}
+<body>
+
+	{% include header.html %}		
+
+	<main class="container main">
+			<div class="order-1">		
+				<h1>Все товары</h1>
+
+				<div class="row">
+
+					{% assign sorted_items = site.products | sort:"position" %}
+					{% for product in sorted_items %}
+					
+					{% include item-product-all-snus.html %}
+
+					{% endfor %}
+
+				</div>
+
+			</div>
+	</main>
+
+	<a class="cart popup-with-move-anim" href="#small-dialog"><span class="cart-count-mini simpleCart_quantity"></span></a>
+
+	{% include modal-cart.html %}
+
+	{% include footer.html %}
+	{% include foot-script.html %}
