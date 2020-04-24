@@ -46,7 +46,7 @@
 					<!-- выводим pagination если товаров больше 12 -->
 					{% assign count_products = sorted_items | size %}
 					{% if count_products > 12 %}
-					<div class="col-12">
+					<div class="col-12 d-flex justify-content-between">
 						<nav class="main-pagination" aria-label="Page navigation">
 							<ul class="pagination">
 
@@ -61,6 +61,7 @@
 
 							</ul>
 						</nav>
+						<a class="btn btn-primary" href="/all-snus" role="button" style="background: #007bff;">Показать все</a>
 					</div>
 					{% endif %}
 
