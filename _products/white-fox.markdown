@@ -11,7 +11,7 @@ nicotine: 15
 portions: 20
 gram: 15
 price: 3800
-brand: White Fox
+brand: Other brands
 strong: Средней крепости
 sale: new-snus
 taste: Мята
