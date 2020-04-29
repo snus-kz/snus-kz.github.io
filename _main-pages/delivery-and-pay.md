@@ -26,3 +26,5 @@ layout: delivery-and-pay
 ["Золотая Корона"](https://koronapay.com/)
 
 ["HALYK BANK"](https://halykbank.kz)
+
+["Сбербанк"](https://online.sberbank.kz/)
