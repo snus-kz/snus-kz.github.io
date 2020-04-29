@@ -11,4 +11,4 @@ layout: about
 https://snus-kazakhstan.com/ — интернет-магазин специализирующийся на продаже (снюса),жевательного табака ,никотиновых паунчей в Казахстане,из Швеции и России<br>
 Наш инстаграм: <a href="//www.instagram.com/snus.kazakhstan/">snus.kazakhstan</a>
 
-&#174;snus-kazakhstan.com
+[&#174;snus-kazakhstan.com](https://snus-kazakhstan.com/)
