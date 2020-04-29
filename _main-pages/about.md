@@ -8,7 +8,8 @@ keywords: снюс Казахстан, снюс купить, снюс, snus, с
 layout: about
 ---
 
-https://snus-kazakhstan.com/ — интернет-магазин специализирующийся на продаже (снюса),жевательного табака ,никотиновых паунчей в Казахстане,из Швеции и России<br>
+https://snus-kazakhstan.com/ — интернет-магазин, специализирующийся на продаже жевательного табака (снюса)и никотиновых паунчей в Казахстане.
+Производство: Швеция и Россия<br>
 Наш инстаграм: <a href="//www.instagram.com/snus.kazakhstan/">snus.kazakhstan</a>
 
 [&#174;snus-kazakhstan.com](https://snus-kazakhstan.com/)
