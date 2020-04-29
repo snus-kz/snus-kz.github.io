@@ -20,6 +20,7 @@ layout: delivery-and-pay
 5.Прием заказов осуществляется  в г.Караганда по номеру [+77085038436]( https://wa.me/77085038436).
 
 6.Способы оплаты: 
+
 ["Kaspi bank"](https://kaspi.kz)
 
 ["Золотая Корона"](https://koronapay.com/)
