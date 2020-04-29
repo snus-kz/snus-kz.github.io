@@ -12,3 +12,5 @@ https://snus-kazakhstan.com/ — интернет-магазин специал�
 Наш инстаграм: <a href="//www.instagram.com/snus.kazakhstan/">snus.kazakhstan</a>
 
 [&#174;snus-kazakhstan.com](https://snus-kazakhstan.com/)
+
+&#9200; Время работы: с понедельника по пятницу с 10:00-16:00
