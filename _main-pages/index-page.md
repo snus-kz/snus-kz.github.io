@@ -13,4 +13,3 @@ address: г. Караганда
 layout: index-page
 ---
 
-fjfjfgjfj
