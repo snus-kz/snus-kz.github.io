@@ -11,7 +11,7 @@ layout: delivery-and-pay
 
 1.Мы отправляем жевательный табак (снюс) и никотиновые паунчи.
 
-2.Доставка по России и Казахстану осуществляется  курьерскими службами: ["Cdek"](http://cdek.kz/), ["Jet Logistic"](https://www.jet.com.kz) , ["DPD"](https://www.dpd.kz).
+2.Доставка по России и Казахстану осуществляется  курьерскими службами: ["CDEK"](http://cdek.kz/), ["Jet Logistic"](https://www.jet.com.kz) , ["DPD"](https://www.dpd.kz).
 
 3.Время доставки от 3 до 14 дней.
 
@@ -19,4 +19,7 @@ layout: delivery-and-pay
 
 5.Прием заказов осуществляется  в г.Караганда по номеру [+77085038436]( https://wa.me/77085038436).
 
-6.Способы оплаты: ["Kaspi bank"](https://kaspi.kz)
+6.Способы оплаты: 
+["Kaspi bank"](https://kaspi.kz)
+["Золотая Корона"](https://koronapay.com/)
+
