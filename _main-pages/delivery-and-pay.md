@@ -21,5 +21,7 @@ layout: delivery-and-pay
 
 6.Способы оплаты: 
 ["Kaspi bank"](https://kaspi.kz)
+
 ["Золотая Корона"](https://koronapay.com/)
+
 ["HALYK BANK"](https://halykbank.kz)
