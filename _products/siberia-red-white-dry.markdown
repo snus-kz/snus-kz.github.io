@@ -7,7 +7,7 @@ descr: Siberia Red White Dry - очень популярный жеватель�
   многих стран СНГ и во всем мире
 product-name: Siberia Red White Dry
 nicotine: 43
-portions: 24
+portions: 20
 gram: 16
 price: 3200
 brand: Siberia
