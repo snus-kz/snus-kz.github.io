@@ -13,6 +13,7 @@ strong: Крепкий
 sale: new-snus
 taste: 'жевательный мармелад '
 image: "/uploads/ARQA%20CHEWING%20MARMALADE%20.jpg"
+has_availability: false
 Key: ARQA CHEWING MARMALADE - купить в Казахстане
 ---
 
