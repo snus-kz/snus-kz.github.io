@@ -1,7 +1,7 @@
 ---
 title: LYFT Liquorice Strong Slim
 date: 2020-02-19 09:14:00 Z
-position: 42
+position: 43
 title-seo: Lyft Liquorice Strong Slim -  snus купить в Казахстане
 descr: Lyft не окрашивает зубы, не течёт и содержит минимум токсинов. Пакетик остаётся
   совершенно белым до и после применения. По потребительским качествам белый жевательный
