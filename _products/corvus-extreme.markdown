@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Мята
 image: "/uploads/corvus%20red.png"
+has_availability: false
 ---
 
 **Corvus Extreme** — Жевательная смесь с очень сильным эффектом (44 мг/г) и усиленным жжением. 
