@@ -15,6 +15,7 @@ brand: Siberia
 sale: best-snus
 taste: 'Традиционный табак,  мята '
 image: "/uploads/siberia%20brown%20slim%20portion.png"
+has_availability: false
 ---
 
 Siberia brown slim- Это коричневая, оригинальная тонкая пакетик (порция) сибири -80 ° C со свежим ароматом мяты и чрезвычайно высоким содержанием никотина - 43 мг / г! 
