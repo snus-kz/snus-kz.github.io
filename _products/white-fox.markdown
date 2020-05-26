@@ -10,10 +10,10 @@ product-name: White FOX
 nicotine: 15
 portions: 20
 gram: 15
-price: 3800
+price: 3500
 brand: Other brands
 strong: Средней крепости
-sale: new-snus
+sale: sale
 taste: Мята
 image: "/uploads/white%20fox%20portion.png"
 has_availability: false
