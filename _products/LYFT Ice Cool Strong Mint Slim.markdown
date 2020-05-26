@@ -15,7 +15,7 @@ brand: Lyft
 strong: Крепкий
 sale: best-snus
 image: "/uploads/lyft%20ice%20cool.png"
-has_availability: true
+has_availability: false
 ---
 
 Lyft не окрашивает зубы, не течёт и содержит минимум токсинов. Пакетик остаётся совершенно белым до и после применения. По потребительским качествам белый жевательный табак ни в чём не уступает традиционному.
