@@ -15,6 +15,7 @@ composition: Порционный
 strong: Средней крепости
 taste: Традиционный табак, Мята
 image: "/uploads/cold%20extreme%20portion.png"
+has_availability: false
 ---
 
 
