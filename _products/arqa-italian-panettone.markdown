@@ -1,7 +1,7 @@
 ---
 title: ARQA ITALIAN PANETTONE
 date: 2020-04-10 14:00:00 Z
-position: 8
+position: 16
 title-seo: ARQA ITALIAN PANETTONE - купить в Казахстане
 descr: ARQA ITALIAN PANETTONE - купить в Казахстане
 product-name: ARQA ITALIAN PANETTONE
