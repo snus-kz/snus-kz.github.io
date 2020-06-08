@@ -11,9 +11,10 @@ nicotine: 14
 portions: 24
 gram: '16,8'
 price: 3800
+new-price: 3500
 brand: Lyft
 strong: Крепкий
-sale: best-snus
+sale: sale
 image: "/uploads/lyft%20ice%20cool.png"
 has_availability: true
 ---
