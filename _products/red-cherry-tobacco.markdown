@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Вишня
 image: "/uploads/red%20cherry.jpg"
+has_availability: false
 ---
 
 Не содержит табака и не является снюсом.
