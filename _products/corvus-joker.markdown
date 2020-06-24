@@ -12,7 +12,7 @@ price: 2000
 brand: Russian products
 strong: Крепкий
 taste: Лесные ягоды
-image: "/uploads/corvus-joker.png"
+image: "/uploads/Corvus-JOKER-2.jpg"
 ---
 
 Corvus Joker Wild Berries- жевательная смесь со вкусом со вкусом лесной ягоды.. Полностью белая сухая порционная бестабачная жевательная смесь в белоснежных слим никпаках  со вкусом лесной ягоды..
