@@ -1,7 +1,7 @@
 ---
 title: ARQA Caramel Ice Cream
 date: 2020-04-09 06:14:00 Z
-position: 18
+position: 19
 title-seo: ARQA Caramel Ice Cream - купить в Казахстане
 descr: ARQA Caramel Ice Cream - купить в Казахстане
 product-name: ARQA Caramel Ice Cream
