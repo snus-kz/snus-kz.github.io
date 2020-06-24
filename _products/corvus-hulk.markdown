@@ -1,7 +1,7 @@
 ---
 title: Corvus Hulk
 date: 2020-04-08 17:28:00 Z
-position: 53
+position: 54
 title-seo: Corvus Hulk - Купить в Казахстане
 descr: Corvus Hulk - Купить в Казахстане
 product-name: 'Corvus Hulk '

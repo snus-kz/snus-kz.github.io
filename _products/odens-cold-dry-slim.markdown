@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Extreme White Dry Slim
 date: 2018-09-12 09:23:00 Z
-position: 44
+position: 45
 title-seo: Odens Cold Extreme White Dry Slim - купить в Казахстане
 descr: |-
   Odens Cold Extreme White Dry Slim  -популярный жевательный табак на территории СНГ. Благодаря своим тонким порциям . Приятный мятный  вкус ,20-24 пакетика , средней крепости 22 мг никотина.
