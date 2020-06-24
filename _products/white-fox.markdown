@@ -16,7 +16,7 @@ strong: Средней крепости
 sale: sale
 taste: Мята
 image: "/uploads/white%20fox%20portion.png"
-has_availability: true
+has_availability: false
 ---
 
 White Fox - это белый продукт без табака со свежим ароматом мяты. Будучи достаточно загруженным никотином и эфирными натуральными маслами, White Fox является одним из самых чистых способов достичь удовлетворения никотина. 
