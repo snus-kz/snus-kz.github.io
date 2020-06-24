@@ -16,6 +16,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Традиционный табак, мята
 image: "/uploads/siberia%20white%20portion.png"
+has_availability: false
 ---
 
 Жевательный табак (снюс) Сибирь Синяя
