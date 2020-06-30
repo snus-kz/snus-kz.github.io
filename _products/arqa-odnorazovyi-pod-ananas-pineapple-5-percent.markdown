@@ -1,7 +1,7 @@
 ---
 title: ARQA одноразовый POD "Ананас" (pineapple) 5%
 date: 2020-04-08 15:27:00 Z
-position: 48
+position: 49
 title-seo: ARQA одноразовый POD "Ананас" (pineapple) 5% -Купить в Казахстане
 descr: 'ARQA одноразовый POD "Ананас" (pineapple) 5% -Купить в Казахстане '
 product-name: 'ARQA одноразовый POD "Ананас" (pineapple) 5% '
