@@ -12,7 +12,7 @@ price: 2000
 brand: Russian products
 sale: new-snus
 taste: 'Фейхоа '
-image: "/uploads/hulk.jpg"
+image: "/uploads/Corvus%20hulk.jpg"
 has_availability: true
 ---
 
