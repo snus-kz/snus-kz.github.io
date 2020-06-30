@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Мята
 image: "/uploads/arqa%20cold%20mint.jpg"
+has_availability: false
 ---
 
 Снюс Arqa Cold mint — жевательная смесь со вкусом ментола.
