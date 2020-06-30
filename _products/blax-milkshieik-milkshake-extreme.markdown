@@ -14,7 +14,7 @@ brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Молочный коктейль
-image: "/uploads/Blax%20milkshake-d95005.jpeg"
+image: "/uploads/blax-milkshake.jpg"
 ---
 
 Аналог шведского белого снюса со вкусом молочного коктейля с клубникой и 49 мг крепостью. 
