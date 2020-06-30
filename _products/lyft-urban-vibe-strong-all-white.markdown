@@ -4,7 +4,7 @@ date: 2020-06-24 12:35:00 Z
 position: 1
 title-seo: LYFT Urban Vibe Strong All White  -  купить в Казахстане
 descr: LYFT Urban Vibe Strong All White  -  купить в Казахстане очень приятный вкус
-product-name: LYFT Urban Vibe Strong All White  -  купить в Казахстане
+product-name: 'LYFT Urban Vibe Strong All White '
 nicotine: 14
 portions: 24
 gram: '16,8'
