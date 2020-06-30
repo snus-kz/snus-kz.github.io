@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold barberry
 date: 2020-04-08 18:20:00 Z
-position: 39
+position: 41
 title-seo: Arqa Cold barberry - купить в Казахстане
 descr: 'Arqa Cold barberry - купить в Казахстане '
 product-name: Arqa Cold barberry
