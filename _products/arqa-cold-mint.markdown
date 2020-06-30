@@ -1,7 +1,7 @@
 ---
 title: Arqa cold mint
 date: 2020-04-08 18:40:00 Z
-position: 27
+position: 63
 title-seo: 'Arqa Cold mint - купить в Казахстане '
 descr: 'Arqa Cold mint - купить в Казахстане '
 product-name: 'Arqa Cold mint '
