@@ -8,7 +8,7 @@ descr: "BLAX White Cola Cherry - Купить в Казахстане.\nАнал
 product-name: BLAX White Cola Cherry
 nicotine: 49
 portions: 20
-gram: 20
+gram: 15
 price: 2000
 brand: Russian products
 strong: Крепкий
