@@ -5,7 +5,7 @@ position: 39
 title-seo: Blax Милкшейк Milkshake Extreme - Купить в Казахстане
 descr: 'Blax Милкшейк Milkshake Extreme - Купить в Казахстане,Аналог шведского белого
   снюса со вкусом молочного коктейля с клубникой и 49 мг крепостью. '
-product-name: Blax Милкшейк Milkshake Extreme
+product-name: Blax  Milkshake Extreme
 nicotine: 49
 portions: 20
 gram: 15
