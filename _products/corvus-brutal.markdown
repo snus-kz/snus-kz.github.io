@@ -13,6 +13,7 @@ brand: Russian products
 sale: new-snus
 taste: Мята
 image: "/uploads/Corvus%20brutal.png"
+has_availability: false
 ---
 
 **Corvus Brutal** - Жевательная бестабачная смесь. 
