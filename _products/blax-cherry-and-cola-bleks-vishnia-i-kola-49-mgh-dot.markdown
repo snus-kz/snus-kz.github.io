@@ -7,7 +7,7 @@ descr: Blax – Cherry & Cola (Блэкс – Вишня и Кола, 49 мг.) 
 product-name: Blax – Cherry & Cola
 nicotine: 49
 portions: 18
-gram: 20
+gram: 15
 price: 2000
 brand: Russian products
 strong: Крепкий
