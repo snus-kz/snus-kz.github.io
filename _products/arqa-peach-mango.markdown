@@ -1,14 +1,14 @@
 ---
 title: ARQA PEACH MANGO
 date: 2020-04-10 14:07:00 Z
-position: 13
+position: 14
 title-seo: 'ARQA PEACH MANGO - купить в Казахстане '
 descr: 'ARQA PEACH MANGO - купить в Казахстане '
 product-name: 'ARQA PEACH MANGO  '
 nicotine: 70
 portions: 20
 gram: 20
-price: 2000
+price: 2500
 brand: Russian products
 strong: Крепкий
 sale: new-snus
