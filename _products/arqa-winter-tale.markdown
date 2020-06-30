@@ -1,7 +1,7 @@
 ---
 title: ARQA Winter Tale
 date: 2020-04-10 13:28:00 Z
-position: 60
+position: 61
 title-seo: ARQA Winter Tale - купить в Казахстане
 descr: ARQA Winter Tale - купить в Казахстане
 product-name: ARQA Winter Tale
