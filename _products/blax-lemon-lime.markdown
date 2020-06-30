@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 sale: sale
 taste: Лимон и лайм
-image: "/uploads/blax-citrus.jpg"
+image: "/uploads/blax%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%20%D0%BB%D0%B0%D0%B9%D0%BC.jpg"
 ---
 
 Blax Extreme Hard lemon & lime — сухой порционный супер крепкий аналог шведского снюса со вкусом лимона и лайма. 
