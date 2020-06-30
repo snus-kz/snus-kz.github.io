@@ -1,5 +1,5 @@
 ---
-title: Blax Милкшейк Milkshake Extreme
+title: Blax Milkshake Extreme
 date: 2020-06-30 20:42:00 Z
 position: 38
 title-seo: Blax Милкшейк Milkshake Extreme - Купить в Казахстане
