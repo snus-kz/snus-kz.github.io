@@ -12,6 +12,7 @@ gram: 20
 price: 1400
 brand: Russian products
 strong: Средней крепости
+sale: sale
 taste: Свежая малина
 image: "/uploads/Slim%20raspberry.png"
 ---
