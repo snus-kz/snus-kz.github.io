@@ -16,6 +16,7 @@ strong: Крепкий
 sale: sale
 taste: Табак Вирджиния
 image: "/uploads/red%20virginia.jpg"
+has_availability: false
 ---
 
 RED Virginia Tobacco — Не содержит табака и не является снюсом. Аналог шведского белого бестабачного снюса с ароматизатором табака , крепостью 70 мг. 
