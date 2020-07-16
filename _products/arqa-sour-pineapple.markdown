@@ -4,7 +4,7 @@ date: 2020-05-26 08:09:00 Z
 position: 23
 title-seo: ARQA Sour Pineapple - купить в Казахстане
 descr: ARQA Sour Pineapple — жевательная смесь со вкусом кислый ананас.
-product-name: ARQA Sour Pineapple жевательная смесь - купить в Казахстане
+product-name: ARQA Sour Pineapple
 nicotine: 70
 portions: 20
 gram: 20
