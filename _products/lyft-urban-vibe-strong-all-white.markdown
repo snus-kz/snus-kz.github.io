@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Мята
 image: "/uploads/lyft-urbanvibe%20%20all%20white-portion.png"
+has_availability: false
 ---
 
 Lyft urban vibe - городская атмосфера.
