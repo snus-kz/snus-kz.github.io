@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Дыня
 image: "/uploads/Arqa%20melon.jpg"
-has_availability: false
+has_availability: true
 ---
 
 **ARQA Mix Melon** — жевательная смесь со вкусом дыни. Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
