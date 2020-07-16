@@ -17,6 +17,7 @@ strong: Крепкий
 sale: new-snus
 taste: Виноград
 image: "/uploads/Nictech%20isabella.jpg"
+has_availability: false
 ---
 
 NICTECH Виноград Isabella
