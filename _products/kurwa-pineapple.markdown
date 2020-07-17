@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Ананас
-image: "/uploads/kurwa%20pineapple.jpg"
+image: "/uploads/kurwa%20pineapple.png"
 ---
 
 Kurwa Pineapple - жевательная смесь со вкусом ананас. Производитель: Kurwa 
