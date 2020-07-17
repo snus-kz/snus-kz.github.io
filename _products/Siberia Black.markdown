@@ -12,6 +12,7 @@ gram: 20
 price: 3200
 brand: Siberia
 sale: new-snus
+taste: Табак
 image: "/uploads/siberia%20black.png"
 has_availability: true
 ---
