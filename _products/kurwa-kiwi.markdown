@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Киви
-image: "/uploads/Kurwa%20kiwi.jpg"
+image: "/uploads/Kurwa%20kiwi.png"
 has_availability: true
 ---
 
