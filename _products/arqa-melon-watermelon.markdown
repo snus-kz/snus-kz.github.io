@@ -14,6 +14,7 @@ brand: Russian products
 strong: Крепкий
 taste: Сладкий арбуз и спелая дыня
 image: "/uploads/arka%20melon%20watermoelon.jpg"
+has_availability: false
 ---
 
 Снюс  ARQA Melon Watermelon — жевательная смесь со вкусом сладкого арбуза и спелой дыни.
