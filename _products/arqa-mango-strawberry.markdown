@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Манго и клубника
 image: "/uploads/arka-mango-klubnika.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Снюс ARQA Mango Strawberry — жевательная смесь со вкусом манго и клубника Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
