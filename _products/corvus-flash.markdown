@@ -1,7 +1,7 @@
 ---
 title: CORVUS FLASH
 date: 2020-04-08 18:08:00 Z
-position: 15
+position: 14
 title-seo: CORVUS FLASH - купить в Казахстане
 descr: CORVUS FLASH - купить в Казахстане
 product-name: CORVUS FLASH
