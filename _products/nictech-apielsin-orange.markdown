@@ -16,6 +16,7 @@ strong: Крепкий
 sale: new-snus
 taste: Апельсин
 image: "/uploads/Nictech%20orange.jpg"
+has_availability: false
 ---
 
 NICTECH Апельсин ORANGE
