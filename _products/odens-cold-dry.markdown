@@ -8,7 +8,7 @@ descr: Odens Cold dry самый продаваемый жевательный �
 product-name: Odens Cold Extreme White Dry
 nicotine: 22
 portions: 13
-gram: 10
+gram: 13
 price: 2400
 strong: Средней крепости
 sale: best-snus
