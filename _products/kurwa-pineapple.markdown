@@ -1,7 +1,7 @@
 ---
 title: Kurwa Pineapple
 date: 2020-07-17 13:18:00 Z
-position: 36
+position: 89
 title-seo: Kurwa Pineapple - купить в Казахстане
 descr: Kurwa pineapple - жевательная смесь со вкусом ананас.
 product-name: Kurwa Pineapple
@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Ананас
 image: "/uploads/kurwa%20pineapple.png"
+has_availability: false
 ---
 
 Kurwa Pineapple - жевательная смесь со вкусом ананас. Производитель: Kurwa 
