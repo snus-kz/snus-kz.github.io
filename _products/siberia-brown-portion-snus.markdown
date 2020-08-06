@@ -14,7 +14,7 @@ brand: Siberia
 sale: Ничего
 taste: 'Традиционный табак, мята '
 image: "/uploads/siberia%20brown%20portion.png"
-has_availability: false
+has_availability: true
 ---
 
 Siberia Brown  - Коричневая сибирь очень крепкая.
