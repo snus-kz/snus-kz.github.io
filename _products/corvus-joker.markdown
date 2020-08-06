@@ -1,7 +1,7 @@
 ---
 title: Corvus Joker
 date: 2020-06-24 13:18:00 Z
-position: 13
+position: 14
 title-seo: Corvus Joker Wild Berries- купить в Казахстане
 descr: Corvus Joker Wild Berries- купить в Казахстане
 product-name: Corvus Joker Wild Berries
