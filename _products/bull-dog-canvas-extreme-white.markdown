@@ -12,7 +12,7 @@ brand: Other brands
 strong: Средней крепости
 sale: new-snus
 image: "/uploads/Bulldog.png"
-has_availability: false
+has_availability: true
 ---
 
 Bull Dog Canvas Extreme White
