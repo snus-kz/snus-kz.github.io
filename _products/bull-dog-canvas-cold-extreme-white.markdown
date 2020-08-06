@@ -16,7 +16,7 @@ strong: Средней крепости
 sale: new-snus
 taste: 'Мятных масел '
 image: "/uploads/Bulldog%20canvas.png"
-has_availability: false
+has_availability: true
 ---
 
 Bull Dog Canvas Cold Extreme White
