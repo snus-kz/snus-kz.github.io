@@ -12,7 +12,7 @@ price: 2000
 brand: Russian products
 strong: Крепкий
 taste: Виноград
-image: "/uploads/Kurwa%20isabella%20jpg-1569b6.jpg"
+image: "/uploads/Kurwa%20isabella%20jpg.png"
 ---
 
 KURWA Виноград 
