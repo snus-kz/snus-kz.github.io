@@ -15,7 +15,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Перечная мята
 image: "/uploads/cold%20exteme%20white%20dry%20portion.png"
-has_availability: false
+has_availability: true
 ---
 
 ODEN'S EXTREME COLD WHITE DRY 16G
