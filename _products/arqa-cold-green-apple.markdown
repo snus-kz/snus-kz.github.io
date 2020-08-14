@@ -8,10 +8,10 @@ product-name: Arqa  cold green apple
 nicotine: 30
 portions: 16
 gram: 16
-price: 1700
+price: 1400
 brand: Russian products
 strong: Средней крепости
-sale: new-snus
+sale: sale
 taste: Яблоко
 image: "/uploads/arqa%20coldapple.jpg"
 ---
