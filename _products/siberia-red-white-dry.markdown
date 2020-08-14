@@ -5,7 +5,7 @@ position: 3
 title-seo: Siberia Red White Dry
 descr: Siberia Red White Dry - очень популярный жевательный табак  (Снюс) на территории
   многих стран СНГ и во всем мире
-product-name: Siberia Red White Dry
+product-name: Siberia Red White Dry 16 g
 nicotine: 43
 portions: 20
 gram: 16
