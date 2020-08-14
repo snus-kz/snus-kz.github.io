@@ -1,5 +1,5 @@
 ---
-title: Siberia Red White Dry
+title: Siberia Red White Dry 16 gr
 date: 2020-03-12 23:42:00 Z
 position: 3
 title-seo: Siberia Red White Dry
