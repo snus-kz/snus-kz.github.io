@@ -13,7 +13,7 @@ brand: Russian products
 sale: new-snus
 taste: 'Фейхоа '
 image: "/uploads/Corvus%20hulk.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Corvus Hulk со вкусом Фейхоа .Полностью белая сухая порционная бестабачная жевательная смесь в белоснежных слим никпаках со вкусом Фейхоа .
