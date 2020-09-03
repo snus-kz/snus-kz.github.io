@@ -12,7 +12,7 @@ portions: 20
 gram: 12
 price: 2000
 brand: Russian products
-strong: Крепкий
+strong: Средней крепости
 sale: new-snus
 taste: Цитрус
 image: "/uploads/Nictech%20citrus%20mix.jpg"
