@@ -15,7 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Барбарис
 image: "/uploads/Nictech%20barbery.jpg"
-has_availability: false
+has_availability: true
 ---
 
 Производители Nictech
