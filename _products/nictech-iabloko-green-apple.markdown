@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Зелёное яблоко
 image: "/uploads/nictech%20greenapple.png"
-has_availability: false
+has_availability: true
 ---
 
 Жевательная смесь Nictech Яблоко Green Apple  (снюс). Крепкость: 60 мг 
