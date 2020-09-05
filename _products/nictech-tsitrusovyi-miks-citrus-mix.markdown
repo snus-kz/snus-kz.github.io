@@ -1,7 +1,7 @@
 ---
 title: Nictech  Цитрусовый микс Citrus  mix
 date: 2020-06-30 17:07:00 Z
-position: 84
+position: 13
 title-seo: Nictech Цитрусовый микс Citrus mix - Купить в Казахстане
 descr: Nictech Цитрусовый микс Citrus mix - Купить в Казахстане, Жевательная смесь
   (Снюс) Nictech Цитрусовый микс Citrus mix 60mg — сухая порционная полностью белая
@@ -16,7 +16,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Цитрус
 image: "/uploads/Nictech%20citrus%20mix.jpg"
-has_availability: false
+has_availability: true
 ---
 
 Жевательная смесь (Снюс) Nictech Цитрусовый микс Citrus mix 60mg — сухая порционная полностью белая бестабачная жевательная смесь в тоненьких пакетиках.

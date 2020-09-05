@@ -1,7 +1,7 @@
 ---
 title: Kurwa kiwi
 date: 2020-07-17 13:10:00 Z
-position: 40
+position: 41
 title-seo: Kurwa kiwi - купить в Казахстане
 descr: Kurwa kiwi - купить в Казахстане ,жевательная смесь со вкусом киви
 product-name: 'Kurwa kiwi '
