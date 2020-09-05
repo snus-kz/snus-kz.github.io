@@ -15,7 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Тропический микс
 image: "/uploads/Nictech%20tropic%20mix.jpg"
-has_availability: false
+has_availability: true
 ---
 
 Производители Nictech
