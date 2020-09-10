@@ -14,6 +14,7 @@ composition: Порционный
 sale: new-snus
 taste: Барбарис
 image: "/uploads/Corvus%20fenix.png"
+has_availability: false
 ---
 
 Corvus Fenix со вкусом барбариса.Полностью белая сухая порционная бестабачная жевательная смесь в белоснежных слим никпаках со вкусом барбариса.
