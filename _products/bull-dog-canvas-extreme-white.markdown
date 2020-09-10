@@ -1,7 +1,7 @@
 ---
 title: Bull Dog Canvas Extreme White
 date: 2020-07-17 12:43:00 Z
-position: 3
+position: 93
 title-seo: Bull Dog Canvas Extreme White - Купить в Казахстане
 product-name: 'Bull Dog Canvas Extreme White '
 nicotine: 22
@@ -12,7 +12,7 @@ brand: Other brands
 strong: Средней крепости
 sale: new-snus
 image: "/uploads/Bulldog.png"
-has_availability: true
+has_availability: false
 ---
 
 Bull Dog Canvas Extreme White
