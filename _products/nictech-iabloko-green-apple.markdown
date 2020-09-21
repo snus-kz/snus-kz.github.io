@@ -1,14 +1,14 @@
 ---
 title: Nictech Яблоко Green Apple
 date: 2020-06-30 16:20:00 Z
-position: 8
+position: 9
 title-seo: Nictech Яблоко Green Apple  - Купить в Казахстане
 descr: Nictech Яблоко Green Apple  - Купить в Казахстане - Купить в Казахстане
 product-name: Nictech Яблоко Green Apple
 nicotine: 60
 portions: 20
 gram: 12
-price: 2000
+price: 2500
 brand: Russian products
 strong: Крепкий
 sale: new-snus
