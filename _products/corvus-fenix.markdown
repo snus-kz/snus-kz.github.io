@@ -1,7 +1,7 @@
 ---
 title: Corvus Fenix
 date: 2020-04-08 17:11:00 Z
-position: 89
+position: 88
 title-seo: Corvus Fenix - купить в Казахстане
 descr: Corvus Fenix - купить в Казахстане
 product-name: 'Corvus Fenix '
