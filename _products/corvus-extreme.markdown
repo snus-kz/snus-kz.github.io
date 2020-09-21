@@ -1,7 +1,7 @@
 ---
 title: Corvus Extreme
 date: 2020-05-21 11:32:00 Z
-position: 17
+position: 93
 title-seo: Corvus Extreme - купить в Казахстане
 descr: 'Corvus Extreme жевательная смесь - купить в Казахстане '
 product-name: 'Corvus Extreme '
@@ -15,7 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Мята
 image: "/uploads/corvus%20red.png"
-has_availability: true
+has_availability: false
 ---
 
 **Corvus Extreme** — Жевательная смесь с очень сильным эффектом (44 мг/г) и усиленным жжением. 
