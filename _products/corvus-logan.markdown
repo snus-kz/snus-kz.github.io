@@ -15,6 +15,7 @@ strong: Очень крепкий
 sale: new-snus
 taste: Дыня
 image: "/uploads/Corvus-Tasty-Logan-Melon.png"
+has_availability: false
 ---
 
 **Corvus Logan** - жевательная смесь со вкусом дыни.
