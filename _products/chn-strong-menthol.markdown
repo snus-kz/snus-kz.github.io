@@ -1,7 +1,7 @@
 ---
 title: CHN Strong Menthol
 date: 2020-04-08 16:50:00 Z
-position: 91
+position: 90
 title-seo: 'CHN Strong Menthol - купить в Казахстана '
 descr: 'CHN Strong Menthol - купить в Казахстана '
 product-name: 'CHN Strong Menthol '
