@@ -11,7 +11,6 @@ nicotine: 14
 portions: 24
 gram: '16,8'
 price: 3000
-new-price: 3500
 brand: Lyft
 strong: Крепкий
 sale: sale
