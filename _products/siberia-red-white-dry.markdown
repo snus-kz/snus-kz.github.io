@@ -1,7 +1,7 @@
 ---
 title: Siberia Red White Dry 16 gr
 date: 2020-03-12 23:42:00 Z
-position: 0
+position: 93
 title-seo: Siberia Red White Dry
 descr: Siberia Red White Dry - очень популярный жевательный табак  (Снюс) на территории
   многих стран СНГ и во всем мире
@@ -14,7 +14,7 @@ brand: Siberia
 strong: Очень крепкий
 taste: Традиционный табак, мята
 image: "/uploads/siberia%20white%20dry%20portion.png"
-has_availability: true
+has_availability: false
 ---
 
 Siberia Red White Dry -брэнд сибири был создан для любителей крепких жевательных табаков (сносов)

@@ -1,7 +1,7 @@
 ---
 title: ARQA Mix Melon
 date: 2020-05-26 12:22:00 Z
-position: 29
+position: 28
 title-seo: 'ARQA Mix Melon - купить в Казахстане '
 descr: ARQA Mix Melon жевательная смесь со вкусом дыни -купить в Казахстане
 product-name: ARQA Mix Melon
