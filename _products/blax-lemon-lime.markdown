@@ -9,7 +9,7 @@ product-name: BLAX  Lemon Lime
 nicotine: 49
 portions: 18
 gram: 15
-price: 1400
+price: 1500
 brand: Russian products
 strong: Крепкий
 sale: sale
