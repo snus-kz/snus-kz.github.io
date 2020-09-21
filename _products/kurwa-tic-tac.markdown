@@ -1,7 +1,7 @@
 ---
 title: Kurwa Tic Tac
 date: 2020-05-26 12:30:00 Z
-position: 52
+position: 51
 title-seo: Kurwa Tic Tac - купить в Казахстане
 descr: Kurwa Tic Tac жевательная смесь со вкусом тик-так - купить в Казахстане
 product-name: Kurwa Tic Tac
