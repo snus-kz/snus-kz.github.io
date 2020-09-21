@@ -10,7 +10,7 @@ product-name: SLIM ICE COLA WHITE PORTION
 nicotine: 40
 portions: 20
 gram: 20
-price: 2000
+price: 1500
 brand: Russian products
 strong: Средней крепости
 sale: sale
