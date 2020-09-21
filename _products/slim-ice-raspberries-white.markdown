@@ -9,7 +9,7 @@ product-name: SLIM ICE RASPBERRIES WHITE
 nicotine: 40
 portions: 20
 gram: 20
-price: 1400
+price: 2000
 brand: Russian products
 strong: Средней крепости
 sale: sale
