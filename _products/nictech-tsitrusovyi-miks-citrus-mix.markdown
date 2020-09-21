@@ -10,7 +10,7 @@ product-name: Nictech Цитрусовый микс Citrus  mix
 nicotine: 60
 portions: 20
 gram: 12
-price: 2000
+price: 2500
 brand: Russian products
 strong: Средней крепости
 sale: new-snus
