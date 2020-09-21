@@ -9,7 +9,7 @@ product-name: NICTECH Дыня Melon
 nicotine: 60
 portions: 20
 gram: 12
-price: 2000
+price: 2500
 brand: Russian products
 strong: Крепкий
 sale: new-snus
