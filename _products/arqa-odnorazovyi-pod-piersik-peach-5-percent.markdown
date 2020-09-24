@@ -14,7 +14,7 @@ composition: "-"
 strong: "-"
 sale: new-snus
 taste: Персик
-image: "/uploads/Arqa%20peach.jpeg"
+image: "/uploads/Arqa%20peach.png"
 has_availability: true
 ---
 
