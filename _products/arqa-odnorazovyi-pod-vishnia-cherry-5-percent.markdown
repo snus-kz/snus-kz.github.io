@@ -6,6 +6,8 @@ title-seo: ARQA одноразовый POD "Вишня" (cherry) 5% - купит
 descr: ARQA одноразовый POD "Вишня" (cherry) 5% - купить в Казахстане - купить в Казахстане
 product-name: ARQA одноразовый POD "Вишня" (cherry) 5%
 nicotine: 50
+portions: "-"
+gram: "-"
 price: 2200
 brand: Электронные сигареты
 composition: "-"
