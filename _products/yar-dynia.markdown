@@ -13,6 +13,7 @@ composition: "-"
 strong: "-"
 sale: new-snus
 taste: Дыня
+image: "/uploads/Yar%20melon.png"
 ---
 
 **Дыня**
