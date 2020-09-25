@@ -4,7 +4,7 @@ date: 2020-09-25 14:58:00 Z
 position: 46
 title-seo: Yar Дыня - купить в Казахстане
 descr: Yar Дыня - купить в Казахстане ,лучшая цена.
-product-name: Yar Дыня
+product-name: Yar одноразовый POD Дыня
 nicotine: 50
 portions: "-"
 gram: "-"
