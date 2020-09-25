@@ -13,6 +13,7 @@ composition: "-"
 strong: "-"
 sale: new-snus
 taste: Вишня
+image: "/uploads/Yar%20cherry.png"
 ---
 
 **Вишня**
