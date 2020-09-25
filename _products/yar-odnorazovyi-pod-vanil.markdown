@@ -1,6 +1,19 @@
 ---
 title: Yar одноразовый POD Ваниль
 date: 2020-09-25 15:35:00 Z
+title-seo: Yar одноразовый POD Ваниль - купить в Казахстане
+descr: Yar одноразовый POD Ваниль - купить в Казахстане , лучшая цена.
+product-name: Yar одноразовый POD Ваниль
+nicotine: 50
+portions: "-"
+gram: "-"
+price: 2300
+brand: Электронные сигареты
+composition: "-"
+strong: "-"
+sale: new-snus
+taste: Ваниль
+image: "/uploads/Yar%20vanil.png"
 ---
 
 **Ваниль**
