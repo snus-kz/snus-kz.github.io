@@ -4,7 +4,7 @@ date: 2020-09-25 11:47:00 Z
 position: 47
 title-seo: YaR Манго - Купить в Казахстане
 descr: YaR Манго - купить в Казахстане, лучшая цена.
-product-name: YaR Манго
+product-name: YaR одноразовый POD Манго
 nicotine: 50
 portions: "-"
 gram: "-"
