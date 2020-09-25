@@ -1,7 +1,7 @@
 ---
 title: Corvus Extreme
 date: 2020-05-21 11:32:00 Z
-position: 89
+position: 90
 title-seo: Corvus Extreme - купить в Казахстане
 descr: 'Corvus Extreme жевательная смесь - купить в Казахстане '
 product-name: 'Corvus Extreme '
