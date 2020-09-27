@@ -11,6 +11,7 @@ price: 2500
 brand: Other brands
 strong: Легкий
 sale: new-snus
+taste: Апельсин
 image: "/uploads/Grant%20orange.png"
 ---
 
