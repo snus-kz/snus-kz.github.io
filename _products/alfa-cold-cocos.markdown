@@ -1,7 +1,7 @@
 ---
 title: Alfa Cold Cocos
 date: 2020-04-10 15:03:00 Z
-position: 46
+position: 45
 title-seo: Alfa Cold Cocos - купить в Казахстане
 descr: Alfa Cold Cocos - купить в Казахстане
 product-name: Alfa Cold Cocos
