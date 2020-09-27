@@ -1,10 +1,10 @@
 ---
-title: Yar одноразовый POD Киви мята
+title: Yar одноразовый POD Киви-мята
 date: 2020-09-25 15:50:00 Z
 position: 47
-title-seo: Yar одноразовый POD Киви мята - купить в Казахстане
+title-seo: Yar одноразовый POD Киви-мята - купить в Казахстане
 descr: Yar одноразовый POD Киви мята - купить в Казахстане, лучшая цена.
-product-name: Yar одноразовый POD Киви мята
+product-name: Yar одноразовый POD Киви-мята
 nicotine: 50
 portions: "-"
 gram: "-"
