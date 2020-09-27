@@ -14,7 +14,7 @@ composition: "-"
 strong: "-"
 sale: new-snus
 taste: Фруктовый микс
-image: "/uploads/Yar%20fruit%20mix.png"
+image: "/uploads/Yar%20fruit%20mix-cc86b0.png"
 ---
 
 **Фруктовый микс-мята**
