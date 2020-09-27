@@ -13,7 +13,7 @@ composition: Порционный
 strong: Средней крепости
 sale: new-snus
 taste: Мята
-image: "/uploads/IMG_7861.jpeg"
+image: "/uploads/IMG_7861-2.png"
 ---
 
 **Grant Ice Cool** *- это просто сумасшедший взрыв мяты, за которым следует несколько приятных ледяных Мяты.*
