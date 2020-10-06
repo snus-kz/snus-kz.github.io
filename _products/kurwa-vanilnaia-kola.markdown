@@ -15,6 +15,7 @@ strong: Очень крепкий
 sale: new-snus
 taste: Кола
 image: "/uploads/Kurwa-Cola-Vanilla.jpg"
+has_availability: false
 ---
 
 Kurwa Ванильная Кола - жевательная смесь со вкусом колы. 
