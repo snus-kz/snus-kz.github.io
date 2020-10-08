@@ -2,6 +2,7 @@
 title: Hype  Яблоко
 date: 2020-10-08 10:39:00 Z
 title-seo: Hype  Яблоко - купить в Казахстане, кусочки фруктов с никотином
+descr: Hype Яблоко - купить в Казахстане, кусочки манго с никотином
 product-name: Hype  Яблоко
 nicotine: 48
 portions: 75
