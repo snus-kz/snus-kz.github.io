@@ -16,7 +16,7 @@ strong: Крепкий
 sale: sale
 taste: Клубника и малина
 image: "/uploads/Blax-Strawberry-Raspberry.jpg"
-has_availability: false
+has_availability: true
 ---
 
 Blax Extreme Hard strawberry & raspberry — сухой порционный супер крепкий аналог шведского снюса со вкусом малины и клубники. Мощнейший никотиновый удар при умеренном жжении.
