@@ -1,7 +1,7 @@
 ---
 title: BLAX Strawberry Raspberry
 date: 2020-06-30 20:59:00 Z
-position: 90
+position: 14
 title-seo: BLAX Strawberry Raspberry -Купить в Казахстане
 descr: BLAX Strawberry Raspberry -Купить в Казахстане,сухой порционный супер крепкий
   аналог шведского снюса со вкусом малины и клубники. Мощнейший никотиновый удар при
@@ -10,7 +10,7 @@ product-name: BLAX Strawberry Raspberry
 nicotine: 49
 portions: 18
 gram: 15
-price: 1400
+price: 1500
 brand: Russian products
 strong: Крепкий
 sale: sale
