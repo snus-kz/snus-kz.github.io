@@ -5,7 +5,7 @@ position: 0
 title-seo: Hype Морозная мята - купить в Казахстане
 descr: Hype Морозная мята - купить в Казахстане, кусочки фруктов с никотином
 product-name: Hype Морозная мята
-nicotine: 49
+nicotine: 48
 portions: 75
 gram: 25
 price: 1500
