@@ -1,7 +1,7 @@
 ---
 title: GRANT ICE COOL
 date: 2020-09-27 08:15:00 Z
-position: 5
+position: 6
 title-seo: GRANT ICE COOL - купить в Казахстане
 descr: GRANT ICE COOL - купить в Казахстане
 product-name: GRANT ICE COOL
