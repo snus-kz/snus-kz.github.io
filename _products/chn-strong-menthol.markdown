@@ -8,7 +8,7 @@ product-name: 'CHN Strong Menthol '
 nicotine: 45
 portions: 20
 gram: 13
-price: 2000
+price: 2500
 brand: Russian products
 composition: Порционный
 strong: Очень крепкий
