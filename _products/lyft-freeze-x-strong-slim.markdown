@@ -14,7 +14,7 @@ price: 2500
 brand: Lyft
 composition: Порционный
 strong: Очень крепкий
-sale: sale
+sale: best-snus
 taste: Мята
 image: "/uploads/lyft%20freeze.png"
 has_availability: true
