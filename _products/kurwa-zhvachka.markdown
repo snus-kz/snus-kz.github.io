@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Жвачка
 image: "/uploads/Kurwa-%D0%96%D0%B2%D0%B0%D1%87%D0%BA%D0%B0.png"
+has_availability: false
 ---
 
 KURWA Жвачка — крепкая бестабачная жевательная смесь со вкусом жвачки.
