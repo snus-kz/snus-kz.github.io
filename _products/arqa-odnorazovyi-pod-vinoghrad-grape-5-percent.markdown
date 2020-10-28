@@ -1,7 +1,7 @@
 ---
 title: ARQA одноразовый POD "Виноград" (grape) 5%
 date: 2020-04-08 15:14:00 Z
-position: 70
+position: 69
 title-seo: ARQA одноразовый POD "Виноград" (grape) 5% -Купить в Казахстане
 descr: 'ARQA одноразовый POD "Виноград" (grape) 5% -Купить в Казахстане '
 product-name: 'ARQA одноразовый POD "Виноград" (grape) 5% '
