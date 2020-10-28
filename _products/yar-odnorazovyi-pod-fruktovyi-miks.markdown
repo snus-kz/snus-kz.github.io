@@ -1,7 +1,7 @@
 ---
 title: Yar одноразовый POD Фруктовый микс
 date: 2020-09-25 15:21:00 Z
-position: 58
+position: 112
 title-seo: Yar одноразовый POD Фруктовый микс - купить в Казахстане
 descr: Yar одноразовый POD Фруктовый микс - купить в Казахстане, лучшая цена.
 product-name: Yar одноразовый POD Фруктовый микс
@@ -15,6 +15,7 @@ strong: "-"
 sale: new-snus
 taste: Фруктовый микс
 image: "/uploads/Yar%20fruit%20mix-cc86b0.png"
+has_availability: false
 ---
 
 **Фруктовый микс-мята**
