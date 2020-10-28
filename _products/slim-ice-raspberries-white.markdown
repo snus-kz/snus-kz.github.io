@@ -15,6 +15,7 @@ strong: Средней крепости
 sale: sale
 taste: Свежая малина
 image: "/uploads/Slim%20raspberry.png"
+has_availability: false
 ---
 
 SLIM ICE RASPBERRIES WHITE - Слим со вкусом малины ,белые пакетики, аналог шведских паучей, бестабачных никотиновых смесей.
