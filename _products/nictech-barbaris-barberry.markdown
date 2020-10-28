@@ -1,7 +1,7 @@
 ---
 title: Nictech Барбарис Barberry
 date: 2020-06-30 16:55:00 Z
-position: 17
+position: 112
 title-seo: Nictech Барбарис Barberry - Купить  в Казахстане
 descr: "Nictech Барбарис Barberry - купить в Казахстане ,Ягодный микс на основе барбариса.
   \nВкус знакомых с детства барбарисовых леденцов."
@@ -15,7 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Барбарис
 image: "/uploads/Nictech%20barbery.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Производители Nictech
