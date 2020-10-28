@@ -1,7 +1,7 @@
 ---
 title: NICTECH Тропический микс Tropic MIX
 date: 2020-06-30 17:02:00 Z
-position: 17
+position: 112
 title-seo: NICTECH Тропический микс Tropic MIX  - Купить в Казахстане
 descr: "NICTECH Тропический микс Tropic MIX  - Купить в Казахстане, Тропический микс.
   Сок Манго и Маракуйя. \nСвежесть и сладость тропических коктейлей на морском побережье!"
@@ -15,7 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Тропический микс
 image: "/uploads/Nictech%20tropic%20mix.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Производители Nictech
