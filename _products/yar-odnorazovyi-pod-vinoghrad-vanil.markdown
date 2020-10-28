@@ -15,6 +15,7 @@ strong: "-"
 sale: new-snus
 taste: Виноград-мята
 image: "/uploads/Yar%20fruit%20mix.png"
+has_availability: false
 ---
 
 **Виноград-мята**
