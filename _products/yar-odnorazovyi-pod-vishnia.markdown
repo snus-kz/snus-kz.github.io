@@ -1,7 +1,7 @@
 ---
 title: Yar одноразовый POD Вишня
 date: 2020-09-25 15:42:00 Z
-position: 59
+position: 58
 title-seo: Yar одноразовый POD Вишня - купить в Казахстане
 descr: Yar одноразовый POD Вишня - купить в Казахстане, лучшая цена.
 product-name: Yar одноразовый POD Вишня
