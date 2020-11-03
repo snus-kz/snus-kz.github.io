@@ -13,7 +13,7 @@ gram: 15
 price: 3500
 brand: Other brands
 strong: Средней крепости
-sale: sale
+sale: Ничего
 taste: Мята
 image: "/uploads/white%20fox%20portion.png"
 has_availability: false
