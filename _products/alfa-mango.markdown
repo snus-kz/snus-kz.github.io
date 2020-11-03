@@ -1,7 +1,7 @@
 ---
 title: Alfa Mango
 date: 2020-04-10 15:21:00 Z
-position: 86
+position: 87
 title-seo: Alfa Mango - купить в Казахстане
 descr: Alfa Mango - купить в Казахстане
 product-name: Alfa Mango
