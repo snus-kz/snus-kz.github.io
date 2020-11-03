@@ -1,7 +1,7 @@
 ---
 title: NICTECH Клубника Strawberry
 date: 2020-06-30 15:26:00 Z
-position: 24
+position: 25
 title-seo: NICTECH Клубника Strawberry - купить в Казахстане, Клубника с нежными сливками
 descr: NICTECH Клубника Strawberry - купить  в Казахстане ,
 product-name: NICTECH Клубника Strawberry
