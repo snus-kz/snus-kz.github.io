@@ -13,7 +13,7 @@ gram: 15
 price: 1800
 brand: Russian products
 strong: Крепкий
-sale: sale
+sale: Ничего
 taste: Табак Вирджиния
 image: "/uploads/red%20virginia.jpg"
 has_availability: false
