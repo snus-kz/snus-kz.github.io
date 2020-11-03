@@ -8,10 +8,10 @@ product-name: Arqa cold citrus mix
 nicotine: 30
 portions: 16
 gram: 16
-price: 1700
+price: 1500
 brand: Russian products
 strong: Средней крепости
-sale: new-snus
+sale: sale
 taste: Цитрус
 image: "/uploads/snus-arqa-cold-citrus-mix.jpg"
 ---
