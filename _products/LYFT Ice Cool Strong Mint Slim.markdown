@@ -13,7 +13,7 @@ gram: '16,8'
 price: 3000
 brand: Lyft
 strong: Крепкий
-sale: sale
+sale: Ничего
 image: "/uploads/lyft%20ice%20cool.png"
 has_availability: false
 ---
