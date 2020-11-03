@@ -10,7 +10,7 @@ portions: 24
 gram: 19.2
 price: 2500
 brand: Swedish match
-strong: Крепкий
+strong: Средней крепости
 sale: new-snus
 taste: 'Мята, Эвкалипт '
 image: "/uploads/g4_snus%20cryo%20all.jpg"
