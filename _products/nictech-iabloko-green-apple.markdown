@@ -1,7 +1,7 @@
 ---
 title: Nictech Яблоко Green Apple
 date: 2020-06-30 16:20:00 Z
-position: 105
+position: 104
 title-seo: Nictech Яблоко Green Apple  - Купить в Казахстане
 descr: Nictech Яблоко Green Apple  - Купить в Казахстане - Купить в Казахстане
 product-name: Nictech Яблоко Green Apple
@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Зелёное яблоко
 image: "/uploads/nictech%20greenapple.png"
-has_availability: false
+has_availability: true
 ---
 
 Жевательная смесь Nictech Яблоко Green Apple  (снюс). Крепкость: 60 мг 
