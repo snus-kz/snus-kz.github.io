@@ -1,7 +1,7 @@
 ---
 title: BLAX Strawberry Raspberry
 date: 2020-06-30 20:59:00 Z
-position: 12
+position: 13
 title-seo: BLAX Strawberry Raspberry -Купить в Казахстане
 descr: BLAX Strawberry Raspberry -Купить в Казахстане,сухой порционный супер крепкий
   аналог шведского снюса со вкусом малины и клубники. Мощнейший никотиновый удар при
