@@ -1,7 +1,7 @@
 ---
 title: ARQA одноразовый POD "Манго" (mango) 5%
 date: 2020-04-08 15:22:00 Z
-position: 61
+position: 60
 title-seo: ARQA одноразовый POD "Манго" (mango) 5% - купить в Казахстане
 descr: 'ARQA одноразовый POD "Манго" (mango) 5% - купить в Казахстане '
 product-name: ARQA одноразовый POD "Манго" (mango) 5%
