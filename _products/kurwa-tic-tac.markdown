@@ -14,6 +14,7 @@ strong: Очень крепкий
 sale: new-snus
 taste: Тик так
 image: "/uploads/kurva-tik-tak.jpg"
+has_availability: false
 ---
 
 **Kurwa Tic Tac** - жевательная смесь со вкусом тик-так.
