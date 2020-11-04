@@ -15,7 +15,7 @@ brand: Russian products
 strong: Очень крепкий
 sale: new-snus
 taste: Ежевика
-image: "/uploads/Kasta%20ezhevika.jpeg"
+image: "/uploads/Kasta%20ezhevika.png"
 ---
 
 Kasta Ежевика — это порционная супер крепкая бестабачная жевательная смесь со вкусом Ежевики. Крепость впечатляет в 101 мг и не оставит равнодушным не одного любителя крепких бестабачных смесей.
