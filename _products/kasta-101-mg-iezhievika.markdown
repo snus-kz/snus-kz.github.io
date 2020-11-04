@@ -9,8 +9,8 @@ descr: Kasta Ежевика — это порционная супер креп�
 product-name: KASTA 101 mg Ежевика
 nicotine: 101
 portions: 20
-gram: 20
-price: 2200
+gram: 12
+price: 2500
 brand: Russian products
 strong: Очень крепкий
 sale: new-snus
