@@ -10,12 +10,12 @@ product-name: LYFT Ice Cool Strong Mint Slim
 nicotine: 14
 portions: 24
 gram: '16,8'
-price: 3000
+price: 2500
 brand: Lyft
 strong: Крепкий
 sale: Ничего
 image: "/uploads/lyft%20ice%20cool.png"
-has_availability: false
+has_availability: true
 ---
 
 Lyft не окрашивает зубы, не течёт и содержит минимум токсинов. Пакетик остаётся совершенно белым до и после применения. По потребительским качествам белый жевательный табак ни в чём не уступает традиционному.
