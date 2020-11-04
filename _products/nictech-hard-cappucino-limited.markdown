@@ -1,5 +1,5 @@
 ---
-title: NICTECH  HARD Cappucino LIMITED
+title: NICTECH HARD Cappucino LIMITED
 date: 2020-11-04 16:41:00 Z
 title-seo: 'NICTECH  HARD Cappucino LIMITED - купить '
 product-name: NICTECH  HARD Cappucino LIMITED
@@ -16,5 +16,5 @@ image: "/uploads/pic-proxy.cloudshop.ru-2.jpeg"
 
 **NICTECH HARD Cappucino LIMITED** 
 Крепкость: 60 мг 
-Вкус: Молочный капучино.
- Жжение: Умеренный Ароматный капучино, белые Слим пакетики напоминают приятный молочный аромат капучино со брутальной крепостью 
+Вкус:Молочный капучино.
+Жжение: Умеренное, Ароматный капучино белые Слим пакетики напоминают приятный молочный аромат капучино, напоминают вкус нежного кофе
