@@ -1,7 +1,7 @@
 ---
 title: BLAX White Cola Cherry
 date: 2020-06-30 20:29:00 Z
-position: 45
+position: 46
 title-seo: BLAX White Cola Cherry - Купить в Казахстане
 descr: "BLAX White Cola Cherry - Купить в Казахстане.\nАналог шведского белого снюса
   со вкусом колы и вишни и 49 мг крепостью. "
