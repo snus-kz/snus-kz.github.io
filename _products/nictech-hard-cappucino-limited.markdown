@@ -13,10 +13,10 @@ brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Молочный капучино.
-image: "/uploads/pic-proxy.cloudshop.ru-2.jpeg"
+image: "/uploads/Nictech%20capucino.png"
 ---
 
-**ç** 
+**NICTECH HARD Cappucino LIMITED**
 Крепкость: 60 мг 
 Вкус:Молочный капучино.
 Жжение: Умеренное, Ароматный капучино белые Слим пакетики напоминают приятный молочный аромат капучино, напоминают вкус нежного кофе.
