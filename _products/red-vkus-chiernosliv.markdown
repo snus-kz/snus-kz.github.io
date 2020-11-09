@@ -1,6 +1,7 @@
 ---
 title: RED Western  чернослив
 date: 2020-11-09 07:48:00 Z
+position: 0
 nicotine: 70
 portions: 20
 gram: 15
