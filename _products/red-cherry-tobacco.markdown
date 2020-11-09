@@ -8,13 +8,13 @@ product-name: 'RED Cherry tobacco '
 nicotine: 70
 portions: 20
 gram: 15
-price: 2000
+price: 1500
 brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Вишня
 image: "/uploads/red%20cherry.jpg"
-has_availability: false
+has_availability: true
 ---
 
 Не содержит табака и не является снюсом.
