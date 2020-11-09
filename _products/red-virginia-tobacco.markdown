@@ -10,7 +10,7 @@ product-name: 'Red Virginia TOBACCO '
 nicotine: 70
 portions: 20
 gram: 15
-price: 1800
+price: 1500
 brand: Russian products
 strong: Крепкий
 sale: Ничего
