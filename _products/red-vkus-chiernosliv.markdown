@@ -1,5 +1,5 @@
 ---
-title: RED Вкус  чернослив
+title: RED Western  чернослив
 date: 2020-11-09 07:48:00 Z
 nicotine: 70
 portions: 20
