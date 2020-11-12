@@ -6,9 +6,9 @@ title-seo: ARQA одноразовый POD "Ананас" (pineapple) 5% -Куп
 descr: 'ARQA одноразовый POD "Ананас" (pineapple) 5% -Купить в Казахстане '
 product-name: 'ARQA одноразовый POD "Ананас" (pineapple) 5% '
 nicotine: 50
-portions: "-"
+portions: 300 затягов
 gram: "-"
-price: 2200
+price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
