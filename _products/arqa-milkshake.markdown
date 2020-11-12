@@ -1,7 +1,7 @@
 ---
 title: Arqa Milkshake
 date: 2020-10-08 11:14:00 Z
-position: 34
+position: 35
 title-seo: Arqa Milkshake - купить в Казахстане
 descr: Arqa Milkshake - купить в Казахстане , со вкусом молочного коктейля .
 product-name: Arqa Milkshake
