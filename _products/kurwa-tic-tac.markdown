@@ -11,7 +11,7 @@ gram: 20
 price: 2000
 brand: Russian products
 strong: Очень крепкий
-sale: new-snus
+sale: Ничего
 taste: Тик так
 image: "/uploads/kurva-tik-tak.jpg"
 has_availability: false
