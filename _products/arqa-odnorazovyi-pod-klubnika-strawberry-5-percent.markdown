@@ -8,7 +8,7 @@ product-name: 'ARQA одноразовый POD "Клубника" (strawberry) 5
 nicotine: 50
 portions: "-"
 gram: "-"
-price: 2200
+price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
