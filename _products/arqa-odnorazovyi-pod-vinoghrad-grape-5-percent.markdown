@@ -6,13 +6,13 @@ title-seo: ARQA одноразовый POD "Виноград" (grape) 5% -Куп
 descr: 'ARQA одноразовый POD "Виноград" (grape) 5% -Купить в Казахстане '
 product-name: 'ARQA одноразовый POD "Виноград" (grape) 5% '
 nicotine: 50
-portions: "-"
+portions: 300 затягов
 gram: "-"
 price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
-sale: new-snus
+sale: sale
 taste: Виноград
 image: "/uploads/Arqa%20isabella.png"
 ---
