@@ -6,13 +6,13 @@ title-seo: ARQA одноразовый POD "Персик" (peach) 5% -Купит
 descr: ARQA одноразовый POD "Персик" (peach) 5% -Купить в Казахстане
 product-name: 'ARQA одноразовый POD "Персик" (peach) 5% '
 nicotine: 50
-portions: "-"
+portions: 300
 gram: "-"
-price: 2200
+price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
-sale: new-snus
+sale: sale
 taste: Персик
 image: "/uploads/Arqa%20peach.png"
 has_availability: true
