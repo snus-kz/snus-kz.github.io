@@ -15,6 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: вишня,кола
 image: "/uploads/Blax%20cherry%20cola.jpeg"
+has_availability: false
 ---
 
 # **BLAX White Cola Cherry**
