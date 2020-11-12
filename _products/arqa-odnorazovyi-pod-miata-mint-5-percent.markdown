@@ -6,13 +6,13 @@ title-seo: ARQA одноразовый POD "Мята" (mint) 5% - купить �
 descr: ARQA одноразовый POD "Мята" (mint) 5% - купить в Казахстане
 product-name: ARQA одноразовый POD "Мята" (mint) 5%
 nicotine: 50
-portions: "-"
+portions: 300
 gram: "-"
-price: 2200
+price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "="
-sale: new-snus
+sale: sale
 taste: Мята
 image: "/uploads/Arqa%20mint.png"
 ---
