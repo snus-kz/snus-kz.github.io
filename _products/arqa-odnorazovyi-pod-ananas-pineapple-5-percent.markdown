@@ -12,7 +12,7 @@ price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
-sale: new-snus
+sale: sale
 taste: Ананас
 image: "/uploads/Arqa%20pineapple.png"
 ---
