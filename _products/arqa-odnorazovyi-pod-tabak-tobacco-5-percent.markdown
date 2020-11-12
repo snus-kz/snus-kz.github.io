@@ -6,13 +6,13 @@ title-seo: ARQA одноразовый POD "Табак" (tobacco) 5% - купи�
 descr: ARQA одноразовый POD "Табак" (tobacco) 5% - купить в Казахстане
 product-name: ARQA одноразовый POD "Табак" (tobacco) 5%
 nicotine: 50
-portions: "-"
+portions: 300 затягов
 gram: "-"
-price: 2200
+price: 1600
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
-sale: new-snus
+sale: sale
 taste: Табак
 image: "/uploads/Arqa%20tobak.png"
 ---
