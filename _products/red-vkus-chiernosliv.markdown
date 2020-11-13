@@ -2,6 +2,11 @@
 title: RED Western  чернослив
 date: 2020-11-09 07:48:00 Z
 position: 0
+title-seo: RED Western  чернослив - купить в Казахстане
+descr: RED Western  чернослив - RED Western Tobacco Не содержит табака и не является
+  снюсом. Аналог шведского белого бестабачного снюса с ароматизатором табака с черносливом,
+  крепостью 70 мг.
+product-name: RED Western  чернослив
 nicotine: 70
 portions: 20
 gram: 15
