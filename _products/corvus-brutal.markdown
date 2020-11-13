@@ -1,7 +1,7 @@
 ---
 title: Corvus Brutal
 date: 2020-05-22 10:19:00 Z
-position: 73
+position: 6
 title-seo: Corvus Brutal - купить в Казахстане
 descr: Corvus Brutal- Жевательная бестабачная смесь
 product-name: Corvus Brutal
@@ -13,7 +13,7 @@ brand: Russian products
 sale: new-snus
 taste: Мята
 image: "/uploads/Corvus%20brutal.png"
-has_availability: false
+has_availability: true
 ---
 
 **Corvus Brutal** - Жевательная бестабачная смесь. 
