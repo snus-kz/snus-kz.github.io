@@ -1,7 +1,7 @@
 ---
 title: ARQA Cold Chokeberry Cocktail
 date: 2020-04-09 10:10:00 Z
-position: 48
+position: 47
 title-seo: ARQA – Cold Chokeberry Cocktail - купить в Казахстане
 descr: 'ARQA – Cold Chokeberry Cocktail - купить в Казахстане '
 product-name: 'ARQA – Cold Chokeberry Cocktail '
