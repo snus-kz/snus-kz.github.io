@@ -1,7 +1,7 @@
 ---
 title: Yar одноразовый POD Вишня
 date: 2020-09-25 15:42:00 Z
-position: 61
+position: 119
 title-seo: Yar одноразовый POD Вишня - купить в Казахстане
 descr: Yar одноразовый POD Вишня - купить в Казахстане, лучшая цена.
 product-name: Yar одноразовый POD Вишня
@@ -15,6 +15,7 @@ strong: "-"
 sale: new-snus
 taste: Вишня
 image: "/uploads/Yar%20cherry.png"
+has_availability: false
 ---
 
 **Вишня**
