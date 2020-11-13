@@ -1,7 +1,7 @@
 ---
 title: G.4 CRYO SLIM ALL WHITE SUPER STRONG
 date: 2020-04-19 05:48:00 Z
-position: 9
+position: 8
 title-seo: G.4 CRYO SLIM ALL WHITE SUPER STRONG
 descr: G.4 CRYO SLIM ALL WHITE SUPER STRONG - купить в Казахстане
 product-name: G.4 CRYO SLIM ALL WHITE SUPER STRONG

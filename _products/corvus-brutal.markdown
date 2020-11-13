@@ -1,7 +1,7 @@
 ---
 title: Corvus Brutal
 date: 2020-05-22 10:19:00 Z
-position: 76
+position: 75
 title-seo: Corvus Brutal - купить в Казахстане
 descr: Corvus Brutal- Жевательная бестабачная смесь
 product-name: Corvus Brutal
