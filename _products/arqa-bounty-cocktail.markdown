@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Баунти
 image: "/uploads/Arqa%20bounty.jpg"
-has_availability: true
+has_availability: false
 ---
 
 **ARQA Bounty Cocktail** — жевательная смесь со вкусом баунти. Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
