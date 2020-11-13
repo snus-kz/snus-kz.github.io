@@ -14,7 +14,7 @@ strong: Крепкий
 sale: sale
 taste: Вишня
 image: "/uploads/red%20cherry.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Не содержит табака и не является снюсом.
