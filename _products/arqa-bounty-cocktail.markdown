@@ -1,7 +1,7 @@
 ---
 title: ARQA Bounty Cocktail
 date: 2020-05-26 12:18:00 Z
-position: 117
+position: 118
 title-seo: ARQA Bounty Cocktail - купить в Казахстане
 descr: ARQA Bounty Cocktail жевательная смесь со вкусом баунти - купить в Казахстане
 product-name: ARQA Bounty Cocktail
