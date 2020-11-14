@@ -16,6 +16,7 @@ strong: Средней крепости
 sale: sale
 taste: Кока-кола
 image: "/uploads/Slim%20ice%20cola.png"
+has_availability: false
 ---
 
 SLIM ICE COLA WHITE PORTION - Слим со вкусом кока-колы ,белые пакетики, аналог шведских паучей, бестабачных никотиновых смесей. Сделан на целлюлозе . 
