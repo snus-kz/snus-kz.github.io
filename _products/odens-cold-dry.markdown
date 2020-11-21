@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: best-snus
 taste: Перечная мята
 image: "/uploads/cold%20exteme%20white%20dry%20portion.png"
-has_availability: true
+has_availability: false
 ---
 
 Odens Cold Extreme White Dry - "Cold" очень освежающий и чрезвычайно популярный аромат мяты - и Oden's Extreme  однин из самых популярных жевательных табаков (snus)на рынке в мире . Очень сухие порции, наполненные  пакетиками табака, изготовленным из качественного табака, обеспечивают длительный вкус и очень приятное ощущение.
