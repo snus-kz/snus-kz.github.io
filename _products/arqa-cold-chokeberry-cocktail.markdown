@@ -3,7 +3,8 @@ title: ARQA Cold Chokeberry Cocktail
 date: 2020-04-09 10:10:00 Z
 position: 0
 title-seo: ARQA – Cold Chokeberry Cocktail - купить в Казахстане
-descr: 'ARQA – Cold Chokeberry Cocktail - купить в Казахстане '
+descr: ARQA – Cold Chokeberry Cocktail - купить в Казахстане, со вкусом черноплодной
+  рябины
 product-name: 'ARQA – Cold Chokeberry Cocktail '
 nicotine: 65
 portions: 20
