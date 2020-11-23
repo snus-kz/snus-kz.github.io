@@ -5,7 +5,7 @@ title: |-
 date: 2020-11-23 08:14:00 Z
 title-seo: Kasta (30ml SALT 60mg) Бабл Гам - купить в Казахстане
 descr: Kasta (30ml SALT 60mg) Бабл Гам -  купить в Казахстане со вкусом жвачки .
-product-name: Kasta (30ml SALT 60mg)
+product-name: Kasta (30ml SALT 60mg) Бабл Гам
 nicotine: 60
 portions: 30 мл
 gram: "-"
