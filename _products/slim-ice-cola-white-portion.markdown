@@ -13,7 +13,7 @@ gram: 20
 price: 1500
 brand: Russian products
 strong: Средней крепости
-sale: sale
+sale: Ничего
 taste: Кока-кола
 image: "/uploads/Slim%20ice%20cola.png"
 has_availability: false
