@@ -14,7 +14,7 @@ composition: "-"
 strong: Крепкий
 sale: new-snus
 taste: Ореховый пломбир
-image: "/uploads/%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%BE%D0%BC%D0%B1%D0%B8%D1%80.jpeg"
+image: "/uploads/nuts%20cream.jpeg"
 ---
 
 # KASTA SALT 6% 60mg 30ml - (Ореховый пломбир)
