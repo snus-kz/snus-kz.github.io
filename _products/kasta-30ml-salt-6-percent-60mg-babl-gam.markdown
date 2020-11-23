@@ -18,5 +18,5 @@ taste: Бабл Гам
 image: "/uploads/Kasta.jpeg"
 ---
 
-**# Kasta (30ml SALT 60m**g)
+**# Kasta (30ml SALT 6% 60mg) Бабл Г**ам
 SALT - бюджетные солевые жидкости (производство: Россия / Китай)
