@@ -11,7 +11,7 @@ gram: 15
 price: 1500
 brand: Russian products
 strong: Крепкий
-sale: sale
+sale: Ничего
 taste: Вишня
 image: "/uploads/red%20cherry.jpg"
 has_availability: false
