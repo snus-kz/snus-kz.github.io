@@ -8,7 +8,7 @@ product-name: 'ARQA – Cold Chokeberry Cocktail '
 nicotine: 65
 portions: 20
 gram: 20
-price: 1500
+price: 800
 brand: Russian products
 strong: Крепкий
 sale: sale
