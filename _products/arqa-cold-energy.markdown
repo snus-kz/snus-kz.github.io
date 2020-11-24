@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Energy
 date: 2020-07-16 10:56:00 Z
-position: 40
+position: 47
 title-seo: Arqa Cold Energy - купить в Казахстане
 descr: Arqa Cold Energy - купить в Казахстане
 product-name: 'Arqa Cold Energy '

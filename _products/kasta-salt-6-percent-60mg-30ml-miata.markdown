@@ -1,6 +1,7 @@
 ---
 title: KASTA SALT 6% 60mg 30ml - (Мята)
 date: 2020-11-23 16:25:00 Z
+position: 2
 title-seo: KASTA SALT 6% 60mg 30ml - (Мята) - купить в Казахстане
 descr: KASTA SALT 6% 60mg 30ml - (Мята) - купить в Казахстане солевая жидкость для
   электронных сигарет
