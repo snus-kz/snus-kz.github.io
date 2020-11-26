@@ -1,7 +1,7 @@
 ---
 title: YaR одноразовый POD  Манго
 date: 2020-09-25 11:47:00 Z
-position: 72
+position: 71
 title-seo: YaR Манго - Купить в Казахстане
 descr: YaR Манго - купить в Казахстане, лучшая цена.
 product-name: YaR одноразовый POD Манго
