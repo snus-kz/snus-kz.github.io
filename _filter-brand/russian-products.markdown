@@ -11,4 +11,4 @@ filter-brand-list: Russian products
 layout: filter-brand
 ---
 
-Снюс произведен в России: Corvus, Mad, Arqa, Alfa и другие российские продукты. Славятся своей крепостью.
+Снюс произведен в России: Corvus, Mad, Arqa, Alfa,Red,Kasta,Nictech и другие российские продукты. Славятся своей крепостью.
