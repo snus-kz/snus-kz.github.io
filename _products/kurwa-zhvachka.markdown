@@ -1,7 +1,7 @@
 ---
 title: KURWA Жвачка
 date: 2020-08-14 16:35:00 Z
-position: 86
+position: 87
 title-seo: KURWA Жвачка - купить в Казахстане
 descr: KURWA Жвачка — крепкая бестабачная жевательная смесь со вкусом жвачки
 product-name: KURWA Жвачка
