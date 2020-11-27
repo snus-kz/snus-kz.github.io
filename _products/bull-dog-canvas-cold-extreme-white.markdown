@@ -1,7 +1,7 @@
 ---
 title: Bull Dog Canvas Cold Extreme White
 date: 2020-07-17 12:17:00 Z
-position: 101
+position: 102
 title-seo: Bull Dog Canvas Cold Extreme White - Купить в Казахстане
 descr: Bull Dog Canvas Cold Extreme White - это продукт, почти полностью «белый»,
   с минимальным количеством табака.
