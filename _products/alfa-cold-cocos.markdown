@@ -10,7 +10,8 @@ portions: 20
 gram: 20
 price: 1600
 brand: Russian products
-sale: new-snus
+sale: sale
+taste: Кокос
 image: "/uploads/Alfa-Cold-%D0%9A%D0%BE%D0%BA%D0%BE%D1%81.png"
 ---
 
