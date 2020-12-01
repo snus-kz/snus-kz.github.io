@@ -1,7 +1,7 @@
 ---
 title: ARQA одноразовый POD "Вишня" (cherry) 5%
 date: 2020-09-24 14:02:00 Z
-position: 74
+position: 73
 title-seo: ARQA одноразовый POD "Вишня" (cherry) 5% - купить в Казахстане
 descr: ARQA одноразовый POD "Вишня" (cherry) 5% - купить в Казахстане - купить в Казахстане
 product-name: ARQA одноразовый POD "Вишня" (cherry) 5%
