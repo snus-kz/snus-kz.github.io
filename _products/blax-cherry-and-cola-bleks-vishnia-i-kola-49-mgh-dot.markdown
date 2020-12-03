@@ -8,7 +8,7 @@ product-name: Blax – Cherry  Cola
 nicotine: 49
 portions: 18
 gram: 15
-price: 2000
+price: 1200
 brand: Russian products
 strong: Крепкий
 sale: new-snus
