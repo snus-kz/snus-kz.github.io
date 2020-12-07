@@ -11,7 +11,7 @@ gram: 15
 price: 1500
 brand: Russian products
 strong: Крепкий
-sale: sale
+sale: Ничего
 taste: Ваниль
 image: "/uploads/RED-Vanilla-Tobacco-1.jpg"
 has_availability: false
