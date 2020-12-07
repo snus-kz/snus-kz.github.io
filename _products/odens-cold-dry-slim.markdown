@@ -13,7 +13,7 @@ gram: 13
 price: 2800
 brand: Odens
 strong: Средней крепости
-sale: best-snus
+sale: Ничего
 image: "/uploads/cold%20extreme%20white%20dry%20slim%20portion.png"
 has_availability: false
 ---
