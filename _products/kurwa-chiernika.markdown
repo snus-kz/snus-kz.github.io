@@ -12,7 +12,7 @@ gram: 20
 price: 2000
 brand: Russian products
 strong: Крепкий
-sale: new-snus
+sale: Ничего
 taste: Черника
 image: "/uploads/Kurwa-%D0%A7%D0%B5%D1%80%D0%BD%D0%B8%D0%BA%D0%B0.png"
 has_availability: false
