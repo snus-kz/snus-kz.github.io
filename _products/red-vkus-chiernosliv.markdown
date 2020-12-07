@@ -13,7 +13,7 @@ gram: 15
 price: 1500
 brand: Russian products
 composition: Порционный
-sale: sale
+sale: Ничего
 taste: Табак с черносливом
 image: "/uploads/RED-WESTERN-TOBACCO-800x800.jpg"
 has_availability: false
