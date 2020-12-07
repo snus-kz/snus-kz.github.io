@@ -11,7 +11,7 @@ gram: 20
 price: 2500
 brand: Russian products
 strong: Крепкий
-sale: new-snus
+sale: Ничего
 taste: Баунти
 image: "/uploads/Arqa%20bounty.jpg"
 has_availability: false
