@@ -7,6 +7,6 @@ gram: 20
 price: 2000
 brand: Russian products
 strong: Крепкий
-image: "/uploads/photo_2020-12-07%2020.11.34.png"
+image: "/uploads/Bull.png"
 ---
 
