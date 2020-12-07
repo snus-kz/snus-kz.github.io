@@ -10,7 +10,7 @@ portions: 20
 gram: 13
 price: 2500
 brand: Russian products
-sale: new-snus
+sale: Ничего
 taste: Мята
 image: "/uploads/Corvus%20brutal.png"
 has_availability: false
