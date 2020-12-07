@@ -1,7 +1,7 @@
 ---
 title: NICTECH HARD Cappucino LIMITED
 date: 2020-11-04 16:41:00 Z
-position: 28
+position: 27
 title-seo: 'NICTECH  HARD Cappucino LIMITED - купить '
 descr: NICTECH  HARD Cappucino LIMITED -купить никтеч со вкусом капучино в Казахстане
   ,лучшее предложение.
