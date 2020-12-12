@@ -1,7 +1,7 @@
 ---
 title: Red Vanilla tobacco
 date: 2020-11-09 06:33:00 Z
-position: 127
+position: 126
 title-seo: RED Vanilla Tobacco  - купить в Казахстане
 descr: RED Vanilla Tobacco  - купить в Казахстане , лучшая цена
 product-name: 'RED Vanilla Tobacco '
