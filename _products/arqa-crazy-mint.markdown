@@ -1,7 +1,7 @@
 ---
 title: ARQA Crazy Mint
 date: 2020-11-27 12:25:00 Z
-position: 38
+position: 37
 title-seo: ARQA Crazy Mint - купить в Казахстане
 descr: ARQA Crazy Mint -  жевательная смесь со вкусом мяты.
 product-name: ARQA Crazy Mint - купить в Казахстане
