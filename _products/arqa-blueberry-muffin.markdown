@@ -1,7 +1,7 @@
 ---
 title: ARQA Blueberry Muffin
 date: 2020-11-27 12:12:00 Z
-position: 38
+position: 37
 title-seo: ARQA Blueberry Muffin - купить в Казахстане
 descr: ARQA Blueberry Muffin - жевательная смесь со вкусом черничного маффина .
 product-name: ARQA Blueberry Muffin
