@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Кислый ананас
 image: "/uploads/Arqa%20Pineapple.jpg"
+has_availability: false
 ---
 
 **ARQA Sour Pineapple** — жевательная смесь со вкусом кислый ананас.
