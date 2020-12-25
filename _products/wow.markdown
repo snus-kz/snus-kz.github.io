@@ -1,7 +1,7 @@
 ---
 title: WOW! Summer Honey White Dry Explosion
 date: 2018-09-12 09:02:00 Z
-position: 81
+position: 80
 title-seo: WOW! Summer Honey Explosion White Dry
 descr: WOW! Summer Honey Explosion White Dry - купить в Казахстане
 product-name: WOW! Summer Honey White Dry Explosion
