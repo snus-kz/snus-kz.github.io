@@ -15,6 +15,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Мята
 image: "/uploads/IMG_7861-2.png"
+has_availability: false
 ---
 
 **Grant Ice Cool** *- это просто сумасшедший взрыв мяты, за которым следует несколько приятных ледяных ощущений.*
