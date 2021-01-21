@@ -1,7 +1,7 @@
 ---
 title: KASTA 101 mg Мята
 date: 2020-11-14 10:58:00 Z
-position: 24
+position: 17
 title-seo: KASTA 101 mg Мята - купить в Казахстане
 descr: 'KASTA 101 mg Мята - купить в Казахстане '
 product-name: KASTA 101 mg Мята
