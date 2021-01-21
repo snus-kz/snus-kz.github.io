@@ -1,7 +1,7 @@
 ---
 title: KASTA SALT 6% 60mg 30ml - (Тирамису)
 date: 2020-11-23 16:20:00 Z
-position: 2
+position: 3
 title-seo: KASTA SALT 6% 60mg 30ml - (Тирамису) - купить в Казахстане
 descr: KASTA SALT 6% 60mg 30ml - (Тирамису) - купить солевую жидкость для электронных
   сигарет
