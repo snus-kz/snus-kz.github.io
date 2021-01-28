@@ -8,7 +8,7 @@ product-name: 'ARQA одноразовый POD "Персик" (peach) 5% '
 nicotine: 50
 portions: 300
 gram: "-"
-price: 1600
+price: 1300
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
