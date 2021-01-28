@@ -1,14 +1,14 @@
 ---
 title: ARQA Crazy Mint
 date: 2020-11-27 12:25:00 Z
-position: 29
+position: 28
 title-seo: ARQA Crazy Mint - купить в Казахстане
 descr: ARQA Crazy Mint -  жевательная смесь со вкусом мяты.
 product-name: ARQA Crazy Mint - купить в Казахстане
 nicotine: 70
 portions: 20
 gram: 20
-price: 2500
+price: 2000
 brand: Russian products
 strong: Крепкий
 sale: new-snus
