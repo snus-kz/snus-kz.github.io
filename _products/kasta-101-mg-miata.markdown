@@ -8,7 +8,7 @@ product-name: KASTA 101 mg Мята
 nicotine: 101
 portions: 20
 gram: 12
-price: 2500
+price: 2000
 brand: Russian products
 composition: Порционный
 strong: Очень крепкий
