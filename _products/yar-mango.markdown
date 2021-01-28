@@ -8,7 +8,7 @@ product-name: YaR одноразовый POD Манго
 nicotine: 50
 portions: "-"
 gram: "-"
-price: 2300
+price: 2000
 brand: Электронные сигареты
 composition: "-"
 strong: "-"
