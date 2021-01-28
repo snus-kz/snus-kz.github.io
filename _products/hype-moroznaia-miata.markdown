@@ -8,7 +8,7 @@ product-name: Hype Морозная мята
 nicotine: 48
 portions: 75
 gram: 25
-price: 1500
+price: 1000
 brand: Russian products
 composition: Порционный
 strong: Средней крепости
