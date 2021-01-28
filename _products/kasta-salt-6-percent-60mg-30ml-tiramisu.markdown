@@ -9,7 +9,7 @@ product-name: KASTA SALT 6% 60mg 30ml - (Тирамису)
 nicotine: 60
 portions: 30 мл
 gram: "-"
-price: 2000
+price: 1700
 brand: Жидкости для электронных сигарет
 composition: "-"
 strong: Крепкий
