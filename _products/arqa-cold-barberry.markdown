@@ -8,7 +8,7 @@ product-name: Arqa Cold barberry
 nicotine: 30
 portions: 16
 gram: 16
-price: 1500
+price: 1000
 brand: Russian products
 strong: Средней крепости
 sale: sale
