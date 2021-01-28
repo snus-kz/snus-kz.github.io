@@ -1,7 +1,7 @@
 ---
 title: GRANT EXTREME
 date: 2020-09-27 10:47:00 Z
-position: 10
+position: 92
 title-seo: GRANT EXTREME- купить в Казахстане
 descr: GRANT EXTREME- купить в Казахстане, из Европы по лучшей цене
 product-name: GRANT EXTREME
@@ -14,6 +14,7 @@ strong: Легкий
 sale: new-snus
 taste: Классический табак
 image: "/uploads/Grant%20extreme.png"
+has_availability: false
 ---
 
 **GRANT EXTREME**
