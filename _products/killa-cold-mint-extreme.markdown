@@ -5,7 +5,7 @@ title-seo: KILLA COLD MINT EXTREME - купить в Казахстане
 descr: KILLA COLD MINT EXTREME - купить в Казахстане, лучшая цена
 product-name: KILLA COLD MINT EXTREME
 nicotine: 16
-portions: 0,8
+portions: 20
 gram: 20
 price: 3000
 brand: Other brands
