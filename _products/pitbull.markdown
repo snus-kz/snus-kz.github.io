@@ -8,7 +8,7 @@ product-name: PITBULL жвачка
 nicotine: 80
 portions: 30
 gram: 20
-price: 2000
+price: 1500
 brand: Russian products
 strong: Крепкий
 taste: Жвачка
