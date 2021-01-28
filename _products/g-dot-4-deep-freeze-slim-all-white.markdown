@@ -17,6 +17,7 @@ strong: Легкий
 sale: new-snus
 taste: 'Мята, эвкалипт '
 image: "/uploads/General%20deep%20freeze.png"
+has_availability: false
 ---
 
 **G.4 Deep Freeze All White** от *Swedish Match* 
