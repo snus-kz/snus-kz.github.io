@@ -11,7 +11,7 @@ product-name: NICTECH Энергетик ENERGY
 nicotine: 60
 portions: 20
 gram: 12
-price: 2500
+price: 2000
 brand: Russian products
 strong: Крепкий
 sale: new-snus
