@@ -9,7 +9,7 @@ product-name: KASTA 101 mg Тропик микс
 nicotine: 101
 portions: 20
 gram: 20
-price: 2500
+price: 2000
 brand: Russian products
 taste: Тропические фрукты
 image: "/uploads/Kasta%20tropic%20mix%20.png"
