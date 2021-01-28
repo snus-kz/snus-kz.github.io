@@ -8,7 +8,7 @@ product-name: KURWA Чифирь
 nicotine: 90
 portions: 20
 gram: 20
-price: 2000
+price: 1500
 brand: Russian products
 composition: Порционный
 strong: Крепкий
