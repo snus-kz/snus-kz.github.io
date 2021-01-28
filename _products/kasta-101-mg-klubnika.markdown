@@ -8,7 +8,7 @@ product-name: KASTA 101 mg Клубника
 nicotine: 101
 portions: 20
 gram: 20
-price: 2500
+price: 2000
 brand: Russian products
 taste: Клубника
 image: "/uploads/Kasta%20strawberry.png"
