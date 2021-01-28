@@ -8,7 +8,7 @@ product-name: Arqa Cherry Cocktail
 nicotine: 70
 portions: 20
 gram: 20
-price: 2500
+price: 2000
 brand: Russian products
 strong: Крепкий
 sale: new-snus
