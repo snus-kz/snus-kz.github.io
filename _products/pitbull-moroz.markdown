@@ -8,7 +8,7 @@ product-name: PITBULL Мороз
 nicotine: 70
 portions: 30
 gram: 20
-price: 2000
+price: 1500
 brand: Russian products
 strong: Средней крепости
 taste: Морозная Мята
