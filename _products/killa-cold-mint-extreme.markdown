@@ -7,7 +7,7 @@ product-name: KILLA COLD MINT EXTREME
 nicotine: 16
 portions: 0,8
 gram: 20
-price: 2500
+price: 3000
 brand: Other brands
 strong: Средней крепости
 sale: new-snus
