@@ -12,7 +12,7 @@ layout: about
 
 Производство: Швеция и Россия<br>
 
-Наш инстаграм: <a href="//www.instagram.com/snus.kazakhstan/">snus.kazakhstan</a>
+Наш инстаграм: <a href="//www.instagram.com/{% for contacts_number in site.main-pages %}{{contacts_number.instagram}}{% endfor %}/">{% for contacts_number in site.main-pages %}{{contacts_number.instagram}}{% endfor %}</a>
 
 [&#174;snus-kazakhstan.com](https://snus-kazakhstan.com/)
 
