@@ -1,7 +1,7 @@
 ---
 title: PITBULL Мороз
 date: 2020-12-25 12:32:00 Z
-position: 3
+position: 4
 title-seo: PITBULL Мороз - купить в Казахстане
 descr: PITBULL Мороз - купить в Казахстане ,никотиновые паучи.
 product-name: PITBULL Мороз
