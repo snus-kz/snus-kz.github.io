@@ -16,7 +16,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Цитрус
 image: "/uploads/Nictech%20citrus%20mix.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Жевательная смесь (Снюс) Nictech Цитрусовый микс Citrus mix 60mg — сухая порционная полностью белая бестабачная жевательная смесь в тоненьких пакетиках.
