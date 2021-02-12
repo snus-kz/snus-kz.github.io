@@ -11,7 +11,7 @@ gram: 20
 price: 2500
 brand: Other brands
 strong: Средней крепости
-sale: new-snus
+sale: best-snus
 taste: Холодная мята
 image: "/uploads/Killa_Cold_Mint-3.png"
 ---
