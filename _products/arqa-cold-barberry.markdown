@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: sale
 taste: Барбарис
 image: "/uploads/Arqa%20barberry.jpg"
+has_availability: false
 ---
 
 Снюс Arqa Cold Barberry — жевательная смесь со вкусом барбариса.
