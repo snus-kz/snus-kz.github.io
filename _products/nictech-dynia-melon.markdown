@@ -15,7 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Медовая Дыня
 image: "/uploads/Nictech%20melon.jpg"
-has_availability: true
+has_availability: false
 ---
 
 NICTECH Дыня Melon
