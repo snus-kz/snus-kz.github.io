@@ -8,7 +8,7 @@ product-name: 'GRANT ORANGE '
 nicotine: 25
 portions: 27
 gram: 13
-price: 2000
+price: 1500
 brand: Other brands
 strong: Легкий
 sale: new-snus
