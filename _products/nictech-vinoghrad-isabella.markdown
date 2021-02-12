@@ -1,7 +1,7 @@
 ---
 title: NICTECH Виноград Isabella
 date: 2020-06-30 20:12:00 Z
-position: 19
+position: 90
 title-seo: NICTECH Виноград Isabella  - Купить в Казахстане
 descr: "NICTECH Виноград Isabella  - Купить в Казахстане, Виноград – ягода, которую
   больше пьют, чем едят, раскрывается в новом вкусовом сочетании! \nIsabella grape
@@ -17,7 +17,7 @@ strong: Крепкий
 sale: new-snus
 taste: Виноград
 image: "/uploads/Nictech%20isabella.jpg"
-has_availability: true
+has_availability: false
 ---
 
 NICTECH Виноград Isabella
