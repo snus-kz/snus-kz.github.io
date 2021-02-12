@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Клубника
 image: "/uploads/nictech%20strawberry.png"
-has_availability: true
+has_availability: false
 ---
 
 Жевательная смесь NICTECH Клубника Strawberry (снюс).
