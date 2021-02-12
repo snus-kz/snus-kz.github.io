@@ -1,7 +1,7 @@
 ---
 title: ARQA Isabella Grape
 date: 2020-11-27 12:17:00 Z
-position: 22
+position: 21
 title-seo: ARQA Isabella Grape -купить в Казахстане
 descr: 'ARQA Isabella Grape - жевательная смесь со вкусом винограда. '
 product-name: ARQA Isabella Grape
