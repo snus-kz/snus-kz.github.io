@@ -1,7 +1,7 @@
 ---
 title: KILLA COLD MINT EXTREME
 date: 2021-01-28 00:52:00 Z
-position: 3
+position: 4
 title-seo: KILLA COLD MINT EXTREME - купить в Казахстане
 descr: KILLA COLD MINT EXTREME - купить в Казахстане, лучшая цена
 product-name: KILLA COLD MINT EXTREME
