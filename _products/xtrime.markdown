@@ -1,6 +1,17 @@
 ---
-title: XTRIME
+title: EXTREME ARCTIC MINT
 date: 2021-02-13 04:18:00 Z
+title-seo: EXTREME ARCTIC MINT - купить в Казахстане
+descr: EXTREME ARCTIC MINT - купить в Казахстане , на территории снег лучшая цена
+product-name: EXTREME ARCTIC MINT
+nicotine: 24
+portions: 20
+gram: 20
+price: 2500
+brand: Other brands
+strong: Средней крепости
+sale: new-snus
+taste: Арктическая мята
 image: "/uploads/EXTREME_Artic_Mint-r.png"
 ---
 
