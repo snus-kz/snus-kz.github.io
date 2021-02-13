@@ -1,7 +1,7 @@
 ---
 title: PITBULL жвачка
 date: 2020-12-07 14:14:00 Z
-position: 11
+position: 12
 title-seo: 'PITBULL жвачка - купить жевательный табак, в Казахстане '
 descr: 'PITBULL жвачка - купить жевательный табак, в Казахстане ,со вкусом жвачки '
 product-name: PITBULL жвачка
