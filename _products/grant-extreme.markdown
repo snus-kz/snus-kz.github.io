@@ -1,7 +1,7 @@
 ---
 title: GRANT EXTREME
 date: 2020-09-27 10:47:00 Z
-position: 79
+position: 80
 title-seo: GRANT EXTREME- купить в Казахстане
 descr: GRANT EXTREME- купить в Казахстане, из Европы по лучшей цене
 product-name: GRANT EXTREME
