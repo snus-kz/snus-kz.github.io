@@ -8,7 +8,7 @@ product-name: EXTREME LIME PARADISE
 nicotine: 24
 portions: 20
 gram: 20
-price: 2509
+price: 2500
 brand: Other brands
 strong: Средней крепости
 sale: new-snus
