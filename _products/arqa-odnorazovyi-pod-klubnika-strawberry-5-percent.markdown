@@ -1,7 +1,7 @@
 ---
 title: ARQA одноразовый POD "Клубника" (strawberry) 5%
 date: 2020-04-08 15:07:00 Z
-position: 59
+position: 60
 title-seo: ARQA одноразовый POD "Клубника" (strawberry) 5% -Купить в Казахстане
 descr: 'ARQA одноразовый POD "Клубника" (strawberry) 5% -Купить в Казахстане '
 product-name: 'ARQA одноразовый POD "Клубника" (strawberry) 5% '

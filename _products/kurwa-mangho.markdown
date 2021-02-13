@@ -1,7 +1,7 @@
 ---
 title: KURWA Манго
 date: 2020-07-19 08:45:00 Z
-position: 38
+position: 39
 title-seo: KURWA Манго- купить в Казахстане
 descr: KURWA Манго- купить в Казахстане, жевательная смесь со вкусом манго
 product-name: KURWA Манго
