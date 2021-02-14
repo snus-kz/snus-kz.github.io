@@ -1,7 +1,7 @@
 ---
 title: Контакты
 date: 2021-02-10 11:29:00 Z
-phone: 77789299966
+phone: "+77085038436"
 telegram: Kirill_snus_kz
 instagram: snus.kazakhstan
 ---
