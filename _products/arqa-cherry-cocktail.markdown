@@ -1,7 +1,7 @@
 ---
 title: Arqa Cherry Cocktail
 date: 2020-04-10 14:41:00 Z
-position: 36
+position: 94
 title-seo: Arqa Cherry Cocktail- купить в Казахстане
 descr: Arqa Cherry Cocktail - купить в Казахстане
 product-name: Arqa Cherry Cocktail
@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: черешня
 image: "/uploads/arqa.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Arqa Cherry Cocktail — жевательная смесь со вкусом черешни Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
