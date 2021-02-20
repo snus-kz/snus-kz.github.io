@@ -1,7 +1,7 @@
 ---
 title: ARQA Citrus Fantasy
 date: 2020-05-26 07:57:00 Z
-position: 36
+position: 94
 title-seo: ARQA Citrus Fantasy - купить в Казахстане
 descr: ARQA Citrus Fantasy -  жевательная смесь со вкусом цитруса - купить в Казахстане
 product-name: ARQA Citrus Fantasy
@@ -15,6 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Цитрус
 image: "/uploads/Arqa%20fantasy.jpg"
+has_availability: false
 ---
 
 **ARQA Citrus Fantasy** — жевательная смесь со вкусом цитруса. Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г 
