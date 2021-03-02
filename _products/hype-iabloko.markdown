@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Яблоко
 image: "/uploads/Hype%20apple.png"
+has_availability: false
 ---
 
 **Самое безобидное изделие среди всей табачной продукции. В его составе только  никотин, без вредных примесей.
