@@ -3,7 +3,7 @@ title: |-
   Kasta 30ml SALT 6% 60mg
   (Бабл Гам)
 date: 2020-11-23 08:14:00 Z
-position: 16
+position: 15
 title-seo: Kasta (30ml SALT 60mg) Бабл Гам - купить в Казахстане
 descr: Kasta (30ml SALT 60mg) Бабл Гам -  купить в Казахстане со вкусом жвачки .
 product-name: Kasta (30ml SALT 60mg) Бабл Гам
