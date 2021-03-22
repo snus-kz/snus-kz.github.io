@@ -17,16 +17,5 @@ layout: delivery-and-pay
 
 4.Средняя стоимость доставки составляет 1000-5000 KZT (в зависимости от региона)
 
-5.Прием заказов осуществляется  в г.Караганда по номеру +{% for contacts_number in site.main-pages %}{{contacts_number.phone}}{% endfor %}
-
 Наша задача: «Качество и улучшение вашего образа жизни!»
 
-6.Способы оплаты: 
-
-["Kaspi bank"](https://kaspi.kz)
-
-["Золотая Корона"](https://koronapay.com/)
-
-["HALYK BANK"](https://halykbank.kz)
-
-["Сбербанк"](https://online.sberbank.kz/)
