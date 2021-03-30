@@ -13,7 +13,7 @@ gram: '16,8'
 price: 2500
 brand: Lyft
 strong: Крепкий
-sale: Ничего
+sale: new-snus
 image: "/uploads/lyft%20ice%20cool.png"
 has_availability: true
 ---
