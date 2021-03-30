@@ -17,7 +17,7 @@ strong: Крепкий
 sale: new-snus
 taste: Энергетический микс
 image: "/uploads/Nictech%20energy.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Производители Nictech
