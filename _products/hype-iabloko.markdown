@@ -8,7 +8,7 @@ product-name: Hype  Яблоко
 nicotine: 48
 portions: 75
 gram: 25
-price: 800
+price: 500
 brand: Russian products
 strong: Средней крепости
 sale: new-snus
