@@ -1,20 +1,20 @@
 ---
 title: Hype  Яблоко
 date: 2020-10-08 10:39:00 Z
-position: 13
+position: 6
 title-seo: Hype  Яблоко - купить в Казахстане, кусочки фруктов с никотином
 descr: Hype Яблоко - купить в Казахстане, кусочки манго с никотином
 product-name: Hype  Яблоко
 nicotine: 48
 portions: 75
 gram: 25
-price: 1000
+price: 800
 brand: Russian products
 strong: Средней крепости
 sale: new-snus
 taste: Яблоко
 image: "/uploads/Hype%20apple.png"
-has_availability: false
+has_availability: true
 ---
 
 **Самое безобидное изделие среди всей табачной продукции. В его составе только  никотин, без вредных примесей.
