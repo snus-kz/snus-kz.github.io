@@ -1,7 +1,7 @@
 ---
 title: KASTA SALT 6% 60mg 30ml -(Капучино)
 date: 2020-11-23 08:50:00 Z
-position: 17
+position: 16
 title-seo: KASTA SALT 6% 60mg 30ml -(Капучино) - купить в Казахстане
 descr: KASTA SALT 6% 60mg 30ml -(Капучино) - купить в Казахстане ,со вкусом капучино.
 product-name: KASTA SALT 6% 60mg 30ml -(Капучино)
