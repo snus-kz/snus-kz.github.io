@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Лайм
 image: "/uploads/xtrime-lime-paradise.png"
+has_availability: false
 ---
 
 XTRIME никпэки с лучшей вкусопередачей !!!😋
