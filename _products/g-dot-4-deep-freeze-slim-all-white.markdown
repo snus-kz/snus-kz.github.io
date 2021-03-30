@@ -1,7 +1,7 @@
 ---
 title: G.4 DEEP FREEZE Slim All White
 date: 2020-11-03 08:34:00 Z
-position: 62
+position: 61
 title-seo: G.4 DEEP FREEZE Slim All White - купить в Казахстане ,табак.
 descr: "G.4 Deep Freeze All White  от Swedish Match- отправит вас в невероятно освежающие
   эмоции! \nОбеспечивает мощный никотиновый выброс (15 мг на порцию) вместе с ледяным
