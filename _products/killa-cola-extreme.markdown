@@ -1,7 +1,7 @@
 ---
 title: KILLA COLA EXTREME
 date: 2021-02-12 12:54:00 Z
-position: 5
+position: 6
 title-seo: KILLA COLA EXTREME - купить в Казахстане
 descr: KILLA COLA EXTREME - купить в Казахстане лучшая цена
 product-name: KILLA COLA EXTREME
