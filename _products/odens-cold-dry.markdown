@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Extreme White Dry 16 gr
 date: 2018-09-12 09:24:00 Z
-position: 59
+position: 58
 title-seo: 'Odens Cold Extreme White Dry купить в казахстане '
 descr: Odens Cold dry самый продаваемый жевательный табак на территории СНГ. Приятный
   мятный  вкус ,17 пакетиков , средней крепости 22 мг никотина.

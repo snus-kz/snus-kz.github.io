@@ -1,7 +1,7 @@
 ---
 title: KURWA Чифирь
 date: 2020-08-14 15:12:00 Z
-position: 38
+position: 37
 title-seo: KURWA Чифирь - купить в Казахстане
 descr: Kurwa Чифирь - жевательная бестабачная смесь со вкусом Чифирь.
 product-name: KURWA Чифирь
