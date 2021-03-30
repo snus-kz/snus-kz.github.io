@@ -11,7 +11,7 @@ layout: delivery-and-pay
 
 1.Мы отправляем жевательный табак (снюс) и никотиновые паунчи, одноразовые электронные сигареты, и жидкости для ваповайзеров, а также в будущем будет расширение ассортимента. 
 
-2.Доставка по Казахстану осуществляется  курьерскими службами: ["CDEK"](http://cdek.kz/), ["Jet Logistic"](https://www.jet.com.kz) , ["DPD"](https://www.dpd.kz),["Indriver"](https://indriver.com/ru/city).
+2.Доставка по Казахстану осуществляется  курьерскими службами: ["CDEK"](http://cdek.kz/), ["Jet Logistic"](https://www.jet.com.kz) , ["DPD"](https://www.dpd.kz),["Indriver"] (https://indriver.com/ru/city).
 
 3.Время доставки от 3 до 14 дней.
 
