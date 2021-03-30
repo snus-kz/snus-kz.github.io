@@ -15,6 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Молочный капучино.
 image: "/uploads/Nictech%20capucino.png"
+has_availability: false
 ---
 
 **NICTECH HARD Cappucino LIMITED**
