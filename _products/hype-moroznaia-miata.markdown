@@ -8,13 +8,14 @@ product-name: Hype Морозная мята
 nicotine: 48
 portions: 75
 gram: 25
-price: 1000
+price: 500
 brand: Russian products
 composition: Порционный
 strong: Средней крепости
 sale: new-snus
 taste: Морозная мята
 image: "/uploads/Hype%20mint.png"
+has_availability: true
 ---
 
 **Хайп -это кусочки фруктов, приготовленные для Вас по особой формуле "Super Strong".** 
@@ -22,3 +23,5 @@ image: "/uploads/Hype%20mint.png"
 В отличие от сигарет, Хайп можно употреблять в общественных местах. А любители традиционного снюса теперь могут употреблять никотин гораздо безопаснее для своего здоровья.*
 
 Производство:Россия
+
+ПРИ ПОКУПКЕ 5 БАНОК ,6 в подарок.
