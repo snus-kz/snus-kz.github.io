@@ -1,7 +1,7 @@
 ---
 title: KASTA 101 mg Клубника
 date: 2020-12-25 11:59:00 Z
-position: 20
+position: 19
 title-seo: KASTA 101 mg Клубника - купить в Казахстане
 descr: KASTA 101 mg Клубника - купить в Казахстане, со вкусом клубники .
 product-name: KASTA 101 mg Клубника
