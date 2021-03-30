@@ -1,7 +1,7 @@
 ---
 title: ARQA Bubble gum
 date: 2020-11-26 16:13:00 Z
-position: 23
+position: 21
 title-seo: 'Arqa Bubble gum - купить в Казахстане '
 descr: 'ARQA Bubble gum - жевательная смесь со вкусом жвачки . '
 product-name: Arqa Bubble gum

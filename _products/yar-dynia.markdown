@@ -1,7 +1,7 @@
 ---
 title: Yar одноразовый POD Дыня
 date: 2020-09-25 14:58:00 Z
-position: 37
+position: 35
 title-seo: Yar Дыня - купить в Казахстане
 descr: Yar Дыня - купить в Казахстане ,лучшая цена.
 product-name: Yar одноразовый POD Дыня
