@@ -1,7 +1,7 @@
 ---
 title: Yar одноразовый POD Огурец
 date: 2020-09-27 08:06:00 Z
-position: 37
+position: 36
 title-seo: Yar одноразовый POD Огурец - купить в Казахстане
 descr: Yar одноразовый POD Огурец - купить в Казахстане ,по лучшей цене.
 product-name: Yar одноразовый POD Огурец
