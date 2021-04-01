@@ -8,9 +8,8 @@ descr: 'Купить снюс в Казахстане, отправка СДЭК
 Key: снюс Казахстан, снюс купить, снюс, snus, снюс Караганда, siberia, odens, thunder,
   killa, nicopods, arqa, alfa, blax , corvus, niclab, nictech, general.
 address: 
-h1-index: Купить снюс в Казахстане
+h1-index: Интернет магазин табачных изделий
 descr-index: Интернет-магазин шведского снюса в Казахстане
 layout: index-page
 ---
 
-вапавпвыапр
