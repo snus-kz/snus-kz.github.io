@@ -13,7 +13,7 @@ brand: Russian products
 strong: Средней крепости
 taste: Морозная Мята
 image: "/uploads/Pitbull%20mint.png"
-has_availability: true
+has_availability: false
 ---
 
 PITBULL Мороз - купить никотиновые паучи, со вкусом холодной мяты. Целых 30 порций, крепких самых свежих порций подушечек.
