@@ -10,7 +10,7 @@ product-name: LYFT Freeze X-Strong Slim
 nicotine: 16
 portions: 24
 gram: 16.8
-price: 2000
+price: 2500
 brand: Lyft
 composition: Порционный
 strong: Очень крепкий
