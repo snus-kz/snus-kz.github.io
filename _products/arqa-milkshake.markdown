@@ -15,6 +15,7 @@ strong: Крепкий
 sale: best-snus
 taste: Молочный коктейль
 image: "/uploads/Arqa%20Milksheik.jpeg"
+has_availability: false
 ---
 
 **Arqa Milkshake** — жевательная смесь со вкусом молочного коктейля.
