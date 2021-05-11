@@ -1,7 +1,7 @@
 ---
 title: KASTA SALT 6% 60mg 30ml - (Ореховый пломбир)
 date: 2020-11-23 13:36:00 Z
-position: 21
+position: 19
 title-seo: KASTA SALT 6% 60mg 30ml - (Ореховый пломбир) - купить  в Казахстане
 descr: KASTA SALT 6% 60mg 30ml - (Ореховый пломбир) - купить в Казахстане жидкость
   для вейпа.
