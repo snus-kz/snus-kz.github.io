@@ -17,7 +17,7 @@ strong: Очень крепкий
 sale: best-snus
 taste: Мята
 image: "/uploads/lyft%20freeze.png"
-has_availability: false
+has_availability: true
 ---
 
 Испытайте свежий и очень сильный никотиновый кайф 
