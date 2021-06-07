@@ -11,9 +11,10 @@ gram: 20
 price: 2000
 brand: Russian products
 strong: Крепкий
-sale: new-snus
+sale: Ничего
 taste: Черничный маффин
 image: "/uploads/Arqa%20bluberry%20muffin.jpeg"
+has_availability: false
 ---
 
 **ARQA Blueberry Muffin** — жевательная смесь со вкусом черничного маффина . Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
