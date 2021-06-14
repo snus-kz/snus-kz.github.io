@@ -3,7 +3,7 @@ title: EXTREME X COLD
 date: 2021-06-14 13:35:00 Z
 title-seo: EXTREME X COLD - купить в Казахстане
 descr: 'EXTREME X COLD - купить в Казахстане '
-Key: EXTREME X COLD
+product-name: EXTREME X COLD
 nicotine: 30
 portions: 20
 gram: 16
@@ -13,6 +13,7 @@ strong: Крепкий
 sale: new-snus
 taste: Ментол
 image: "/uploads/xtrime-x-cold.png"
+Key: EXTREME X COLD
 ---
 
 **XTRIME X-Cold.** От производителя «Пабло и Килла»! 
