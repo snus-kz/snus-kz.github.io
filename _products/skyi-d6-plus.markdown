@@ -16,7 +16,7 @@ taste: "-"
 image: "/uploads/SKYI1.png"
 ---
 
-## 1. SKYI TYPE (D6 plus) Ананас
+1. SKYI TYPE (D6 plus) Ананас
 2. SKYI TYPE (D6 plus) Бабл Гам
 3. SKYI TYPE (D6 plus) Банан
 4. SKYI TYPE (D6 plus) Виноград
