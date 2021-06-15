@@ -13,7 +13,7 @@ composition: "-"
 strong: Крепкий
 sale: new-snus
 taste: "-"
-image: "/uploads/SKYI1.jpeg"
+image: "/uploads/SKYI1.png"
 ---
 
 SKYI TYPE (D6 plus) Ананас
