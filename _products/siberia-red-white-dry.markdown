@@ -14,7 +14,7 @@ brand: Siberia
 strong: Очень крепкий
 taste: Традиционный табак, мята
 image: "/uploads/siberia%20white%20dry%20portion.png"
-has_availability: false
+has_availability: true
 ---
 
 Siberia Red White Dry -брэнд сибири был создан для любителей крепких жевательных табаков (сносов)
