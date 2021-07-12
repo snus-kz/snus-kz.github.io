@@ -1,7 +1,7 @@
 ---
 title: EXTREME ARCTIC MINT
 date: 2021-02-13 04:18:00 Z
-position: 15
+position: 16
 title-seo: EXTREME ARCTIC MINT - купить в Казахстане
 descr: EXTREME ARCTIC MINT - купить в Казахстане , на территории снег лучшая цена
 product-name: EXTREME ARCTIC MINT
