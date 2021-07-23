@@ -7,7 +7,7 @@ descr: 'Сигареты "Golden Club Prezident Black" Длина: 100 мм. Д�
 product-name: СИГАРЕТЫ "GOLDEN CLUB PREZIDENT BLACK"
 nicotine: 'Длина: 100 мм'
 portions: 20
-gram: 'Диаметр: 6 мм.'
+gram: 'Диаметр: 6 мм'
 price: 1000
 brand: Other brands
 composition: "-"
