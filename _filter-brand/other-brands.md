@@ -1,7 +1,7 @@
 ---
 title: Other brands
 permalink: other-brands
-position: 6
+position: 9
 title-seo: Другие бренды снюс
 descr: Снюс различных брендов, Скиф, skruf и другие.
 h1-brand-name: Другие бренды

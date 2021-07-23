@@ -1,7 +1,7 @@
 ---
 title: Swedish match
 permalink: swedish-match
-position: 4
+position: 7
 title-seo: Swedish Match Snus
 descr: Снюс изготовлен компанией Swedish Match. Высокое качество и широкий выбор.
 h1-brand-name: Swedish match

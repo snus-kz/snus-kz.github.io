@@ -2,6 +2,7 @@
 title: JUUL
 date: 2021-07-23 09:30:00 Z
 permalink: VAPE KIT sistemy nagreva tabaka
+position: 2
 title-seo: 'Набор JUUL Kit (оригинал) '
 descr: Набор JUUL Kit (оригинал) широкий ассортимент стиков ,и устройств к ним
 h1-brand-name: VAPE KIT системы нагрева табака
