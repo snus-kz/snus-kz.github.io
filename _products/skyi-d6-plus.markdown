@@ -9,7 +9,7 @@ nicotine: 1,9%
 portions: "-"
 gram: "-"
 price: 3200
-brand: Электронные сигареты
+brand: VAPE KIT и электронные сигареты
 composition: "-"
 strong: Крепкий
 sale: new-snus
