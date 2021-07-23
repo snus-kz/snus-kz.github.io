@@ -14,6 +14,7 @@ brand: Siberia
 strong: Крепкий
 taste: Мята
 image: "/uploads/Siberia%20red%20slim%20mini-2.png"
+has_availability: false
 ---
 
 ## **Siberia -80 Degrees White Dry MINI**
