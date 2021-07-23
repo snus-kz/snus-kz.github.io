@@ -1,5 +1,5 @@
 ---
-title: Электронные сигареты
+title: VAPE KIT и электронные сигареты
 date: 2020-04-08 14:18:00 Z
 permalink: eliektronnyie-sighariety
 position: 0
