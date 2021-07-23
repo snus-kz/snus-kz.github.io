@@ -1,7 +1,7 @@
 ---
 title: JUUL
 date: 2021-07-23 09:30:00 Z
-permalink: VAPE KIT sistemy nagreva tabaka
+permalink: juul
 position: 9
 title-seo: 'Набор JUUL Kit (оригинал) '
 descr: Набор JUUL Kit (оригинал) широкий ассортимент стиков ,и устройств к ним
