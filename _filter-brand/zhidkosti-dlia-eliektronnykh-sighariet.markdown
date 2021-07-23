@@ -2,7 +2,7 @@
 title: Жидкости для электронных сигарет
 date: 2020-11-02 20:58:00 Z
 permalink: zhidkosti-dlia-eliektronnykh-sighariet
-position: 7
+position: 8
 title-seo: Жидкости для электронных сигарет
 descr: Жидкости для электронных сигарет. Широкий ассортимент. Работаем с разными брендами.
 h1-brand-name: Жидкости для электронных сигарет
