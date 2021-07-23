@@ -5,9 +5,9 @@ title-seo: СИГАРЕТЫ "GOLDEN CLUB PREZIDENT BLACK" - купить в Ка
 descr: 'Сигареты "Golden Club Prezident Black" Длина: 100 мм. Диаметр: 6 мм. Крепкость:
   средняя. Количество: 20 шт.'
 product-name: СИГАРЕТЫ "GOLDEN CLUB PREZIDENT BLACK"
-Длинна: 100 мм
+Length: 100 мм.
 portions: 20
-Диаметр: 6 мм
+Diameter: 6 мм.
 price: 1000
 brand: Other brands
 composition: "-"
@@ -15,6 +15,8 @@ strong: Средней крепости
 sale: new-snus
 taste: "-"
 image: "/uploads/Golden%20president%20black.png"
+Длинна: 100 мм
+Диаметр: 6 мм
 ---
 
 Сигареты "Golden Club Prezident Black"
