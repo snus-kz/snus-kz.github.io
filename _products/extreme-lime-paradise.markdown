@@ -10,6 +10,7 @@ portions: 20
 gram: 16
 price: 2500
 brand: Other brands
+composition: Порционный
 strong: Легкий
 sale: new-snus
 taste: Лайм
