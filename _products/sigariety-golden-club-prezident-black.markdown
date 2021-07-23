@@ -15,8 +15,6 @@ strong: Средней крепости
 sale: new-snus
 taste: "-"
 image: "/uploads/Golden%20president%20black.png"
-Length: 100 мм.
-Diameter: 6 мм.
 ---
 
 Сигареты "Golden Club Prezident Black"
