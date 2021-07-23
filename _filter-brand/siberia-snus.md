@@ -1,7 +1,7 @@
 ---
 title: Siberia
 permalink: siberia
-position: 5
+position: 2
 title-seo: Siberia Snus купить в Казахстане
 descr: Siberia Snus купить в Казахстане пользуется сумасшедшим спросом по всему миру
   ,видимо из за своей крепости.
