@@ -15,6 +15,7 @@ strong: Легкий
 sale: new-snus
 taste: Лайм
 image: "/uploads/xtrime-lime-paradise-6141f5.png"
+has_availability: false
 ---
 
 ❌TRIME - лучшие никпэки 😎
