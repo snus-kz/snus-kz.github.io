@@ -9,7 +9,7 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 6000
-brand: JUUL
+brand: Жидкости для электронных сигарет
 composition: "-"
 strong: "-"
 sale: new-snus
