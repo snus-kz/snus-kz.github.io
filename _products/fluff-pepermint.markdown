@@ -12,7 +12,7 @@ brand: Russian products
 strong: Средней крепости
 sale: new-snus
 taste: Перечная мята
-image: "/uploads/IMG_1831.JPG"
+image: "/uploads/IMG_1831.png"
 ---
 
 Fluff Pepermint 
