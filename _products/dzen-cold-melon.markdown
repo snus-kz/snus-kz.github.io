@@ -2,6 +2,7 @@
 title: Dzen cold Melon
 date: 2021-08-05 14:40:00 Z
 title-seo: " Dzen cold Melon - купить в Казахстане"
+descr: " Dzen cold Melon - купить в Казахстане ,pouches,"
 product-name: " Dzen cold Melon"
 nicotine: 50
 portions: 25
