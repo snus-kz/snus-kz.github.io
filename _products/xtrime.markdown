@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Арктическая мята
 image: "/uploads/EXTREME_Artic_Mint-r.png"
-has_availability: false
+has_availability: true
 ---
 
 XTRIME никпэки с лучшей вкусопередачей !!!😋
