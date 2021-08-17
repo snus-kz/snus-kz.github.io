@@ -14,6 +14,7 @@ strong: Легкий
 sale: new-snus
 taste: Голубика
 image: "/uploads/Killa_Blueberry.png"
+has_availability: false
 ---
 
 А ты уже попробывал KILLA bluberry⁉️
