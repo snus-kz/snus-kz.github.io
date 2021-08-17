@@ -16,6 +16,7 @@ strong: Средней крепости
 sale: new-snus
 taste: "-"
 image: "/uploads/Golden%20president%20black.png"
+has_availability: false
 ---
 
 Сигареты "Golden Club Prezident Black"
