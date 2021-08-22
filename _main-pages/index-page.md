@@ -2,7 +2,7 @@
 title: Главная страница
 permalink: index
 position: 0
-title-seo: Жевательный табак (Снюс) купить в Казахстане | снюс Караганда.
+title-seo: Жевательный табак (Снюс) купить в Казахстане | снюс Казахстан.
 descr: 'Купить снюс в Казахстане, отправка СДЭК с г. Караганда. В наличии: Siberia,
   Lyft, Odens, Corvus, Arqa, Kasta, Nictech, Red, Killa, Extrime  и другие'
 Key: снюс Казахстан, снюс купить, снюс, snus, снюс Караганда, siberia, odens, thunder,
