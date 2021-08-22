@@ -13,7 +13,7 @@ brand: Other brands
 strong: Легкий
 sale: new-snus
 taste: Мята
-image: "/uploads/velo%20freeze.png"
+image: "/uploads/src.1623849702.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.webp"
 ---
 
 VELO Freeze - Интенсивная мята и ледяной ментол.
