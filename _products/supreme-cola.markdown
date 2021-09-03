@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Кола
-image: "/uploads/%D0%A1%D0%A3%D0%9F%D0%A0%D0%98%D0%9C%20%D0%9A%D0%9E%D0%9B%D0%90-2-2.png"
+image: "/uploads/%D0%A1%D0%A3%D0%9F%D0%A0%D0%98%D0%9C%20%D0%9A%D0%9E%D0%9B%D0%90-2-3.png"
 ---
 
 Бесшабашная смесь ,от брэнда Stigma, Supreme cola- с ароматом колы.
