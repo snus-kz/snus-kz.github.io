@@ -7,7 +7,7 @@ product-name: Siberia Brown Slim
 nicotine: 43
 portions: 20
 gram: 20
-price: 3000
+price: 3200
 brand: Siberia
 strong: Крепкий
 taste: Табак, Мята.
