@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: 'Вишневый Коктейль '
 image: "/uploads/WhatsApp%20Image%202021-06-30%20at%2015.05.02.png"
+has_availability: false
 ---
 
 Снюс Arqa Cherry Cocktail-это бестабачная жевательная смесь, которая позволит Вам насладиться вкусом вишневого коктейля.
