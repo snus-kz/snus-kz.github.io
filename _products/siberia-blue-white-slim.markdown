@@ -15,6 +15,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Табак, Мята.
 image: "/uploads/siberia%20white%20slim%20portion-b201a0.png"
+has_availability: false
 ---
 
 SIBERIA BLUE WHITE SLIM - Ледяная сила! Это крепкий снюс с содержанием никотина 24 мг / г и тонкими белыми порциями, этот снюс предлагает свежий вкус мяты и невероятные ощущения от снюса!
