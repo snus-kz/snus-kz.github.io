@@ -1,7 +1,7 @@
 ---
 title: Velo Ice Cool Strong
 date: 2021-08-22 05:29:00 Z
-position: 5
+position: 6
 title-seo: Velo Ice Cool Strong - купить в Казахстане
 descr: Velo Ice Cool Strong - купить в Казахстане Velo ice cool
 product-name: Velo Ice Cool Strong
