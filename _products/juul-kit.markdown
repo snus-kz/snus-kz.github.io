@@ -8,11 +8,11 @@ product-name: " JUUL Kit "
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 6000
+price: 5000
 brand: JUUL
 composition: "-"
 strong: "-"
-sale: new-snus
+sale: sale
 taste: "-"
 image: "/uploads/Jull%20kit.png"
 ---
