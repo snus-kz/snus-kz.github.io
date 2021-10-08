@@ -1,7 +1,7 @@
 ---
 title: JUUL Kit
 date: 2021-07-29 06:41:00 Z
-position: 0
+position: 2
 title-seo: Набор JUUL Kit - купить в Казахстане
 descr: Набор JUUL Kit -купить в Казахстане
 product-name: " JUUL Kit "
