@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Швепс
 image: "/uploads/Arqa%20schweppes.jpeg"
-has_availability: false
+has_availability: true
 ---
 
 **ARQA Schweppes** — жевательная смесь со вкусом швепс . Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
