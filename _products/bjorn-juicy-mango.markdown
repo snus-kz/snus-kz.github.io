@@ -14,6 +14,7 @@ strong: Легкий
 sale: new-snus
 taste: Сок манго
 image: "/uploads/bj_rn-mango-2.png"
+has_availability: false
 ---
 
 BJÖRN Juicy Mango -Со вкусом сока манго, слим пакетики ,и средняя крепость с приятным летним настроением. 
