@@ -1,7 +1,7 @@
 ---
 title: RED ICE LEMON (new)
 date: 2021-09-26 14:35:00 Z
-position: 1
+position: 2
 title-seo: RED ICE LEMON
 descr: RED ICE LEMON - легендарный аромат свежего  лимона
 product-name: " RED ICE LEMON (new)"
