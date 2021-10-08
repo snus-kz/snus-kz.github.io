@@ -14,6 +14,7 @@ strong: Легкий
 sale: new-snus
 taste: Жвачка
 image: "/uploads/bj_rn-bubble-2.png"
+has_availability: false
 ---
 
 **BJÖRN Bubble Gum - жевательная резинка , слим порции. Производства:Польша**
