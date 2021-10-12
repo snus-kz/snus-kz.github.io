@@ -8,14 +8,14 @@ product-name: Odens Cold  White Dry Slim
 nicotine: 22
 portions: 17
 gram: 13
-price: 2800
+price: 3000
 brand: Odens
 composition: Порционный
 strong: Средней крепости
 sale: new-snus
 taste: Перечная мята
 image: "/uploads/cold%20extreme%20white%20dry%20slim%20portion.png"
-has_availability: true
+has_availability: false
 ---
 
 Odens Cold  White Dry Slim 
