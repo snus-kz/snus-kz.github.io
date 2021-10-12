@@ -8,13 +8,14 @@ product-name: Epok No 7 Freeze X Strong Limited Edition
 nicotine: 16
 portions: 22
 gram: 16
-price: 2500
+price: 2300
 brand: Other brands
 composition: Порционный
 strong: Крепкий
 sale: new-snus
 taste: Мята
 image: "/uploads/photo_2021-06-14%2018.26.12.png"
+has_availability: true
 ---
 
 Испытайте свежий и очень сильный никотиновый кайф (11 мг/порция) вместе со свежим приливом мяты с Epok No 7 Freeze X Strong Limited Edition . Эти свободные от табака и тонкие никотиновые мешочки прекрасно сочетают интенсивный аромат мяты с успокаивающими нотками ментола, чтобы доставить удивительно освежающее ощущение.
