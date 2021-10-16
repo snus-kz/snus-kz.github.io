@@ -14,7 +14,7 @@ strong: Легкий
 sale: new-snus
 taste: Мята
 image: "/uploads/freeze_four_dots_velo_cbdvape4u.jpg"
-has_availability: true
+has_availability: false
 ---
 
 VELO Freeze - Интенсивная мята и ледяной ментол.
