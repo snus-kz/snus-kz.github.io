@@ -1,7 +1,7 @@
 ---
 title: Fluff Pepermint
 date: 2021-07-31 05:40:00 Z
-position: 21
+position: 22
 title-seo: Fluff Pepermint -купить в Казахстане
 descr: Fluff Pepermint - купить в Казахстане ,первый табачный российский продукт
 product-name: Fluff Pepermint
