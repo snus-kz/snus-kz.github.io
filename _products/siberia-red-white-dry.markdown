@@ -13,7 +13,7 @@ price: 3200
 brand: Siberia
 strong: Очень крепкий
 taste: Традиционный табак, мята
-image: "/uploads/Red_00003.png"
+image: "/uploads/Red_00003-min-dc793b.png"
 has_availability: true
 ---
 
