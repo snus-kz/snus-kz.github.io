@@ -13,7 +13,7 @@ brand: Siberia
 strong: Крепкий
 sale: new-snus
 taste: Классический табак
-image: "/uploads/siberia_black.png"
+image: "/uploads/siberia_black%20min.jpg"
 has_availability: true
 ---
 
