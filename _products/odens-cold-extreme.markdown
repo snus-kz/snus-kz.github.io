@@ -1,5 +1,5 @@
 ---
-title: Odens Cold Extreme 20G
+title: Oden’s Cold Extreme Portion
 date: 2021-07-23 13:13:00 Z
 position: 23
 title-seo: 'Odens Cold Extreme - купить в Казахстане, oden''s '
@@ -12,8 +12,8 @@ price: 3000
 brand: Odens
 strong: Средней крепости
 sale: new-snus
-taste: табак, переччная мята
-image: "/uploads/odens%20extreme%20cold.png"
+taste: табак, перечная мята
+image: "/uploads/Odens%20cold%20extreme.jpg"
 ---
 
 **Oden’s Cold Extreme Portion**
