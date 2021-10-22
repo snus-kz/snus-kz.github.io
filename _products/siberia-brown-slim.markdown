@@ -12,7 +12,7 @@ price: 3200
 brand: Siberia
 strong: Крепкий
 taste: Табак, Мята.
-image: "/uploads/SIBERIA%20BROWN%20SLIM%202%20(2)-min.png"
+image: "/uploads/SIBERIA%20BROWN%20SLIM%20-min.jpg"
 ---
 
 Мощная смесь жевательного табака, дающая сильные и особенные ощущения мяты / мяты курчавой.
