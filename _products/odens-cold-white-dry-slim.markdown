@@ -14,7 +14,7 @@ composition: Порционный
 strong: Средней крепости
 sale: new-snus
 taste: Перечная мята
-image: "/uploads/cold%20extreme%20white%20dry%20slim%20portion.png"
+image: "/uploads/Odens%20col%20dry%20slim.jpg"
 has_availability: true
 ---
 
