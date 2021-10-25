@@ -13,7 +13,7 @@ price: 3500
 brand: Siberia
 strong: Крепкий
 taste: Мята
-image: "/uploads/Siberia%20red%20slim%20mini-2.png"
+image: "/uploads/WhatsApp%20Image%202021-10-25%20at%2012.53.43.jpeg"
 has_availability: false
 ---
 
