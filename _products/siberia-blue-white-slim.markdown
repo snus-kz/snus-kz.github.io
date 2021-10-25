@@ -14,7 +14,7 @@ brand: Siberia
 strong: Средней крепости
 sale: new-snus
 taste: Табак, Мята.
-image: "/uploads/siberia%20white%20slim%20portion-b201a0.png"
+image: "/uploads/WhatsApp%20Image%202021-10-25%20at%2012.53.40.jpeg"
 has_availability: false
 ---
 
