@@ -14,7 +14,7 @@ brand: Odens
 strong: Средней крепости
 sale: new-snus
 taste: Перечная мята
-image: "/uploads/odense-_00003test.jpg"
+image: "/uploads/WhatsApp%20Image%202021-10-25%20at%2012.38.27.jpeg"
 has_availability: true
 ---
 
