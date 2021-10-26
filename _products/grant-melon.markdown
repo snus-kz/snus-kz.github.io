@@ -8,7 +8,7 @@ product-name: GRANT MELON
 nicotine: 25
 portions: 27
 gram: 13
-price: 1000
+price: 800
 brand: Other brands
 strong: Легкий
 sale: best-snus
