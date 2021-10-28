@@ -8,7 +8,7 @@ product-name: HELWIT Orange
 nicotine: 9
 portions: 20
 gram: 10
-price: 2700
+price: 3000
 brand: Other brands
 strong: Легкий
 taste: Апельсин
