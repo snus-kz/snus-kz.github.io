@@ -8,7 +8,7 @@ product-name: Velo Ice Cool Strong
 nicotine: 14
 portions: 24
 gram: '16,8'
-price: 2500
+price: 2300
 brand: Other brands
 strong: Легкий
 sale: new-snus
