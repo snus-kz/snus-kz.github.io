@@ -12,6 +12,7 @@ brand: Other brands
 strong: Средней крепости
 taste: Свежесть
 image: "/uploads/PUCK-ICING-Black-Portion-Snus.jpg.png"
+has_availability: false
 ---
 
 PUCK ICING Ultra Strong Snus от The Snusfactory - это снюс, который дает никотиновый удар вместе с ледяным ароматом мяты. Он содержит чрезвычайно высокое содержание никотина и придает невероятно свежий вкус швейцарского ментола и перечной мяты.
