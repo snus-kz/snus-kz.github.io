@@ -13,7 +13,7 @@ brand: Other brands
 strong: Средней крепости
 sale: new-snus
 taste: Холодок
-image: "/uploads/xtrime-neuron-freeze.png"
+image: "/uploads/1-2297c6.png"
 ---
 
 EXTRIME ‼️
