@@ -13,7 +13,7 @@ brand: Other brands
 strong: Крепкий
 sale: new-snus
 taste: Ментол
-image: "/uploads/xtrime-x-cold.png"
+image: "/uploads/3.png"
 Key: EXTREME X COLD
 ---
 
