@@ -14,7 +14,6 @@ strong: Крепкий
 sale: new-snus
 taste: Ментол
 image: "/uploads/xtrime-x-cold.png"
-has_availability: false
 Key: EXTREME X COLD
 ---
 
