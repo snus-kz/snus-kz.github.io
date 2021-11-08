@@ -12,7 +12,7 @@ price: 2500
 brand: Russian products
 strong: Крепкий
 taste: Ягоды энергетик
-image: "/uploads/%D0%A0%D0%95%D0%94%20%D0%AD%D0%9D%D0%95%D0%A0%D0%93%D0%95%D0%A2%D0%98%D0%9A.png"
+image: "/uploads/4-a950cc.png"
 ---
 
 RED STIGMA Berry ENERGY - подушечки паунчи со вкусом ягод и энергетика ,достаточно крепкие ощущение .
