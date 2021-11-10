@@ -1,6 +1,7 @@
 ---
 title: Burn Pro Banana Ice
 date: 2021-11-10 07:50:00 Z
+position: 2
 title-seo: Электронная сигарета Burn Pro Banana Ice
 descr: Электронная сигарета Burn Pro Banana Ice -- вкусный и менее вредный аналог
   сигаретам Banana Ice/ Ледяной Бана - насыщенный вкус спелой мякоти банана в сочетание

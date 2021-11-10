@@ -1,6 +1,7 @@
 ---
 title: Burn Pro Blueberry Yogurt
 date: 2021-11-10 07:54:00 Z
+position: 3
 title-seo: Burn Pro Blueberry Yogurt - купить в Казахстане
 descr: Электронная сигарета Burn Pro Blueberry Yogurt -- вкусный и менее вредный аналог
   сигаретам. Blueberry Yogur/ Черничный Йогурт - насыщенный вкус ягоды черники в сочетание

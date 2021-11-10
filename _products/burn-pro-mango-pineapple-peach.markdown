@@ -1,6 +1,7 @@
 ---
 title: Burn Pro Mango Pineapple Peach
 date: 2021-11-10 09:55:00 Z
+position: 8
 title-seo: Burn Pro Mango Pineapple Peach
 descr: Электронная сигарета Burn Pro Mango Pineapple Peach -- вкусный и менее вредный
   аналог сигаретам. Burn Pro Mango Pineapple Peach/ Манго Ананас Персик - вкус персика,

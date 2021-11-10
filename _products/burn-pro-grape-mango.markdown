@@ -1,6 +1,7 @@
 ---
 title: Burn Pro Grape Mango
 date: 2021-11-10 09:01:00 Z
+position: 5
 title-seo: Burn Pro Grape Mango - купить в Казахстане
 descr: Электронная сигарета Burn Pro Grape Mango -- вкусный и менее вредный аналог
   сигаретам. Виноград и Манго/ Grape Mango - насыщенный вкус ягоды черники в сочетание

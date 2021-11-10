@@ -1,6 +1,7 @@
 ---
 title: Burn Pro Banana Milk
 date: 2021-11-10 07:38:00 Z
+position: 1
 title-seo: Burn Pro Banana Milk - купить в казахстане
 descr: Электронная сигарета Burn Pro Banana Milk -- вкусный и менее вредный аналог
   сигаретам Banana Milk / Банановый милкшейк - насыщенный вкус спелой мякоти банана

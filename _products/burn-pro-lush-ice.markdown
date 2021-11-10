@@ -1,6 +1,7 @@
 ---
 title: Burn Pro Lush Ice
 date: 2021-11-10 09:21:00 Z
+position: 6
 title-seo: Burn Pro Lush Ice - купить в Казахстане
 descr: Электронная сигарета Burn Pro Lush Ice -- вкусный и менее вредный аналог сигаретам.
   Lush Ice/ Пышный Лёд - вкус холодка, сделает каждую затяжку освежающей.
