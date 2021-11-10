@@ -9,6 +9,7 @@ product-name: Burn Pro Banana Milk
 Затяжек: 1500
 price: 3000
 brand: VAPE KIT и электронные сигареты
+taste: Банановый милкшейк
 image: "/uploads/banana%20milk.png"
 ---
 
