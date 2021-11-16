@@ -1,11 +1,12 @@
 ---
-title: Burn Pro Mango Ice
+title: Bjorn Pro Mango Ice
 date: 2021-11-10 09:53:00 Z
 position: 7
-title-seo: Burn Pro Mango Ice - купить в Казахстане
-descr: Электронная сигарета Burn Pro Mango Ice -- вкусный и менее вредный аналог сигаретам.
-  Mango Ice/ Холодный Манго - вкус холодка и манго, сделает каждую затяжку освежающей.
-product-name: Burn Pro Mango Ice
+title-seo: Bjorn Pro Mango Ice - купить в Казахстане
+descr: Электронная сигарета Bjorn Pro Mango Ice -- вкусный и менее вредный аналог
+  сигаретам. Mango Ice/ Холодный Манго - вкус холодка и манго, сделает каждую затяжку
+  освежающей.
+product-name: Bjorn Pro Mango Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -15,4 +16,4 @@ taste: Манго с холодком
 image: "/uploads/mango%20ice.png"
 ---
 
-Электронная сигарета Burn Pro Mango Ice -- вкусный и менее вредный аналог сигаретам. Mango Ice/ Холодный Манго - вкус холодка и манго, сделает каждую затяжку освежающей.
+Электронная сигарета Bjorn Pro Mango Ice -- вкусный и менее вредный аналог сигаретам. Mango Ice/ Холодный Манго - вкус холодка и манго, сделает каждую затяжку освежающей.
