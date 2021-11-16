@@ -1,12 +1,12 @@
 ---
-title: Burn Pro Banana Ice
+title: Bjorn Pro Banana Ice
 date: 2021-11-10 07:50:00 Z
 position: 2
-title-seo: Электронная сигарета Burn Pro Banana Ice
-descr: Электронная сигарета Burn Pro Banana Ice -- вкусный и менее вредный аналог
+title-seo: Электронная сигарета Bjorn Pro Banana Ice
+descr: Электронная сигарета Bjorn Pro Banana Ice -- вкусный и менее вредный аналог
   сигаретам Banana Ice/ Ледяной Бана - насыщенный вкус спелой мякоти банана в сочетание
   с холодком. Фруктово-десертный аромат с сливочным послевкусием.
-product-name: Burn Pro Banana Ice
+product-name: Bjorn Pro Banana Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -16,4 +16,4 @@ taste: Банан с холодком
 image: "/uploads/banana%20ice.png"
 ---
 
-Электронная сигарета Burn Pro Banana Ice -- вкусный и менее вредный аналог сигаретам Banana Ice/ Ледяной Бана - насыщенный вкус спелой мякоти банана в сочетание с холодком. Фруктово-десертный аромат с сливочным послевкусием.
+Электронная сигарета Bjorn Pro Banana Ice -- вкусный и менее вредный аналог сигаретам Banana Ice/ Ледяной Бана - насыщенный вкус спелой мякоти банана в сочетание с холодком. Фруктово-десертный аромат с сливочным послевкусием.
