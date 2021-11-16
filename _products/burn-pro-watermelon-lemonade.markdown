@@ -1,12 +1,12 @@
 ---
-title: Burn Pro Watermelon Lemonade
+title: Bjorn Pro Watermelon Lemonade
 date: 2021-11-10 10:22:00 Z
 position: 11
-title-seo: Burn Pro Watermelon Lemonade- купить в Казахстане
-descr: Электронная сигарета Burn Pro Watermelon Lemonade -- вкусный и менее вредный
+title-seo: Bjorn Pro Watermelon Lemonade- купить в Казахстане
+descr: Электронная сигарета Bjorn Pro Watermelon Lemonade -- вкусный и менее вредный
   аналог сигаретам. Burn Pro Watermelon Lemonade/ Арбузный Лимонад - вкус арбуза,
   сделает каждую затяжку фруктовой!
-product-name: Burn Pro Watermelon Lemonade
+product-name: Bjorn Pro Watermelon Lemonade
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -16,4 +16,4 @@ taste: Арбузный лимонад
 image: "/uploads/waterm%20lemonade.png"
 ---
 
-Электронная сигарета Burn Pro Watermelon Lemonade -- вкусный и менее вредный аналог сигаретам. Burn Pro Watermelon Lemonade/ Арбузный Лимонад - вкус арбуза, сделает каждую затяжку фруктовой!
+Электронная сигарета Bjorn Pro Watermelon Lemonade -- вкусный и менее вредный аналог сигаретам. Bjorn Pro Watermelon Lemonade/ Арбузный Лимонад - вкус арбуза, сделает каждую затяжку фруктовой!
