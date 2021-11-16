@@ -1,12 +1,12 @@
 ---
-title: Burn Pro Grape Mango
+title: Bjorn Pro Grape Mango
 date: 2021-11-10 09:01:00 Z
 position: 5
-title-seo: Burn Pro Grape Mango - купить в Казахстане
-descr: Электронная сигарета Burn Pro Grape Mango -- вкусный и менее вредный аналог
+title-seo: Bjorn Pro Grape Mango - купить в Казахстане
+descr: Электронная сигарета Bjorn Pro Grape Mango -- вкусный и менее вредный аналог
   сигаретам. Виноград и Манго/ Grape Mango - насыщенный вкус ягоды черники в сочетание
   с йогуртом. Ягодно-десертный аромат с сливочным послевкусием.
-product-name: Burn Pro Grape Mango
+product-name: Bjorn Pro Grape Mango
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -16,4 +16,4 @@ taste: Виноград и манго
 image: "/uploads/grape%20mango.png"
 ---
 
-Электронная сигарета Burn Pro Grape Mango -- вкусный и менее вредный аналог сигаретам. Виноград и Манго/ Grape Mango - насыщенный вкус ягоды черники в сочетание с йогуртом. Ягодно-десертный аромат с сливочным послевкусием.
+Электронная сигарета Bjorn Pro Grape Mango -- вкусный и менее вредный аналог сигаретам. Виноград и Манго/ Grape Mango - насыщенный вкус ягоды черники в сочетание с йогуртом. Ягодно-десертный аромат с сливочным послевкусием.
