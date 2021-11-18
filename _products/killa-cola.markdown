@@ -11,6 +11,7 @@ product-name: Killa Cola
 nicotine: 24
 portions: 20
 price: 2500
+brand: Other brands
 strong: Крепкий
 taste: Кока-Кола
 image: "/uploads/2-2a9528.png"
