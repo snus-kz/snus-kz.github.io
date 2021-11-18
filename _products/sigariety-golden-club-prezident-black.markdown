@@ -1,7 +1,7 @@
 ---
 title: СИГАРЕТЫ "GOLDEN CLUB PREZIDENT BLACK"
 date: 2021-07-23 08:47:00 Z
-position: 82
+position: 92
 title-seo: СИГАРЕТЫ "GOLDEN CLUB PREZIDENT BLACK" - купить в Казахстане
 descr: 'Сигареты "Golden Club Prezident Black" Длина: 100 мм. Диаметр: 6 мм. Крепкость:
   средняя. Количество: 20 шт.'
