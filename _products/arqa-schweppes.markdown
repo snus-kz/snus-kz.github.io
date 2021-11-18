@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 sale: new-snus
 taste: Швепс
-image: "/uploads/Arqa%20schweppes.jpeg"
+image: "/uploads/schwe.png"
 has_availability: true
 ---
 
