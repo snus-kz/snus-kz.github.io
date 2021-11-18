@@ -13,7 +13,7 @@ nicotine: 70
 portions: 20
 gram: 20
 price: 2500
-brand: Other brands
+brand: Russian products
 strong: Крепкий
 taste: Мармелад
 image: "/uploads/maralade.png"
