@@ -1,7 +1,7 @@
 ---
 title: Candy shop Strawberry Cream
 date: 2021-10-31 04:54:00 Z
-position: 30
+position: 31
 title-seo: 'Candy shop Strawberry Cream  -купить в Казахстане со вкусом '
 descr: "Candy shop \U0001F353Strawberry Cream — бестабачная жевательная смесь, со
   вкусом Клубничный йогурта\U0001F353. "
