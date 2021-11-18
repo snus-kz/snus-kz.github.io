@@ -1,10 +1,10 @@
 ---
-title: ARQA Schweppes
+title: Arqa Schweppes
 date: 2020-11-26 16:24:00 Z
 position: 0
-title-seo: ARQA Schweppes - купить в Казахстане
-descr: ARQA Schweppes
-product-name: ARQA Schweppes
+title-seo: Arqa Schweppes - купить в Казахстане
+descr: Arqa Schweppes
+product-name: Arqa Schweppes
 nicotine: 70
 portions: 20
 gram: 20
