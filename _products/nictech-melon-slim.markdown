@@ -10,6 +10,7 @@ descr: |-
 product-name: Nictech Melon Slim
 nicotine: 60
 portions: 20
+brand: Russian products
 taste: Дыня
 image: "/uploads/9-9bcd8c.png"
 ---
