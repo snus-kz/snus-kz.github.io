@@ -12,7 +12,7 @@ nicotine: 60
 portions: 20
 brand: Russian products
 taste: Дыня
-image: "/uploads/9-9bcd8c.png"
+image: "/uploads/12-a2962b.png"
 ---
 
 Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
