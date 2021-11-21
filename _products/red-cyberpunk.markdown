@@ -1,7 +1,7 @@
 ---
 title: Red Cyberpunk
 date: 2021-11-18 10:53:00 Z
-position: 28
+position: 36
 title-seo: 'Red Cyberpunk
 
 '
