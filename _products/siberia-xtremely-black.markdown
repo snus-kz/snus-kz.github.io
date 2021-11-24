@@ -14,6 +14,7 @@ product-name: Siberia Xtremely Black
 nicotine: 43
 portions: 20
 gram: 16
+price: 3200
 brand: Siberia
 image: "/uploads/siberia.png"
 ---
