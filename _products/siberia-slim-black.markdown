@@ -1,7 +1,7 @@
 ---
 title: Siberia Slim  Black
 date: 2021-10-22 13:44:00 Z
-position: 97
+position: 107
 title-seo: Siberia Slim  Black - купить в Казахстане
 descr: 'Siberia Slim  Black - купить в Казахстане, сибирь популярный шведский брэнд '
 product-name: Siberia Slim  Black

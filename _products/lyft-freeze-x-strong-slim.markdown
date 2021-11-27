@@ -1,7 +1,7 @@
 ---
 title: LYFT Freeze X-Strong Slim
 date: 2020-02-09 04:43:00 Z
-position: 124
+position: 134
 title-seo: "Lyft купить в Казахстане \nТабак купить в Казахстане "
 descr: |-
   Lyft белые мешочки без табака
