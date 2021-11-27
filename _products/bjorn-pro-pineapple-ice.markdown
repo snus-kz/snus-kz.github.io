@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Pineapple Ice
 date: 2021-11-22 05:35:00 Z
-position: 4
+position: 5
 title-seo: Bjorn Pro Pineapple Ice
 descr: Электронная сигарета Bjorn Pro Pineapple Ice -- вкусный и менее вредный аналог
   сигаретам Pineapple Ice / Ананас с холодком - насыщенный вкус спелого яблока сделают
