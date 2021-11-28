@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Raspberry Lemonade Slush
 date: 2021-11-22 05:51:00 Z
-position: 6
+position: 7
 title-seo: Bjorn Pro Raspberry Lemonade Slush
 descr: Электронная сигарета Bjorn Pro Raspberry Lemonade Slush -- вкусный и менее
   вредный аналог сигаретам Bjorn Pro Raspberry Lemonade Slush / Малиновый Лимонад
