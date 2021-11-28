@@ -8,10 +8,11 @@ product-name: Velo Ice Cool Strong
 nicotine: 14
 portions: 24
 gram: '16,8'
-price: 2300
+price: 2500
+new-price: 1700
 brand: Other brands
-strong: Легкий
-sale: new-snus
+strong: Средней крепости
+sale: sale
 taste: Мята
 image: "/uploads/ice_cool_three_dots_10mg_velo_cbdvape4u.jpg"
 has_availability: true
