@@ -13,7 +13,7 @@ gram: 20
 brand: Russian products
 strong: Крепкий
 taste: Ягоды
-image: "/uploads/vekli.png"
+image: "/uploads/vekli-d9bc33.png"
 ---
 
 Velo - Белые паучи (никотиновые подушечки) для потребления никотина без табака, удобно располагать под верхней губой.
