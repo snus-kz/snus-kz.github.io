@@ -11,6 +11,7 @@ price: 2500
 brand: Russian products
 taste: Голубика
 image: "/uploads/2-49d99f.png"
+has_availability: false
 ---
 
 Stalker Blueberry - это крепкий продукт, с содержанием никотина 99 мг. Голубика отлично дополняет высокую крепость, что по-настоящему дает насладится данным снюсом. Не содержит табак!
