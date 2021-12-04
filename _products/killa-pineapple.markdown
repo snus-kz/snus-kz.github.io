@@ -9,6 +9,7 @@ descr: Снюс Killa Cola – это качественная альтерна�
 product-name: Killa Pineapple
 nicotine: 16
 portions: 20
+price: 3000
 brand: Russian products
 strong: Крепкий
 taste: Ананас
