@@ -8,7 +8,7 @@ descr: Снюс Red X Stigma Pepsi-в новом дизайне.Бестабач
   и ODENS.
 product-name: RED Pepsi Stigma Edition
 nicotine: 70
-portions: 80
+portions: 20
 price: 2500
 brand: Other brands
 strong: Крепкий
