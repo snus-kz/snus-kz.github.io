@@ -14,6 +14,7 @@ portions: 20
 brand: Russian products
 taste: Кокос
 image: "/uploads/10-7590c8.png"
+has_availability: false
 ---
 
 Снюс Nictech Coconut Slim 60-новое слово среди вкусовых бестабачных линеек.
