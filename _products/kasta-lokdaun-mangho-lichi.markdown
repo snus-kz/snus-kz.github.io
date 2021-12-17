@@ -13,6 +13,7 @@ brand: Russian products
 composition: Порционный
 strong: Очень крепкий
 image: "/uploads/Kasta%20mango%20lychy.jpg"
+has_availability: false
 ---
 
 Крепость - 105мг/г.
