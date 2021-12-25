@@ -6,7 +6,7 @@ title-seo: Klint Passionfruit - купить в Казахстане
 descr: "KLINTs Passionfruit дарит соблазнительные и сочные ощущения благодаря своему
   сладкому и привлекательному вкусу в окружении других экзотических фруктов, которые
   сохраняют вкус. \nЭто заставляет задуматься "
-product-name: Klint Passionfruit
+product-name: Klint Passion fruit
 nicotine: 8
 portions: 24
 gram: '16,8'
