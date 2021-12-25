@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Pina Colada
 date: 2021-11-22 05:53:00 Z
-position: 24
+position: 27
 title-seo: Bjorn Pro Pina Colada
 descr: Электронная сигарета Bjorn Pro Pina Colada -- вкусный и менее вредный аналог
   сигаретам Bjorn Pro Pina Colada / Пина Колада - насыщенный вкус спелого яблока сделают
