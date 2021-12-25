@@ -1,7 +1,7 @@
 ---
 title: RED Supreme Cola
 date: 2021-08-21 04:40:00 Z
-position: 67
+position: 68
 title-seo: Stigma Supreme Cola - купить в Казахстане
 descr: Stigma Supreme Cola ,купить бестабачную смесь со вкусом колы
 product-name: Stigma Supreme Cola
