@@ -1,7 +1,7 @@
 ---
 title: Nictech Barberry Slim
 date: 2021-11-21 07:35:00 Z
-position: 51
+position: 59
 title-seo: Nictech Barberry Slim
 descr: |-
   Снюс Nictech Barberry Slim 60-новое слово среди вкусовых бестабачных линеек.
