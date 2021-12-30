@@ -9,6 +9,7 @@ nicotine: 50
 brand: Russian products
 taste: киви
 image: "/uploads/hulk.png"
+has_availability: false
 ---
 
 Снюс Corvus Hulk со вкусом киви Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 

@@ -10,6 +10,7 @@ portions: 20
 brand: Russian products
 taste: лесные ягоды
 image: "/uploads/joker.png"
+has_availability: false
 ---
 
 Corvus Joker Wild Berries со вкусом лесной ягоды. Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 
