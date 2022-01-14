@@ -9,7 +9,7 @@ product-name: SIBERIA BLUE WHITE SLIM
 nicotine: 24
 portions: 20
 gram: 20
-price: 3200
+price: 3400
 brand: Siberia
 strong: Средней крепости
 sale: new-snus

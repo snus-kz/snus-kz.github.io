@@ -9,7 +9,7 @@ product-name: Siberia -80 Degrees White Dry MINI
 nicotine: 43
 portions: 20
 gram: 9
-price: 3500
+price: 3700
 brand: Siberia
 strong: Крепкий
 taste: Мята
