@@ -10,7 +10,7 @@ product-name: Siberia -80°C Slim White Dry
 nicotine: 43
 portions: 21
 gram: 13
-price: 3200
+price: 3400
 brand: Siberia
 sale: best-snus
 taste: Традиционный табак, мята
