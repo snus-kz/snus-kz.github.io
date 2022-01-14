@@ -8,7 +8,7 @@ product-name: Siberia Brown Portion
 nicotine: 43
 portions: 20
 gram: 20
-price: 3200
+price: 3400
 brand: Siberia
 strong: Крепкий
 sale: new-snus
