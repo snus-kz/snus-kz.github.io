@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Cola Ice
 date: 2021-11-22 04:07:00 Z
-position: 49
+position: 53
 title-seo: Bjorn Pro Cola Ice
 descr: 'Электронная сигарета Bjorn Pro Cola Ice -- вкусный и менее вредный аналог
   сигаретам Bjorn Pro Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую
