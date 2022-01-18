@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Strawberry Banana
 date: 2021-11-22 06:02:00 Z
-position: 53
+position: 55
 title-seo: Bjorn Pro Strawberry Banana
 descr: Электронная сигарета Bjorn Pro Strawberry Banana -- вкусный и менее вредный
   аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелой клубники
