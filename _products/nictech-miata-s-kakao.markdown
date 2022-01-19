@@ -9,6 +9,7 @@ descr: |-
 product-name: 'Nictech Мята с Какао '
 nicotine: 60
 portions: 20
+brand: Russian products
 taste: Мята с какао
 image: "/uploads/6-108237.png"
 ---
