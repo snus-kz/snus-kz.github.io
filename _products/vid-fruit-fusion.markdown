@@ -11,6 +11,7 @@ product-name: Vid Fruit Fusion
 nicotine: 12
 portions: 20
 gram: 14
+price: 3200
 brand: Other brands
 taste: Фрукты
 image: "/uploads/14-80ddd0.png"

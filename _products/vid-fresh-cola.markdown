@@ -11,6 +11,7 @@ product-name: Vid Fresh Cola
 nicotine: 12
 portions: 20
 gram: 14
+price: 3200
 brand: Other brands
 taste: Кола
 image: "/uploads/13-fcc4cd.png"
