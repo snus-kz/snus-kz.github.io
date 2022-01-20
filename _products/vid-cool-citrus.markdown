@@ -11,6 +11,7 @@ product-name: Vid Cool Citrus
 nicotine: 12
 portions: 20
 gram: 14
+price: 3200
 brand: Other brands
 taste: цитрус
 image: "/uploads/15-305d46.png"
