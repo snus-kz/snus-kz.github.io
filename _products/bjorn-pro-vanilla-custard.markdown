@@ -15,4 +15,4 @@ brand: VAPE KIT и электронные сигареты
 image: "/uploads/vanills.png"
 ---
 
-Электронная сигарета Bjorn URSUS Vanilla Custard -- вкусный и менее вредный аналог сигаретам Bjorn Pro Vanilla Custard / Ванильный крем - насыщенный вкус ванили сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Vanilla Custard -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Vanilla Custard / Ванильный крем - насыщенный вкус ванили сделают каждую затяжку сочной!
