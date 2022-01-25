@@ -1,12 +1,12 @@
 ---
-title: Bjorn Pro Pineapple Ice
+title: Bjorn URSUS Pineapple Ice
 date: 2021-11-22 05:35:00 Z
 position: 70
-title-seo: Bjorn Pro Pineapple Ice
-descr: Электронная сигарета Bjorn Pro Pineapple Ice -- вкусный и менее вредный аналог
+title-seo: Bjorn URSUS Pineapple Ice
+descr: Электронная сигарета Bjorn URSUS Pineapple Ice -- вкусный и менее вредный аналог
   сигаретам Pineapple Ice / Ананас с холодком - насыщенный вкус спелого яблока сделают
   каждую затяжку сочной!
-product-name: Bjorn Pro Pineapple Ice
+product-name: Bjorn URSUS Pineapple Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -16,4 +16,4 @@ taste: Ананас
 image: "/uploads/pineapple%20ice.png"
 ---
 
-Электронная сигарета Bjorn Pro Pineapple Ice -- вкусный и менее вредный аналог сигаретам Pineapple Ice / Ананас с холодком - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Pineapple Ice -- вкусный и менее вредный аналог сигаретам Pineapple Ice / Ананас с холодком - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
