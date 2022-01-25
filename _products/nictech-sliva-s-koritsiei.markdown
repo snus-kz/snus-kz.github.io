@@ -1,7 +1,7 @@
 ---
 title: Nictech Слива с Корицей
 date: 2022-01-19 17:36:00 Z
-position: 9
+position: 11
 title-seo: Nictech Слива с Корицей
 descr: |-
   Nictech Слива с Корицей - cпециальная новинка среди вкусовых бестабачных линеек.
