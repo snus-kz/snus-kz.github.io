@@ -1,12 +1,12 @@
 ---
-title: Bjorn Pro Apple Soda
+title: Bjorn URSUS Apple Soda
 date: 2021-11-22 04:00:00 Z
 position: 77
-title-seo: Bjorn Pro Apple Soda
+title-seo: Bjorn URSUS Apple Soda
 descr: |2
 
   Электронная сигарета Bjorn Pro Apple Soda -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
-product-name: Bjorn Pro Apple Soda
+product-name: Bjorn URSUS Apple Soda
 nicotine: "-"
 portions: "-"
 price: 4500
@@ -16,4 +16,4 @@ image: "/uploads/applesoda.png"
 ---
 
 
-Электронная сигарета Bjorn Pro Apple Soda -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Apple Soda -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
