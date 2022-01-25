@@ -6,7 +6,7 @@ title-seo: Bjorn URSUS Cherry Ice
 descr: Электронная сигарета Bjorn URSUS Cherry Ice -- -- вкусный и менее вредный аналог
   сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают
   каждую затяжку сочной!
-product-name: Bjorn Pro Cherry Ice
+product-name: Bjorn URSUS Cherry Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
