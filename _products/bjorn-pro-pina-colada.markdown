@@ -4,8 +4,8 @@ date: 2021-11-22 05:53:00 Z
 position: 72
 title-seo: Bjorn URSUS Pina Colada
 descr: Электронная сигарета Bjorn URSUS Pina Colada -- вкусный и менее вредный аналог
-  сигаретам Bjorn Pro Pina Colada / Пина Колада - насыщенный вкус спелого яблока сделают
-  каждую затяжку сочной!
+  сигаретам Bjorn URSUS Pina Colada / Пина Колада - насыщенный вкус спелого яблока
+  сделают каждую затяжку сочной!
 product-name: Bjorn URSUS Pina Colada
 nicotine: "-"
 portions: "-"
@@ -16,4 +16,4 @@ taste: Пина Колада
 image: "/uploads/pinacolada.png"
 ---
 
-Электронная сигарета Bjorn URSUS Pina Colada -- вкусный и менее вредный аналог сигаретам Bjorn Pro Pina Colada / Пина Колада - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Pina Colada -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Pina Colada / Пина Колада - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
