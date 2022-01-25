@@ -1,12 +1,12 @@
 ---
-title: Bjorn Pro Vanilla Custard
+title: Bjorn URSUS Vanilla Custard
 date: 2021-11-22 05:59:00 Z
 position: 74
-title-seo: Bjorn Pro Vanilla Custard
+title-seo: Bjorn URSUS Vanilla Custard
 descr: Электронная сигарета Bjorn Pro Vanilla Custard -- вкусный и менее вредный аналог
   сигаретам Bjorn Pro Vanilla Custard / Ванильный крем - насыщенный вкус ванили сделают
   каждую затяжку сочной!
-product-name: Bjorn Pro Vanilla Custard
+product-name: Bjorn URSUS Vanilla Custard
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -15,4 +15,4 @@ brand: VAPE KIT и электронные сигареты
 image: "/uploads/vanills.png"
 ---
 
-Электронная сигарета Bjorn Pro Vanilla Custard -- вкусный и менее вредный аналог сигаретам Bjorn Pro Vanilla Custard / Ванильный крем - насыщенный вкус ванили сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Vanilla Custard -- вкусный и менее вредный аналог сигаретам Bjorn Pro Vanilla Custard / Ванильный крем - насыщенный вкус ванили сделают каждую затяжку сочной!
