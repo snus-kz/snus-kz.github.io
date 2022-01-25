@@ -1,14 +1,14 @@
 ---
-title: Bjorn Pro Cola Ice
+title: Bjorn URSUS Cola Ice
 date: 2021-11-22 04:07:00 Z
 position: 69
-title-seo: Bjorn Pro Cola Ice
-descr: 'Электронная сигарета Bjorn Pro Cola Ice -- вкусный и менее вредный аналог
-  сигаретам Bjorn Pro Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую
+title-seo: Bjorn URSUS Cola Ice
+descr: 'Электронная сигарета Bjorn URSUS Cola Ice -- вкусный и менее вредный аналог
+  сигаретам Bjorn URSUS Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую
   затяжку сочной!
 
 '
-product-name: Bjorn Pro Cola Ice
+product-name: Bjorn URSUS Cola Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
@@ -18,4 +18,4 @@ taste: Кола
 image: "/uploads/cola-f7ff74.png"
 ---
 
-Электронная сигарета Bjorn Pro Cola Ice -- вкусный и менее вредный аналог сигаретам Bjorn Pro Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Cola Ice -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую затяжку сочной!
