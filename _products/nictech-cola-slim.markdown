@@ -1,7 +1,7 @@
 ---
 title: Nictech Cola Slim
 date: 2021-11-21 07:00:00 Z
-position: 1
+position: 8
 title-seo: Nictech Cola Slim
 descr: 'Снюс Nictech Cola Slim 60-новое слово среди вкусовых бестабачных линеек.
 
