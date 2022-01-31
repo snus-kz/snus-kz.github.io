@@ -1,7 +1,7 @@
 ---
 title: SKYI D6 PLUS
 date: 2021-06-15 06:16:00 Z
-position: 198
+position: 199
 title-seo: SKYI D6 PLUS - купить оптом и в розницу в Казахстане
 descr: SKYI D6 PLUS - купить оптом и в розницу в Казахстане ,
 product-name: SKYI D6 PLUS
