@@ -12,7 +12,7 @@ price: 2500
 brand: Russian products
 taste: Малина
 image: "/uploads/4.png"
-has_availability: false
+has_availability: 'True'
 ---
 
 KASTA Малиновая самоизоляция
