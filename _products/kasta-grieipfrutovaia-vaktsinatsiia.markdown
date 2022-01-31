@@ -13,7 +13,7 @@ brand: Russian products
 strong: Очень крепкий
 taste: 'Грейпфрут '
 image: "/uploads/kasta%20greipfruits.jpg"
-has_availability: false
+has_availability: 'True'
 ---
 
 ### KASTA Грейпфрутовая вакцинация
