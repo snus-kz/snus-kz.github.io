@@ -1,7 +1,7 @@
 ---
 title: Odens Cold  White Dry Slim
 date: 2021-05-07 08:45:00 Z
-position: 0
+position: 6
 title-seo: Odens cold dry slim -купить в Казахстане
 descr: 'Odens cold dry slim -купить в Казахстане '
 product-name: Odens Cold  White Dry Slim

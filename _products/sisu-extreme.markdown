@@ -1,7 +1,7 @@
 ---
 title: Sisu Extreme
 date: 2021-11-21 09:10:00 Z
-position: 93
+position: 97
 title-seo: Sisu Extreme
 descr: |-
   Это их первый белый сухой продукт, и это их первый «экстремальный» или супер крепкий продукт.
