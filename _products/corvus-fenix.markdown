@@ -11,7 +11,7 @@ nicotine: 50
 portions: 20
 brand: Russian products
 image: "/uploads/fenix.png"
-has_availability: true
+has_availability: false
 ---
 
 Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 
