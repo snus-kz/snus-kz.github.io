@@ -1,13 +1,13 @@
 ---
-title: Siberia Slim  Black
+title: Siberia Slim  Black 13 gr
 date: 2021-10-22 13:44:00 Z
 position: 3
 title-seo: Siberia Slim  Black - купить в Казахстане
 descr: 'Siberia Slim  Black - купить в Казахстане, сибирь популярный шведский брэнд '
-product-name: Siberia Slim  Black
+product-name: Siberia Slim  Black 13 gr
 nicotine: 43
 portions: 20
-gram: 20
+gram: 13
 price: 3400
 brand: Siberia
 strong: Крепкий
