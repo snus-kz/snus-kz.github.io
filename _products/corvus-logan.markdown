@@ -25,6 +25,7 @@ portions: 20
 brand: Russian products
 taste: Дыня
 image: "/uploads/1-c345fe.png"
+has_availability: false
 ---
 
 Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в  (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 
