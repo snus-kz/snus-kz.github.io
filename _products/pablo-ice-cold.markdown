@@ -13,7 +13,7 @@ brand: Other brands
 strong: Крепкий
 sale: new-snus
 taste: Аромат жвачки
-image: "/uploads/Pablo_Ice_Cold.png"
+image: "/uploads/pab.png"
 has_availability: true
 ---
 

@@ -12,7 +12,7 @@ price: 2500
 brand: Russian products
 sale: new-snus
 taste: Переччная мята
-image: "/uploads/2021-08-07%2013.51.27.jpg"
+image: "/uploads/lsft.png"
 ---
 
 The Last of us peppermint  -со вкусом перечной мяты

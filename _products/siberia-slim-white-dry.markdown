@@ -14,7 +14,7 @@ price: 3400
 brand: Siberia
 sale: best-snus
 taste: Традиционный табак, мята
-image: "/uploads/Siberia%20red-min.jpg"
+image: "/uploads/reeds.png"
 has_availability: true
 ---
 
