@@ -11,6 +11,7 @@ product-name: Pablo Ice Cold Slim
 nicotine: 43
 portions: 20
 gram: 13
+price: 3000
 brand: Russian products
 image: "/uploads/3-0f68ab.png"
 ---
