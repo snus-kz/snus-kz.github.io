@@ -15,6 +15,7 @@ gram: 10
 brand: Russian products
 taste: 'Мятный Шоколад '
 image: "/uploads/7-913fe6.png"
+has_availability: false
 ---
 
 Снюс Kasta Мятный Шоколад - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.
