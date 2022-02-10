@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Табак, Мята
 image: "/uploads/SIBERIA%20BROWN%20-min.jpg"
+has_availability: true
 ---
 
 ### Siberia Brown Portion
