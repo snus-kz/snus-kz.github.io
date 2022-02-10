@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Banana Milk
 date: 2021-11-10 07:38:00 Z
-position: 150
+position: 151
 title-seo: Bjorn  Pro Banana Milk - купить в казахстане
 descr: Электронная сигарета Bjorn  Pro Banana Milk -- вкусный и менее вредный аналог
   сигаретам Banana Milk / Банановый милкшейк - насыщенный вкус спелой мякоти банана
