@@ -12,6 +12,7 @@ nicotine: 150
 portions: 30
 gram: 15
 brand: Russian products
+sale: new-snus
 taste: Жвачка
 image: "/uploads/13-e489cb.png"
 ---
