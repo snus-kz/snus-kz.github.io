@@ -1,7 +1,7 @@
 ---
 title: Nictech Energy Slim
 date: 2021-11-19 04:53:00 Z
-position: 109
+position: 126
 title-seo: Nictech Energy Slim
 descr: |-
   Снюс Nictech Energy Slim 60-новое слово среди вкусовых бестабачных линеек.
