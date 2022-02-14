@@ -10,6 +10,7 @@ product-name: Faff Top Gum
 nicotine: 150
 portions: 30
 gram: 15
+brand: Russian products
 taste: Жвачка
 image: "/uploads/13-e489cb.png"
 ---
