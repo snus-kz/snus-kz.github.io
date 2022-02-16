@@ -9,6 +9,7 @@ nicotine: 45
 portions: 20
 gram: 10
 price: 2300
+new-price: 2000
 brand: Russian products
 strong: Средней крепости
 sale: sale
