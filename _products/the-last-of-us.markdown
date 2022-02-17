@@ -8,7 +8,8 @@ product-name: 'The Last of us peppermint '
 nicotine: 105
 portions: 20
 gram: 13
-price: 1800
+price: 2500
+new-price: 1800
 brand: Russian products
 sale: new-snus
 taste: Переччная мята
