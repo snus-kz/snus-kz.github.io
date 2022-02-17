@@ -1,7 +1,7 @@
 ---
 title: VELO Freeze
 date: 2021-08-17 10:43:00 Z
-position: 193
+position: 200
 title-seo: VELO Freeze- купить в Казахстан
 descr: VELO Freeze - купить в Казахстане ,хорошая цена
 product-name: VELO Freeze
