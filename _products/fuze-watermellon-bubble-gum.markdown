@@ -6,7 +6,7 @@ descr: Снюс Fuze Watermellon Bubble Gum со вкусом малины. За
   мг никотина. В банке 20-25 порций.
 product-name: Fuze Watermellon Bubble Gum
 nicotine: 150
-portions: 20
+portions: 30
 brand: Russian products
 taste: Арбузная жвачка
 image: "/uploads/5-267335.png"

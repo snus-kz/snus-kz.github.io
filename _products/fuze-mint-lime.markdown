@@ -6,7 +6,7 @@ descr: Снюс Fuze Mint Lime со вкусом мяты. Заявленная 
   банке 20-25 порций.
 product-name: Fuze Mint Lime
 nicotine: 150
-portions: 20
+portions: 30
 brand: Russian products
 image: "/uploads/7-013056.png"
 ---
