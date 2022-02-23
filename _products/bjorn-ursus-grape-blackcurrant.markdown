@@ -3,7 +3,7 @@ title: Bjorn URSUS Grape Blackcurrant
 date: 2022-02-23 05:50:00 Z
 title-seo: Bjorn URSUS Grape Blackcurrant
 descr: 'Электронная сигарета Bjorn URSUS Grape Blackcurrant  -- вкусный и менее вредный
-  аналог сигаретам Apple Mango Pear/Яблоко Манго Груша - насыщенный вкус фруктов сделают
+  аналог сигаретам Grape Blackcurrant/Виноград Черника - насыщенный вкус фруктов сделают
   каждую затяжку сочной!
 
 '
@@ -17,4 +17,4 @@ taste: Виноград
 image: "/uploads/5-630816.png"
 ---
 
-Электронная сигарета Bjorn URSUS Grape Blackcurrant  -- вкусный и менее вредный аналог сигаретам Apple Mango Pear/Яблоко Манго Груша - насыщенный вкус фруктов сделают каждую затяжку сочной!
+Электронная сигарета Bjorn URSUS Grape Blackcurrant  -- вкусный и менее вредный аналог сигаретам Grape Blackcurrant/Виноград Черника - насыщенный вкус фруктов сделают каждую затяжку сочной!
