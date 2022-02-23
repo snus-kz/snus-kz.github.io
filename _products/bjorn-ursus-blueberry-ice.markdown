@@ -8,6 +8,9 @@ descr: 'Электронная сигарета Bjorn URSUS Blueberry Ice -- в�
 
 '
 product-name: Bjorn URSUS Blueberry Ice
+nicotine: "-"
+portions: "-"
+gram: "-"
 price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: черника
