@@ -10,6 +10,7 @@ nicotine: 9
 portions: 20
 gram: 10
 price: 3000
+new-price: 2500
 brand: Other brands
 strong: Легкий
 taste: Апельсин
