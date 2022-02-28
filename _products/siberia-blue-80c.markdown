@@ -11,7 +11,7 @@ descr: 'Снюс Siberia Blue/ Синяя Сибирь по крепости н�
 product-name: Siberia Blue -80 C
 nicotine: 24
 portions: 20
-price: 3400
+price: 3600
 brand: Siberia
 strong: Крепкий
 image: "/uploads/siberia123.png"
