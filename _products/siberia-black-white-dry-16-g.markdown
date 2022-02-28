@@ -8,7 +8,7 @@ product-name: Siberia  Black White Dry 16 g
 nicotine: 43
 portions: 20
 gram: 16
-price: 3400
+price: 3600
 brand: Siberia
 composition: Порционный
 strong: Крепкий
