@@ -8,7 +8,7 @@ product-name: Siberia Slim  Black 13 gr
 nicotine: 43
 portions: 20
 gram: 13
-price: 3400
+price: 3600
 brand: Siberia
 strong: Крепкий
 sale: new-snus
