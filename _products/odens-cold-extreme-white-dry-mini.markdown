@@ -9,7 +9,7 @@ product-name: Oden’s Cold Extreme White Dry MINI
 nicotine: 22
 portions: 20
 gram: 9
-price: 3200
+price: 3500
 brand: Odens
 strong: Крепкий
 sale: new-snus

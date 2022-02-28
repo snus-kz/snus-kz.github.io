@@ -8,7 +8,7 @@ product-name: Odens Cold  White Dry Slim
 nicotine: 22
 portions: 17
 gram: 13
-price: 3200
+price: 3500
 brand: Odens
 composition: Порционный
 strong: Средней крепости
