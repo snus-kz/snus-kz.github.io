@@ -12,6 +12,7 @@ portions: 20
 brand: Russian products
 taste: Кола
 image: "/uploads/5-06144c.png"
+has_availability: false
 ---
 
 Снюс Nictech Cola Slim 60-новое слово среди вкусовых бестабачных линеек.

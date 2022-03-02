@@ -13,6 +13,7 @@ portions: 20
 brand: Russian products
 taste: Мармелад
 image: "/uploads/2-74da15.png"
+has_availability: false
 ---
 
 Nictech Gummy Bear  - cпециальная новинка среди вкусовых бестабачных линеек.

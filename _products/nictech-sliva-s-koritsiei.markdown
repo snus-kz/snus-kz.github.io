@@ -13,6 +13,7 @@ portions: 20
 brand: Russian products
 taste: Слива с корицей
 image: "/uploads/1-cb7d68.png"
+has_availability: false
 ---
 
 Nictech Слива с Корицей - cпециальная новинка среди вкусовых бестабачных линеек.
