@@ -12,6 +12,7 @@ portions: 20
 brand: Russian products
 taste: Яблоко
 image: "/uploads/4-0d6e30.png"
+has_availability: false
 ---
 
 Снюс Nictech Green Apple Slim 60-новое слово среди вкусовых бестабачных линеек.

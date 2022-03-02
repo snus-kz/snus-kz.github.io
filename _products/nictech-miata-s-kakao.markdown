@@ -13,6 +13,7 @@ portions: 20
 brand: Russian products
 taste: Мята с какао
 image: "/uploads/6-108237.png"
+has_availability: false
 ---
 
 Nictech Мята с Какао  - cпециальная новинка среди вкусовых бестабачных линеек.

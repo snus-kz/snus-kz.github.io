@@ -14,7 +14,7 @@ portions: 20
 brand: Russian products
 taste: Тропический Микс
 image: "/uploads/11-7bcdc3.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.

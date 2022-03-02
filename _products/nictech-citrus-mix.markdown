@@ -14,6 +14,7 @@ portions: 20
 brand: Russian products
 taste: Цитрус
 image: "/uploads/8-9dea2c.png"
+has_availability: false
 ---
 
 Снюс Nictech Citrus Mix Slim 60-новое слово среди вкусовых бестабачных линеек.

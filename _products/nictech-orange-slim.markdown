@@ -12,6 +12,7 @@ portions: 20
 brand: Russian products
 taste: Апельсин
 image: "/uploads/7-d85763.png"
+has_availability: false
 ---
 
 Снюс Nictech Orange Slim 60-новое слово среди вкусовых бестабачных линеек.

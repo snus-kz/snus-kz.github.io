@@ -12,6 +12,7 @@ portions: 20
 brand: Russian products
 taste: Барбарис
 image: "/uploads/6-6ba6ee.png"
+has_availability: false
 ---
 
 Снюс Nictech Barberry Slim 60-новое слово среди вкусовых бестабачных линеек.
