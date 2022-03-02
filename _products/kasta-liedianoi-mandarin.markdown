@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Ледяной Мандарин
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: " Мандарин"
 image: "/uploads/10-2988bd.png"

@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Персик с Медом
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Персик с Медом
 image: "/uploads/9.png"
