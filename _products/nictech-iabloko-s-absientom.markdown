@@ -10,6 +10,7 @@ descr: |-
 product-name: Nictech Яблоко с Абсентом
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Яблоко с абсентом
 image: "/uploads/5-493694.png"
