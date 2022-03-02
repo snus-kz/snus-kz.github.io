@@ -7,6 +7,7 @@ descr: Снюс Nictech Strawberry Slim 60-новое слово среди вк
 product-name: Nictech Strawberry Slim
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 strong: Крепкий
 taste: Клубника
