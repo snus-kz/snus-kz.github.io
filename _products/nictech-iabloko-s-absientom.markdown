@@ -13,6 +13,7 @@ portions: 20
 brand: Russian products
 taste: Яблоко с абсентом
 image: "/uploads/5-493694.png"
+has_availability: false
 ---
 
 Nictech Яблоко с Абсентом  - cпециальная новинка среди вкусовых бестабачных линеек.

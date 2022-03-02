@@ -13,6 +13,7 @@ portions: 20
 brand: Russian products
 taste: Mistery
 image: "/uploads/4-e4a71a.png"
+has_availability: false
 ---
 
 Nictech Mistery  - cпециальная новинка среди вкусовых бестабачных линеек.
