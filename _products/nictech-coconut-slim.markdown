@@ -11,6 +11,7 @@ descr: |-
 product-name: Nictech Coconut Slim
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Кокос
 image: "/uploads/10-7590c8.png"

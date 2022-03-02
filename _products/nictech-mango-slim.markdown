@@ -11,6 +11,7 @@ descr: |-
 product-name: " Nictech Mango Slim"
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Манго
 image: "/uploads/9-088093.png"
