@@ -12,6 +12,7 @@ product-name: 'Kasta Мятный Шоколад '
 nicotine: 101
 portions: 20
 gram: 10
+price: 2700
 brand: Russian products
 taste: 'Мятный Шоколад '
 image: "/uploads/7-913fe6.png"

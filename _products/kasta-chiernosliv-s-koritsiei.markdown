@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Чернослив с Корицей
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Чернослив с Корицей
 image: "/uploads/8-a7aa39.png"

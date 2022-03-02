@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Яблоко Хвоя Корица
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Яблоко Хвоя Корица
 image: "/uploads/9-f6817f.png"

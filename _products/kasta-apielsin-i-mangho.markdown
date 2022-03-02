@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Апельсин и Манго
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Апельсин и Манго
 image: "/uploads/11-fb3171.png"
