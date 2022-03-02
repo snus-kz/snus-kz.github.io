@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Черничный Пирог
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Черника
 image: "/uploads/5-4d534f.png"
