@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Мята
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 image: "/uploads/7-b3a7d5.png"
 ---
