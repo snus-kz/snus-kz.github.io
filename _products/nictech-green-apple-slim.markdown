@@ -9,6 +9,7 @@ descr: |-
 product-name: Nictech Green Apple Slim
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Яблоко
 image: "/uploads/4-0d6e30.png"

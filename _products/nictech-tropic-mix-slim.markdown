@@ -11,6 +11,7 @@ descr: |-
 product-name: Nictech Tropic Mix Slim
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Тропический Микс
 image: "/uploads/11-7bcdc3.png"

@@ -8,6 +8,7 @@ descr: Снюс Nictech Isabella Grape Slim 60-новое слово среди 
 product-name: Nictech Isabella Grape
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 strong: Крепкий
 taste: Виноград
