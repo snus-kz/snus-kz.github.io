@@ -12,6 +12,7 @@ nicotine: 60
 portions: 20
 brand: Russian products
 image: "/uploads/3-9e3f3f.png"
+has_availability: false
 ---
 
 Nictech Новогодний - cпециальная новинка среди вкусовых бестабачных линеек.
