@@ -1,5 +1,5 @@
 ---
-title: Каста Локдаун манго личи
+title: Kasta Локдаун манго личи
 date: 2021-09-27 15:49:00 Z
 position: 41
 title-seo: Каста Локдаун манго личи - купить в Казахстане новинка
@@ -8,7 +8,7 @@ product-name: Каста Локдаун манго личи
 nicotine: 105
 portions: 20
 gram: 15
-price: 2500
+price: 2700
 brand: Russian products
 composition: Порционный
 strong: Очень крепкий
