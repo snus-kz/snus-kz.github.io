@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Bubble Gum
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Bubble Gum
 image: "/uploads/12.png"

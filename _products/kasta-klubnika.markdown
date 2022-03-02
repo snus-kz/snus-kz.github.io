@@ -11,6 +11,7 @@ descr: |-
 product-name: 'Kasta Клубника '
 nicotine: 101
 portions: 20
+price: 2700
 brand: Russian products
 taste: Клубника
 image: "/uploads/14.png"
