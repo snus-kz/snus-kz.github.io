@@ -9,6 +9,7 @@ descr: 'Снюс Nictech Cola Slim 60-новое слово среди вкус�
 product-name: Nictech Cola Slim
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Кола
 image: "/uploads/5-06144c.png"

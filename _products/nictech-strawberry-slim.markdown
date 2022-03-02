@@ -11,6 +11,7 @@ brand: Russian products
 strong: Крепкий
 taste: Клубника
 image: "/uploads/3-009056.png"
+has_availability: false
 ---
 
 Снюс Nictech Strawberry Slim 60-новое слово среди вкусовых бестабачных линеек.

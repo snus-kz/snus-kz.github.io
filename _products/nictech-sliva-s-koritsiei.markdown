@@ -10,6 +10,7 @@ descr: |-
 product-name: Nictech Слива с Корицей
 nicotine: 60
 portions: 20
+price: 2700
 brand: Russian products
 taste: Слива с корицей
 image: "/uploads/1-cb7d68.png"
