@@ -1,7 +1,7 @@
 ---
 title: Siberia Slim  Black 13 gr
 date: 2021-10-22 13:44:00 Z
-position: 39
+position: 44
 title-seo: Siberia Slim  Black - купить в Казахстане
 descr: 'Siberia Slim  Black - купить в Казахстане, сибирь популярный шведский брэнд '
 product-name: Siberia Slim  Black 13 gr
