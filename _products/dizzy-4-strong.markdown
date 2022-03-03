@@ -10,7 +10,7 @@ product-name: Dizzy 4 Strong
 nicotine: "-"
 portions: 10
 gram: "-"
-price: 2800
+price: 3500
 brand: Russian products
 image: "/uploads/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1-a9e873.png"
 ---
