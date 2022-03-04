@@ -9,7 +9,7 @@ descr: Red Vegas - бестабачная смесь от известного �
 product-name: Red Vegas
 nicotine: 150
 portions: 20
-price: 2500
+price: 2800
 brand: Other brands
 strong: Крепкий
 taste: Цитрус

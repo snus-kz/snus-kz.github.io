@@ -10,7 +10,7 @@ product-name: 'Red Cyberpunk
 '
 nicotine: 150
 portions: 20
-price: 2500
+price: 2800
 brand: Other brands
 taste: лимон
 image: "/uploads/cp.png"
