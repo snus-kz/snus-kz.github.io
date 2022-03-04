@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Ирисовая Карамель
 nicotine: 101
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Карамель
 image: "/uploads/4-1db615.png"

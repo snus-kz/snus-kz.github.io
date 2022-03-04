@@ -9,7 +9,7 @@ descr: Stalker Mint - это крепкий продукт, с содержан�
 product-name: Stalker Mint
 nicotine: 99
 portions: 20
-price: 2500
+price: 2800
 brand: Russian products
 strong: Очень крепкий
 image: "/uploads/1-28d5e9.png"
