@@ -11,6 +11,7 @@ descr: |-
 product-name: 'Fedrs Classic #5 SpearMint'
 nicotine: 30
 portions: 20
+price: 2800
 brand: Other brands
 taste: Мята
 image: "/uploads/4-39b71a.png"
