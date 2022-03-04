@@ -10,6 +10,7 @@ product-name: Faff Spearmint
 nicotine: 65
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 image: "/uploads/12-597014.png"
 ---

@@ -10,6 +10,7 @@ descr: FAFF Energy Cola — данный снюс является одним и
 product-name: FAFF Energy Cola
 nicotine: 75
 portions: 30
+price: 2800
 brand: Russian products
 taste: Кола
 image: "/uploads/5-dd15de.png"

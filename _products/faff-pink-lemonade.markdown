@@ -10,6 +10,7 @@ product-name: FAFF Pink Lemonade
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Лимонад
 image: "/uploads/11-c8df8c.png"

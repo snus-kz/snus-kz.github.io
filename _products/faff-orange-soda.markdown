@@ -9,6 +9,7 @@ product-name: FAFF Orange Soda
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Фанта
 image: "/uploads/8-478b8d.png"
