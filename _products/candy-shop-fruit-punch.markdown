@@ -9,7 +9,7 @@ product-name: Candy shop Fruit Punch
 nicotine: 80
 portions: 20
 gram: 13
-price: 2500
+price: 2800
 brand: Russian products
 strong: Средней крепости
 sale: new-snus

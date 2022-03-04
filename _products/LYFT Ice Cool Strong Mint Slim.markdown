@@ -10,7 +10,7 @@ product-name: LYFT Ice Cool Strong Mint Slim
 nicotine: 14
 portions: 24
 gram: '16,8'
-price: 2500
+price: 2800
 brand: Lyft
 strong: Крепкий
 sale: new-snus
