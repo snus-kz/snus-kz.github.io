@@ -8,7 +8,7 @@ product-name: RED Berry energy
 nicotine: 70
 portions: 20
 gram: '12,5'
-price: 2500
+price: 2800
 brand: Russian products
 strong: Крепкий
 taste: Ягоды энергетик
