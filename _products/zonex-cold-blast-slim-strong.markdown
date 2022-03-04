@@ -11,6 +11,7 @@ descr: |-
 product-name: ZoneX Cold Blast Slim Strong
 nicotine: 13
 portions: 20
+price: 2800
 brand: Other brands
 strong: Крепкий
 taste: Холодок
