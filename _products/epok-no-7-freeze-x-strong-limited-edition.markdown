@@ -8,7 +8,7 @@ product-name: Epok No 7 Freeze X Strong Limited Edition
 nicotine: 16
 portions: 22
 gram: 16
-price: 2300
+price: 2800
 brand: Other brands
 composition: Порционный
 strong: Крепкий

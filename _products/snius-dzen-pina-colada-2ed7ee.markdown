@@ -8,7 +8,7 @@ product-name: Dzen Pina Colada
 nicotine: 50
 portions: 25
 gram: 16
-price: 2500
+price: 2800
 brand: Russian products
 strong: Крепкий
 sale: new-snus
