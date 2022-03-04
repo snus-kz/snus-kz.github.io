@@ -8,6 +8,7 @@ descr: Снюс Fuze Blue Raspberry со вкусом малины. Заявле
 product-name: Fuze Blue Raspberry
 nicotine: 150
 portions: 30
+price: 2800
 brand: Russian products
 taste: Малина
 image: "/uploads/4-3bc5c7.png"

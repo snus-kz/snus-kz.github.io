@@ -8,6 +8,7 @@ descr: Снюс Fuze Multifruit со вкусом малины. Заявленн
 product-name: Fuze Multifruit
 nicotine: 150
 portions: 30
+price: 2800
 brand: Russian products
 taste: Мультифрукт
 image: "/uploads/6-27936d.png"
