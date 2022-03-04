@@ -8,7 +8,7 @@ product-name: KASTA Фисташковый спутник
 nicotine: 105
 portions: 20
 gram: 20
-price: 2500
+price: 2800
 brand: Russian products
 composition: Порционный
 strong: Очень крепкий
