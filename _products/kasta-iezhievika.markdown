@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Ежевика
 nicotine: 101
 portions: 20
+price: 2800
 brand: Russian products
 taste: Ежевика
 image: "/uploads/8-49394f.png"
