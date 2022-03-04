@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Джим Бим с Яблоком
 nicotine: 101
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: " Джим Бим с Яблоком"
 image: "/uploads/12-32dfc3.png"

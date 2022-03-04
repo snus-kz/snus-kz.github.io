@@ -9,6 +9,7 @@ descr: "Corvus Fenix со вкусом барбариса- Жевательна�
 product-name: Corvus Fenix
 nicotine: 50
 portions: 20
+price: 2800
 brand: Russian products
 image: "/uploads/fenix.png"
 has_availability: false
