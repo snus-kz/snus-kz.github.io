@@ -10,6 +10,7 @@ descr: |-
 product-name: Sisu Extreme
 nicotine: 20
 portions: 15
+price: 2800
 brand: Other brands
 image: "/uploads/sisu2.png"
 ---

@@ -11,6 +11,7 @@ descr: 'Снюс бренда “Thunder” из серии “X” чрезвы
 product-name: ThunderX Slim White Dry
 nicotine: 45
 portions: 22
+price: 2800
 brand: Other brands
 strong: Крепкий
 image: "/uploads/thunderx.png"
