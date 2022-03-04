@@ -14,6 +14,7 @@ product-name: |2-
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Вишнёвый пирог
 image: "/uploads/20.png"

@@ -13,6 +13,7 @@ product-name: RANDM GUMS WATERMELON
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Арбуз
 image: "/uploads/21.png"
