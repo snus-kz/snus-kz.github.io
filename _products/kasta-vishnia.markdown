@@ -11,7 +11,7 @@ descr: |-
 product-name: 'Kasta Вишня '
 nicotine: 101
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Вишня
 image: "/uploads/10.png"
