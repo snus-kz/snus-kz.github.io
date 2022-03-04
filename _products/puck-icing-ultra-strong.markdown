@@ -7,7 +7,7 @@ product-name: 'PUCK ICING ULTRA STRONG '
 nicotine: 45
 portions: 20
 gram: 32
-price: 2500
+price: 2800
 brand: Other brands
 strong: Средней крепости
 taste: Свежесть
