@@ -9,7 +9,7 @@ product-name: Candy shop Cherry Cola 80 mg
 nicotine: 80
 portions: 20
 gram: 13
-price: 2500
+price: 2800
 brand: Russian products
 strong: Крепкий
 taste: "\U0001F352\U0001F943 Кола с вишней"

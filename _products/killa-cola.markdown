@@ -10,7 +10,7 @@ descr: Снюс Killa Cola – это качественная альтерна�
 product-name: Killa Cola
 nicotine: 24
 portions: 20
-price: 2500
+price: 2800
 brand: Other brands
 strong: Крепкий
 taste: Кока-Кола
