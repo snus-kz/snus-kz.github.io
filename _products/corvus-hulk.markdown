@@ -6,6 +6,7 @@ title-seo: Corvus Hulk
 descr: Corvus Hulk
 product-name: Corvus Hulk
 nicotine: 50
+price: 2800
 brand: Russian products
 taste: киви
 image: "/uploads/hulk.png"

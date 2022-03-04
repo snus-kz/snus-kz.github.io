@@ -8,7 +8,7 @@ product-name: Corvus Extreme
 nicotine: 44
 portions: 20
 gram: 14
-price: 2500
+price: 2800
 brand: Russian products
 strong: Средней крепости
 sale: new-snus
