@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Тропик Микс
 nicotine: 101
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Тропик Микс
 image: "/uploads/15.png"
