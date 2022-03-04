@@ -11,6 +11,7 @@ descr: |-
 product-name: Fedrs Banan Hard
 nicotine: 65
 portions: 20
+price: 2800
 brand: Other brands
 taste: Банан
 image: "/uploads/9-48cba3.png"

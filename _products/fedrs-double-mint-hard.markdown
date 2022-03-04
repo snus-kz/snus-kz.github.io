@@ -12,6 +12,7 @@ product-name: Fedrs Double Mint Hard
 nicotine: 65
 portions: 20
 gram: 15
+price: 2800
 brand: Other brands
 image: "/uploads/2-c421af.png"
 ---

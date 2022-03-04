@@ -11,6 +11,7 @@ descr: |-
 product-name: Fedrs Melon Hard
 nicotine: 65
 portions: 20
+price: 2800
 brand: Other brands
 taste: Дыня
 image: "/uploads/5-d187bb.png"
