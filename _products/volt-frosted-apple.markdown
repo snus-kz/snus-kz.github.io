@@ -10,7 +10,7 @@ product-name: VOLT Frosted Apple
 nicotine: 11
 portions: 24
 gram: 19
-price: 2500
+price: 2800
 brand: Volt
 strong: Средней крепости
 taste: Зелёное яблоко
