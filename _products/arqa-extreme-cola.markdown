@@ -13,7 +13,7 @@ product-name: Arqa Extreme Cola
 nicotine: 70
 portions: 20
 gram: 20
-price: 2500
+price: 2800
 brand: Russian products
 strong: Крепкий
 taste: Кола
