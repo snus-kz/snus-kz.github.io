@@ -8,7 +8,7 @@ product-name: Снюс CHN Strong Mentol
 nicotine: 45
 portions: 28
 gram: 13
-price: 2500
+price: 2800
 brand: Russian products
 strong: Средней крепости
 taste: Мята
