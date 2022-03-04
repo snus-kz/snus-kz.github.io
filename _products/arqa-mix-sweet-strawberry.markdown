@@ -11,7 +11,7 @@ product-name: Arqa Mix Sweet Strawberry
 nicotine: 70
 portions: 20
 gram: 20
-price: 2500
+price: 2800
 brand: Russian products
 taste: клубника
 image: "/uploads/sweet%20strwaberry.png"
