@@ -10,7 +10,7 @@ descr: |-
 product-name: Nictech Gummy Bear
 nicotine: 60
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Мармелад
 image: "/uploads/2-74da15.png"

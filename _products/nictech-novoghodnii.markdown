@@ -10,7 +10,7 @@ descr: |-
 product-name: 'Nictech Новогодний '
 nicotine: 60
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 image: "/uploads/3-9e3f3f.png"
 has_availability: false
