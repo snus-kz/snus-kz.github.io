@@ -9,6 +9,7 @@ descr: FAFF Double Apple — вкус двойного яблока, кисло�
 product-name: FAFF Double Apple
 nicotine: 75
 portions: 30
+price: 2800
 brand: Russian products
 taste: Яблоко
 image: "/uploads/3-22821f.png"
