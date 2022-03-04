@@ -12,6 +12,7 @@ product-name: Fedrs Energy Hard
 nicotine: 65
 portions: 20
 gram: 15
+price: 2800
 brand: Other brands
 taste: Энергетик
 image: "/uploads/3-069165.png"
