@@ -10,6 +10,7 @@ product-name: FAFF tropic storm
 nicotine: 100
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Тропик
 image: "/uploads/14-f8f30b.png"

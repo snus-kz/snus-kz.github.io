@@ -9,6 +9,7 @@ product-name: FAFF Mulberry
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Шелковица
 image: "/uploads/7-191b5c.png"
