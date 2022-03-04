@@ -8,7 +8,7 @@ product-name: KASTA Имбирная лихорадка
 nicotine: 105
 portions: 20
 gram: 20
-price: 2500
+price: 2800
 brand: Russian products
 taste: Имбирь
 image: "/uploads/5.png"
