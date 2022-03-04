@@ -9,7 +9,7 @@ descr: |-
 product-name: Nictech Barberry Slim
 nicotine: 60
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Барбарис
 image: "/uploads/6-6ba6ee.png"
