@@ -13,6 +13,7 @@ product-name: FAFF Raspberry Jingle
 nicotine: 75
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Малина
 image: "/uploads/17.png"

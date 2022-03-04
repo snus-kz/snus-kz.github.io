@@ -10,6 +10,7 @@ product-name: FAFF Cola
 nicotine: 75
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Кола
 image: "/uploads/2-2b5871.png"
