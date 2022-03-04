@@ -8,7 +8,7 @@ product-name: Fluff Pepermint
 nicotine: 45
 portions: 20
 gram: 10
-price: 2500
+price: 2800
 new-price: 1800
 brand: Russian products
 strong: Средней крепости
