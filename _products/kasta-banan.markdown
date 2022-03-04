@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Банан
 nicotine: 101
 portions: 20
+price: 2800
 brand: Russian products
 taste: Банан
 image: "/uploads/6-ed40c9.png"

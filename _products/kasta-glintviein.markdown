@@ -7,6 +7,7 @@ descr: Kasta Глинтвейн
 product-name: Kasta Глинтвейн
 nicotine: 101
 portions: 20
+price: 2800
 brand: Other brands
 taste: Глинтвейн
 image: "/uploads/3-e89e90.png"
