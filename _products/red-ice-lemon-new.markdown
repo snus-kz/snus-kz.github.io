@@ -8,7 +8,7 @@ product-name: " RED ICE LEMON (new)"
 nicotine: 70
 portions: 20
 gram: 12
-price: 2500
+price: 2800
 brand: Russian products
 strong: Крепкий
 taste: холодный Лимон

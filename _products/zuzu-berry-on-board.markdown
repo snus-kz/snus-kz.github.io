@@ -10,6 +10,7 @@ product-name: Zuzu Berry on Board
 nicotine: 150
 portions: 20
 gram: 13
+price: 2800
 brand: Other brands
 taste: гранат и клубника замешанные с черникой
 image: "/uploads/bob.png"
