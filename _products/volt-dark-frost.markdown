@@ -10,7 +10,7 @@ product-name: VOLT Dark Frost
 nicotine: 16
 portions: 24
 gram: 12
-price: 2500
+price: 2800
 brand: Other brands
 taste: Лесные ягоды с ментолом
 image: "/uploads/1-ca03e0.png"
