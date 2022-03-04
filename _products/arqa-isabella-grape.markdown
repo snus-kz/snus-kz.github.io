@@ -10,6 +10,7 @@ product-name: Arqa Isabella Grape
 nicotine: 70
 portions: 20
 gram: 20
+price: 2800
 brand: Russian products
 taste: Виноград
 image: "/uploads/3-268101.png"
