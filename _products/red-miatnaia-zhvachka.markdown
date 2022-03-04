@@ -8,7 +8,7 @@ product-name: " RED – мятная жвачка"
 nicotine: 70
 portions: 20
 gram: '12,5'
-price: 2500
+price: 2800
 brand: Russian products
 strong: Средней крепости
 sale: new-snus

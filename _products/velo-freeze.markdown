@@ -8,7 +8,7 @@ product-name: VELO Freeze
 nicotine: 16
 portions: 24
 gram: 16
-price: 2500
+price: 2800
 brand: Other brands
 strong: Легкий
 sale: new-snus
