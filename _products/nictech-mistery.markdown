@@ -10,7 +10,7 @@ descr: |-
 product-name: Nictech Mistery
 nicotine: 60
 portions: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Mistery
 image: "/uploads/4-e4a71a.png"
