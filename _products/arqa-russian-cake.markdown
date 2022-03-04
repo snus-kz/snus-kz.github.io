@@ -8,7 +8,7 @@ product-name: ARQA Russian Cake
 nicotine: 70
 portions: 20
 gram: 20
-price: 1800
+price: 2800
 brand: Russian products
 strong: Средней крепости
 sale: new-snus
