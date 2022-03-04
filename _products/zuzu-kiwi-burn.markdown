@@ -10,7 +10,7 @@ product-name: Zuzu Kiwi Burn
 nicotine: 150
 portions: 20
 gram: 13
-price: 2500
+price: 2800
 brand: Other brands
 strong: Очень крепкий
 taste: Киви, яблоко
