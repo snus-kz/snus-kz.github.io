@@ -7,6 +7,7 @@ descr: Corvus Joker
 product-name: Corvus Joker
 nicotine: 50
 portions: 20
+price: 2800
 brand: Russian products
 taste: лесные ягоды
 image: "/uploads/joker.png"

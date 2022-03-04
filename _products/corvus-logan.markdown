@@ -22,6 +22,7 @@ descr: "Жевательная смесь с очень сильным эффе�
 product-name: Corvus Logan
 nicotine: 50
 portions: 20
+price: 2800
 brand: Russian products
 taste: Дыня
 image: "/uploads/1-c345fe.png"

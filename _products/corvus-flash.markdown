@@ -8,7 +8,7 @@ descr: 'Жевательная смесь с очень сильным эффе�
 product-name: Corvus Flash
 nicotine: 50
 portions: 20
-price: 2500
+price: 2800
 brand: Russian products
 taste: апельсин
 image: "/uploads/1-f1ef0e.png"
