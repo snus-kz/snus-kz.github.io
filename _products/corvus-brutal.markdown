@@ -8,7 +8,7 @@ product-name: Corvus Brutal
 nicotine: 68
 portions: 20
 gram: 14
-price: 2500
+price: 2800
 brand: Russian products
 taste: Мята
 image: "/uploads/Corvus%20brutal-275f8c.png"
