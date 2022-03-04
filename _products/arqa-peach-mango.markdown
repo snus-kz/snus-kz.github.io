@@ -11,7 +11,7 @@ product-name: Arqa Peach Mango
 nicotine: 70
 portions: 20
 gram: 20
-price: 2500
+price: 2800
 brand: Russian products
 taste: манго, персик
 image: "/uploads/peach%20mango.png"
