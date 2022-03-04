@@ -13,6 +13,7 @@ product-name: Arqa Cold Energy
 nicotine: 70
 portions: 20
 gram: 20
+price: 2800
 brand: Russian products
 strong: Крепкий
 image: "/uploads/2-679119.png"

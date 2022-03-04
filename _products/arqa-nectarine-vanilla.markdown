@@ -7,7 +7,7 @@ descr: Arqa Nectarine Vanilla
 product-name: Arqa Nectarine Vanilla
 nicotine: 70
 portions: 20
-price: 2500
+price: 2800
 brand: Russian products
 taste: Ваниль
 image: "/uploads/vanil.png"

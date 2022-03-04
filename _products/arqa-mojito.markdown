@@ -9,6 +9,7 @@ descr: "Снюс Arqa mojito cocktail – это бестабачная жева
 product-name: Arqa Mojito
 nicotine: 70
 portions: 20
+price: 2800
 brand: Russian products
 taste: Мохито
 image: "/uploads/Mojito.png"
