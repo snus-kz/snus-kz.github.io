@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Энерджи
 nicotine: 101
 portions: 20
+price: 2800
 brand: Russian products
 taste: 'Энерджи '
 image: "/uploads/16.png"
