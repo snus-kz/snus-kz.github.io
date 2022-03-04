@@ -8,6 +8,7 @@ descr: "Arqa Tropical Mix 100 mg – снюс со вкусом тропичес
   не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.\n\n"
 product-name: Arqa Tropical Mix
 nicotine: 100
+price: 2800
 brand: Russian products
 strong: Крепкий
 image: "/uploads/6-b34917.png"
