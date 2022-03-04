@@ -7,6 +7,7 @@ descr: 'Stalker GloGG '
 product-name: 'Stalker GloGG '
 nicotine: 150
 portions: 20
+price: 2800
 brand: Other brands
 image: "/uploads/3-ba4970.png"
 ---

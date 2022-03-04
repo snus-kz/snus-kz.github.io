@@ -9,7 +9,7 @@ descr: Stalker lychee strawberry chilli - это крепкий продукт, 
 product-name: Stalker lychee strawberry chilli
 nicotine: 150
 portions: 20
-price: 2500
+price: 2800
 brand: Russian products
 taste: Клубника, личи, чили
 image: "/uploads/4-f4286c.png"
