@@ -10,6 +10,7 @@ product-name: RANDM BLUE MINT
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Черника и мята
 image: "/uploads/19.png"

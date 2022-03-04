@@ -17,6 +17,7 @@ product-name: RANDM LYCHEE LEMONADE
 nicotine: 150
 portions: 30
 gram: 15
+price: 2800
 brand: Russian products
 taste: Личи лимонад
 image: "/uploads/18.png"
