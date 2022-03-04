@@ -11,6 +11,7 @@ descr: 'Arqa Watermelon gum 100 mg – снюс со вкусом арбузно
 product-name: Arqa Watermelon gum
 nicotine: 100
 portions: 20
+price: 2800
 brand: Russian products
 taste: Арбуз
 image: "/uploads/9-677ad6.png"

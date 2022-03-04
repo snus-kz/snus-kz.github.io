@@ -9,6 +9,7 @@ descr: "Arqa Cherry Cola 100 mg – снюс со вкусом вишневой 
 product-name: Arqa Cherry Cola
 nicotine: 100
 portions: 20
+price: 2800
 brand: Russian products
 taste: Кола
 image: "/uploads/10-b72e96.png"

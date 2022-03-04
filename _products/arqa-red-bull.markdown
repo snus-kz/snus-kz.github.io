@@ -11,6 +11,7 @@ descr: 'Arqa Red Bull 100 mg – снюс со вкусом Ред бул (эн�
 product-name: Arqa Red Bull
 nicotine: 100
 portions: 20
+price: 2800
 brand: Russian products
 taste: Энергетик
 image: "/uploads/8-4213c8.png"
