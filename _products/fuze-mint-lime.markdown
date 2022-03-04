@@ -8,6 +8,7 @@ descr: Снюс Fuze Mint Lime со вкусом мяты. Заявленная 
 product-name: Fuze Mint Lime
 nicotine: 150
 portions: 30
+price: 2800
 brand: Russian products
 image: "/uploads/7-013056.png"
 ---

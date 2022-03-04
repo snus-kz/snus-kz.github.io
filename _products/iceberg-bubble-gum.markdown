@@ -9,6 +9,7 @@ product-name: Iceberg Bubble Gum
 nicotine: 150
 portions: 20
 gram: 16
+price: 2800
 brand: Russian products
 taste: Жвачка
 image: "/uploads/1-e81700.png"
