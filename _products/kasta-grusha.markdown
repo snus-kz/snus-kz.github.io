@@ -9,6 +9,7 @@ descr: Снюс Kasta Груша – это крепкий продукт, с с
 product-name: Kasta Груша
 nicotine: 101
 portions: 20
+price: 2800
 brand: Other brands
 taste: Груша
 image: "/uploads/1-1c168e.png"

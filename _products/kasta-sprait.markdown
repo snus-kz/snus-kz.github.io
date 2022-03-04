@@ -11,6 +11,7 @@ descr: |-
 product-name: Kasta Спрайт
 nicotine: 101
 portions: 20
+price: 2800
 brand: Other brands
 taste: Спрайт
 image: "/uploads/2-f08b27.png"
