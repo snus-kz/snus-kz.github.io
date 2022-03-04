@@ -8,7 +8,7 @@ product-name: EXTREME LIME PARADISE
 nicotine: '12,8'
 portions: 20
 gram: 16
-price: 2500
+price: 2800
 brand: Other brands
 composition: Порционный
 strong: Легкий
