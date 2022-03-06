@@ -14,6 +14,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Клубника с бананом
 image: "/uploads/strawberry%20banana.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Strawberry Banana -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелой клубники и банана сделают каждую затяжку сочной!
