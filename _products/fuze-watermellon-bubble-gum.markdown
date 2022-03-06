@@ -1,7 +1,7 @@
 ---
 title: Fuze Watermellon Bubble Gum
 date: 2022-02-23 06:37:00 Z
-position: 3
+position: 2
 title-seo: Fuze Watermellon Bubble Gum
 descr: Снюс Fuze Watermellon Bubble Gum со вкусом малины. Заявленная крепость 150
   мг никотина. В банке 20-25 порций.
