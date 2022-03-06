@@ -14,6 +14,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Энергетик
 image: "/uploads/energy.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Energy -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Energy  / Энергетик - насыщенный вкус энергетика сделают каждую затяжку сочной!
