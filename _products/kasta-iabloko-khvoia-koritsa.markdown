@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: Яблоко Хвоя Корица
 image: "/uploads/9-f6817f.png"
+has_availability: false
 ---
 
 Снюс Kasta Яблоко Хвоя Корица- это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.

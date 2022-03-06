@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: Чернослив с Корицей
 image: "/uploads/8-a7aa39.png"
+has_availability: false
 ---
 
 Снюс Kasta Чернослив с Корицей - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.
