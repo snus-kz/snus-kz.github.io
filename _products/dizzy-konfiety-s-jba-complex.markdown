@@ -15,6 +15,7 @@ price: 3500
 brand: Other brands
 taste: мята
 image: "/uploads/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-2.png"
+has_availability: false
 ---
 
 Dizzy - конфеты с JBA-complex.
