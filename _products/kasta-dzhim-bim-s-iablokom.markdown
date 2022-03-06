@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: " Джим Бим с Яблоком"
 image: "/uploads/12-32dfc3.png"
+has_availability: false
 ---
 
 Снюс Kasta Джим Бим с Яблоком - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.

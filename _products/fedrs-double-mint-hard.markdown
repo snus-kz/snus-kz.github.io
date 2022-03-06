@@ -15,6 +15,7 @@ gram: 15
 price: 2800
 brand: Other brands
 image: "/uploads/2-c421af.png"
+has_availability: false
 ---
 
 Снюс Fedrs Double Mint Hard  - новое слово среди вкусовых бестабачных линеек.
