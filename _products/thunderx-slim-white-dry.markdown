@@ -15,6 +15,7 @@ price: 2800
 brand: Other brands
 strong: Крепкий
 image: "/uploads/thunderx.png"
+has_availability: false
 ---
 
 Снюс бренда “Thunder” из серии “X” чрезвычайно крепкий. Если сравнивать с той же красной сибирью, то сибирь будет немного крепче. Но в Thunder x Slim гораздо больше пакетиков, 22 против 17.
