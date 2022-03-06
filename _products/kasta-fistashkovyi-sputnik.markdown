@@ -14,6 +14,7 @@ composition: Порционный
 strong: Очень крепкий
 taste: Фисташка
 image: "/uploads/Kasta%20fistashka.jpg"
+has_availability: false
 ---
 
 Производитель: Kasta
