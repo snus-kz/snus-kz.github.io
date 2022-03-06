@@ -15,6 +15,7 @@ strong: Крепкий
 sale: new-snus
 taste: Мята, Классический табак
 image: "/uploads/Siberia_Black_WD_min.jpg"
+has_availability: false
 ---
 
 ### Siberia  Black White Dry 16 g

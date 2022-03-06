@@ -14,6 +14,7 @@ strong: Легкий
 sale: best-snus
 taste: Дыня
 image: "/uploads/Grant%20melon.png"
+has_availability: false
 ---
 
 **Grant Melon** - *Сладкий и сочный вкус этой уникальной свеже-выжатой дыни в пакетике.*
