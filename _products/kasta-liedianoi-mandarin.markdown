@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: " Мандарин"
 image: "/uploads/10-2988bd.png"
+has_availability: false
 ---
 
 Снюс Kasta Ледяной Мандарин - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.
