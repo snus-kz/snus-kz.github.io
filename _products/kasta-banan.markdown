@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: Банан
 image: "/uploads/6-ed40c9.png"
+has_availability: false
 ---
 
 Снюс Kasta Банан -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
