@@ -16,6 +16,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Кола
 image: "/uploads/cola-f7ff74.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Cola Ice -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую затяжку сочной!
