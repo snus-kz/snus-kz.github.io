@@ -11,7 +11,7 @@ product-name: Pablo Ice Cold
 nicotine: 43
 portions: 20
 gram: 16
-price: 3000
+price: 3200
 brand: Russian products
 image: "/uploads/2-1b826b.png"
 ---
