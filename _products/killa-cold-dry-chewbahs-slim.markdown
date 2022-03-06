@@ -11,7 +11,7 @@ product-name: Killa Cold Dry Chewbahs Slim
 nicotine: 22
 portions: 20
 gram: 13
-price: 2800
+price: 3200
 brand: Russian products
 image: "/uploads/1-353c15.png"
 ---

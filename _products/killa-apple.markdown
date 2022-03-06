@@ -11,7 +11,7 @@ product-name: Killa Apple
 nicotine: 16
 portions: 20
 gram: 13
-price: 3000
+price: 3200
 brand: Russian products
 strong: Крепкий
 taste: Яблоко
