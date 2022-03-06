@@ -11,7 +11,7 @@ descr: |-
 product-name: Pablo X Ice Cold
 nicotine: 25
 portions: 20
-price: 3000
+price: 3200
 brand: Other brands
 image: "/uploads/2-78f1d3.png"
 ---
