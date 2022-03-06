@@ -8,7 +8,7 @@ product-name: PABLO ICE COLD
 nicotine: 50
 portions: 20
 gram: 20
-price: 3000
+price: 3200
 brand: Other brands
 strong: Крепкий
 sale: new-snus
