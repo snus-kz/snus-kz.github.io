@@ -9,7 +9,7 @@ descr: Снюс Killa Melon – это качественная альтерна
 product-name: Killa Melon
 nicotine: 24
 portions: 20
-price: 2800
+price: 3200
 brand: killa
 strong: Крепкий
 sale: new-snus

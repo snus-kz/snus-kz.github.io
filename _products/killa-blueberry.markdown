@@ -8,7 +8,7 @@ product-name: KILLA BLUEBERRY
 nicotine: 16
 portions: 20
 gram: 16
-price: 2800
+price: 3200
 brand: Other brands
 strong: Легкий
 sale: new-snus
