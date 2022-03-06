@@ -17,6 +17,7 @@ gram: 16
 price: 3600
 brand: Siberia
 image: "/uploads/siberia.png"
+has_availability: false
 ---
 
 
