@@ -11,7 +11,7 @@ product-name: Killa Cold Dry
 nicotine: 22
 portions: 20
 gram: 16
-price: 2800
+price: 3200
 brand: Russian products
 image: "/uploads/4-3cc6d1.png"
 ---
