@@ -14,6 +14,7 @@ brand: Other brands
 strong: Крепкий
 taste: Цитрус
 image: "/uploads/veg.png"
+has_availability: false
 ---
 
 Red Vegas - бестабачная смесь от известного бренда RED со вкусом  жвачки и мяты. Высокая крепость 150 мг, цветные никпаки, плотная набивка, насыщенный вкусы и аромат.
