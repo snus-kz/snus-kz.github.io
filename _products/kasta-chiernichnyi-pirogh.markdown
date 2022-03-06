@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: Черника
 image: "/uploads/5-4d534f.png"
+has_availability: false
 ---
 
 Снюс Kasta Черничный Пирог-это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
