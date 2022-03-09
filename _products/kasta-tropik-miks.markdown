@@ -15,6 +15,7 @@ price: 2800
 brand: Russian products
 taste: Тропик Микс
 image: "/uploads/15.png"
+has_availability: false
 ---
 
 Снюс Kasta Тропик Микс -это порционная супер крепкая бестабачная жевательная смесь со вкусом тропического микса.
