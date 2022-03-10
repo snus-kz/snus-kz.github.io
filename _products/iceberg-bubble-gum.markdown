@@ -13,6 +13,7 @@ price: 2800
 brand: Russian products
 taste: Жвачка
 image: "/uploads/1-e81700.png"
+has_availability: false
 ---
 
 Iceberg Bubble Gum — вкус бабл гама, сладкий вкус тех самых любимых жвачек. В шайбе от 20 до 25 пакетиков салим формата. Айсберг снюс купить у нас в магазине!
