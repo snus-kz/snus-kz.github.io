@@ -6,7 +6,7 @@ title-seo: Fuze Multifruit
 descr: Снюс Fuze Multifruit со вкусом малины. Заявленная крепость 150 мг никотина.
   В банке 20-25 порций.
 product-name: Fuze Multifruit
-nicotine: 150
+nicotine: 80
 portions: 30
 price: 2800
 brand: Russian products

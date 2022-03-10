@@ -6,7 +6,7 @@ title-seo: Fuze Watermellon Bubble Gum
 descr: Снюс Fuze Watermellon Bubble Gum со вкусом малины. Заявленная крепость 150
   мг никотина. В банке 20-25 порций.
 product-name: Fuze Watermellon Bubble Gum
-nicotine: 150
+nicotine: 80
 portions: 30
 price: 2800
 brand: Russian products
