@@ -8,7 +8,7 @@ product-name: Каста Локдаун манго личи
 nicotine: 105
 portions: 20
 gram: 15
-price: 2700
+price: 2800
 brand: Russian products
 composition: Порционный
 strong: Очень крепкий

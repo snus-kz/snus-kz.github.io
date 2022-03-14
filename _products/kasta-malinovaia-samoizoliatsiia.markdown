@@ -8,7 +8,7 @@ product-name: KASTA Малиновая самоизоляция
 nicotine: 105
 portions: 20
 gram: 20
-price: 2700
+price: 2800
 brand: Russian products
 taste: Малина
 image: "/uploads/4.png"
