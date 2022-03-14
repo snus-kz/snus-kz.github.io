@@ -1,7 +1,7 @@
 ---
 title: BJÖRN Juicy Mango
 date: 2021-08-05 14:49:00 Z
-position: 245
+position: 249
 title-seo: BJÖRN Juicy Mango -купить в Казахстане
 descr: BJÖRN Juicy Mango - купить  в Казахстане
 product-name: BJÖRN Juicy Mango
