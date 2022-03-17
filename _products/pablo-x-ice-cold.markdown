@@ -1,7 +1,7 @@
 ---
 title: Pablo X Ice Cold
 date: 2022-01-28 20:17:00 Z
-position: 77
+position: 78
 title-seo: Pablo X Ice Cold
 descr: |-
   Снюс Pablo X Ice Cold  - новое слово среди вкусовых бестабачных линеек.
