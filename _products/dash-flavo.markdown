@@ -12,7 +12,7 @@ portions: 20
 price: 2800
 brand: Russian products
 image: "/uploads/5-b1fad8.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Dash Flavo – это бестабачная жевательная смесь. Высокая крепость 105 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.
