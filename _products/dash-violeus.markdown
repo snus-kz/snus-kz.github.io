@@ -12,7 +12,7 @@ portions: 20
 price: 2800
 brand: Russian products
 image: "/uploads/7-e76fc2.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Dash Violeus – это бестабачная жевательная смесь. Высокая крепость 105 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.
