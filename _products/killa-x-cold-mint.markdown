@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Мята
 image: "/uploads/killa_cold_mint.png"
-has_availability: false
+has_availability: true
 ---
 
 Крайне важно в современном мире иметь право выбора, что мы и предлагаем.
