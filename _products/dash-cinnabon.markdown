@@ -7,7 +7,7 @@ descr: Снюс Dash Cinnabon – это бестабачная жеватель
   мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на
   основе целлюлозы, с использованием особенных добавок.
 product-name: Dash Cinnabon
-nicotine: 105
+nicotine: 150
 portions: 20
 price: 2800
 brand: Russian products
