@@ -1,7 +1,7 @@
 ---
 title: RANDM GUMS WATERMELON
 date: 2022-02-15 04:51:00 Z
-position: 44
+position: 50
 title-seo: RANDM GUMS WATERMELON
 descr: "Снюс RANDM GUMS WATERMELON — это бестабачные никпаки от Faff. Это очень крепкий
   продукт, на 1 грамм смеси приходится 150 мг никотина. Поэтому он подходит только
