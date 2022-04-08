@@ -1,7 +1,7 @@
 ---
 title: Corvus Logan
 date: 2022-01-28 20:13:00 Z
-position: 0
+position: 3
 title-seo: Corvus Logan
 descr: "Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в
   \ (5 звезд) упаковке 13 г – около 20 порционных пакетиков. \nНе содержит табака
@@ -26,7 +26,7 @@ price: 2800
 brand: Russian products
 taste: Дыня
 image: "/uploads/1-c345fe.png"
-has_availability: false
+has_availability: true
 ---
 
 Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в  (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 

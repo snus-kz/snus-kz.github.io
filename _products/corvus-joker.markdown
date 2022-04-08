@@ -1,7 +1,7 @@
 ---
 title: Corvus Joker
 date: 2021-12-25 22:12:00 Z
-position: 1
+position: 5
 title-seo: Corvus Joker
 descr: Corvus Joker
 product-name: Corvus Joker
@@ -11,7 +11,7 @@ price: 2800
 brand: Russian products
 taste: лесные ягоды
 image: "/uploads/joker.png"
-has_availability: false
+has_availability: true
 ---
 
 Corvus Joker Wild Berries со вкусом лесной ягоды. Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 

@@ -1,7 +1,7 @@
 ---
 title: Corvus Fenix
 date: 2021-12-25 22:07:00 Z
-position: 0
+position: 6
 title-seo: Corvus Fenix
 descr: "Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом
   (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных
@@ -12,7 +12,7 @@ portions: 20
 price: 2800
 brand: Russian products
 image: "/uploads/fenix.png"
-has_availability: false
+has_availability: true
 ---
 
 Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 
