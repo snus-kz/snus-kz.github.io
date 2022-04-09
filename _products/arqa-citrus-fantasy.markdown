@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 taste: Цитрус
 image: "/uploads/citrus%20fantasy.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Arqa Citrus Fantasy – снюс со вкусом цитруса. Высокая крепость 70 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок. 
