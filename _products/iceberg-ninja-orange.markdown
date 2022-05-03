@@ -1,7 +1,7 @@
 ---
 title: Iceberg Ninja Orange
 date: 2022-04-05 08:02:00 Z
-position: 36
+position: 37
 title-seo: Iceberg Ninja Orange
 descr: "Снюс iceberg со вкусом \U0001F34Aапельсина\U0001F34A. Заявленная крепость
   150 мг никотина. В банке 20 порций."
