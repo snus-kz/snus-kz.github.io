@@ -1,0 +1,18 @@
+---
+title: Arqa Tropical Fruit
+date: 2022-05-04 05:01:00 Z
+title-seo: Arqa Tropical Fruit
+descr: Arqa Tropical Fruit – -сладкий вкус тропических фруктов, что даёт ощущение
+  “холодка”. Крепость как и во всех других вкусах от Арка 70мг/г. В каждой шайбе 20
+  широких пакетиков, а общий вес продукта 20г.
+product-name: Arqa Tropical Fruit
+nicotine: 70
+portions: 20
+gram: 15
+price: 2800
+brand: Russian products
+taste: Тропический Фрукт
+image: "/uploads/2-b41454.png"
+---
+
+Arqa Tropical Fruit – -сладкий вкус тропических фруктов, что даёт ощущение “холодка”. Крепость как и во всех других вкусах от Арка 70мг/г. В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.
