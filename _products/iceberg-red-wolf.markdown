@@ -1,7 +1,7 @@
 ---
 title: Iceberg Red Wolf
 date: 2022-04-05 09:35:00 Z
-position: 2
+position: 15
 title-seo: Iceberg Red Wolf
 descr: "Iceberg Red Wolf Снюс iceberg со вкусом \U0001F347барбариса\U0001F347. Заявленная
   крепость 150 мг никотина. В банке 20-25 порций.\n"
