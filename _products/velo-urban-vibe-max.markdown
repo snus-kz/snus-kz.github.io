@@ -11,9 +11,11 @@ product-name: Velo Urban Vibe Max
 nicotine: 20
 portions: 18
 gram: 20
-price: 1800
+price: 2800
+new-price: 1800
 brand: Russian products
 strong: Крепкий
+sale: sale
 taste: Ягоды
 image: "/uploads/vekli-f2ce89.png"
 ---

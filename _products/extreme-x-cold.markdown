@@ -8,10 +8,11 @@ product-name: EXTREME X COLD
 nicotine: 30
 portions: 20
 gram: 16
-price: 1800
+price: 2800
+new-price: 1800
 brand: Other brands
 strong: Крепкий
-sale: new-snus
+sale: sale
 taste: Ментол
 image: "/uploads/3.png"
 Key: EXTREME X COLD
