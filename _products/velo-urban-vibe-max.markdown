@@ -1,7 +1,7 @@
 ---
 title: Velo Urban Vibe Max
 date: 2021-12-01 06:29:00 Z
-position: 165
+position: 3
 title-seo: Velo Urban Vibe Max
 descr: |-
   Velo - Белые паучи (никотиновые подушечки) для потребления никотина без табака, удобно располагать под верхней губой.
@@ -11,7 +11,7 @@ product-name: Velo Urban Vibe Max
 nicotine: 20
 portions: 18
 gram: 20
-price: 2800
+price: 1800
 brand: Russian products
 strong: Крепкий
 taste: Ягоды
