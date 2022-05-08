@@ -15,6 +15,7 @@ strong: Крепкий
 sale: sale
 taste: Ментол
 image: "/uploads/3.png"
+has_availability: false
 Key: EXTREME X COLD
 ---
 
