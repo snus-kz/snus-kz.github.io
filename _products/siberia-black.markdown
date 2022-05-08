@@ -1,7 +1,7 @@
 ---
 title: Siberia Black
 date: 2021-09-14 14:14:00 Z
-position: 242
+position: 241
 title-seo: Siberia Black - купить в Казахстане
 descr: 'Siberia Black - купить в Казахстане новую Сибирь, '
 product-name: Siberia Black
