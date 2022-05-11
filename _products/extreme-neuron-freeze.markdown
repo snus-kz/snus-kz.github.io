@@ -9,10 +9,9 @@ nicotine: 24
 portions: 20
 gram: 20
 price: 2800
-new-price: 1800
 brand: Other brands
 strong: Средней крепости
-sale: sale
+sale: best-snus
 taste: Холодок
 image: "/uploads/1-2297c6.png"
 ---
