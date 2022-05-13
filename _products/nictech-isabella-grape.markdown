@@ -1,7 +1,7 @@
 ---
 title: Nictech Isabella Grape
 date: 2021-11-21 06:47:00 Z
-position: 189
+position: 190
 title-seo: Nictech Isabella Grape
 descr: Снюс Nictech Isabella Grape Slim 60-новое слово среди вкусовых бестабачных
   линеек.
