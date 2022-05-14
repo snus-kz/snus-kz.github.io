@@ -1,7 +1,7 @@
 ---
 title: GRANT ORANGE
 date: 2020-09-27 11:12:00 Z
-position: 255
+position: 0
 title-seo: GRANT ORANGE - купить в Казахстане
 descr: GRANT ORANGE - купить в Казахстане,  из Европы ,самая лучшая цена
 product-name: 'GRANT ORANGE '
@@ -9,9 +9,10 @@ nicotine: 25
 portions: 27
 gram: 13
 price: 2800
+new-price: 1800
 brand: Other brands
 strong: Легкий
-sale: best-snus
+sale: sale
 taste: Апельсин
 image: "/uploads/Grant%20orange.png"
 ---
