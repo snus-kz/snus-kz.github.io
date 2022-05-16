@@ -16,6 +16,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Виноград
 image: "/uploads/5-630816.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Grape Blackcurrant  -- вкусный и менее вредный аналог сигаретам Grape Blackcurrant/Виноград Черника - насыщенный вкус фруктов сделают каждую затяжку сочной!

@@ -16,6 +16,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Ананас Кокос
 image: "/uploads/6-adc615.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Pineapple Coconut  -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Pineapple Coconut - насыщенный вкус фруктов сделают каждую затяжку сочной!

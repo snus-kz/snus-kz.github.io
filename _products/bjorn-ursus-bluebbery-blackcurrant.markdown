@@ -16,6 +16,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Черника
 image: "/uploads/3-253697.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Bluebbery Blackcurrant -- вкусный и менее вредный аналог сигаретам Apple Bluebbery Blackcurrant/Черника и чёрная смородина - насыщенный вкус ягод сделают каждую затяжку сочной!
