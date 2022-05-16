@@ -10,8 +10,10 @@ product-name: RED Pepsi Stigma Edition
 nicotine: 70
 portions: 20
 price: 2800
+new-price: 2000
 brand: Other brands
 strong: Крепкий
+sale: sale
 taste: Пепси
 image: "/uploads/pepsi.png"
 ---
