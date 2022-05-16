@@ -9,8 +9,10 @@ nicotine: 70
 portions: 20
 gram: '12,5'
 price: 2800
+new-price: 2000
 brand: Russian products
 strong: Крепкий
+sale: sale
 taste: Ягоды энергетик
 image: "/uploads/be.png"
 ---
