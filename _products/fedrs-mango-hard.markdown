@@ -17,6 +17,7 @@ brand: Other brands
 strong: Очень крепкий
 taste: Манго
 image: "/uploads/1-f6f3ee.png"
+has_availability: false
 ---
 
 Снюс Fedrs Mango Hard  - новое слово среди вкусовых бестабачных линеек.

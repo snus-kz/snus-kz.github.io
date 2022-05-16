@@ -15,6 +15,7 @@ price: 2800
 brand: Other brands
 taste: Дыня
 image: "/uploads/5-d187bb.png"
+has_availability: false
 ---
 
 Снюс Fedrs Melon Hard  - новое слово среди вкусовых бестабачных линеек.
