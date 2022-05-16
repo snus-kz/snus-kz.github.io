@@ -14,6 +14,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Арбузный лимонад
 image: "/uploads/waterm%20lemonade.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Pro Watermelon Lemonade -- вкусный и менее вредный аналог сигаретам. Bjorn Pro Watermelon Lemonade/ Арбузный Лимонад - вкус арбуза, сделает каждую затяжку фруктовой!
