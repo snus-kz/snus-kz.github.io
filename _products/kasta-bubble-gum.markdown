@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Bubble Gum
 image: "/uploads/12.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Bubble Gum -это порционная супер крепкая бестабачная жевательная смесь со вкусом жвачки.
