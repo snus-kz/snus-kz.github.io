@@ -14,7 +14,9 @@ product-name: 'Red Bubble Gum
 nicotine: 150
 portions: 20
 price: 2800
+new-price: 2000
 brand: Other brands
+sale: sale
 taste: Бабл гам + мята
 image: "/uploads/bgm.png"
 ---
