@@ -1,7 +1,7 @@
 ---
 title: KASTA Имбирная лихорадка
 date: 2021-10-26 08:26:00 Z
-position: 241
+position: 230
 title-seo: KASTA Имбирная лихорадка- купить в Казахстане
 descr: 'KASTA Имбирная лихорадка - купить в Казахстане '
 product-name: KASTA Имбирная лихорадка
