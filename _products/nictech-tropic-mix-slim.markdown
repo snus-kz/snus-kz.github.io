@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Тропический Микс
 image: "/uploads/11-7bcdc3.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.

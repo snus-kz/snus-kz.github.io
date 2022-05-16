@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Апельсин и Манго
 image: "/uploads/11-fb3171.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Апельсин и Манго - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.

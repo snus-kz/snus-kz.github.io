@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Манго
 image: "/uploads/9-088093.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Mango Slim 60-новое слово среди вкусовых бестабачных линеек.
