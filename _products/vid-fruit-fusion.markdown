@@ -15,6 +15,7 @@ price: 3200
 brand: Other brands
 taste: Фрукты
 image: "/uploads/14-80ddd0.png"
+has_availability: false
 ---
 
 Vid Fruit Fusion - cпециальная новинка среди вкусовых бестабачных линеек.
