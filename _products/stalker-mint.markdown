@@ -10,8 +10,10 @@ product-name: Stalker Mint
 nicotine: 99
 portions: 20
 price: 2800
+new-price: 2000
 brand: Russian products
 strong: Очень крепкий
+sale: sale
 image: "/uploads/1-28d5e9.png"
 ---
 
