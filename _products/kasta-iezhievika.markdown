@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Ежевика
 image: "/uploads/8-49394f.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Ежевика - это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.

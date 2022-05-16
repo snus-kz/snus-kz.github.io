@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Карамель
 image: "/uploads/4-1db615.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Ирисовая Карамель-это порционная супер крепкая бестабачная жевательная смесь со вкусом ирисовой карамели.
