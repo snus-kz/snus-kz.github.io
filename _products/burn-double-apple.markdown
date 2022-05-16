@@ -13,6 +13,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Двойное яблоко
 image: "/uploads/double%20apple.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Double Apple -- вкусный и менее вредный аналог сигаретам. Double Apple/ Двойное Яблоко - насыщенный вкус яблока в каждой затяжке!

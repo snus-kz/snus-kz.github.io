@@ -13,7 +13,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Холодок
 image: "/uploads/lush%20ice.png"
-has_availability: true
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Pro Lush Ice -- вкусный и менее вредный аналог сигаретам. Lush Ice/ Пышный Лёд - вкус холодка, сделает каждую затяжку освежающей.
