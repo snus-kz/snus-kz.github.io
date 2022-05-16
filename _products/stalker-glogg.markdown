@@ -8,7 +8,9 @@ product-name: 'Stalker GloGG '
 nicotine: 150
 portions: 20
 price: 2800
-brand: Other brands
+new-price: 2000
+brand: Russian products
+sale: sale
 image: "/uploads/3-ba4970.png"
 ---
 
