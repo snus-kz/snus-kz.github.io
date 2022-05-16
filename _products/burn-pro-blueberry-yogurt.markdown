@@ -14,6 +14,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Черничный Йогурт
 image: "/uploads/blueb%20yog.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Pro Blueberry Yogurt -- вкусный и менее вредный аналог сигаретам. Blueberry Yogur/ Черничный Йогурт - насыщенный вкус ягоды черники в сочетание с йогуртом. Ягодно-десертный аромат с сливочным послевкусием.
