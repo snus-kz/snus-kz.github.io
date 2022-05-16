@@ -14,6 +14,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Манго, Ананас, Персик
 image: "/uploads/mango%20pineapple.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Pro Mango Pineapple Peach -- вкусный и менее вредный аналог сигаретам. Burn Pro Mango Pineapple Peach/ Манго Ананас Персик - вкус персика, ананаса и манго, сделает каждую затяжку фруктовой!

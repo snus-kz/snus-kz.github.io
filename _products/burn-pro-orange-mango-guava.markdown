@@ -14,6 +14,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Манго, апельсин, гуава
 image: "/uploads/orange%20mango.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Pro Orange Mango Guava -- вкусный и менее вредный аналог сигаретам. Bjorn Pro Orange Mango Guava/ Апельсин Манго Гуава - вкус апельсина, манго и экзотической гуавы, сделает каждую затяжку фруктовой!

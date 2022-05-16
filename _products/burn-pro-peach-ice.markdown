@@ -14,6 +14,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Персик
 image: "/uploads/peach%20ice.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn Pro Peach Ice -- вкусный и менее вредный аналог сигаретам. vPro Peach Ice/ Холодный Персик - вкус персика с холодком, сделает каждую затяжку фруктово-морозной!
