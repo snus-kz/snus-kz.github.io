@@ -14,6 +14,7 @@ price: 3000
 brand: VAPE KIT и электронные сигареты
 taste: Банановый милкшейк
 image: "/uploads/banana%20milk.png"
+has_availability: false
 Затяжек: 1500
 ---
 
