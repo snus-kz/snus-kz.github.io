@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Вишня
 image: "/uploads/10.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Вишня -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
