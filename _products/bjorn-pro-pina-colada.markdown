@@ -14,6 +14,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Пина Колада
 image: "/uploads/pinacolada.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn URSUS Pina Colada -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Pina Colada / Пина Колада - насыщенный вкус спелого яблока сделают каждую затяжку сочной!

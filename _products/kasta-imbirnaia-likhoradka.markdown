@@ -12,6 +12,7 @@ price: 2800
 brand: Russian products
 taste: Имбирь
 image: "/uploads/5.png"
+has_availability: false
 ---
 
 KASTA Имбирная лихорадка

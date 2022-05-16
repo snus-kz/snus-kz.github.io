@@ -15,6 +15,7 @@ brand: Other brands
 strong: Легкий
 taste: Ментол
 image: "/uploads/Klint-Mint.jpg"
+has_availability: false
 ---
 
 ### Klint Freeze Mint slim

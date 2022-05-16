@@ -13,6 +13,7 @@ price: 4500
 brand: VAPE KIT и электронные сигареты
 taste: Яблоко
 image: "/uploads/applesoda.png"
+has_availability: false
 ---
 
 
