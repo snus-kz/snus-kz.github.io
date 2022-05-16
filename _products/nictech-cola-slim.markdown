@@ -13,7 +13,7 @@ price: 2800
 brand: Russian products
 taste: Кола
 image: "/uploads/5-06144c.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Cola Slim 60-новое слово среди вкусовых бестабачных линеек.
