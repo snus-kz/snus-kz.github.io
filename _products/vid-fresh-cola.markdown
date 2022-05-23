@@ -12,7 +12,9 @@ nicotine: 12
 portions: 20
 gram: 14
 price: 3200
+new-price: 1500
 brand: Other brands
+sale: sale
 taste: Кола
 image: "/uploads/13-fcc4cd.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: ZoneX Cold Blast Slim Strong
 date: 2021-11-21 09:01:00 Z
-position: 196
+position: 2
 title-seo: ZoneX Cold Blast Slim Strong
 descr: |-
   Снюс ZoneX Cold Blast Slim Strong -н овое слово среди вкусовых бестабачных линеек.
@@ -12,8 +12,10 @@ product-name: ZoneX Cold Blast Slim Strong
 nicotine: 13
 portions: 20
 price: 2800
+new-price: 1500
 brand: Other brands
 strong: Крепкий
+sale: sale
 taste: Холодок
 image: "/uploads/1-578103.png"
 ---
