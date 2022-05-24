@@ -18,6 +18,7 @@ new-price: 1800
 brand: Russian products
 sale: sale
 image: "/uploads/xtr.png"
+has_availability: false
 ---
 
 **XTRIME X-FREEZE.** От производителя «Пабло и Килла»! 
