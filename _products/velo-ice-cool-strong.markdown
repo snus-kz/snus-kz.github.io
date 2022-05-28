@@ -15,7 +15,7 @@ strong: Средней крепости
 sale: sale
 taste: Мята
 image: "/uploads/ice_cool_three_dots_10mg_velo_cbdvape4u.jpg"
-has_availability: true
+has_availability: false
 ---
 
 Выразительный вкус перечной мяты с освежающим
