@@ -1,7 +1,7 @@
 ---
 title: Sisu Extreme
 date: 2021-11-21 09:10:00 Z
-position: 208
+position: 0
 title-seo: Sisu Extreme
 descr: |-
   Это их первый белый сухой продукт, и это их первый «экстремальный» или супер крепкий продукт.
@@ -11,7 +11,9 @@ product-name: Sisu Extreme
 nicotine: 20
 portions: 15
 price: 2800
+new-price: 1500
 brand: Other brands
+sale: sale
 image: "/uploads/sisu2.png"
 ---
 
