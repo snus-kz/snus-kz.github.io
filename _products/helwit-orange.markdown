@@ -13,6 +13,7 @@ price: 3000
 new-price: 1500
 brand: Other brands
 strong: Легкий
+sale: sale
 taste: Апельсин
 image: "/uploads/Helwit_Orange_1-2.jpg"
 ---
