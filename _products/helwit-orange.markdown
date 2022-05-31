@@ -1,7 +1,7 @@
 ---
 title: HELWIT Orange
 date: 2021-10-28 10:36:00 Z
-position: 247
+position: 0
 title-seo: HELWIT All White Nicotine Pouches – Orange - купить в Казахстане
 descr: HELWIT ORANGE - никотиновый пакет без табака (снюс) с богатым апельсиновым
   вкусом со свежим послевкусием
@@ -10,7 +10,7 @@ nicotine: 9
 portions: 20
 gram: 10
 price: 3000
-new-price: 2500
+new-price: 1500
 brand: Other brands
 strong: Легкий
 taste: Апельсин
