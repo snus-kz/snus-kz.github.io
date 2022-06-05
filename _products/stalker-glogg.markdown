@@ -1,7 +1,7 @@
 ---
 title: Stalker GloGG
 date: 2021-11-18 11:11:00 Z
-position: 16
+position: 15
 title-seo: 'Stalker GloGG '
 descr: 'Stalker GloGG '
 product-name: 'Stalker GloGG '
