@@ -17,6 +17,7 @@ brand: Other brands
 sale: sale
 taste: Кола
 image: "/uploads/13-fcc4cd.png"
+has_availability: false
 ---
 
 Vid Fresh Cola - cпециальная новинка среди вкусовых бестабачных линеек.
