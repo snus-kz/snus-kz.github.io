@@ -1,7 +1,7 @@
 ---
 title: Corvus Hulk
 date: 2021-12-25 22:10:00 Z
-position: 85
+position: 5
 title-seo: Corvus Hulk
 descr: Corvus Hulk
 product-name: Corvus Hulk
@@ -10,7 +10,7 @@ price: 2800
 brand: Russian products
 taste: киви
 image: "/uploads/hulk.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Corvus Hulk со вкусом киви Corvus Fenix со вкусом барбариса- Жевательная смесь с очень сильным эффектом (50 мг) и усиленным жжением, в красной (5 звезд) упаковке 13 г – около 20 порционных пакетиков. 
