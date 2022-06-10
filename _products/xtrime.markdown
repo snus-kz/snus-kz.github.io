@@ -1,7 +1,7 @@
 ---
 title: EXTREME ARCTIC MINT
 date: 2021-02-13 04:18:00 Z
-position: 24
+position: 290
 title-seo: EXTREME ARCTIC MINT - купить в Казахстане
 descr: EXTREME ARCTIC MINT - купить в Казахстане , на территории снег лучшая цена
 product-name: EXTREME ARCTIC MINT
@@ -15,6 +15,7 @@ strong: Средней крепости
 sale: sale
 taste: Арктическая мята
 image: "/uploads/2-fde480.png"
+has_availability: false
 ---
 
 XTRIME никпэки с лучшей вкусопередачей !!!😋
