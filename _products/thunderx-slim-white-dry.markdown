@@ -1,7 +1,7 @@
 ---
 title: ThunderX Slim White Dry
 date: 2021-11-22 03:57:00 Z
-position: 210
+position: 209
 title-seo: ThunderX Slim White Dry
 descr: 'Снюс бренда “Thunder” из серии “X” чрезвычайно крепкий. Если сравнивать с
   той же красной сибирью, то сибирь будет немного крепче. Но в Thunder x Slim гораздо

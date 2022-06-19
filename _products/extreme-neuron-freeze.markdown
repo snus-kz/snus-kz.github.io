@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: best-snus
 taste: Холодок
 image: "/uploads/1-2297c6.png"
+has_availability: false
 ---
 
 EXTRIME ‼️
