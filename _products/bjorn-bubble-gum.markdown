@@ -1,7 +1,7 @@
 ---
 title: BJÖRN Bubble Gum
 date: 2021-08-05 15:01:00 Z
-position: 268
+position: 246
 title-seo: BJÖRN Bubble Gum - купить в Казахстане
 descr: 'BJÖRN Bubble Gum - купить в Казахстане со вкусом жвачки '
 product-name: BJÖRN Bubble Gum
