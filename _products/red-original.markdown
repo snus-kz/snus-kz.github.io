@@ -1,7 +1,7 @@
 ---
 title: Red Original
 date: 2022-01-28 20:10:00 Z
-position: 291
+position: 286
 title-seo: Red Original
 descr: |-
   Снюс Red Original  - новое слово среди вкусовых бестабачных линеек.
@@ -14,6 +14,7 @@ portions: 20
 price: 2800
 brand: Other brands
 image: "/uploads/red.png"
+has_availability: false
 ---
 
 Снюс Red Original  - новое слово среди вкусовых бестабачных линеек.

@@ -1,7 +1,7 @@
 ---
 title: KASTA Грейпфрутовая вакцинация
 date: 2021-10-26 07:59:00 Z
-position: 295
+position: 290
 title-seo: 'KASTA Грейпфрутовая вакцинация - купить в Казахстане '
 descr: KASTA Грейпфрутовая вакцинация
 product-name: KASTA Грейпфрутовая вакцинация
@@ -13,7 +13,7 @@ brand: Russian products
 strong: Очень крепкий
 taste: 'Грейпфрут '
 image: "/uploads/kasta%20greipfruits.jpg"
-has_availability: 'True'
+has_availability: false
 ---
 
 ### KASTA Грейпфрутовая вакцинация

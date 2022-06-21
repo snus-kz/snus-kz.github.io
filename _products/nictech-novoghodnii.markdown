@@ -1,7 +1,7 @@
 ---
 title: Nictech Новогодний
 date: 2022-01-19 17:43:00 Z
-position: 166
+position: 162
 title-seo: Nictech Новогодний
 descr: |-
   Nictech Новогодний - cпециальная новинка среди вкусовых бестабачных линеек.

@@ -1,7 +1,7 @@
 ---
 title: Kasta Локдаун манго личи
 date: 2021-09-27 15:49:00 Z
-position: 294
+position: 289
 title-seo: Каста Локдаун манго личи - купить в Казахстане новинка
 descr: Каста Локдаун манго личи новинка купить в Казахстане
 product-name: Каста Локдаун манго личи
@@ -13,7 +13,7 @@ brand: Russian products
 composition: Порционный
 strong: Очень крепкий
 image: "/uploads/Kasta%20mango%20lychy.jpg"
-has_availability: 'True'
+has_availability: true
 ---
 
 Крепость - 105мг/г.

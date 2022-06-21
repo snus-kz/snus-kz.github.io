@@ -1,7 +1,7 @@
 ---
 title: GRANT ORANGE
 date: 2020-09-27 11:12:00 Z
-position: 290
+position: 295
 title-seo: GRANT ORANGE - купить в Казахстане
 descr: GRANT ORANGE - купить в Казахстане,  из Европы ,самая лучшая цена
 product-name: 'GRANT ORANGE '
@@ -15,6 +15,7 @@ strong: Легкий
 sale: sale
 taste: Апельсин
 image: "/uploads/Grant%20orange.png"
+has_availability: false
 ---
 
 **Grant Orange** *- имеет хорошо ощутимый классический сочный апельсиновый вкус с ноткой апельсиновой кожуры для полного ощущение цитруса.*

@@ -1,7 +1,7 @@
 ---
 title: Iceberg Dragon Fruit
 date: 2022-05-16 07:48:00 Z
-position: 80
+position: 79
 title-seo: Iceberg Dragon Fruit
 descr: "Снюс Iceberg Dragon Fruit со вкусом драконего фрукта. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25

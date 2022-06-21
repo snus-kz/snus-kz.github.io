@@ -1,7 +1,7 @@
 ---
 title: Pablo X Ice Cold
 date: 2022-01-28 20:17:00 Z
-position: 292
+position: 287
 title-seo: Pablo X Ice Cold
 descr: |-
   Снюс Pablo X Ice Cold  - новое слово среди вкусовых бестабачных линеек.
@@ -14,6 +14,7 @@ portions: 20
 price: 3200
 brand: Other brands
 image: "/uploads/2-78f1d3.png"
+has_availability: false
 ---
 
 Снюс Pablo X Ice Cold  - новое слово среди вкусовых бестабачных линеек.
