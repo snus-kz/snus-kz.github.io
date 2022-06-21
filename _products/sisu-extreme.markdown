@@ -1,7 +1,7 @@
 ---
 title: Sisu Extreme
 date: 2021-11-21 09:10:00 Z
-position: 284
+position: 294
 title-seo: Sisu Extreme
 descr: |-
   Это их первый белый сухой продукт, и это их первый «экстремальный» или супер крепкий продукт.
@@ -15,6 +15,7 @@ new-price: 1500
 brand: Other brands
 sale: sale
 image: "/uploads/sisu2.png"
+has_availability: false
 ---
 
 Это их первый белый сухой продукт, и это их первый «экстремальный» или супер крепкий продукт.
