@@ -1,7 +1,7 @@
 ---
 title: Vid Fresh Cola
 date: 2022-01-20 06:29:00 Z
-position: 275
+position: 274
 title-seo: Vid Fresh Cola
 descr: |-
   Vid Fresh Cola - cпециальная новинка среди вкусовых бестабачных линеек.
