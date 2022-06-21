@@ -16,6 +16,7 @@ strong: Легкий
 sale: new-snus
 taste: Маракуйя
 image: "/uploads/passionfruit-1.jpg"
+has_availability: false
 ---
 
 ### KLINTs Passionfruit дарит соблазнительные и сочные ощущения благодаря своему сладкому и привлекательному вкусу в окружении других экзотических фруктов, которые сохраняют вкус. 
