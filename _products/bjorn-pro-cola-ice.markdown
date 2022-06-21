@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Cola Ice
 date: 2021-11-22 04:07:00 Z
-position: 190
+position: 189
 title-seo: Bjorn URSUS Cola Ice
 descr: 'Электронная сигарета Bjorn URSUS Cola Ice -- вкусный и менее вредный аналог
   сигаретам Bjorn URSUS Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую
