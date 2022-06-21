@@ -1,7 +1,7 @@
 ---
 title: Fedrs Energy Hard
 date: 2022-01-28 19:57:00 Z
-position: 122
+position: 131
 title-seo: Fedrs Energy Hard
 descr: |-
   Снюс Fedrs Energy Hard - новое слово среди вкусовых бестабачных линеек.

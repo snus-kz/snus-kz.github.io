@@ -1,7 +1,7 @@
 ---
 title: Nictech Gummy Bear
 date: 2022-01-19 17:42:00 Z
-position: 140
+position: 148
 title-seo: Nictech Gummy Bear
 descr: |-
   Nictech Gummy Bear  -  cпециальная новинка среди вкусовых бестабачных линеек.
