@@ -1,7 +1,7 @@
 ---
 title: Fedrs Mango Hard
 date: 2022-01-28 19:51:00 Z
-position: 152
+position: 151
 title-seo: Fedrs Mango Hard
 descr: |-
   Снюс Fedrs Mango Hard  - новое слово среди вкусовых бестабачных линеек.
