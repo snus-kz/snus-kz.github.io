@@ -1,7 +1,7 @@
 ---
 title: EXTREME X FREEZE
 date: 2022-05-08 06:21:00 Z
-position: 269
+position: 248
 title-seo: EXTREME X FREEZE
 descr: "**XTRIME X-FREEZE.** От производителя «Пабло и Килла»! \nМега прочный пакет
   с восхитительным вкусом свежей мяты.\nЧрезвычайно свежий вкус, который выводит ваши
