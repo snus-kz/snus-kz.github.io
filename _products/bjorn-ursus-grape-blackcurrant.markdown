@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Grape Blackcurrant
 date: 2022-02-23 05:50:00 Z
-position: 122
+position: 119
 title-seo: Bjorn URSUS Grape Blackcurrant
 descr: 'Электронная сигарета Bjorn URSUS Grape Blackcurrant  -- вкусный и менее вредный
   аналог сигаретам Grape Blackcurrant/Виноград Черника - насыщенный вкус фруктов сделают
