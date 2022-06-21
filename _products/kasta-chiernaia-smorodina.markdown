@@ -1,7 +1,7 @@
 ---
 title: Kasta Черная Смородина
 date: 2021-11-19 04:46:00 Z
-position: 220
+position: 295
 title-seo: Kasta Черная Смородина
 descr: |-
   Снюс Kasta Черная Смородина - это порционная супер крепкая бестабачная жевательная смесь со вкусом черной смородины.
@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Черная Смородина
 image: "/uploads/11.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Черная Смородина - это порционная супер крепкая бестабачная жевательная смесь со вкусом черной смородины.
