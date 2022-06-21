@@ -14,7 +14,7 @@ price: 2800
 brand: Russian products
 taste: Тропический Фрукт
 image: "/uploads/2-b41454.png"
-has_availability: false
+has_availability: true
 ---
 
 Arqa Tropical Fruit – -сладкий вкус тропических фруктов, что даёт ощущение “холодка”. Крепость как и во всех других вкусах от Арка 70мг/г. В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.
