@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: " Русский пирог (кекс)"
 image: "/uploads/Arqa%20russian%20cake.jpeg"
-has_availability: false
+has_availability: true
 ---
 
 ** Arqa Russian Cake** — жевательная смесь со вкусом кекса . Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия
