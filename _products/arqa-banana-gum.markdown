@@ -14,7 +14,7 @@ price: 2800
 brand: Russian products
 taste: Банановая Жвачка
 image: "/uploads/7-b68d8e.png"
-has_availability: false
+has_availability: true
 ---
 
 Arqa Banana Gum – снюс со вкусом арбузной жвачки. Высокая крепость 100 мг. В банке 20 порций slim формата. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.
