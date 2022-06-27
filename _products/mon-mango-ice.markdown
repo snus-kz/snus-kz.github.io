@@ -9,6 +9,7 @@ descr: |-
 product-name: MON - Mango Ice
 portions: 4000
 price: 4300
+brand: VAPE KIT и электронные сигареты
 taste: Манго
 image: "/uploads/4-c636ce.png"
 ---
