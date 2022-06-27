@@ -7,7 +7,9 @@ descr: |-
 
   Лучшее предложение на рынке цена/качество
 product-name: MON - Watermelon Ice
+nicotine: "-"
 portions: 4000
+gram: "-"
 price: 4300
 brand: VAPE KIT и электронные сигареты
 taste: Арбуз
