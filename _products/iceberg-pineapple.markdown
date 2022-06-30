@@ -1,7 +1,7 @@
 ---
 title: Iceberg Pineapple
 date: 2022-04-05 09:32:00 Z
-position: 73
+position: 70
 title-seo: 'Iceberg Pineapple '
 descr: "Iceberg Pineapple  Снюс iceberg со вкусом \U0001F34Dананаса\U0001F34D. Заявленная
   крепость 100 мг никотина. В банке 20-25 порций."
