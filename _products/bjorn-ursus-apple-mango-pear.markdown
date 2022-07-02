@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Apple Mango Pear
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Яблоко Манго
 image: "/uploads/2-2e463b.png"

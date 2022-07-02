@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Tangerine Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Мандарин
 image: "/uploads/4-7f1e09.png"

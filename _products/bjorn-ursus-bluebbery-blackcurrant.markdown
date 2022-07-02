@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Bluebbery Blackcurrant
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Черника
 image: "/uploads/3-253697.png"
