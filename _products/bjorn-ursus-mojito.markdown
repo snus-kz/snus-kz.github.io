@@ -11,7 +11,7 @@ product-name: Bjorn URSUS Mojito
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Мохито
 image: "/uploads/7-d26cfe.png"
