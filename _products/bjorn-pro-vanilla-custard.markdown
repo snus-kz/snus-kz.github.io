@@ -10,7 +10,7 @@ product-name: Bjorn URSUS Vanilla Custard
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 image: "/uploads/vanills.png"
 has_availability: false

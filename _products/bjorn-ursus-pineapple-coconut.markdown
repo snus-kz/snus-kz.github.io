@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Pineapple Coconut
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Ананас Кокос
 image: "/uploads/6-adc615.png"

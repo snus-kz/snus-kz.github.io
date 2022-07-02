@@ -10,7 +10,7 @@ product-name: Bjorn URSUS Pineapple Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Ананас
 image: "/uploads/pineapple%20ice.png"

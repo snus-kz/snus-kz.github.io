@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Grape Blackcurrant
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Виноград
 image: "/uploads/5-630816.png"
