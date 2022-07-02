@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Cola Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Кола
 image: "/uploads/cola-f7ff74.png"

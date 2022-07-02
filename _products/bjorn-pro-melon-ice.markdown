@@ -12,7 +12,7 @@ product-name: Bjorn URSUS Melon Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 image: "/uploads/melonice.png"
 has_availability: false

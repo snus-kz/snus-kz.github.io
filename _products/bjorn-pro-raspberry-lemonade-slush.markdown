@@ -10,7 +10,7 @@ product-name: Bjorn URSUS Raspberry Lemonade Slush
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Малина
 image: "/uploads/raspberry.png"
