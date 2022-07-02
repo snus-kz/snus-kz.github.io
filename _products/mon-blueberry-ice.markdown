@@ -11,7 +11,7 @@ product-name: " MON - Blueberry Ice"
 nicotine: "-"
 portions: 5000
 gram: "-"
-price: 4300
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: черника
 image: "/uploads/2-e08a65.png"
