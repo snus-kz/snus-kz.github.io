@@ -10,7 +10,7 @@ product-name: Bjorn URSUS Cherry Ice
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Вишня
 image: "/uploads/cherry%20ice.png"

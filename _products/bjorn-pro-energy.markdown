@@ -10,7 +10,7 @@ product-name: 'Bjorn URSUS Energy '
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Энергетик
 image: "/uploads/energy.png"

@@ -10,7 +10,7 @@ product-name: Bjorn URSUS Strawberry Banana
 nicotine: "-"
 portions: "-"
 gram: "-"
-price: 4500
+price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Клубника с бананом
 image: "/uploads/strawberry%20banana.png"
