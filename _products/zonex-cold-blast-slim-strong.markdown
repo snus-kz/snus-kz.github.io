@@ -18,6 +18,7 @@ strong: Крепкий
 sale: sale
 taste: Холодок
 image: "/uploads/1-578103.png"
+has_availability: false
 ---
 
 Снюс ZoneX Cold Blast Slim Strong -н овое слово среди вкусовых бестабачных линеек.
