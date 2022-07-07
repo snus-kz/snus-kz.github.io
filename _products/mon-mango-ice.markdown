@@ -9,7 +9,7 @@ descr: |-
   Лучшее предложение на рынке цена/качество
 product-name: MON - Mango Ice
 nicotine: "-"
-portions: 5000
+portions: 4000
 gram: "-"
 price: 5000
 brand: VAPE KIT и электронные сигареты
