@@ -11,7 +11,7 @@ product-name: MON - Strawberry Ice
 nicotine: "-"
 portions: 5000
 gram: "-"
-price: 5000
+price: 4000
 brand: VAPE KIT и электронные сигареты
 taste: клубника
 image: "/uploads/3-ee0901.png"
