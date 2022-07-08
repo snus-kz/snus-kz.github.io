@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Голубика
 image: "/uploads/3-c8378a.png"
+has_availability: false
 ---
 
 Снюс iceberg со вкусом голубики в металической банке. Заявленная крепость 150 мг никотина. В банке 20 порций. 

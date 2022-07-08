@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Манго
 image: "/uploads/4-bb0e87.png"
+has_availability: false
 ---
 
 Снюс iceberg со вкусом кокоса в металической банке. Заявленная крепость 150 мг никотина. В банке 20 порций. 
