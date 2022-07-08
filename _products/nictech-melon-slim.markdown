@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Дыня
 image: "/uploads/12-a2962b.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
