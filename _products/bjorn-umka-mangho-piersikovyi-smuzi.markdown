@@ -11,7 +11,7 @@ product-name: Bjorn UMKA - Манго-Персиковый Смузи
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Манго-Персик
 image: "/uploads/6-6b4861.png"
