@@ -15,6 +15,7 @@ gram: 20
 price: 2800
 brand: Russian products
 image: "/uploads/5-3a5f86.png"
+has_availability: false
 ---
 
 Снюс Kasta Bloodseeker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

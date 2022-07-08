@@ -15,6 +15,7 @@ gram: 20
 price: 2800
 brand: Russian products
 image: "/uploads/6-8f6777.png"
+has_availability: false
 ---
 
 Снюс Kasta - Shadow Fiend - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

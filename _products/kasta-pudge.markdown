@@ -15,6 +15,7 @@ gram: 20
 price: 2800
 brand: Russian products
 image: "/uploads/3-cde6a5.png"
+has_availability: false
 ---
 
 Снюс Kasta Pudge - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
