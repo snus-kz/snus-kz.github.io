@@ -17,6 +17,7 @@ brand: Russian products
 sale: new-snus
 taste: Клубника
 image: "/uploads/1-c45495.png"
+has_availability: false
 ---
 
 Снюс Kasta Сливочно-Клубничный Вирус - это порционная супер крепкая бестабачная жевательная смесь со вкусом клубники со сливками.

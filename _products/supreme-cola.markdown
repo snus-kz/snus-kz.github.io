@@ -15,6 +15,7 @@ strong: Крепкий
 sale: sale
 taste: Кола
 image: "/uploads/sup-24f1b9.png"
+has_availability: false
 ---
 
 Бесшабашная смесь ,от брэнда Stigma, Supreme cola- с ароматом колы.

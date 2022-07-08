@@ -17,6 +17,7 @@ brand: Russian products
 sale: new-snus
 taste: Нектарин
 image: "/uploads/2-6b7c4f.png"
+has_availability: false
 ---
 
 Снюс Kasta Нектариновый Омикрон - это порционная супер крепкая бестабачная жевательная смесь со вкусом нектарина.

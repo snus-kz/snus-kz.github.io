@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Вишня
 image: "/uploads/12-4b4eea.png"
+has_availability: false
 ---
 
 Снюс Iceberg Cherry со вкусом мармеладных мишек. Заявленная крепость 150 мг никотина. В банке 20 порций. 
