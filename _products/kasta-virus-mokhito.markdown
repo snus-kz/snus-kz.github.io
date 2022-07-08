@@ -16,6 +16,7 @@ brand: Russian products
 sale: new-snus
 taste: Мохито
 image: "/uploads/9-ea44d2.png"
+has_availability: false
 ---
 
 Снюс Kasta Вирус Мохито - это порционная супер крепкая бестабачная жевательная смесь со вкусом Мохито.

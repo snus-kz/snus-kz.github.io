@@ -16,6 +16,7 @@ brand: Russian products
 sale: best-snus
 taste: Лесные Ягоды
 image: "/uploads/4-2b236b.png"
+has_availability: false
 ---
 
 Снюс Kasta Хворь из Лесных Ягод - это порционная супер крепкая бестабачная жевательная смесь со вкусом лесных ягод.

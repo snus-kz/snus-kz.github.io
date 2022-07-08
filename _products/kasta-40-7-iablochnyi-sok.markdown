@@ -16,6 +16,7 @@ brand: Russian products
 sale: new-snus
 taste: Яблоко
 image: "/uploads/8-e77e92.png"
+has_availability: false
 ---
 
 Снюс Kasta 40,7 - Яблочный Сок - это порционная супер крепкая бестабачная жевательная смесь со вкусом яблочного сока.
