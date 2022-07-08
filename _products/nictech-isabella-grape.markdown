@@ -1,7 +1,7 @@
 ---
 title: Nictech Isabella Grape
 date: 2021-11-21 06:47:00 Z
-position: 213
+position: 4
 title-seo: Nictech Isabella Grape
 descr: Снюс Nictech Isabella Grape Slim 60-новое слово среди вкусовых бестабачных
   линеек.
@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 taste: Виноград
 image: "/uploads/2-4be2fd.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Isabella Grape Slim 60-новое слово среди вкусовых бестабачных линеек.

@@ -1,7 +1,7 @@
 ---
 title: MON - Strawberry Ice
 date: 2022-06-27 18:50:00 Z
-position: 21
+position: 27
 title-seo: MON - Strawberry Ice
 descr: |-
   Новые поды MON - на 4 000 тяг.

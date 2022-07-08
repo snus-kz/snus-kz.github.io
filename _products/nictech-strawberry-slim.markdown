@@ -1,7 +1,7 @@
 ---
 title: Nictech Strawberry Slim
 date: 2021-11-21 06:51:00 Z
-position: 214
+position: 5
 title-seo: Nictech Strawberry Slim
 descr: Снюс Nictech Strawberry Slim 60-новое слово среди вкусовых бестабачных линеек.
 product-name: Nictech Strawberry Slim
@@ -12,7 +12,7 @@ brand: Russian products
 strong: Крепкий
 taste: Клубника
 image: "/uploads/3-009056.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Strawberry Slim 60-новое слово среди вкусовых бестабачных линеек.

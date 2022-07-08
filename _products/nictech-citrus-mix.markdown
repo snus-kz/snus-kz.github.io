@@ -1,7 +1,7 @@
 ---
 title: Nictech Citrus Mix
 date: 2021-11-21 07:46:00 Z
-position: 207
+position: 0
 title-seo: Nictech Citrus Mix
 descr: |-
   Снюс Nictech Citrus Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Цитрус
 image: "/uploads/8-9dea2c.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Citrus Mix Slim 60-новое слово среди вкусовых бестабачных линеек.

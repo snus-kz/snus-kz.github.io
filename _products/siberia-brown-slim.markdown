@@ -1,7 +1,7 @@
 ---
 title: Siberia Brown Slim
 date: 2021-09-06 13:01:00 Z
-position: 1
+position: 7
 title-seo: Siberia Brown Slim - купить  в Казахстане
 descr: Siberia Brown Slim - купить в Казахстане
 product-name: Siberia Brown Slim
@@ -13,7 +13,7 @@ brand: Siberia
 strong: Крепкий
 taste: Табак, Мята.
 image: "/uploads/SIBERIA%20BROWN%20SLIM%20-min.jpg"
-has_availability: false
+has_availability: true
 ---
 
 Мощная смесь жевательного табака, дающая сильные и особенные ощущения мяты / мяты курчавой.

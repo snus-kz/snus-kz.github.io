@@ -1,7 +1,7 @@
 ---
 title: Nictech Coconut Slim
 date: 2021-11-21 08:29:00 Z
-position: 209
+position: 2
 title-seo: Nictech Coconut Slim
 descr: |-
   Снюс Nictech Coconut Slim 60-новое слово среди вкусовых бестабачных линеек.
@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Кокос
 image: "/uploads/10-7590c8.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Coconut Slim 60-новое слово среди вкусовых бестабачных линеек.
