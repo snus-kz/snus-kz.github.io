@@ -12,7 +12,7 @@ product-name: Bjorn UMKA - Клубничный Донат
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 taste: Пончик
 image: "/uploads/2-692498.png"
 ---
