@@ -1,7 +1,7 @@
 ---
 title: Iceberg Peach Mango Metal
 date: 2022-05-16 07:04:00 Z
-position: 64
+position: 68
 title-seo: Iceberg Peach Mango Metal
 descr: "Снюс iceberg со вкусом кокоса в металической банке. Заявленная крепость 150
   мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов

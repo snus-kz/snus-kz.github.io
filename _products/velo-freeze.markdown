@@ -1,20 +1,20 @@
 ---
 title: VELO Freeze
 date: 2021-08-17 10:43:00 Z
-position: 239
+position: 0
 title-seo: VELO Freeze- купить в Казахстан
 descr: VELO Freeze - купить в Казахстане ,хорошая цена
 product-name: VELO Freeze
 nicotine: 16
 portions: 24
 gram: 16
-price: 2800
+price: 3500
 brand: Other brands
 strong: Легкий
 sale: new-snus
 taste: Мята
 image: "/uploads/freeze_four_dots_velo_cbdvape4u.jpg"
-has_availability: false
+has_availability: true
 ---
 
 VELO Freeze - Интенсивная мята и ледяной ментол.

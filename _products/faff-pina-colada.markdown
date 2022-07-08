@@ -1,7 +1,7 @@
 ---
 title: FAFF Pina Colada
 date: 2022-02-14 15:33:00 Z
-position: 136
+position: 140
 title-seo: FAFF Pina Colada
 descr: FAFF Pina Colada — коктейль пина-колада обладает приятным и сбалансированным
   кокосовым вкусом в паре с ананасом. Как обычно в шайбе 30 пакетиков слим формата,
