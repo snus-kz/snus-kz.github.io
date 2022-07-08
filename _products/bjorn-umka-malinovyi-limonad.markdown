@@ -11,7 +11,7 @@ product-name: Bjorn UMKA - Малиновый Лимонад
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Малиновый Лимонад
 image: "/uploads/11-e3ba8f.png"
