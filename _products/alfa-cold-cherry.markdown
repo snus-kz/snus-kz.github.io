@@ -1,7 +1,7 @@
 ---
 title: Alfa Cold Cherry
 date: 2022-05-04 05:24:00 Z
-position: 55
+position: 60
 title-seo: Alfa Cold Cherry
 descr: "  Снюс Alfa Cold Cherry взбодрит ярким леденящим вкусом спелой вишни. Содержание
   никотина в данной серии  –  60 мг на 1 г смеси. Наличие удобной компактной коробки

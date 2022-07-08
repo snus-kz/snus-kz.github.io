@@ -1,7 +1,7 @@
 ---
 title: Kasta - Dazzle
 date: 2022-06-10 19:18:00 Z
-position: 295
+position: 300
 title-seo: Kasta - Dazzle
 descr: |-
   Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

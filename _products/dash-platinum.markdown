@@ -1,7 +1,7 @@
 ---
 title: Dash Platinum
 date: 2022-03-13 18:00:00 Z
-position: 83
+position: 88
 title-seo: Dash Platinum
 descr: Снюс Dash Platinum – это бестабачная жевательная смесь. Высокая крепость 105
   мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на
