@@ -14,7 +14,7 @@ portions: 20
 price: 2800
 brand: Russian products
 image: "/uploads/7-b3a7d5.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Мята - это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
