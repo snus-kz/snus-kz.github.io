@@ -11,7 +11,7 @@ product-name: Bjorn UMKA - Клубника Банан
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Клубника-Банан
 image: "/uploads/15-36546b.png"
