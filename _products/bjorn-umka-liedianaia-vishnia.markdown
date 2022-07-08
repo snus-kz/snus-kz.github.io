@@ -11,7 +11,7 @@ product-name: Bjorn UMKA - Ледяная Вишня
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Ледяная Вишня
 image: "/uploads/13-3df046.png"
