@@ -11,7 +11,7 @@ product-name: Bjorn UMKA - Ледяная Кола
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Кола
 image: "/uploads/12-2cf368.png"
