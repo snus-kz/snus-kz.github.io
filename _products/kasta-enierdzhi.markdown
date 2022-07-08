@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: 'Энерджи '
 image: "/uploads/16.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Энерджи -это порционная супер крепкая бестабачная жевательная смесь со вкусом энергетика.

@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Дыня
 image: "/uploads/13.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Дыня -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
