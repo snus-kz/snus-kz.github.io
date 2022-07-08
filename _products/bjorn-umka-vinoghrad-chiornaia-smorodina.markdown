@@ -11,7 +11,7 @@ product-name: Bjorn UMKA - Виноград-Чёрная Смородина
 nicotine: 5
 portions: 5000
 gram: "-"
-price: 6000
+price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Виноград-Чёрная Смородина
 image: "/uploads/7-533b43.png"
