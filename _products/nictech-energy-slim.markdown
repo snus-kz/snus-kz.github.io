@@ -15,7 +15,7 @@ price: 2800
 brand: Russian products
 taste: Энергетик
 image: "/uploads/1-18c0d1.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Energy Slim 60-новое слово среди вкусовых бестабачных линеек.
