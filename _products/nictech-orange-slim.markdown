@@ -1,13 +1,13 @@
 ---
 title: Nictech Orange Slim
 date: 2021-11-21 07:44:00 Z
-position: 13
+position: 6
 title-seo: Nictech Orange Slim
 descr: |-
   Снюс Nictech Orange Slim 60-новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
 product-name: Nictech Orange Slim
-nicotine: 90
+nicotine: 60
 portions: 20
 price: 2800
 brand: Russian products
