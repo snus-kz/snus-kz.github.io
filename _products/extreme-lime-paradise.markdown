@@ -1,7 +1,7 @@
 ---
 title: EXTREME LIME PARADISE
 date: 2021-07-14 07:16:00 Z
-position: 279
+position: 269
 title-seo: EXTREME LIME PARADISE - купить в Казахстане
 descr: EXTREME LIME PARADISE - белый бестабаччный паучи со вкусом лайма
 product-name: EXTREME LIME PARADISE
