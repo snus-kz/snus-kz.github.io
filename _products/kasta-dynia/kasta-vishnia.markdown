@@ -1,7 +1,7 @@
 ---
 title: Kasta Вишня
 date: 2021-11-19 04:38:00 Z
-position: 4
+position: 6
 title-seo: 'Kasta Вишня '
 descr: |-
   Снюс Kasta Вишня -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
@@ -11,7 +11,7 @@ descr: |-
 product-name: 'Kasta Вишня '
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Вишня
 image: "/uploads/10.png"

@@ -1,7 +1,7 @@
 ---
 title: Kasta Спрайт
 date: 2021-11-18 11:19:00 Z
-position: 5
+position: 7
 title-seo: Kasta Спрайт
 descr: |-
   Снюс Kasta Спрайт-это порционная супер крепкая бестабачная жевательная смесь со вкусом спрайта.
@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Спрайт
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Other brands
 taste: Спрайт
 image: "/uploads/2-f08b27.png"

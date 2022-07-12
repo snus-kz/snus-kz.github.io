@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Дыня
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Дыня
 image: "/uploads/13.png"

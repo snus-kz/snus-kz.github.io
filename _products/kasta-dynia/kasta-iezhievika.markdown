@@ -1,7 +1,7 @@
 ---
 title: Kasta Ежевика
 date: 2021-11-18 15:21:00 Z
-position: 3
+position: 5
 title-seo: Kasta Ежевика
 descr: |-
   Снюс Kasta Ежевика - это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Ежевика
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Ежевика
 image: "/uploads/8-49394f.png"

@@ -1,7 +1,7 @@
 ---
 title: RANDM BLUE MINT
 date: 2022-02-15 04:48:00 Z
-position: 132
+position: 143
 title-seo: RANDM BLUE MINT
 descr: 'RANDM BLUE MINT — бестабачный снюс со вкусом черники и мяты.  Снюс рик и морти
   с насыщенным чернично-мятным вкусом отлично подойдёт для опытных пользователей.

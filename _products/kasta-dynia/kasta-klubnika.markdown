@@ -1,7 +1,7 @@
 ---
 title: Kasta Клубника
 date: 2021-11-19 04:50:00 Z
-position: 6
+position: 8
 title-seo: 'Kasta Клубника '
 descr: |-
   Снюс Kasta Клубника -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
@@ -11,7 +11,7 @@ descr: |-
 product-name: 'Kasta Клубника '
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Клубника
 image: "/uploads/14.png"
