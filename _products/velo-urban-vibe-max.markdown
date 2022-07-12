@@ -12,6 +12,7 @@ nicotine: 20
 portions: 18
 gram: 20
 price: 3500
+new-price: 1800
 brand: Russian products
 strong: Крепкий
 sale: best-snus
