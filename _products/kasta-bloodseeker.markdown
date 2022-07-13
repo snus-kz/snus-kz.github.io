@@ -12,10 +12,10 @@ product-name: Kasta - Bloodseeker
 nicotine: 105
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 image: "/uploads/5-3a5f86.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Bloodseeker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

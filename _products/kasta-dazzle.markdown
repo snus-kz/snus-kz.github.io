@@ -12,10 +12,10 @@ product-name: Kasta - Dazzle
 nicotine: 105
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 image: "/uploads/1-5584c8.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
