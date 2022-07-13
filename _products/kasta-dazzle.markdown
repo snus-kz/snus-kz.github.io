@@ -1,20 +1,20 @@
 ---
-title: Kasta - Drow Ranger
-date: 2022-06-10 19:36:00 Z
-position: 0
-title-seo: Kasta - Drow Ranger
+title: Kasta - Dazzle
+date: 2022-06-10 19:18:00 Z
+position: 3
+title-seo: Kasta - Dazzle
 descr: |-
   Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
   Крепость впечатляет в 105 мг и не оставит равнодушным ни одного любителя крепких снюсов.
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
-product-name: Kasta - Drow Ranger
+product-name: Kasta - Dazzle
 nicotine: 105
 portions: 20
 gram: 20
 price: 2800
 brand: Russian products
-image: "/uploads/4-d53be9.png"
+image: "/uploads/1-5584c8.png"
 has_availability: false
 ---
 
