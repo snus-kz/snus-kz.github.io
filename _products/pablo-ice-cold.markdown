@@ -1,7 +1,7 @@
 ---
 title: PABLO ICE COLD
 date: 2021-02-13 04:10:00 Z
-position: 175
+position: 177
 title-seo: PABLO ICE COLD - купить в Казахстане
 descr: 'PABLO ICE COLD- купить в Казахстане '
 product-name: PABLO ICE COLD
