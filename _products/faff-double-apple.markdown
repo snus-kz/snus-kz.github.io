@@ -1,7 +1,7 @@
 ---
 title: FAFF Double Apple
 date: 2022-02-12 10:52:00 Z
-position: 165
+position: 164
 title-seo: FAFF Double Apple
 descr: FAFF Double Apple — вкус двойного яблока, кислого и сладкого, можно отнести
   к классическим вкусам которые уже всем давно знакомы. Данный вкус был представлен

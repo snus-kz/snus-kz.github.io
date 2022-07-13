@@ -11,7 +11,7 @@ product-name: Alfa Cold Cherry
 nicotine: 60
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Черешня
 image: "/uploads/1-2fb7ad.png"

@@ -11,7 +11,7 @@ product-name: 'Alfa WildBerries '
 nicotine: 60
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Дикие Ягоды
 image: "/uploads/3-266569.png"
