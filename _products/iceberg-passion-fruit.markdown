@@ -1,7 +1,7 @@
 ---
 title: Iceberg Passion Fruit
 date: 2022-04-05 09:16:00 Z
-position: 101
+position: 102
 title-seo: Iceberg Passion Fruit
 descr: "Снюс iceberg со вкусом \U0001F96Dмаракуйи\U0001F96D. Заявленная крепость 75
   мг никотина. В банке 20-25 порций.\n"
