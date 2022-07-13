@@ -8,12 +8,12 @@ product-name: KASTA Грейпфрутовая вакцинация
 nicotine: 105
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Очень крепкий
 taste: 'Грейпфрут '
 image: "/uploads/kasta%20greipfruits.jpg"
-has_availability: false
+has_availability: true
 ---
 
 ### KASTA Грейпфрутовая вакцинация
