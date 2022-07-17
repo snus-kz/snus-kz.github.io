@@ -1,22 +1,22 @@
 ---
-title: Nictech Green Apple Slim
-date: 2021-11-21 06:56:00 Z
-position: 1
-title-seo: Nictech Green Apple Slim
+title: Nictech Orange Slim
+date: 2021-11-21 07:44:00 Z
+position: 26
+title-seo: Nictech Orange Slim
 descr: |-
-  Снюс Nictech Green Apple Slim 60-новое слово среди вкусовых бестабачных линеек.
+  Снюс Nictech Orange Slim 60-новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
-product-name: Nictech Green Apple Slim
+product-name: Nictech Orange Slim
 nicotine: 60
 portions: 20
 price: 2800
 brand: Russian products
-taste: Яблоко
-image: "/uploads/4-0d6e30.png"
-has_availability: false
+taste: Апельсин
+image: "/uploads/7-d85763.png"
+has_availability: true
 ---
 
-Снюс Nictech Green Apple Slim 60-новое слово среди вкусовых бестабачных линеек.
+Снюс Nictech Orange Slim 60-новое слово среди вкусовых бестабачных линеек.
 Теперь они приятны не только на запах, но и на вкус.
 Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
 В удобных слим никпаках.
