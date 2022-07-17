@@ -1,24 +1,24 @@
 ---
-title: Nictech Mango Slim
-date: 2021-11-21 08:26:00 Z
-position: 29
-title-seo: " Nictech Mango Slim"
+title: Nictech Melon Slim
+date: 2021-11-21 08:28:00 Z
+position: 2
+title-seo: Nictech Melon Slim
 descr: |-
-  Снюс Nictech Mango Slim 60-новое слово среди вкусовых бестабачных линеек.
+  Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
   Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
   В удобных слим никпаках.
-product-name: " Nictech Mango Slim"
+product-name: Nictech Melon Slim
 nicotine: 60
 portions: 20
 price: 2800
 brand: Russian products
-taste: Манго
-image: "/uploads/9-088093.png"
-has_availability: true
+taste: Дыня
+image: "/uploads/12-a2962b.png"
+has_availability: false
 ---
 
-Снюс Nictech Mango Slim 60-новое слово среди вкусовых бестабачных линеек.
+Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
 Теперь они приятны не только на запах, но и на вкус.
 Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
 В удобных слим никпаках.

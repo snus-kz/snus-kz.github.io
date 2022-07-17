@@ -1,24 +1,24 @@
 ---
-title: Nictech Melon Slim
-date: 2021-11-21 08:28:00 Z
-position: 183
-title-seo: Nictech Melon Slim
+title: Nictech Tropic Mix Slim
+date: 2021-11-21 08:33:00 Z
+position: 3
+title-seo: Nictech Tropic Mix Slim
 descr: |-
-  Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
+  Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
   Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
   В удобных слим никпаках.
-product-name: Nictech Melon Slim
+product-name: Nictech Tropic Mix Slim
 nicotine: 60
 portions: 20
 price: 2800
 brand: Russian products
-taste: Дыня
-image: "/uploads/12-a2962b.png"
-has_availability: false
+taste: Тропический Микс
+image: "/uploads/11-7bcdc3.png"
+has_availability: true
 ---
 
-Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
+Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
 Теперь они приятны не только на запах, но и на вкус.
 Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
 В удобных слим никпаках.
