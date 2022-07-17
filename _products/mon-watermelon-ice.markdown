@@ -1,7 +1,7 @@
 ---
 title: MON - Watermelon Ice
 date: 2022-06-27 18:45:00 Z
-position: 60
+position: 61
 title-seo: MON - Watermelon Ice
 descr: |-
   Новые поды MON - на 4 000 тяг.
