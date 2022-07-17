@@ -1,7 +1,7 @@
 ---
 title: Nictech Tropic Mix Slim
 date: 2021-11-21 08:33:00 Z
-position: 28
+position: 29
 title-seo: Nictech Tropic Mix Slim
 descr: |-
   Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
@@ -11,7 +11,7 @@ descr: |-
 product-name: Nictech Tropic Mix Slim
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Тропический Микс
 image: "/uploads/11-7bcdc3.png"

@@ -9,7 +9,7 @@ descr: |-
 product-name: Nictech Orange Slim
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Апельсин
 image: "/uploads/7-d85763.png"

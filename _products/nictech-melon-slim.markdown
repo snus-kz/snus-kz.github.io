@@ -11,7 +11,7 @@ descr: |-
 product-name: Nictech Melon Slim
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Дыня
 image: "/uploads/12-a2962b.png"

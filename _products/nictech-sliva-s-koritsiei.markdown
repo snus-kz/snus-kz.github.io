@@ -1,7 +1,7 @@
 ---
 title: Nictech Слива с Корицей
 date: 2022-01-19 17:36:00 Z
-position: 192
+position: 193
 title-seo: Nictech Слива с Корицей
 descr: |-
   Nictech Слива с Корицей - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -10,7 +10,7 @@ descr: |-
 product-name: Nictech Слива с Корицей
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Слива с корицей
 image: "/uploads/1-cb7d68.png"

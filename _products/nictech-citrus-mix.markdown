@@ -11,7 +11,7 @@ descr: |-
 product-name: Nictech Citrus Mix
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Цитрус
 image: "/uploads/8-9dea2c.png"

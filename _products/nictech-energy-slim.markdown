@@ -11,7 +11,7 @@ descr: |-
 product-name: Nictech Energy Slim
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Энергетик
 image: "/uploads/1-18c0d1.png"

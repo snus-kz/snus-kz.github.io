@@ -1,6 +1,7 @@
 ---
 title: Nictech Green Apple Slim
 date: 2021-11-21 06:56:00 Z
+published: false
 position: 30
 title-seo: Nictech Green Apple Slim
 descr: |-
@@ -9,7 +10,7 @@ descr: |-
 product-name: Nictech Green Apple Slim
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Яблоко
 image: "/uploads/4-0d6e30.png"

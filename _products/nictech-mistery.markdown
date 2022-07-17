@@ -1,7 +1,7 @@
 ---
 title: Nictech Mistery
 date: 2022-01-19 17:44:00 Z
-position: 196
+position: 197
 title-seo: Nictech Mistery
 descr: |-
   Nictech Mistery  - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -10,7 +10,7 @@ descr: |-
 product-name: Nictech Mistery
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Mistery
 image: "/uploads/4-e4a71a.png"

@@ -1,7 +1,7 @@
 ---
 title: Nictech Mango Slim
 date: 2021-11-21 08:26:00 Z
-position: 27
+position: 28
 title-seo: " Nictech Mango Slim"
 descr: |-
   Снюс Nictech Mango Slim 60-новое слово среди вкусовых бестабачных линеек.
@@ -11,7 +11,7 @@ descr: |-
 product-name: " Nictech Mango Slim"
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Манго
 image: "/uploads/9-088093.png"

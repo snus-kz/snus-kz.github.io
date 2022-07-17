@@ -1,7 +1,7 @@
 ---
 title: Nictech Мята с Какао
 date: 2022-01-19 17:48:00 Z
-position: 198
+position: 199
 title-seo: Nictech Мята с Какао
 descr: |-
   Nictech Мята с Какао  - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -10,7 +10,7 @@ descr: |-
 product-name: 'Nictech Мята с Какао '
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Мята с какао
 image: "/uploads/6-108237.png"

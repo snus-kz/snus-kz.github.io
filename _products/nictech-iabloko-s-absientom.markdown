@@ -1,7 +1,7 @@
 ---
 title: Nictech Яблоко с Абсентом
 date: 2022-01-19 17:47:00 Z
-position: 199
+position: 200
 title-seo: Nictech Яблоко с Абсентом
 descr: |-
   Nictech Яблоко с Абсентом  - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -10,7 +10,7 @@ descr: |-
 product-name: Nictech Яблоко с Абсентом
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Яблоко с абсентом
 image: "/uploads/5-493694.png"

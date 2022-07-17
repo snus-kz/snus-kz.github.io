@@ -1,7 +1,7 @@
 ---
 title: Nictech Новогодний
 date: 2022-01-19 17:43:00 Z
-position: 195
+position: 196
 title-seo: Nictech Новогодний
 descr: |-
   Nictech Новогодний - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -10,7 +10,7 @@ descr: |-
 product-name: 'Nictech Новогодний '
 nicotine: 60
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 image: "/uploads/3-9e3f3f.png"
 has_availability: false
