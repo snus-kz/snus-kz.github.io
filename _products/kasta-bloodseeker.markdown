@@ -14,6 +14,7 @@ portions: 20
 gram: 20
 price: 3000
 brand: Russian products
+taste: Грейпфрут
 image: "/uploads/5-3a5f86.png"
 has_availability: true
 ---
