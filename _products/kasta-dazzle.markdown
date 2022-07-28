@@ -14,6 +14,7 @@ portions: 20
 gram: 20
 price: 3000
 brand: Russian products
+taste: Малина
 image: "/uploads/1-5584c8.png"
 has_availability: true
 ---
