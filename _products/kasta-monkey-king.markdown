@@ -14,6 +14,7 @@ portions: 20
 gram: 20
 price: 3000
 brand: Russian products
+taste: Манго
 image: "/uploads/2-d72cd7.png"
 has_availability: true
 ---
