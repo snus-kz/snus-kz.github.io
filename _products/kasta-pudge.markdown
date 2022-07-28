@@ -14,6 +14,7 @@ portions: 20
 gram: 20
 price: 3000
 brand: Russian products
+taste: Яблоко
 image: "/uploads/3-cde6a5.png"
 has_availability: true
 ---
