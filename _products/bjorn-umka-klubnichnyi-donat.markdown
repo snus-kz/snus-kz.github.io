@@ -13,6 +13,7 @@ nicotine: 5
 portions: 5000
 gram: "-"
 price: 6500
+brand: VAPE KIT и электронные сигареты
 taste: Пончик
 image: "/uploads/2-692498.png"
 ---
