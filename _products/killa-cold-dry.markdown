@@ -1,7 +1,7 @@
 ---
 title: Killa Cold Dry
 date: 2022-01-18 04:29:00 Z
-position: 139
+position: 143
 title-seo: Killa Cold Dry
 descr: Killa Cold Dry - это качественная альтернатива табачному снюсу. Основой для
   бестабачной смеси Killa стал растительный носитель пропитанный никотином высочайшей
