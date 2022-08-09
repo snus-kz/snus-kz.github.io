@@ -1,7 +1,7 @@
 ---
 title: KASTA Фисташковый спутник
 date: 2021-10-26 07:19:00 Z
-position: 242
+position: 241
 title-seo: 'KASTA Фисташковый спутник- купить в Казахстане '
 descr: 'KASTA Фисташковый спутник - купить в Казахстане '
 product-name: KASTA Фисташковый спутник
