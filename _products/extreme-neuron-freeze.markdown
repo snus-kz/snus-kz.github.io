@@ -1,7 +1,7 @@
 ---
 title: EXTREME NEURON FREEZE
 date: 2021-02-13 04:32:00 Z
-position: 288
+position: 287
 title-seo: EXTREME NEURON FREEZE - купить в Казахстане
 descr: EXTREME NEURON FREEZE - купить в Казахстане по лучшей цене
 product-name: EXTREME NEURON FREEZE

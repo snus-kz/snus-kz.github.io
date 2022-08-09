@@ -1,7 +1,7 @@
 ---
 title: VOLT Frosted Apple
 date: 2021-11-08 05:14:00 Z
-position: 211
+position: 210
 title-seo: VOLT Frosted Apple - купить в Казахстане
 descr: "VOLT Frosted Apple Strong Slim All White — крепкий белый снюс, с приятным
   вкусом \U0001F34Fзелёного яблока, содержание никотина 11 мг/г, поэтому вы обязательно
