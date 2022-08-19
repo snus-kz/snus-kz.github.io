@@ -13,4 +13,3 @@ descr-index: Интернет-магазин шведского снюса в К
 layout: index-page
 ---
 
-gdsfgdsfaFSDFSAGFDSGSDGSADG
