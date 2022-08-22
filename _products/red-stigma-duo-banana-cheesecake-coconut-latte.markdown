@@ -13,6 +13,7 @@ price: 2500
 brand: Russian products
 sale: new-snus
 taste: Банан, Чизкейк - Кокос, Латте
+image: "/uploads/8-720a79.png"
 ---
 
 Снюс Red Stigma Duo Banana Cheesecake, Coconut Latte - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
