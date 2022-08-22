@@ -10,6 +10,7 @@ product-name: Red Stigma Ice Mint
 nicotine: 150
 portions: 20
 price: 2500
+brand: Russian products
 image: "/uploads/1-ab9ef1.png"
 ---
 
