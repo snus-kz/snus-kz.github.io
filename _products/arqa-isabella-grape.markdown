@@ -1,7 +1,7 @@
 ---
 title: Arqa Isabella Grape
 date: 2021-12-29 20:40:00 Z
-position: 112
+position: 116
 title-seo: Arqa Isabella Grape
 descr: "Снюс Arqa Isabella Grape – снюс, со вкусом \U0001F347винограда\U0001F347.
   Высокая крепость 70 мг. Продукт считается аналогом шведского снюса, не содержит

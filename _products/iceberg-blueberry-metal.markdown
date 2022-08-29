@@ -1,7 +1,7 @@
 ---
 title: Iceberg Blueberry Metal
 date: 2022-05-16 07:03:00 Z
-position: 125
+position: 128
 title-seo: Iceberg Blueberry Metal
 descr: "Снюс iceberg со вкусом голубики в металической банке. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25
