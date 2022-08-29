@@ -6,6 +6,7 @@ title-seo: Arqa Cold Duchess
 descr: Arqa Cold Duchess – терпковато-сладкая и яркая груша, которая совмещает в себе
   нотки напитка дюшес. Крепость как и во всех других крепких вкусах от Арка 100/г.
   В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.
+product-name: Arqa Cold Duchess
 nicotine: 100
 portions: 20
 gram: 20
