@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Pineapple Ice
 date: 2021-11-22 05:35:00 Z
-position: 216
+position: 226
 title-seo: Bjorn URSUS Pineapple Ice
 descr: Электронная сигарета Bjorn URSUS Pineapple Ice -- вкусный и менее вредный аналог
   сигаретам Pineapple Ice / Ананас с холодком - насыщенный вкус спелого яблока сделают

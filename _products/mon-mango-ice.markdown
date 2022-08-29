@@ -1,7 +1,7 @@
 ---
 title: MON - Mango Ice
 date: 2022-06-27 18:51:00 Z
-position: 72
+position: 82
 title-seo: MON - Mango Ice
 descr: |-
   Новые поды MON - на 4 000 тяг.
