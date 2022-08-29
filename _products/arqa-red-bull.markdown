@@ -1,7 +1,7 @@
 ---
 title: Arqa Red Bull
 date: 2021-12-29 20:48:00 Z
-position: 2
+position: 3
 title-seo: Arqa Red Bull
 descr: 'Arqa Red Bull 100 mg – снюс со вкусом Ред бул (энергетика). Высокая крепость
   100 мг. В банке 20 порций slim формата. Продукт считается аналогом шведского снюса,
@@ -11,7 +11,7 @@ descr: 'Arqa Red Bull 100 mg – снюс со вкусом Ред бул (эн�
 product-name: Arqa Red Bull
 nicotine: 100
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Энергетик
 image: "/uploads/8-4213c8.png"

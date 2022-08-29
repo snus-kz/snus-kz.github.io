@@ -1,7 +1,7 @@
 ---
 title: Zuzu Summer Extreme
 date: 2021-11-18 10:27:00 Z
-position: 260
+position: 261
 title-seo: Zuzu Summer Extreme
 descr: "Zuzu Summer Extreme — бестабачная смесь от известного бренда Faff со вкусом
   дыни и арбуза \U0001F349\U0001F348. Высокая крепость 150 мг, цветные никпаки, плотная
