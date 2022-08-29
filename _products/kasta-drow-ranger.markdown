@@ -1,7 +1,7 @@
 ---
 title: Kasta - Drow Ranger
 date: 2022-06-10 19:36:00 Z
-position: 23
+position: 30
 title-seo: Kasta - Drow Ranger
 descr: |-
   Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
