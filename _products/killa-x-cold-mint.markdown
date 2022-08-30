@@ -9,9 +9,10 @@ nicotine: 16
 portions: 20
 gram: 16
 price: 3200
+new-price: 2500
 brand: Other brands
 strong: Средней крепости
-sale: new-snus
+sale: sale
 taste: Мята
 image: "/uploads/killa_cold_mint.png"
 has_availability: true
