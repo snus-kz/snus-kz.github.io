@@ -11,7 +11,7 @@ product-name: Arqa Mix Sour Pineapple
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Ананас
 image: "/uploads/5-7d5914.png"
