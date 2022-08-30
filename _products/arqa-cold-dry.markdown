@@ -1,14 +1,14 @@
 ---
 title: Arqa Cold Dry
 date: 2021-09-02 14:52:00 Z
-position: 16
+position: 32
 title-seo: Arqa Cold Dry - купить в Казахстане
 descr: Arqa Cold Dry - купить в Казахстане со вкусом перечной мяты
 product-name: Arqa Cold Dry
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Средней крепости
 taste: Перечная мята

@@ -1,14 +1,14 @@
 ---
 title: Arqa Schweppes
 date: 2020-11-26 16:24:00 Z
-position: 10
+position: 26
 title-seo: Arqa Schweppes - купить в Казахстане
 descr: Arqa Schweppes
 product-name: Arqa Schweppes
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Крепкий
 sale: new-snus

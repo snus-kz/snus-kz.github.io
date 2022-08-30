@@ -1,7 +1,7 @@
 ---
 title: Arqa Extreme Cola
 date: 2021-11-18 07:43:00 Z
-position: 2
+position: 18
 title-seo: Arqa Extreme Cola - купить в Казахстане
 descr: 'Снюс Arqa Cola – снюс со вкусом экстремальной колы. Высокая крепость 70 мг
   подарит максимальное расслабление с приятным опьяняющим эффектом от никотина. Продукт
@@ -13,7 +13,7 @@ product-name: Arqa Extreme Cola
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Крепкий
 taste: Кола

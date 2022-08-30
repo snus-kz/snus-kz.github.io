@@ -1,14 +1,14 @@
 ---
 title: Arqa Citrus Fantasy
 date: 2021-11-18 05:09:00 Z
-position: 1
+position: 17
 title-seo: 'Arqa Citrus Fantasy- купить в Казахстане '
 descr: Arqa Citrus Fantasy
 product-name: Arqa Citrus Fantasy
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Крепкий
 taste: Цитрус

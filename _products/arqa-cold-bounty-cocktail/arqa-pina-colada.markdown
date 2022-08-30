@@ -1,7 +1,7 @@
 ---
 title: Arqa Pina Colada
 date: 2022-05-04 05:03:00 Z
-position: 5
+position: 21
 title-seo: Arqa Pina Colada
 descr: "Снюс Arqa pina colada\U0001F379 – это бестабачная жевательная смесь, со вкусом
   коктейля пина колада\U0001F379 (ананас\U0001F34D с кокосом\U0001F965). Высокая крепость
@@ -11,7 +11,7 @@ product-name: Arqa Pina Colada
 nicotine: 70
 portions: 20
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Пина Колада
 image: "/uploads/3-b39133.png"

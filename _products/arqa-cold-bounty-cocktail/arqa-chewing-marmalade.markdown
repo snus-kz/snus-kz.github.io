@@ -1,7 +1,7 @@
 ---
 title: Arqa Chewing Marmalade
 date: 2021-11-18 07:48:00 Z
-position: 9
+position: 25
 title-seo: Arqa Chewing Marmalade
 descr: Снюс Arqa Chewing Marmalade – это бестабачная жевательная смесь, которая позволит
   Вам насладиться вкусом фруктового мармелада. Высокая крепость 70 мг, на деле ощущается
@@ -12,7 +12,7 @@ product-name: Arqa Chewing Marmalade
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Крепкий
 taste: Мармелад

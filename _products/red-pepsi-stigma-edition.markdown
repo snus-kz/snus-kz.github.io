@@ -1,7 +1,7 @@
 ---
 title: RED Pepsi Stigma Edition
 date: 2021-11-18 10:36:00 Z
-position: 110
+position: 128
 title-seo: RED Pepsi Stigma Edition
 descr: Снюс Red X Stigma Pepsi-в новом дизайне.Бестабачный продукт на растительной
   основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA

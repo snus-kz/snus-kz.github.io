@@ -1,7 +1,7 @@
 ---
 title: Arqa Melon Watermelon
 date: 2021-11-18 07:49:00 Z
-position: 4
+position: 20
 title-seo: Arqa Melon Watermelon - купить в Казахстане
 descr: "Снюс Arqa Melon Watermelon – снюс со вкусом сладкого арбуза \U0001F349 и спелой
   дыни \U0001F348. Высокая крепость 70 мг, очень сильное жжение. Продукт считается
@@ -11,7 +11,7 @@ product-name: Arqa Melon Watermelon
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Крепкий
 taste: Дыня, арбуз

@@ -1,7 +1,7 @@
 ---
 title: Arqa Isabella Grape
 date: 2021-12-29 20:40:00 Z
-position: 6
+position: 22
 title-seo: Arqa Isabella Grape
 descr: "Снюс Arqa Isabella Grape – снюс, со вкусом \U0001F347винограда\U0001F347.
   Высокая крепость 70 мг. Продукт считается аналогом шведского снюса, не содержит
@@ -10,7 +10,7 @@ product-name: Arqa Isabella Grape
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Виноград
 image: "/uploads/3-268101.png"
