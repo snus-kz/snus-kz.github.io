@@ -1,7 +1,7 @@
 ---
 title: Iceberg Raspberry Metal
 date: 2022-05-16 07:10:00 Z
-position: 135
+position: 136
 title-seo: Iceberg Raspberry Metal
 descr: "Снюс iceberg со вкусом малины в металической банке. Заявленная крепость 150
   мг никотина. В банке 15 порций. \n\nВ линейке iceberg представлено более 25 вкусов

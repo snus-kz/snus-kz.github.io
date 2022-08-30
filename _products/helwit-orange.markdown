@@ -15,6 +15,7 @@ strong: Легкий
 sale: sale
 taste: Апельсин
 image: "/uploads/Helwit_Orange_1-2.jpg"
+has_availability: false
 ---
 
 ## HELWIT All White Nicotine Pouches – Orange

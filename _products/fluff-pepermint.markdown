@@ -1,7 +1,7 @@
 ---
 title: Fluff Pepermint
 date: 2021-07-31 05:40:00 Z
-position: 186
+position: 2
 title-seo: Fluff Pepermint -купить в Казахстане
 descr: Fluff Pepermint - купить в Казахстане ,первый табачный российский продукт
 product-name: Fluff Pepermint
@@ -9,7 +9,7 @@ nicotine: 45
 portions: 20
 gram: 10
 price: 2800
-new-price: 1800
+new-price: 1500
 brand: Russian products
 strong: Средней крепости
 sale: sale
