@@ -1,21 +1,20 @@
 ---
 title: EXTREME X COLD
 date: 2021-06-14 13:35:00 Z
-position: 288
+position: 5
 title-seo: EXTREME X COLD - купить в Казахстане
 descr: 'EXTREME X COLD - купить в Казахстане '
 product-name: EXTREME X COLD
 nicotine: 30
 portions: 20
 gram: 16
-price: 2800
-new-price: 1800
+price: 3200
 brand: Other brands
 strong: Крепкий
 sale: sale
 taste: Ментол
 image: "/uploads/3.png"
-has_availability: false
+has_availability: true
 Key: EXTREME X COLD
 ---
 

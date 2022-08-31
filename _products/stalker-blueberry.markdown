@@ -1,7 +1,7 @@
 ---
 title: Stalker Blueberry
 date: 2021-11-18 11:10:00 Z
-position: 244
+position: 245
 title-seo: Stalker Blueberry
 descr: Stalker Blueberry
 product-name: 'Stalker Blueberry '
