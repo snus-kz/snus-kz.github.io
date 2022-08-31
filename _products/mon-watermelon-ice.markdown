@@ -1,7 +1,7 @@
 ---
 title: MON - Watermelon Ice
 date: 2022-06-27 18:45:00 Z
-position: 115
+position: 328
 title-seo: MON - Watermelon Ice
 descr: |-
   Новые поды MON - на 4 000 тяг.
@@ -15,6 +15,7 @@ price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Арбуз
 image: "/uploads/1-1e96f6.png"
+has_availability: false
 ---
 
 Мон M4 — это революционный перезаряжаемый под на 4000 затяжек.

@@ -13,7 +13,7 @@ brand: Other brands
 strong: Средней крепости
 sale: best-snus
 taste: Мята
-image: "/uploads/ice_cool_three_dots_10mg_velo_cbdvape4u.jpg"
+image: "/uploads/%D0%B2%D0%B5%D0%BB%D0%BE2.png"
 has_availability: true
 ---
 
