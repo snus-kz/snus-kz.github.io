@@ -13,7 +13,7 @@ price: 3000
 brand: Russian products
 taste: Барбарис
 image: "/uploads/6-6ba6ee.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Barberry Slim 60-новое слово среди вкусовых бестабачных линеек.
