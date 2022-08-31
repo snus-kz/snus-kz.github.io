@@ -13,7 +13,7 @@ brand: Other brands
 strong: Легкий
 sale: new-snus
 taste: Мята
-image: "/uploads/freeze_four_dots_velo_cbdvape4u.jpg"
+image: "/uploads/velo3.png"
 has_availability: true
 ---
 
