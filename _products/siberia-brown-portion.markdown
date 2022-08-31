@@ -1,7 +1,7 @@
 ---
 title: Siberia Brown Portion
 date: 2021-10-22 07:03:00 Z
-position: 302
+position: 6
 title-seo: Siberia Brown Portion - купить в Казахстане
 descr: 'Siberia Brown Portion - купить в Казахстане ,из Швеции '
 product-name: Siberia Brown Portion
@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Табак, Мята
 image: "/uploads/SIBERIA%20BROWN%20-min.jpg"
-has_availability: false
+has_availability: true
 ---
 
 ### Siberia Brown Portion
