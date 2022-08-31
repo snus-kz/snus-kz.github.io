@@ -1,7 +1,7 @@
 ---
 title: Iceberg Freeze Metal
 date: 2022-05-16 07:06:00 Z
-position: 325
+position: 326
 title-seo: Iceberg Freeze Metal
 descr: "Снюс iceberg со вкусом кокоса в металической банке. Заявленная крепость 150
   мг никотина. В банке 15 порций. \n\nВ линейке iceberg представлено более 25 вкусов
@@ -14,6 +14,7 @@ price: 2800
 brand: Russian products
 sale: new-snus
 image: "/uploads/5-4c5f71.png"
+has_availability: false
 ---
 
 Снюс iceberg со вкусом кокоса в металической банке. Заявленная крепость 150 мг никотина. В банке 15 порций. 

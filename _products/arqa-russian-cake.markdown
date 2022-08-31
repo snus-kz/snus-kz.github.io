@@ -1,7 +1,7 @@
 ---
 title: ARQA Russian Cake
 date: 2020-11-09 13:47:00 Z
-position: 312
+position: 313
 title-seo: ARQA Russian Cake - купить в Казахстане
 descr: ARQA Russian Cake - купить в Казахстане русский пирог, кекс
 product-name: ARQA Russian Cake
@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: " Русский пирог (кекс)"
 image: "/uploads/Arqa%20russian%20cake.jpeg"
-has_availability: true
+has_availability: false
 ---
 
 ** Arqa Russian Cake** — жевательная смесь со вкусом кекса . Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия

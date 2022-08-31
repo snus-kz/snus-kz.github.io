@@ -1,7 +1,7 @@
 ---
 title: Iceberg Yami
 date: 2022-05-16 07:45:00 Z
-position: 323
+position: 324
 title-seo: Iceberg Yami
 descr: "Снюс Iceberg Yami со вкусом мармеладных йогурта. Заявленная крепость 150 мг
   никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов
@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Йогурт
 image: "/uploads/15-87b528.png"
+has_availability: false
 ---
 
 Снюс Iceberg Yami со вкусом мармеладных йогурта. Заявленная крепость 150 мг никотина. В банке 20 порций. 

@@ -1,7 +1,7 @@
 ---
 title: FAFF Mulberry
 date: 2022-02-14 15:04:00 Z
-position: 197
+position: 198
 title-seo: FAFF Mulberry
 descr: FAFF Mulberry — снюс со вкусом ягоды шелковицы, крепость 150 мг, 25-29 порций
   Порции маленькие, вес каждой 0,6 грамм. Не содержит табака и не является снюсом.

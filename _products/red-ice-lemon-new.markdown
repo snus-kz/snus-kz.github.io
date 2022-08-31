@@ -1,7 +1,7 @@
 ---
 title: RED ICE LEMON
 date: 2021-09-26 14:35:00 Z
-position: 314
+position: 315
 title-seo: RED ICE LEMON
 descr: RED ICE LEMON - легендарный аромат свежего  лимона
 product-name: " RED ICE LEMON (new)"
@@ -15,6 +15,7 @@ strong: Крепкий
 sale: sale
 taste: холодный Лимон
 image: "/uploads/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png"
+has_availability: false
 ---
 
 RED ICE LEMON - подушечки паунчи со ароматом свежего лимона ,приятные ощущение .!

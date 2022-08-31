@@ -1,7 +1,7 @@
 ---
 title: Iceberg Apple Metal
 date: 2022-05-16 07:00:00 Z
-position: 320
+position: 321
 title-seo: Iceberg Apple Metal
 product-name: Iceberg Apple Metal
 nicotine: 150
@@ -12,6 +12,7 @@ brand: Russian products
 sale: new-snus
 taste: яблоко
 image: "/uploads/2-2f0e42.png"
+has_availability: false
 ---
 
 Снюс iceberg со вкусом яблока в металической банке. Заявленная крепость 150 мг никотина. В банке 20 порций. 
