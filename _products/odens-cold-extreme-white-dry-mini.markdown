@@ -1,7 +1,7 @@
 ---
 title: Oden’s Cold Extreme White Dry MINI
 date: 2021-10-24 14:08:00 Z
-position: 53
+position: 0
 title-seo: Oden’s Cold Extreme White Dry MINI  - купить в Казахстане ,оденс производство
   швеция
 descr: Oden’s Cold Extreme White Dry MINI - купить в Казахстане
@@ -10,6 +10,7 @@ nicotine: 22
 portions: 20
 gram: 9
 price: 3500
+new-price: 2700
 brand: Odens
 strong: Крепкий
 sale: new-snus
