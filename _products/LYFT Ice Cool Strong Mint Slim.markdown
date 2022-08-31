@@ -14,7 +14,7 @@ price: 3000
 brand: Lyft
 strong: Крепкий
 sale: new-snus
-image: "/uploads/%D0%B2%D0%B5%D0%BB%D0%BE2-78b5b8.png"
+image: "/uploads/livt2.png"
 has_availability: true
 ---
 
