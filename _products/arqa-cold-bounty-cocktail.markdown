@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Bounty Cocktail
 date: 2021-11-18 08:01:00 Z
-position: 24
+position: 23
 title-seo: Arqa Cold Bounty Cocktail - купить в Казахстане
 descr: "Снюс Arqa Cold Bounty Cocktail – снюс со вкусом Баунти \U0001F965. Высокая
   крепость 70 мг подарит максимальное расслабление с приятным опьяняющим эффектом
