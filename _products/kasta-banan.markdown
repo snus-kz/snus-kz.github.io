@@ -11,11 +11,11 @@ descr: |-
 product-name: Kasta Банан
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Банан
 image: "/uploads/6-ed40c9.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Банан -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.
