@@ -1,7 +1,7 @@
 ---
 title: Zuzu Kiwi Burn
 date: 2021-11-18 10:23:00 Z
-position: 249
+position: 242
 title-seo: Zuzu Kiwi Burn
 descr: "Zuzu Kiwi Burn — бестабачная смесь от известного бренда Faff со вкусом энергетика
   Burn с яблоком и киви⚡️\U0001F34F\U0001F95D. Высокая крепость 150 мг, цветные никпаки,
