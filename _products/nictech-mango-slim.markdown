@@ -1,24 +1,24 @@
 ---
-title: Nictech Tropic Mix Slim
-date: 2021-11-21 08:33:00 Z
-position: 6
-title-seo: Nictech Tropic Mix Slim
+title: Nictech Mango Slim
+date: 2021-11-21 08:26:00 Z
+position: 29
+title-seo: " Nictech Mango Slim"
 descr: |-
-  Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
+  Снюс Nictech Mango Slim 60-новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
   Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
   В удобных слим никпаках.
-product-name: Nictech Tropic Mix Slim
+product-name: " Nictech Mango Slim"
 nicotine: 60
 portions: 20
 price: 3000
 brand: Russian products
-taste: Тропический Микс
-image: "/uploads/11-7bcdc3.png"
+taste: Манго
+image: "/uploads/9-088093.png"
 has_availability: true
 ---
 
-Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
+Снюс Nictech Mango Slim 60-новое слово среди вкусовых бестабачных линеек.
 Теперь они приятны не только на запах, но и на вкус.
 Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
 В удобных слим никпаках.

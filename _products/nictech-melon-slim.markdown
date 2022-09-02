@@ -1,24 +1,24 @@
 ---
-title: Nictech Citrus Mix
-date: 2021-11-21 07:46:00 Z
-position: 7
-title-seo: Nictech Citrus Mix
+title: Nictech Melon Slim
+date: 2021-11-21 08:28:00 Z
+position: 31
+title-seo: Nictech Melon Slim
 descr: |-
-  Снюс Nictech Citrus Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
+  Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
   Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
   В удобных слим никпаках.
-product-name: Nictech Citrus Mix
+product-name: Nictech Melon Slim
 nicotine: 60
 portions: 20
 price: 3000
 brand: Russian products
-taste: Цитрус
-image: "/uploads/8-9dea2c.png"
-has_availability: true
+taste: Дыня
+image: "/uploads/12-a2962b.png"
+has_availability: false
 ---
 
-Снюс Nictech Citrus Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
+Снюс Nictech Melon Slim 60-новое слово среди вкусовых бестабачных линеек.
 Теперь они приятны не только на запах, но и на вкус.
 Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
 В удобных слим никпаках.
