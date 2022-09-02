@@ -1,13 +1,13 @@
 ---
-title: Lyft Royal Purple
+title: LYFT Royal Purple
 date: 2022-09-02 15:51:00 Z
-title-seo: Lyft Royal Purple
+title-seo: LYFT Royal Purple
 descr: "Lyft Royal Purple - еще один белый легкий снюс от производителя Lyft. Данный
   снюс имеет легкий и приятный вкус винограда, а так же крепость 12 мг. Данной крепости
   явно будет не достаточно опытным любителям снюса, но он отлично подойдет новичкам
   и тем кто хочет ощутить легкое и приятное расслабление, а не сильный никотиновый
   удар. Купить снюс вы можете в нашем интернет магазине.\n\n"
-product-name: Lyft Royal Purple
+product-name: LYFT Royal Purple
 nicotine: 12
 portions: 20
 gram: 17
