@@ -9,7 +9,7 @@ descr: Arqa Tropical Fruit – -сладкий вкус тропических �
 product-name: Arqa Tropical Fruit
 nicotine: 70
 portions: 20
-gram: 15
+gram: 20
 price: 2800
 brand: Russian products
 taste: Тропический Фрукт
