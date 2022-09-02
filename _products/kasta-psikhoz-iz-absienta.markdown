@@ -8,11 +8,11 @@ product-name: KASTA Психоз из абсента
 nicotine: 105
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Абсент
 image: "/uploads/kasta%20absent.jpg"
-has_availability: false
+has_availability: true
 ---
 
 KASTA Психоз из абсента
