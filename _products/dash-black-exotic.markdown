@@ -1,7 +1,7 @@
 ---
 title: Dash Black Exotic
 date: 2022-07-28 06:23:00 Z
-position: 112
+position: 119
 title-seo: Dash Black Exotic
 descr: "Снюс Dash Black Exotic – это бестабачная жевательная смесь. Высокая крепость
   150 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается
