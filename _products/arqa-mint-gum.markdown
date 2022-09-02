@@ -9,6 +9,7 @@ descr: Arqa Mint Gum – снюс со вкусом мятной жвачки. �
 product-name: Arqa Mint Gum
 nicotine: 100
 portions: 20
+gram: 20
 price: 3000
 brand: Russian products
 strong: Крепкий

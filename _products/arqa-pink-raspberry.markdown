@@ -11,6 +11,7 @@ descr: 'Arqa Pink Raspberry 100 mg – снюс со вкусом розовой
 product-name: Arqa Pink Raspberry
 nicotine: 100
 portions: 20
+gram: 20
 price: 3000
 brand: Russian products
 taste: Малина
