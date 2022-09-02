@@ -1,7 +1,7 @@
 ---
 title: FAFF Red Bull
 date: 2022-02-12 10:56:00 Z
-position: 309
+position: 316
 title-seo: FAFF Red Bull
 descr: FAFF Red Bull — новая линейка FAFF не так давно попала на рынок и теперь мы
   вам представляем новый вкус — энергетик ред булл. Данный снюс производят из ароматизаторов
