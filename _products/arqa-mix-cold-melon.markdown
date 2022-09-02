@@ -9,7 +9,7 @@ descr: ARQA Mix Cold Melon – -сладкий вкус дыни в паре с 
 product-name: Arqa Mix Cold Melon
 nicotine: 70
 portions: 20
-gram: 15
+gram: 20
 price: 3000
 brand: Russian products
 taste: Дыня, мята

@@ -10,7 +10,7 @@ descr: "Снюс Arqa pina colada\U0001F379 – это бестабачная ж
 product-name: Arqa Pina Colada
 nicotine: 70
 portions: 20
-gram: 15
+gram: 20
 price: 3000
 brand: Russian products
 taste: Пина Колада
