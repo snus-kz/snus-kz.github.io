@@ -1,7 +1,7 @@
 ---
 title: Iceberg Black
 date: 2022-05-16 07:19:00 Z
-position: 141
+position: 138
 title-seo: Iceberg Black
 descr: "Снюс Iceberg Black. Заявленная крепость 150 мг никотина. В банке 20 порций.
   \n\nВ линейке iceberg представлено более 25 вкусов с крепостью от 20 мг до 150 мг\n"
