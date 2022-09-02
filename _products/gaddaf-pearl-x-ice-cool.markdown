@@ -1,7 +1,7 @@
 ---
 title: GADDAF™ Pearl X Ice Cool
 date: 2022-06-05 08:39:00 Z
-position: 298
+position: 299
 title-seo: GADDAF™ Pearl X Ice Cool
 descr: 'GADDAF™ Pearl X Ice Cool — это сильный снюс, Ice Cool с содержанием никотина
   28 мг/г. '
