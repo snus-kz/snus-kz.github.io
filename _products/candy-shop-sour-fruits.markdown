@@ -1,7 +1,7 @@
 ---
 title: Candy shop Sour Fruits
 date: 2021-11-06 11:04:00 Z
-position: 231
+position: 222
 title-seo: 'Снюс Candy shop Sour Fruits — купить в Казахстане со вкусом '
 descr: "Снюс Candy shop \U0001F36CSour Fruits — бестабачная жевательная смесь, со
   вкусом конфет Скитлс"
