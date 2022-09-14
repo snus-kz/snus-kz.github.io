@@ -1,7 +1,7 @@
 ---
 title: Arqa Dr. Pepper Slim
 date: 2021-11-18 07:46:00 Z
-position: 89
+position: 90
 title-seo: Arqa Dr. Pepper Slim
 descr: "Снюс Arqa Dr. Pepper Slim – снюс, слим-пакеты со вкусом \U0001F352Доктор Пеппер\U0001F352.
   Высокая крепость 70 мг. Продукт считается аналогом шведского снюса, не содержит
