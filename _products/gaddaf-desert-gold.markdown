@@ -1,7 +1,7 @@
 ---
 title: GADDAF™ Desert Gold
 date: 2022-06-05 08:43:00 Z
-position: 325
+position: 330
 title-seo: 'GADDAF™ Desert Gold
 
 '
