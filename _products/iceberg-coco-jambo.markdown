@@ -9,7 +9,7 @@ descr: "Снюс iceberg со вкусом кокоса. Заявленная к
 product-name: Iceberg Coco Jambo
 nicotine: 150
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Кокос
 image: "/uploads/3-44dbd4.png"

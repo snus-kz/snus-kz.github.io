@@ -9,7 +9,7 @@ descr: Снюс iceberg Dragon Fruit со вкусом питайа (сладк�
 product-name: Iceberg Dragon Fruit
 nicotine: 150
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Драконий Фрукт
 image: "/uploads/2-e43684.png"

@@ -10,7 +10,7 @@ product-name: Iceberg Gummy Bears
 nicotine: 150
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Мармеладные мишки
 image: "/uploads/8-2c48f7.png"

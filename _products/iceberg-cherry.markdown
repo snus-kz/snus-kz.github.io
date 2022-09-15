@@ -10,12 +10,12 @@ product-name: Iceberg Cherry
 nicotine: 75
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 sale: new-snus
 taste: Вишня
 image: "/uploads/12-4b4eea.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Iceberg Cherry со вкусом мармеладных мишек. Заявленная крепость 150 мг никотина. В банке 20 порций. 

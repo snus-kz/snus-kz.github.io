@@ -9,7 +9,7 @@ product-name: Iceberg Black
 nicotine: 150
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/10-5a494f.png"
