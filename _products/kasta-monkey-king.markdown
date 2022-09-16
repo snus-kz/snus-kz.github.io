@@ -1,7 +1,7 @@
 ---
 title: Kasta - Monkey King
 date: 2022-06-10 19:29:00 Z
-position: 43
+position: 47
 title-seo: Kasta - Monkey King
 descr: |-
   Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
