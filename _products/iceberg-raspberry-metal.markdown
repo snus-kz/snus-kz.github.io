@@ -10,7 +10,7 @@ product-name: Iceberg Raspberry Metal
 nicotine: 150
 portions: 15
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: малина
 image: "/uploads/7-35ba48.png"
