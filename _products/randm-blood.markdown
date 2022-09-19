@@ -1,7 +1,7 @@
 ---
 title: RANDM Blood
 date: 2022-02-14 16:00:00 Z
-position: 210
+position: 203
 title-seo: RANDM Blood
 descr: |-
   Снюс Рик и морти со вкусом Граната ( RANDM Blood )
