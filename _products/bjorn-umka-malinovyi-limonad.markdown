@@ -16,6 +16,7 @@ price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Малиновый Лимонад
 image: "/uploads/11-e3ba8f.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn UMKA - Малиновый Лимонад -- вкусный и менее вредный аналог сигаретам 

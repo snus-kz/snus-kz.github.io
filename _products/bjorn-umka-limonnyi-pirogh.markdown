@@ -16,6 +16,7 @@ price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Лимонный Пирог
 image: "/uploads/9-e975d1.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn UMKA - Лимонный Пирог -- вкусный и менее вредный аналог сигаретам 

@@ -16,6 +16,7 @@ price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Манго-Персик
 image: "/uploads/6-6b4861.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn UMKA - Манго-Персиковый Смузи -- вкусный и менее вредный аналог сигаретам 

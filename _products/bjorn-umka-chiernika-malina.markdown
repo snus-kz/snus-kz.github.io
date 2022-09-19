@@ -15,6 +15,7 @@ gram: "-"
 price: 6500
 brand: VAPE KIT и электронные сигареты
 image: "/uploads/8-cda3f7.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn UMKA - Черника-Малина -- вкусный и менее вредный аналог сигаретам 

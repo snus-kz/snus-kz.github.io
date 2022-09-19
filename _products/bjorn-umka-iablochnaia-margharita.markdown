@@ -16,6 +16,7 @@ price: 6500
 brand: VAPE KIT и электронные сигареты
 taste: Яблочная Маргарита
 image: "/uploads/10-bbcedc.png"
+has_availability: false
 ---
 
 Электронная сигарета Bjorn UMKA - Яблочная Маргарита -- вкусный и менее вредный аналог сигаретам 
