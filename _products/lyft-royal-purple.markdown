@@ -13,7 +13,7 @@ nicotine: 18
 portions: 20
 gram: 17
 price: 3000
-brand: Russian products
+brand: Lyft
 sale: new-snus
 taste: Виноград
 image: "/uploads/3-98a234.png"
