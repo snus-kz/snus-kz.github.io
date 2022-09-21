@@ -18,7 +18,7 @@ nicotine: 18
 portions: 24
 gram: 17
 price: 3000
-brand: Russian products
+brand: Lyft
 strong: Средней крепости
 sale: new-snus
 taste: Тропические Фрукты

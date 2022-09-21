@@ -15,7 +15,7 @@ nicotine: 18
 portions: 24
 gram: 17
 price: 3000
-brand: Russian products
+brand: Lyft
 sale: new-snus
 taste: Дыня
 image: "/uploads/2-6c4fa8.png"

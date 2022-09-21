@@ -12,7 +12,7 @@ nicotine: 18
 portions: 24
 gram: 20
 price: 3000
-brand: Russian products
+brand: Lyft
 sale: new-snus
 taste: Клубника
 image: "/uploads/4-b3b0b4.png"
