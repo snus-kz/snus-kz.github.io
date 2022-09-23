@@ -13,7 +13,7 @@ portions: 18
 gram: 20
 price: 3500
 new-price: 1800
-brand: Russian products
+brand: Lyft
 strong: Крепкий
 sale: best-snus
 taste: Ягоды
