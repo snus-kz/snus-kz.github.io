@@ -9,7 +9,7 @@ nicotine: 16
 portions: 24
 gram: 16
 price: 3500
-brand: Other brands
+brand: Lyft
 strong: Легкий
 sale: new-snus
 taste: Мята
