@@ -9,7 +9,7 @@ nicotine: 14
 portions: 24
 gram: '16,8'
 price: 3500
-brand: Other brands
+brand: Lyft
 strong: Средней крепости
 sale: best-snus
 taste: Мята

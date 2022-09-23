@@ -12,7 +12,7 @@ nicotine: 14.2
 portions: 21
 gram: 14.7
 price: 3500
-brand: Russian products
+brand: Lyft
 sale: new-snus
 taste: Дикая Лаванда
 image: "/uploads/velo.png"
