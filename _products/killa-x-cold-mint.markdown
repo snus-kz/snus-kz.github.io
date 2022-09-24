@@ -13,7 +13,7 @@ brand: Other brands
 strong: Средней крепости
 sale: sale
 taste: Мята
-image: "/uploads/killa_cold_mint.png"
+image: "/uploads/1-527456.png"
 has_availability: true
 ---
 
