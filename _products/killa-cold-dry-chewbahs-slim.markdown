@@ -12,6 +12,7 @@ nicotine: 22
 portions: 20
 gram: 13
 price: 3200
+new-price: 2300
 brand: Russian products
 image: "/uploads/1-353c15.png"
 ---
