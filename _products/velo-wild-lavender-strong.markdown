@@ -1,7 +1,7 @@
 ---
 title: VELO Wild Lavender Strong
 date: 2022-08-08 11:02:00 Z
-position: 132
+position: 356
 title-seo: " VELO Wild Lavender Strong "
 descr: VELO Wild Lavender Strong – вдохновлен полями с дикими цветами и наполнен травянистым
   округлым вкусом лаванды.  VELO Wild Lavender Strong — это белые, не содержащие никотина,
@@ -16,6 +16,7 @@ brand: Lyft
 sale: new-snus
 taste: Дикая Лаванда
 image: "/uploads/velo.png"
+has_availability: false
 ---
 
 VELO Wild Lavender Strong – вдохновлен полями с дикими цветами и наполнен травянистым округлым вкусом лаванды.  VELO Wild Lavender Strong — это белые, не содержащие никотина, нетабачные никотиновые пакетики, которые хорошо сидят под губой и обеспечивают минимальное покраснение.
