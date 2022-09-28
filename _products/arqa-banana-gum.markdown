@@ -10,7 +10,7 @@ product-name: Arqa Banana Gum
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Банановая Жвачка
 image: "/uploads/7-b68d8e.png"

@@ -10,7 +10,7 @@ product-name: Arqa Orange Fresh
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Апельсиновый Фреш
 image: "/uploads/8-2d1098.png"

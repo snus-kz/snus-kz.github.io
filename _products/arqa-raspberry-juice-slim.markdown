@@ -10,7 +10,7 @@ product-name: Arqa Raspberry Juice Slim
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Малина
 image: "/uploads/6-1e3b73.png"

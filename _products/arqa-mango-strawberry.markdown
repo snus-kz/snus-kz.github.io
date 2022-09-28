@@ -11,7 +11,7 @@ product-name: ARQA Mango Strawberry
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Манго Клубника
 image: "/uploads/10-889749.png"
