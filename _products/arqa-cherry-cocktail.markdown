@@ -7,7 +7,7 @@ product-name: Arqa Cherry Cocktail
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 strong: Крепкий
 taste: Вишня

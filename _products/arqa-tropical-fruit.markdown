@@ -10,7 +10,7 @@ product-name: Arqa Tropical Fruit
 nicotine: 70
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Тропический Фрукт
 image: "/uploads/2-b41454.png"
