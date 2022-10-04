@@ -16,5 +16,4 @@ image: "/uploads/applesoda.png"
 has_availability: false
 ---
 
-
 Электронная сигарета Bjorn URSUS Apple Soda -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
