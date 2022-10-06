@@ -1,0 +1,25 @@
+<footer class="main-foot">
+		<div class="container">
+			<div class="foot-contact">
+				<ul class="social">
+					<li><a href="//www.instagram.com/{% for contacts_number in site.main-pages %}{{contacts_number.instagram}}{% endfor %}/" target="_blank" title="Instagram {% for contacts_number in site.main-pages %}{{contacts_number.instagram}}{% endfor %}"><img src="/img/social/instagram.svg" alt="Instagram snus.kz"></a></li>
+					<li><a href="//t.me/{% for contacts_number in site.main-pages %}{{contacts_number.telegram}}{% endfor %}" target="_blank" title="Telegram @{% for contacts_number in site.main-pages %}{{contacts_number.telegram}}{% endfor %}"><img src="/img/social/telegram.svg" alt="Telegram @{% for contacts_number in site.main-pages %}{{contacts_number.telegram}}{% endfor %}"></a></li>
+<!-- 					<li><a href="viber://add?number={% for contacts_number in site.main-pages %}{{contacts_number.phone}}{% endfor %}" target="_blank" title="Написать в Viber"><img src="/img/social/viber.svg" alt="Viber"></a></li>
+					<li><a href="//api.whatsapp.com/send?phone={% for contacts_number in site.main-pages %}{{contacts_number.phone}}{% endfor %}" target="_blank" title="Написать в WhatsApp"><img src="/img/social/whatsapp.svg" alt="WhatsApp"></a></li> -->
+				</ul>
+				<div>
+					<!-- <a class="phone" href="tel:+{% for contacts_number in site.main-pages %}{{contacts_number.phone}}{% endfor %}" title="Позвонить">+{% for contacts_number in site.main-pages %}{{contacts_number.phone}}{% endfor %}</a> --> 
+				</div>
+			</div> 
+			<div>
+				Продажа никотиновой продукции строго с 21 года
+			</div>
+			<div class="foot-bottom">
+				<span>© Snus-kazakhstan.com {{ site.time | date: "%Y" }}</span>
+				<span>Made in <a href="//web-light.github.io" target="_blank" rel="nofollow">Webs</a> <span class="heart">♥</span></span>
+			</div>
+		</div>
+	</footer>
+
+
+	

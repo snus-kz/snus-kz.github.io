@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-metadata
+/node_modules/
+
+/node_modules/
+/gulp-app/node_modules/
+/dist/
+/.git/
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store

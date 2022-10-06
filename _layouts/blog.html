@@ -1,0 +1,33 @@
+{% include head.html %}
+<body>
+
+	{% include header.html %}
+
+	<div class="banner" role="banner">
+		<div class="container">
+			<div class="wrap-banner">
+				<div class="banner-text">
+					<h1>{{ page.h1-index }}</h1>
+					<p>{{ page.descr-index }}</p>
+					<small>Самовывоз по адресу:<br><address>{{ page.address }}</address></small>
+					<ul class="social">
+						<li><a href="//www.instagram.com/snus.kz/" target="_blank" title="Instagram snus.kz"><img src="/img/social/instagram.svg" alt="Instagram snus.kz"></a></li>
+						<li><a href="//t.me/Snuskz" target="_blank" title="Telegram @Snuskz"><img src="/img/social/telegram.svg" alt="Telegram @Snuskz"></a></li>
+						<li><a href="viber://chat?number=+77087752231" target="_blank" title="Написать в Viber"><img src="/img/social/viber.svg" alt="Viber"></a></li>
+						<li><a href="//api.whatsapp.com/send?phone=77087752231" target="_blank" title="Написать в WhatsApp"><img src="/img/social/whatsapp.svg" alt="WhatsApp"></a></li>
+					</ul>
+					<a class="phone" href="tel:+77087752231" title="Позвонить">+7 708 775 2231</a><br
+					<a class="btn" href="/reviews">Читать отзывы</a>
+				</div>
+				<div class="banner-img">
+					<a href="/siberia-white-dry" title="Siberia white dry"><img src="/img/bg-siberia.png" alt="Снюс siberia white dry в Казахстане"></a>
+					<a href="/odens-cold-dry" title="Odens cold dry"><img src="/img/bg-odens.png" alt="Снюс odens cold dry в Казахстане"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	{% include modal-cart.html %}
+
+	{% include footer.html %}
+	{% include foot-script.html %}

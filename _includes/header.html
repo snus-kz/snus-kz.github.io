@@ -1,0 +1,15 @@
+<header class="main-head">
+		<div class="container">
+			<a href="/" class="logo">
+				<span>Snus-kazakhstan.com</span><br>
+				<small>Снюс Казахстан</small>
+			</a>
+			<nav role="navigation">
+				<ul>
+					<li {% if page.url == '/index' or page.url == '/' %} class="active" {% endif %}><a href="/">Каталог</a></li>
+					<li {% if page.url == '/delivery-and-pay' %} class="active" {% endif %}><a href="/delivery-and-pay">Доставка и оплата</a></li>
+					<li {% if page.url == '/about' %} class="active" {% endif %}><a href="/about">О нас</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>

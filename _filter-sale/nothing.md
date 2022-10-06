@@ -1,0 +1,5 @@
+---
+title: Ничего
+permalink: nothing
+---
+

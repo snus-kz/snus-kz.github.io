@@ -1,0 +1,64 @@
+---
+title: Snus Kz.Github.Io
+timezone: UTC
+collections:
+  filter-brand:
+    title: Brand
+    output: true
+  filter-composition:
+    title: Composition
+    output: true
+  main-pages:
+    title: Main-Pages
+    output: true
+  posts:
+    title: Posts
+    output: true
+  products:
+    title: Products
+    output: true
+  filter-sale:
+    title: Sale
+    output: true
+  filter-strong:
+    title: Strong
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product-page
+    permalink: "/:title"
+    title-seo: Odens Cold Dry купить в Казахстане
+    descr: Odens Cold dry самый продаваемый снюс на территории СНГ. Приятный мятный
+      вкус, 13 пакетиков, очень крепкий 22 мг никотина.
+    product-name: Odens Cold Dry Extreme White Portion
+    nicotine: 22
+    portions: 13
+    gram: 10
+    price: 2500
+    new-price: 
+    brand: Odens
+    composition: Порционный
+    strong: Очень крепкий
+    sale: 
+    taste: Мята
+    image: "/img/products/odens-cold-extreme-white-dry-portion.jpg"
+    has_availability: true
+plugins:
+- jekyll-sitemap
+exclude:
+- package.json
+- gulpfile.js
+- node_modules
+- app/
+- gulp-app/
+- Gemfile
+- Gemfile.lock
+- readme.md
+include:
+- ".htaccess"

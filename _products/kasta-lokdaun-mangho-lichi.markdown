@@ -1,0 +1,23 @@
+---
+title: Kasta Локдаун манго личи
+date: 2021-09-27 15:49:00 Z
+position: 33
+title-seo: Каста Локдаун манго личи - купить в Казахстане новинка
+descr: Каста Локдаун манго личи новинка купить в Казахстане
+product-name: Каста Локдаун манго личи
+nicotine: 105
+portions: 20
+gram: 15
+price: 3000
+brand: Russian products
+composition: Порционный
+strong: Очень крепкий
+image: "/uploads/Kasta%20mango%20lychy.jpg"
+has_availability: true
+---
+
+Крепость - 105мг/г.
+Вкус - Манго Лиич
+Цвет пакета - Белый
+Толщина пакетика - Тонкий (Slim)
+Количество пакетов в упаковке - около 20

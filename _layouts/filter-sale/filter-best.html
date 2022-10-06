@@ -1,0 +1,37 @@
+{% include head.html %}
+<body>
+
+	{% include header.html %}
+
+	<main class="container mt-t-head">
+		<div class="row">
+			<div class="col-lg-10 order-1" id="pjax-container">		
+				<h1>{{ page.sale-h1 }}</h1>
+				{{ content }}
+
+				<div class="row">
+
+					
+					
+					{% assign sorted_items = site.products | sort:"position" | where: "sale", "best-snus" %}
+					{% for product in sorted_items %}
+					
+					{% include item-product.html %}
+
+					{% endfor %}
+
+				</div>
+				
+			</div>
+			<div class="col-lg-2">
+				{% include filter.html %}
+			</div>
+		</div>
+	</main>
+
+	<a class="cart popup-with-move-anim" href="#small-dialog"><span class="cart-count-mini simpleCart_quantity"></span></a>
+
+	{% include modal-cart.html %}
+
+	{% include footer.html %}
+	{% include foot-script.html %}

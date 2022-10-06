@@ -1,0 +1,2 @@
+Host: https://snus-kz.com
+Sitemap: https://snus-kz.com/sitemap.xml
