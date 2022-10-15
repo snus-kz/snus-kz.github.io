@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Mango Energy
 date: 2022-08-22 17:46:00 Z
-position: 121
+position: 124
 title-seo: Red Stigma Mango Energy
 descr: |-
   Снюс Red Stigma Mango Energy - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
