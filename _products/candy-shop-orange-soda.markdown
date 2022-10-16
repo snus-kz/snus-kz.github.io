@@ -1,7 +1,7 @@
 ---
 title: Candy shop Orange Soda
 date: 2021-11-06 11:11:00 Z
-position: 258
+position: 257
 title-seo: 'Снюс Candy shop Orange Soda - купить в Казахстане со вкусом  '
 descr: "Снюс Candy shop \U0001F34AOrange Soda — бестабачная жевательная смесь, со
   вкусом напитка Fanta"
