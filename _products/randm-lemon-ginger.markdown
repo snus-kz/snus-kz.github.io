@@ -16,6 +16,7 @@ price: 2800
 brand: Russian products
 taste: Лимон
 image: "/uploads/22.png"
+has_availability: false
 ---
 
 Снюс RANDM LEMON GINGER  — это бестабачный снюс, крепость которого составляет 150 мг никотина на 1 грамм продукта. 

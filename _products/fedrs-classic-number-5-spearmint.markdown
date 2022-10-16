@@ -15,6 +15,7 @@ price: 2800
 brand: Other brands
 taste: Мята
 image: "/uploads/4-39b71a.png"
+has_availability: false
 ---
 
 Снюс Fedrs Classic #5 SpearMint  - новое слово среди вкусовых бестабачных линеек.
