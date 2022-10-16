@@ -1,7 +1,7 @@
 ---
 title: Iceberg Cool Mint Metal
 date: 2022-05-16 07:08:00 Z
-position: 337
+position: 335
 title-seo: Iceberg Cool Mint Metal
 descr: "Снюс iceberg со вкусом мяты в металической банке. Заявленная крепость 150
   мг никотина. В банке 15 порций. \n\nВ линейке iceberg представлено более 25 вкусов
