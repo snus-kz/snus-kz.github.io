@@ -13,7 +13,7 @@ gram: 18
 price: 2800
 brand: Russian products
 image: "/uploads/6-04af7b.png"
-has_availability: false
+has_availability: true
 ---
 
 Качественные никотиновые паучи Grant Ice Cool отлично подойдут для любителей свежей мяты. Испытайте эволюцию никотинового удара. GRANT обеспечивает освежающий всплеск вкуса и никотина без содержания табака. 
