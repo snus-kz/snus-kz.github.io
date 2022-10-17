@@ -15,7 +15,7 @@ strong: Крепкий
 sale: sale
 taste: Классический табак
 image: "/uploads/Siberia%20black%20slim-min.jpg"
-has_availability: true
+has_availability: false
 ---
 
 ### Siberia Slim  Black

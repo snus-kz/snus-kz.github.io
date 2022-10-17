@@ -1,7 +1,7 @@
 ---
 title: Nictech Мята с Какао
 date: 2022-01-19 17:48:00 Z
-position: 240
+position: 239
 title-seo: Nictech Мята с Какао
 descr: |-
   Nictech Мята с Какао  - cпециальная новинка среди вкусовых бестабачных линеек.
