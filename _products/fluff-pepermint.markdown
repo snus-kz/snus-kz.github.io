@@ -15,6 +15,7 @@ strong: Средней крепости
 sale: sale
 taste: Перечная мята
 image: "/uploads/IMG_1831-2.png"
+has_availability: false
 ---
 
 Fluff Pepermint 
