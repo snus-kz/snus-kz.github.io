@@ -1,7 +1,7 @@
 ---
 title: Vika Black
 date: 2022-05-21 06:16:00 Z
-position: 165
+position: 0
 title-seo: Vika Black
 descr: Vika Black — это порционный снюс, разработанный с одной целью — обеспечить
   никотином, без лишнего дискомфорта. Он обеспечивает чрезвычайно сильный никотиновый
@@ -12,8 +12,10 @@ nicotine: 28
 portions: 20
 gram: 20
 price: 2800
+new-price: 2000
 brand: Other brands
 strong: Крепкий
+sale: sale
 taste: Ментол
 image: "/uploads/1-5c182d.png"
 ---
