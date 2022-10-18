@@ -15,6 +15,7 @@ price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Манго
 image: "/uploads/4-c636ce.png"
+has_availability: false
 ---
 
 Мон M4 — это революционный перезаряжаемый под на 4000 затяжек.
