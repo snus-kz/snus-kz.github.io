@@ -16,6 +16,7 @@ brand: Russian products
 sale: new-snus
 taste: " Виноградный Лимонад"
 image: "/uploads/7-3a2877.png"
+has_availability: false
 ---
 
 Снюс Kasta Озноб - Виноградный Лимонад - это порционная супер крепкая бестабачная жевательная смесь со вкусом винограда.

@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Аромат жвачки
 image: "/uploads/pab.png"
-has_availability: true
+has_availability: false
 ---
 
 "PABLO ICE COLD”🔥🔥🔥
