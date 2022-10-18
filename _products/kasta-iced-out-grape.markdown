@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Grape
 date: 2022-09-02 12:54:00 Z
-position: 41
+position: 43
 title-seo: Kasta Iced Out Grape
 descr: |-
   Снюс Kasta Iced Out Grape -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
