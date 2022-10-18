@@ -1,20 +1,20 @@
 ---
-title: MON - Strawberry Ice
-date: 2022-06-27 18:50:00 Z
-position: 0
-title-seo: MON - Strawberry Ice
+title: MON - Blueberry Ice
+date: 2022-06-27 18:47:00 Z
+position: 355
+title-seo: " MON - Blueberry Ice"
 descr: |-
   Новые поды MON - на 4 000 тяг.
 
   Лучшее предложение на рынке цена/качество
-product-name: MON - Strawberry Ice
+product-name: " MON - Blueberry Ice"
 nicotine: "-"
 portions: 4000
 gram: "-"
 price: 5000
 brand: VAPE KIT и электронные сигареты
-taste: клубника
-image: "/uploads/3-ee0901.png"
+taste: черника
+image: "/uploads/2-e08a65.png"
 ---
 
 Мон M4 — это революционный перезаряжаемый под на 4000 затяжек.

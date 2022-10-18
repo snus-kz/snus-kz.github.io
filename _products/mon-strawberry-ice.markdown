@@ -1,20 +1,20 @@
 ---
-title: MON - Mango Ice
-date: 2022-06-27 18:51:00 Z
-position: 1
-title-seo: MON - Mango Ice
+title: MON - Strawberry Ice
+date: 2022-06-27 18:50:00 Z
+position: 353
+title-seo: MON - Strawberry Ice
 descr: |-
   Новые поды MON - на 4 000 тяг.
 
   Лучшее предложение на рынке цена/качество
-product-name: MON - Mango Ice
+product-name: MON - Strawberry Ice
 nicotine: "-"
 portions: 4000
 gram: "-"
 price: 5000
 brand: VAPE KIT и электронные сигареты
-taste: Манго
-image: "/uploads/4-c636ce.png"
+taste: клубника
+image: "/uploads/3-ee0901.png"
 ---
 
 Мон M4 — это революционный перезаряжаемый под на 4000 затяжек.

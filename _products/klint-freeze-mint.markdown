@@ -1,7 +1,7 @@
 ---
 title: Klint Freeze Mint
 date: 2021-10-28 11:01:00 Z
-position: 223
+position: 220
 title-seo: Klint Freeze Mint slim - купить в Казахстане самый свежий поунчи
 descr: |-
   Klint Freeze Mint slim
