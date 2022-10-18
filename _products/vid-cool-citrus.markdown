@@ -1,7 +1,7 @@
 ---
 title: Vid Cool Citrus
 date: 2022-01-20 06:32:00 Z
-position: 283
+position: 217
 title-seo: Vid Cool Citrus
 descr: |-
   Vid Cool Citrus - cпециальная новинка среди вкусовых бестабачных линеек.
