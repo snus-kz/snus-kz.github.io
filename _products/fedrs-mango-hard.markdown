@@ -12,7 +12,7 @@ product-name: Fedrs Mango Hard
 nicotine: 65
 portions: 20
 gram: 15
-price: 2800
+price: 3000
 brand: Other brands
 strong: Очень крепкий
 taste: Манго
