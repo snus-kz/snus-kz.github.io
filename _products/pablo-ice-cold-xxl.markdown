@@ -12,6 +12,7 @@ nicotine: 30
 portions: 30
 gram: 16
 price: 3500
+brand: Russian products
 image: "/uploads/213.png"
 ---
 
