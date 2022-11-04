@@ -1,7 +1,7 @@
 ---
 title: KASTA Грейпфрутовая вакцинация
 date: 2021-10-26 07:59:00 Z
-position: 54
+position: 58
 title-seo: 'KASTA Грейпфрутовая вакцинация - купить в Казахстане '
 descr: KASTA Грейпфрутовая вакцинация
 product-name: KASTA Грейпфрутовая вакцинация
