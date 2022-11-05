@@ -13,7 +13,7 @@ price: 3000
 brand: Russian products
 taste: Яблоко
 image: "/uploads/4-0d6e30.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Nictech Green Apple Slim 60-новое слово среди вкусовых бестабачных линеек.
