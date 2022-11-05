@@ -11,7 +11,7 @@ nicotine: 50
 portions: 20
 gram: 20
 price: 3000
-brand: Russian products
+brand: Other brands
 sale: new-snus
 taste: клубника-личи
 image: "/uploads/4-07a61f.png"
