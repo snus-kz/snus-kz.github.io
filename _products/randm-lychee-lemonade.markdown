@@ -17,11 +17,11 @@ product-name: RANDM LYCHEE LEMONADE
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Личи лимонад
 image: "/uploads/18.png"
-has_availability: false
+has_availability: true
 ---
 
 LYCHEE LEMONADE RANDM — это крепкий бестабачный снюс от производителя Faff. Крепость снюса составляет 150 миллиграмм никотина на 1 грамм продукта. Никпаки очень плотно наполнены, поэтому вы получите максимум ощущений.
