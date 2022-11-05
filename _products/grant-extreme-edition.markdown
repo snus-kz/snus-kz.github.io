@@ -11,8 +11,9 @@ product-name: Grant Extreme Edition
 nicotine: 50
 portions: 27
 gram: 17
-price: 2800
-brand: Russian products
+price: 2300
+brand: Other brands
+taste: Ментол
 image: "/uploads/5-de56fd.png"
 has_availability: true
 ---
