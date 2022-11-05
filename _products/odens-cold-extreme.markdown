@@ -14,6 +14,7 @@ strong: Средней крепости
 sale: new-snus
 taste: табак, перечная мята
 image: "/uploads/Odens%20cold%20extreme.jpg"
+has_availability: false
 ---
 
 **Oden’s Cold Extreme Portion**
