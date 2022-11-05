@@ -11,7 +11,8 @@ nicotine: 35
 portions: 27
 gram: 18
 price: 2300
-brand: Russian products
+brand: Other brands
+taste: Мята
 image: "/uploads/6-04af7b.png"
 has_availability: true
 ---
