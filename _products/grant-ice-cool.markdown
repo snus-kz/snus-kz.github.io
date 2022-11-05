@@ -10,7 +10,7 @@ product-name: Grant Ice Cool
 nicotine: 35
 portions: 27
 gram: 18
-price: 2800
+price: 2300
 brand: Russian products
 image: "/uploads/6-04af7b.png"
 has_availability: true
