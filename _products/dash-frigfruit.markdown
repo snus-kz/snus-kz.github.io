@@ -1,7 +1,7 @@
 ---
 title: Dash Frigfruit
 date: 2022-03-13 18:19:00 Z
-position: 190
+position: 192
 title-seo: Dash Frigfruit
 descr: Снюс Dash Frigfruit – это бестабачная жевательная смесь. Высокая крепость 105
   мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на
