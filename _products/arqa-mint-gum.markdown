@@ -13,6 +13,7 @@ gram: 20
 price: 3000
 brand: Russian products
 strong: Крепкий
+taste: Мятная жвачка
 image: "/uploads/7-d8afc7.png"
 has_availability: false
 ---
