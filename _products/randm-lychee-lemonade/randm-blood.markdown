@@ -19,7 +19,7 @@ price: 2800
 brand: Russian products
 taste: Гранат
 image: "/uploads/randm%20blood.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Рик и морти со вкусом Граната ( RANDM Blood )
