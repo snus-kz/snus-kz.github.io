@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Trevor
 date: 2022-11-05 15:43:00 Z
-position: 30
+position: 24
 title-seo: Faff Shooter Trevor
 descr: Faff Shooter Trevor 150mg — очередной белый снюс из линейки FAFF, крепость
   у данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного

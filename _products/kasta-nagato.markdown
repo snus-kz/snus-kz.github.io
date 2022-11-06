@@ -1,7 +1,7 @@
 ---
 title: Kasta Nagato
 date: 2022-11-06 07:40:00 Z
-position: 1
+position: 379
 title-seo: Kasta Nagato
 descr: |-
   Снюс Kasta Nagato - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

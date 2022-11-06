@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Mango
 date: 2022-09-02 10:04:00 Z
-position: 86
+position: 80
 title-seo: Kasta Iced Out Mango
 descr: |-
   Снюс Kasta Iced Out Mango -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
