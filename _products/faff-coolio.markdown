@@ -1,0 +1,16 @@
+---
+title: Faff Coolio
+date: 2022-11-06 05:36:00 Z
+title-seo: Faff Coolio
+product-name: Faff Coolio
+nicotine: 11
+portions: 20
+gram: 20
+price: 3000
+brand: Other brands
+strong: Средней крепости
+sale: new-snus
+image: "/uploads/12-557528.png"
+---
+
+Faff Coolio — это прекрасный аналог белого шведского снюса с крепостью в 11 мг и приятным вкусом мяты. При его использовании вы вероятно сможете ощутить мягкий никотиновый удар вместе с легкой прохладой и в меру сильным жжением. 
