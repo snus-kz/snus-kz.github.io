@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Ghost
 date: 2022-11-05 15:45:00 Z
-position: 17
+position: 33
 title-seo: Faff Shooter Ghost
 descr: Faff Shooter Ghost 150mg — очередной белый снюс из линейки FAFF, крепость у
   данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного сладкий
