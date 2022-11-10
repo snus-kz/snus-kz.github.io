@@ -1,7 +1,7 @@
 ---
 title: Grant Extreme Edition
 date: 2022-01-18 04:32:00 Z
-position: 32
+position: 1
 title-seo: Grant Extreme Edition
 descr: Grant Extreme Edition – отличный продукт без содержания табака. Имеет высокую
   крепость которая выше чем у самых крепких табачных позиций. Обладает отличным вкусом
@@ -11,8 +11,10 @@ product-name: Grant Extreme Edition
 nicotine: 50
 portions: 27
 gram: 17
-price: 2300
+price: 3000
+new-price: 2300
 brand: Other brands
+sale: new-snus
 taste: Ментол
 image: "/uploads/5-de56fd.png"
 has_availability: true
