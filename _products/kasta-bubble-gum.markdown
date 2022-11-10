@@ -1,7 +1,7 @@
 ---
 title: Kasta Bubble Gum
 date: 2021-11-19 04:47:00 Z
-position: 95
+position: 96
 title-seo: Kasta Bubble Gum
 descr: |-
   Снюс Kasta Bubble Gum -это порционная супер крепкая бестабачная жевательная смесь со вкусом жвачки.
