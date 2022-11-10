@@ -10,7 +10,7 @@ product-name: Iceberg Freeze Metal
 nicotine: 150
 portions: 15
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/5-4c5f71.png"

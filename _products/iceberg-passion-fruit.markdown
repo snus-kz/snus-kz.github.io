@@ -8,7 +8,7 @@ descr: "Снюс iceberg со вкусом \U0001F96Dмаракуйи\U0001F96D.
 product-name: Iceberg Passion Fruit
 nicotine: 75
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Маракуйя
 image: "/uploads/2-c9764c.png"

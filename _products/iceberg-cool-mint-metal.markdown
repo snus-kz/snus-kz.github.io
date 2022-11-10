@@ -10,7 +10,7 @@ product-name: Iceberg Cool Mint Metal
 nicotine: 150
 portions: 15
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/6-c57972.png"
