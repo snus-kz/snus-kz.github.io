@@ -1,7 +1,7 @@
 ---
 title: Red Original
 date: 2022-01-28 20:10:00 Z
-position: 115
+position: 118
 title-seo: Red Original
 descr: |-
   Снюс Red Original  - новое слово среди вкусовых бестабачных линеек.
