@@ -1,7 +1,7 @@
 ---
 title: Pablo Ice Cold
 date: 2022-01-18 04:25:00 Z
-position: 329
+position: 331
 title-seo: 'Pablo Ice Cold '
 descr: Pablo Ice Cold - это качественная альтернатива табачному снюсу. Основой для
   бестабачной смеси Killa стал растительный носитель пропитанный никотином высочайшей

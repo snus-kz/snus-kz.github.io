@@ -1,7 +1,7 @@
 ---
 title: Kasta Templar Assasin
 date: 2022-10-20 16:22:00 Z
-position: 29
+position: 31
 title-seo: Kasta Templar Assasin
 descr: |-
   Снюс Kasta Templar Assasin - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
