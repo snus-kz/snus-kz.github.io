@@ -1,7 +1,7 @@
 ---
 title: Arqa Bubble gum
 date: 2022-05-04 05:18:00 Z
-position: 123
+position: 124
 title-seo: Arqa Bubble gum
 descr: Снюс Arqa Bubble gum – это бестабачная жевательная смесь, со вкусом сладкой
   жвачки. Высокая крепость 70 мг. Продукт считается аналогом шведского снюса, не содержит

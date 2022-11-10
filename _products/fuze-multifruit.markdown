@@ -1,7 +1,7 @@
 ---
 title: Fuze Multifruit
 date: 2022-02-23 06:39:00 Z
-position: 217
+position: 218
 title-seo: Fuze Multifruit
 descr: Снюс Fuze Multifruit со вкусом малины. Заявленная крепость 150 мг никотина.
   В банке 20-25 порций.
