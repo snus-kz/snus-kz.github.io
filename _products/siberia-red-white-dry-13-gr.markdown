@@ -9,7 +9,7 @@ product-name: Siberia Red White Dry 13 gr
 nicotine: 13
 portions: 17
 gram: 17
-price: 3600
+price: 3000
 brand: Siberia
 sale: new-snus
 image: "/uploads/4.jpg"
