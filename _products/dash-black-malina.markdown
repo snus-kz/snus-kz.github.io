@@ -1,7 +1,7 @@
 ---
 title: Dash Black Malina
 date: 2022-07-28 05:55:00 Z
-position: 169
+position: 175
 title-seo: Dash Black Malina
 descr: "Снюс Dash Black Malina – это бестабачная жевательная смесь. Высокая крепость
   150 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается
