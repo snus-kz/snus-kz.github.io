@@ -1,7 +1,7 @@
 ---
 title: Vid Fruit Fusion
 date: 2022-01-20 06:30:00 Z
-position: 46
+position: 48
 title-seo: Vid Fruit Fusion
 descr: |-
   Vid Fruit Fusion - cпециальная новинка среди вкусовых бестабачных линеек.
