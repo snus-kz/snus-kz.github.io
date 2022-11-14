@@ -15,8 +15,8 @@ price: 3500
 new-price: 1800
 brand: Lyft
 strong: Крепкий
-sale: best-snus
-taste: Ягоды
+sale: sale
+taste: Энергетик
 image: "/uploads/vekli-f2ce89.png"
 ---
 
