@@ -14,7 +14,7 @@ price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Ананас
 image: "/uploads/pineapple%20ice.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Pineapple Ice -- вкусный и менее вредный аналог сигаретам Pineapple Ice / Ананас с холодком - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
