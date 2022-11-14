@@ -9,7 +9,7 @@ product-name: Odens Cold Extreme White Dry 13G
 nicotine: 22
 portions: 17
 gram: 13
-price: 3100
+price: 3000
 brand: Odens
 strong: Средней крепости
 taste: Перечная Мята
