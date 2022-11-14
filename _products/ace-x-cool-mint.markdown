@@ -17,7 +17,7 @@ descr: |-
 product-name: Ace X Cool Mint
 nicotine: 15
 portions: 20
-price: 3000
+price: 2000
 brand: Other brands
 composition: Порционный
 image: "/uploads/acex.png"
