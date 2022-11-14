@@ -1,7 +1,7 @@
 ---
 title: Ace X Cool Mint
 date: 2021-11-21 09:13:00 Z
-position: 306
+position: 0
 title-seo: Ace X Cool Mint
 descr: |-
   Ace X Cool Mint предлагает знакомый победный вкус охлаждающей мяты и дарит вам более сильное ощущение, чем когда-либо прежде.
@@ -20,6 +20,7 @@ portions: 20
 price: 2000
 brand: Other brands
 composition: Порционный
+sale: sale
 image: "/uploads/acex.png"
 ---
 
