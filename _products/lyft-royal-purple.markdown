@@ -10,10 +10,11 @@ descr: "Lyft Royal Purple - еще один белый легкий снюс о�
   удар. Купить снюс вы можете в нашем интернет магазине.\n\n"
 product-name: LYFT Royal Purple
 nicotine: 18
-portions: 20
+portions: 24
 gram: 17
 price: 3000
 brand: Lyft
+strong: Крепкий
 sale: new-snus
 taste: Виноград
 image: "/uploads/3-98a234.png"
