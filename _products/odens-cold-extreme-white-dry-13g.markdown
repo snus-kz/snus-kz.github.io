@@ -13,7 +13,7 @@ price: 3100
 brand: Odens
 strong: Средней крепости
 taste: Перечная Мята
-image: "/uploads/2022-11-14%2019.29.00.jpg"
+image: "/uploads/origin-e79018.jpeg"
 ---
 
 ODEN'S EXTREME COLD WHITE DRY 13G
