@@ -11,7 +11,7 @@ gram: 13
 price: 2800
 new-price: 1800
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: Переччная мята
 image: "/uploads/lsft.png"
 ---
