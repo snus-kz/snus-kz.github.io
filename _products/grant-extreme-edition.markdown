@@ -14,7 +14,7 @@ gram: 17
 price: 3000
 new-price: 2300
 brand: Other brands
-sale: new-snus
+sale: sale
 taste: Ментол
 image: "/uploads/5-de56fd.png"
 has_availability: true
