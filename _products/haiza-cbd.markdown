@@ -1,7 +1,7 @@
 ---
 title: HAIZA CBD
 date: 2022-11-10 06:09:00 Z
-position: 10
+position: 11
 title-seo: HAIZA CBD
 descr: "HAIZA CBD - представляем революционные никотиновые пакетики с экстрактом CBD.\nДа,
   вы не ослышались – никотиновые пакетики с CBD! Killa сделали это возможным. \n\nТак

@@ -1,7 +1,7 @@
 ---
 title: The Last of us
 date: 2021-08-07 07:51:00 Z
-position: 240
+position: 3
 title-seo: The Last of us peppermint  - купить в Казахстане
 descr: The Last of us peppermint  - купить в Казахстане ,приятный мятный продукт
 product-name: 'The Last of us peppermint '
@@ -17,7 +17,3 @@ image: "/uploads/lsft.png"
 ---
 
 The Last of us peppermint  -со вкусом перечной мяты
-
-
-13 грамм
-105 мг 
