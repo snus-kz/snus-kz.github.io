@@ -1,7 +1,7 @@
 ---
 title: Iceberg Coconut Metal
 date: 2022-05-16 06:58:00 Z
-position: 350
+position: 342
 title-seo: Iceberg Coconut Metal
 descr: "Снюс iceberg со вкусом кокоса в металической банке. Заявленная крепость 150
   мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов
