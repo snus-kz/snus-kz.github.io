@@ -1,7 +1,7 @@
 ---
 title: EXTREME X COLD
 date: 2021-06-14 13:35:00 Z
-position: 132
+position: 134
 title-seo: EXTREME X COLD - купить в Казахстане
 descr: 'EXTREME X COLD - купить в Казахстане '
 product-name: EXTREME X COLD
