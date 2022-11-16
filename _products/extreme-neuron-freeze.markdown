@@ -8,13 +8,13 @@ product-name: EXTREME NEURON FREEZE
 nicotine: 24
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Other brands
 strong: Средней крепости
 sale: best-snus
 taste: Холодок
 image: "/uploads/1-2297c6.png"
-has_availability: false
+has_availability: true
 ---
 
 EXTRIME ‼️

@@ -13,12 +13,12 @@ product-name: EXTREME X FREEZE
 nicotine: 30
 portions: 20
 gram: 202
-price: 2800
+price: 3000
 new-price: 1800
 brand: Russian products
 sale: sale
 image: "/uploads/xtr.png"
-has_availability: false
+has_availability: true
 ---
 
 **XTRIME X-FREEZE.** От производителя «Пабло и Килла»! 
