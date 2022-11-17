@@ -14,7 +14,6 @@ nicotine: 30
 portions: 20
 gram: 202
 price: 3000
-new-price: 1800
 brand: Russian products
 sale: sale
 image: "/uploads/xtr.png"
