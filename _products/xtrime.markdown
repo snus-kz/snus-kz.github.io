@@ -9,7 +9,6 @@ nicotine: 24
 portions: 20
 gram: 20
 price: 3000
-new-price: 1800
 brand: Other brands
 strong: Средней крепости
 sale: sale
