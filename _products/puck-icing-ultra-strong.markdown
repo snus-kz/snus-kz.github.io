@@ -1,7 +1,7 @@
 ---
 title: PUCK ICING ULTRA STRONG
 date: 2021-09-13 12:55:00 Z
-position: 309
+position: 310
 title-seo: PUCK ICING ULTRA STRONG - купить в Казахстане
 product-name: 'PUCK ICING ULTRA STRONG '
 nicotine: 45
