@@ -1,7 +1,7 @@
 ---
 title: KILLA BLUEBERRY
 date: 2021-07-12 17:04:00 Z
-position: 311
+position: 310
 title-seo: KILLA BLUEBERRY -купить в Казахстане
 descr: KILLA BLUEBERRY - самый лучший средний табак из скандинавии
 product-name: KILLA BLUEBERRY

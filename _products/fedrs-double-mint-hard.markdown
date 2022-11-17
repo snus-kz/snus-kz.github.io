@@ -1,23 +1,24 @@
 ---
-title: Fedrs Banan Hard
-date: 2022-01-28 20:03:00 Z
-position: 0
-title-seo: Fedrs Banan Hard
+title: Fedrs Double Mint Hard
+date: 2022-01-28 19:55:00 Z
+position: 11
+title-seo: Fedrs Double Mint Hard
 descr: |-
-  Снюс Fedrs Banan Hard  - новое слово среди вкусовых бестабачных линеек.
+  Снюс Fedrs Double Mint Hard  - новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус.
   Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
   В удобных слим никпаках.
-product-name: Fedrs Banan Hard
+product-name: Fedrs Double Mint Hard
 nicotine: 65
 portions: 20
+gram: 15
 price: 3000
 brand: Other brands
-taste: Банан
-image: "/uploads/9-48cba3.png"
+image: "/uploads/2-c421af.png"
+has_availability: true
 ---
 
-Снюс Fedrs Banan Hard  - новое слово среди вкусовых бестабачных линеек.
+Снюс Fedrs Double Mint Hard  - новое слово среди вкусовых бестабачных линеек.
 Теперь они приятны не только на запах, но и на вкус.
 Основа продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги).
 В удобных слим никпаках.
