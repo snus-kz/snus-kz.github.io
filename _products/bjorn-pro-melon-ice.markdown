@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Melon Ice
 date: 2021-11-22 04:04:00 Z
-position: 27
+position: 30
 title-seo: Bjorn URSUS Melon Ice
 descr: 'Электронная сигарета Bjorn URSUS Melon Ice -- вкусный и менее вредный аналог
   сигаретам Melon Ice / Холодная Дыня - насыщенный вкус спелой дыни сделают каждую
