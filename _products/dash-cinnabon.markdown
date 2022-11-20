@@ -1,7 +1,7 @@
 ---
 title: Dash Cinnabon
 date: 2022-03-13 17:27:00 Z
-position: 4
+position: 13
 title-seo: Dash Cinnabon
 descr: Снюс Dash Cinnabon – это бестабачная жевательная смесь. Высокая крепость 105
   мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на
@@ -13,7 +13,7 @@ price: 2800
 brand: Russian products
 taste: 'Синабон '
 image: "/uploads/2-824a6b.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Dash Cinnabon – это бестабачная жевательная смесь. Высокая крепость 105 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.
