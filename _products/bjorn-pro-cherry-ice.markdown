@@ -14,7 +14,7 @@ price: 5000
 brand: VAPE KIT и электронные сигареты
 taste: Вишня
 image: "/uploads/cherry%20ice.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Cherry Ice -- -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают каждую затяжку сочной!
