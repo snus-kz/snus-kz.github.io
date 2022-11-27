@@ -1,7 +1,7 @@
 ---
 title: Iceberg DragonFire
 date: 2022-09-16 05:26:00 Z
-position: 85
+position: 94
 title-seo: 'Iceberg DragonFire '
 descr: "Снюс Iceberg DragonFire Заявленная крепость 150 мг никотина. В банке 20 порций.
   \n\nВ линейке iceberg представлено более 25 вкусов с крепостью от 20 мг до 150 мг\n"
