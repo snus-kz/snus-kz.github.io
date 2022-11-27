@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Freeman
 date: 2022-11-05 15:20:00 Z
-position: 65
+position: 56
 title-seo: Faff Shooter Freeman
 descr: Faff Shooter Freeman 150mg — очередной белый снюс из линейки FAFF, крепость
   у данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного
