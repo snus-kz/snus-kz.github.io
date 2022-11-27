@@ -1,7 +1,7 @@
 ---
 title: Iceberg Dragon Fruit
 date: 2022-02-23 06:19:00 Z
-position: 95
+position: 103
 title-seo: Iceberg Dragon Fruit
 descr: Снюс iceberg Dragon Fruit со вкусом питайа (сладкий вкус, напоминающий комбинацию
   киви и банана или клубники). Заявленная крепость 150 мг никотина. В банке 20-25
