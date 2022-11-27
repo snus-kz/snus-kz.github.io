@@ -10,7 +10,7 @@ nicotine: '14,3'
 portions: 24
 gram: '16,8'
 price: 3500
-brand: Odens
+brand: Other brands
 strong: Средней крепости
 taste: 'Ананаси, перец Чили '
 image: "/uploads/velo-spicy-pineapple-slim-extra-strong-all-white-portion.png"
