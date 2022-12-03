@@ -1,7 +1,7 @@
 ---
 title: LYFT Tropic Breeze Slim
 date: 2022-09-02 15:47:00 Z
-position: 115
+position: 114
 title-seo: LYFT Tropic Breeze Slim
 descr: "LYFT Tropic Breeze Slim All White чтобы обеспечить приятное летнее ощущение,
   в котором мы все нуждаемся время от времени.  Эти никотиновые пакетики без табака
