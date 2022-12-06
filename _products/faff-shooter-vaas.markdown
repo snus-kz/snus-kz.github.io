@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter VAAS
 date: 2022-11-05 15:26:00 Z
-position: 74
+position: 76
 title-seo: Faff Shooter VAAS
 descr: Faff Shooter VAAS 150mg — очередной белый снюс из линейки FAFF, крепость у
   данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного сладкий
