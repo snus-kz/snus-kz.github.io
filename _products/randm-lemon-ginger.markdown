@@ -1,7 +1,7 @@
 ---
 title: RANDM LEMON GINGER
 date: 2022-02-15 04:53:00 Z
-position: 367
+position: 365
 title-seo: RANDM LEMON GINGER
 descr: "Снюс RANDM LEMON GINGER  — это бестабачный снюс, крепость которого составляет
   150 мг никотина на 1 грамм продукта. \n\n \n\nВкус — лимон с имбирем. Ощущается
