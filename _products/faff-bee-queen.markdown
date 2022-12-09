@@ -11,7 +11,7 @@ product-name: FAFF Bee Queen
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Малина
 image: "/uploads/16-666bca.png"
