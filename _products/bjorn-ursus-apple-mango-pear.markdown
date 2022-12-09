@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Apple Mango Pear
 date: 2022-02-23 05:42:00 Z
-position: 247
+position: 245
 title-seo: Bjorn URSUS Apple Mango Pear
 descr: 'Электронная сигарета Bjorn URSUS Apple Mango Pear  -- вкусный и менее вредный
   аналог сигаретам Apple Mango Pear   / Яблоко Манго Персик - насыщенный вкус фруктов
