@@ -10,7 +10,7 @@ product-name: FAFF Gummy Bears
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Мармелад
 image: "/uploads/6-971727.png"
