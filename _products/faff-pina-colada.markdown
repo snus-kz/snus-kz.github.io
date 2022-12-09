@@ -10,7 +10,7 @@ product-name: FAFF Pina Colada
 nicotine: 75
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Пинаколада
 image: "/uploads/10-a43b23.png"

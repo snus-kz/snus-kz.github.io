@@ -9,7 +9,7 @@ descr: FAFF Citron — это вкус цитрусового лимонада, 
 product-name: FAFF Citron
 nicotine: 75
 portions: 30
-price: 2800
+price: 3000
 brand: Russian products
 taste: Цитрус
 image: "/uploads/1-6a642d.png"
