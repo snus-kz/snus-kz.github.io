@@ -1,7 +1,7 @@
 ---
 title: Lyft Mint Hard
 date: 2022-11-10 06:58:00 Z
-position: 56
+position: 401
 title-seo: Lyft Mint Hard
 descr: "Lyft Mint Hard - еще один белый крепкий снюс от производителя Lyft. Данный
   снюс имеет легкий и приятный вкус ментола, а так же крепость 45 мг. Данной крепости

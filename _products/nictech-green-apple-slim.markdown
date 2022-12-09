@@ -1,7 +1,7 @@
 ---
 title: Nictech Green Apple Slim
 date: 2021-11-21 06:56:00 Z
-position: 149
+position: 144
 title-seo: Nictech Green Apple Slim
 descr: |-
   Снюс Nictech Green Apple Slim 60-новое слово среди вкусовых бестабачных линеек.

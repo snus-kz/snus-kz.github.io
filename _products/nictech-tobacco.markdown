@@ -1,7 +1,7 @@
 ---
 title: Nictech Tobacco
 date: 2022-12-04 08:03:00 Z
-position: 4
+position: 3
 title-seo: Nictech Tobacco
 descr: |-
   Снюс Nictech Tobacco - это порционная крепкая табачная жевательная смесь со вкусом настоящего табака.
