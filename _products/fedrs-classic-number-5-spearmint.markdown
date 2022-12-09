@@ -1,7 +1,7 @@
 ---
 title: 'Fedrs Classic #5 SpearMint'
 date: 2022-01-28 19:57:00 Z
-position: 334
+position: 1
 title-seo: 'Fedrs Classic #5 SpearMint'
 descr: |-
   Снюс Fedrs Classic #5 SpearMint  - новое слово среди вкусовых бестабачных линеек.
@@ -12,10 +12,12 @@ product-name: 'Fedrs Classic #5 SpearMint'
 nicotine: 30
 portions: 20
 price: 3000
+new-price: 1500
 brand: Other brands
+sale: sale
 taste: Мята
 image: "/uploads/4-39b71a.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Fedrs Classic #5 SpearMint  - новое слово среди вкусовых бестабачных линеек.
