@@ -9,6 +9,7 @@ descr: FAFF Wafles — уникальный вкус от бренда фафф.
 product-name: FAFF Wafles
 nicotine: 150
 portions: 30
+price: 3000
 brand: Other brands
 taste: Сливочные вафли
 image: "/uploads/15-962425.png"

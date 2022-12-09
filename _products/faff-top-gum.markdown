@@ -11,12 +11,12 @@ product-name: Faff Top Gum
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 sale: new-snus
 taste: Жвачка
 image: "/uploads/13-e489cb.png"
-has_availability: false
+has_availability: true
 ---
 
 Faff Top Gum — очередная новинка от фафф, крепость на высоте — 150мг/г, вкус очень интересный, уникальное сочетание киви с клубникой. Вкус кисло-сладкий и скорее всего похожего вы ничего до этого не пробовали, ещё и в паре с таким содержанием никотина.

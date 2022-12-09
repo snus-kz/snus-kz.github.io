@@ -10,11 +10,11 @@ descr: FAFF Energy Cola — данный снюс является одним и
 product-name: FAFF Energy Cola
 nicotine: 75
 portions: 30
-price: 2800
+price: 3000
 brand: Russian products
 taste: Кола
 image: "/uploads/5-dd15de.png"
-has_availability: false
+has_availability: true
 ---
 
 FAFF Energy Cola — данный снюс является одним из самых крепких во всей линейке FAFF, прекрасное сочетание энергетика и колы с высокой крепостью, понравится даже самому требовательному пользователю. В лучших традициях данного бренда в шайбе 30 пакетиков слим формат. Редбулл — заряжает, Кола — освежает.

@@ -15,7 +15,7 @@ brand: Russian products
 strong: Крепкий
 taste: Мятная жвачка
 image: "/uploads/7-d8afc7.png"
-has_availability: false
+has_availability: true
 ---
 
 Arqa Mint Gum – снюс со вкусом мятной жвачки. Высокая крепость 100 мг. В банке 20 порций slim формата. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.

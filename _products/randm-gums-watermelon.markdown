@@ -17,7 +17,7 @@ price: 2800
 brand: Russian products
 taste: Арбуз
 image: "/uploads/21.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс RANDM GUMS WATERMELON — это бестабачные никпаки от Faff. Это очень крепкий продукт, на 1 грамм смеси приходится 150 мг никотина. Поэтому он подходит только для опытных пользователей.
