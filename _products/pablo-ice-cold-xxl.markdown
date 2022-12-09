@@ -12,7 +12,9 @@ nicotine: 30
 portions: 30
 gram: 16
 price: 3500
+new-price: 2300
 brand: Russian products
+sale: new-snus
 image: "/uploads/213.png"
 ---
 
