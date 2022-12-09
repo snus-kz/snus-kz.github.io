@@ -1,7 +1,7 @@
 ---
 title: Siberia Brown Slim
 date: 2021-09-06 13:01:00 Z
-position: 208
+position: 209
 title-seo: Siberia Brown Slim - купить  в Казахстане
 descr: Siberia Brown Slim - купить в Казахстане
 product-name: Siberia Brown Slim

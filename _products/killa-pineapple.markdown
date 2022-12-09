@@ -1,7 +1,7 @@
 ---
 title: Killa Pineapple
 date: 2021-12-01 06:48:00 Z
-position: 324
+position: 325
 title-seo: Killa Pineapple
 descr: Снюс Killa Cola – это качественная альтернатива табачному снюсу. Основой для
   бестабачной смеси Killa стал растительный носитель пропитанный никотином высочайшей

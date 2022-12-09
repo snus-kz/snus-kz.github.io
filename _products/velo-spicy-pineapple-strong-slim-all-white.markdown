@@ -1,7 +1,7 @@
 ---
 title: VELO Spicy Pineapple Strong Slim All White
 date: 2022-11-14 14:00:00 Z
-position: 22
+position: 1
 title-seo: VELO Spicy Pineapple Strong Slim All White - купить в Казахстане
 descr: VELO Spicy Pineapple Strong Slim All White - со вкусом сладкого ананаса и перца
   чили
@@ -12,6 +12,7 @@ gram: '16,8'
 price: 3500
 brand: Other brands
 strong: Средней крепости
+sale: new-snus
 taste: 'Ананаси, перец Чили '
 image: "/uploads/velo-spicy-pineapple-slim-extra-strong-all-white-portion.png"
 ---
