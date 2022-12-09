@@ -1,7 +1,7 @@
 ---
 title: Arqa Cherry Cola
 date: 2021-12-29 20:52:00 Z
-position: 392
+position: 391
 title-seo: Arqa Cherry Cola
 descr: "Arqa Cherry Cola 100 mg – снюс со вкусом вишневой колы. Высокая крепость 100
   мг. В банке 20 порций slim формата. Продукт считается аналогом шведского снюса,
