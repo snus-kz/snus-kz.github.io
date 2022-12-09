@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Duo Banana Cheesecake, Coconut Latte
 date: 2022-08-22 17:55:00 Z
-position: 198
+position: 195
 title-seo: Red Stigma Duo Banana Cheesecake, Coconut Latte
 descr: |-
   Снюс Red Stigma Duo Banana Cheesecake, Coconut Latte - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
