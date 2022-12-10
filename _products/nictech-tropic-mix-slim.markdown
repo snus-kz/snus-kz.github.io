@@ -1,7 +1,7 @@
 ---
 title: Nictech Tropic Mix Slim
 date: 2021-11-21 08:33:00 Z
-position: 153
+position: 154
 title-seo: Nictech Tropic Mix Slim
 descr: |-
   Снюс Nictech Tropic Mix Slim 60-новое слово среди вкусовых бестабачных линеек.
