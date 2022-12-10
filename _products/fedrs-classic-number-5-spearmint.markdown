@@ -1,7 +1,7 @@
 ---
 title: 'Fedrs Classic #5 SpearMint'
 date: 2022-01-28 19:57:00 Z
-position: 1
+position: 403
 title-seo: 'Fedrs Classic #5 SpearMint'
 descr: |-
   Снюс Fedrs Classic #5 SpearMint  - новое слово среди вкусовых бестабачных линеек.
@@ -17,7 +17,7 @@ brand: Other brands
 sale: sale
 taste: Мята
 image: "/uploads/4-39b71a.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Fedrs Classic #5 SpearMint  - новое слово среди вкусовых бестабачных линеек.

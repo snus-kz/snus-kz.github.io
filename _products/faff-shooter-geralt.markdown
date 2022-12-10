@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Geralt
 date: 2022-11-05 13:41:00 Z
-position: 70
+position: 69
 title-seo: Faff Shooter Geralt
 descr: Faff Shooter Geralt 150mg — очередной белый снюс из линейки FAFF, крепость
   у данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного
