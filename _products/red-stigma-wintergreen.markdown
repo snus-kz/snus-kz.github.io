@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Wintergreen
 date: 2022-08-22 17:42:00 Z
-position: 187
+position: 189
 title-seo: Red Stigma Wintergreen
 descr: |-
   Снюс Red Stigma Wintergreen - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
