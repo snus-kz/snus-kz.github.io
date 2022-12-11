@@ -9,13 +9,14 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta Obito Uchicha
-nicotine: 120
+nicotine: 101
 portions: 20
 gram: 20
 price: 3000
 brand: Other brands
 strong: Средней крепости
 sale: new-snus
+taste: булочка с корицей
 image: "/uploads/17-59061d.png"
 ---
 
