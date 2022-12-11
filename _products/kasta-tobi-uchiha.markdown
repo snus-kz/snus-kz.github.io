@@ -15,7 +15,7 @@ gram: 20
 price: 3000
 brand: Russian products
 sale: new-snus
-taste: булочка с корицей
+taste: крыжовник с мятой
 image: "/uploads/19-43bcf5.png"
 ---
 
