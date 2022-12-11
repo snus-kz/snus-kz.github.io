@@ -9,13 +9,14 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta Saske
-nicotine: 120
+nicotine: 101
 portions: 20
 gram: 20
 price: 3000
 brand: Other brands
 strong: Очень крепкий
 sale: new-snus
+taste: голубика с мятой
 image: "/uploads/21-1a235c.png"
 ---
 
