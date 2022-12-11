@@ -1,5 +1,5 @@
 ---
-title: Kasta Nagato
+title: Kasta Pain
 date: 2022-11-06 07:40:00 Z
 position: 14
 title-seo: Kasta Nagato
@@ -9,13 +9,14 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta Nagato
-nicotine: 120
+nicotine: 101
 portions: 20
 gram: 20
 price: 3000
 brand: Russian products
 strong: Средней крепости
 sale: new-snus
+taste: крыжовник с мятой
 image: "/uploads/20-f5f84e.png"
 ---
 
