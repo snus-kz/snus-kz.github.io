@@ -9,12 +9,13 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: 'Kasta Naruto '
-nicotine: 120
+nicotine: 101
 portions: 20
 gram: 20
 price: 3000
 brand: Russian products
 sale: new-snus
+taste: " лимон с мятой"
 image: "/uploads/16-2957fb.png"
 ---
 
