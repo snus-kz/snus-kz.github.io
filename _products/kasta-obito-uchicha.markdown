@@ -17,7 +17,7 @@ brand: Other brands
 strong: Средней крепости
 sale: new-snus
 taste: булочка с корицей
-image: "/uploads/17-59061d.png"
+image: "/uploads/obito.png"
 ---
 
 Снюс Kasta Obito - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
