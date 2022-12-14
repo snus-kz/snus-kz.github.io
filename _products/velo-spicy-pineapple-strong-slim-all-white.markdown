@@ -15,6 +15,7 @@ strong: Средней крепости
 sale: new-snus
 taste: 'Ананаси, перец Чили '
 image: "/uploads/velo-spicy-pineapple-slim-extra-strong-all-white-portion.png"
+has_availability: false
 ---
 
 **VELO Spicy Pineapple Strong Slim All White** - это сладкий вкус ананаса в сочетании с острым перцем чили.
