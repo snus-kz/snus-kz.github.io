@@ -15,7 +15,7 @@ gram: 20
 price: 3000
 brand: Russian products
 sale: new-snus
-image: "/uploads/18-50fd4a.png"
+image: "/uploads/kakashi.png"
 ---
 
 Снюс Kasta Kakashi - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
