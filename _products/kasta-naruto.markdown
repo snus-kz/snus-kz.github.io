@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: " лимон с мятой"
-image: "/uploads/16-2957fb.png"
+image: "/uploads/naruto.png"
 ---
 
 Снюс Kasta Naruto - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
