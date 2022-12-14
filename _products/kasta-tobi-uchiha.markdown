@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: крыжовник с мятой
-image: "/uploads/19-43bcf5.png"
+image: "/uploads/pain-ffef48.png"
 ---
 
 Снюс Kasta Tobi Uchiha - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
