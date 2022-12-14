@@ -17,7 +17,7 @@ brand: Other brands
 strong: Очень крепкий
 sale: new-snus
 taste: голубика с мятой
-image: "/uploads/21-1a235c.png"
+image: "/uploads/sasuke.png"
 ---
 
 Снюс Kasta Saske - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
