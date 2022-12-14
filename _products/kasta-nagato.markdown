@@ -17,7 +17,7 @@ brand: Russian products
 strong: Средней крепости
 sale: new-snus
 taste: крыжовник с мятой
-image: "/uploads/20-f5f84e.png"
+image: "/uploads/pain.png"
 ---
 
 Снюс Kasta Nagato - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
