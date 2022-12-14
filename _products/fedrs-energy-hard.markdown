@@ -1,7 +1,7 @@
 ---
 title: Fedrs Energy Hard
 date: 2022-01-28 19:57:00 Z
-position: 67
+position: 0
 title-seo: Fedrs Energy Hard
 descr: |-
   Снюс Fedrs Energy Hard - новое слово среди вкусовых бестабачных линеек.
@@ -13,7 +13,9 @@ nicotine: 65
 portions: 20
 gram: 15
 price: 3000
+new-price: 1500
 brand: Other brands
+sale: sale
 taste: Энергетик
 image: "/uploads/3-069165.png"
 ---

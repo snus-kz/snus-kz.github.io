@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Nico Bomb
 date: 2022-08-22 17:48:00 Z
-position: 194
+position: 193
 title-seo: Red Stigma Nico Bomb
 descr: |-
   Снюс Red Stigma Nico Bomb - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
