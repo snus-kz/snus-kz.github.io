@@ -8,7 +8,7 @@ product-name: EXTREME ARCTIC MINT
 nicotine: 24
 portions: 20
 gram: 20
-price: 3000
+price: 3200
 brand: Other brands
 strong: Средней крепости
 sale: sale
