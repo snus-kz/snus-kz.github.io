@@ -16,6 +16,7 @@ brand: Russian products
 sale: sale
 taste: малина
 image: "/uploads/7-35ba48.png"
+has_availability: false
 ---
 
 Снюс iceberg со вкусом малины в металической банке. Заявленная крепость 150 мг никотина. В банке 15 порций. 
