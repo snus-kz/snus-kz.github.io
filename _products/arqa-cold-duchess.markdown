@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Duchess
 date: 2022-08-29 13:25:00 Z
-position: 175
+position: 176
 title-seo: Arqa Cold Duchess
 descr: Arqa Cold Duchess – терпковато-сладкая и яркая груша, которая совмещает в себе
   нотки напитка дюшес. Крепость как и во всех других крепких вкусах от Арка 100/г.
