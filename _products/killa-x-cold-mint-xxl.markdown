@@ -14,7 +14,7 @@ descr: "Крайне важно в современном мире иметь п
   50 мг/ 1 г\nпорций в одной пачки 20. вес 16г"
 product-name: KILLA X COLD MINT XXL
 nicotine: 16
-portions: 20
+portions: 30
 gram: 16
 price: 3200
 brand: Other brands
