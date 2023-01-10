@@ -1,7 +1,7 @@
 ---
 title: Corvus Brutal
 date: 2021-07-14 08:05:00 Z
-position: 19
+position: 36
 title-seo: Corvus Brutal - купить в Казахстане
 descr: Corvus Brutal - купить жевательную смесь на травяной основе в Казахстане
 product-name: Corvus Brutal

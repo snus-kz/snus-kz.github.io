@@ -1,7 +1,7 @@
 ---
 title: Kasta Wraith King
 date: 2022-10-20 16:17:00 Z
-position: 33
+position: 50
 title-seo: 'Kasta Wraith King '
 descr: |-
   Снюс Kasta Wraith King - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
