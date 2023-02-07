@@ -1,7 +1,7 @@
 ---
 title: Kasta - Pudge
 date: 2022-06-10 19:32:00 Z
-position: 58
+position: 63
 title-seo: Kasta - Pudge
 descr: |-
   Снюс Kasta Pudge - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
