@@ -19,6 +19,7 @@ brand: Lyft
 sale: new-snus
 taste: Дыня
 image: "/uploads/2-6c4fa8.png"
+has_availability: false
 ---
 
 LYFT Melon
