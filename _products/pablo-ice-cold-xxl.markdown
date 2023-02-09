@@ -1,7 +1,7 @@
 ---
 title: Pablo Ice Cold XXL
 date: 2022-08-31 07:22:00 Z
-position: 416
+position: 415
 title-seo: Pablo Ice Cold XXL
 descr: Pablo Ice Cold XXL - это качественная альтернатива табачному снюсу. Основой
   для бестабачной смеси Killa стал растительный носитель пропитанный никотином высочайшей
