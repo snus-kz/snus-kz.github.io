@@ -12,7 +12,7 @@ portions: 20
 price: 2800
 brand: Russian products
 image: "/uploads/6-419b7d.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Dash Nord – это бестабачная жевательная смесь. Высокая крепость 105 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.

@@ -13,7 +13,7 @@ nicotine: 65
 portions: 20
 gram: 15
 price: 3000
-new-price: 1500
+new-price: 2800
 brand: Other brands
 sale: sale
 image: "/uploads/2-c421af.png"
