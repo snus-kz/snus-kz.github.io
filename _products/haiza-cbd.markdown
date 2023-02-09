@@ -18,6 +18,7 @@ price: 4000
 brand: Other brands
 sale: best-snus
 image: "/uploads/1-7d962a.png"
+has_availability: false
 ---
 
 HAIZA CBD - представляем революционные никотиновые пакетики с экстрактом CBD.
