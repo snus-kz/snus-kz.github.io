@@ -7,7 +7,7 @@ descr: "Siberia Red White Dry 13 gr -брэнд сибири был создан
   жевательных табаков (сносов)содержит 13 мг никотина. \nПакетики белые и сухие, имеют
   аромат мяты, и традиционного табака . Очень популярный по всему СНГ . \n\n"
 product-name: Siberia Red White Dry 13 gr
-nicotine: 13
+nicotine: 43
 portions: 17
 gram: 17
 price: 3000
