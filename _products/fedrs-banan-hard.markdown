@@ -1,7 +1,7 @@
 ---
 title: Fedrs Banan Hard
 date: 2022-01-28 20:03:00 Z
-position: 411
+position: 419
 title-seo: Fedrs Banan Hard
 descr: |-
   Снюс Fedrs Banan Hard  - новое слово среди вкусовых бестабачных линеек.
@@ -15,6 +15,7 @@ price: 3000
 brand: Other brands
 taste: Банан
 image: "/uploads/9-48cba3.png"
+has_availability: false
 ---
 
 Снюс Fedrs Banan Hard  - новое слово среди вкусовых бестабачных линеек.
