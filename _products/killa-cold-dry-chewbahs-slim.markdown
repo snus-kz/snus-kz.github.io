@@ -1,7 +1,7 @@
 ---
 title: Killa Cold Dry Chewbahs Slim
 date: 2022-01-18 04:23:00 Z
-position: 121
+position: 122
 title-seo: Killa Cold Dry Chewbahs Slim
 descr: Killa Cold Dry Chewbahs Slim – это качественная альтернатива табачному снюсу.
   Основой для бестабачной смеси Killa стал растительный носитель пропитанный никотином
