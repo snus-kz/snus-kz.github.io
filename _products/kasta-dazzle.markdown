@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 taste: Малина
 image: "/uploads/1-5584c8.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

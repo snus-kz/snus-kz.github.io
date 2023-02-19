@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Silverhand
 date: 2022-11-05 14:52:00 Z
-position: 105
+position: 106
 title-seo: 'Faff Shooter Silverhand '
 descr: Faff Shooter Silverhand 150mg — очередной белый снюс из линейки FAFF, крепость
   у данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного
