@@ -16,7 +16,7 @@ gram: 14
 price: 3500
 brand: Other brands
 sale: new-snus
-image: "/uploads/1-c7aa73.png"
+image: "/uploads/3-5db5f7.png"
 ---
 
 VELO Freeze MAX All White Portion — идеальный снюс для тех, кто хочет ощутить мощный ледяной вкус. Этот сильный снюс сделан из высококачесвтенного сырья и предлагает прохладный мятный вкус с сильным ментоловым послевкусием. 
