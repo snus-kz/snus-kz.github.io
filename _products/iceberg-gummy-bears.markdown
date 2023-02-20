@@ -1,7 +1,7 @@
 ---
 title: Iceberg Gummy Bears
 date: 2022-05-16 07:13:00 Z
-position: 131
+position: 139
 title-seo: Iceberg Gummy Bears
 descr: "Снюс Iceberg Gummy Bears со вкусом мармеладных мишек. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25

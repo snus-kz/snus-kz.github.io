@@ -1,7 +1,7 @@
 ---
 title: FAFF Double Apple
 date: 2022-02-12 10:52:00 Z
-position: 333
+position: 2
 title-seo: FAFF Double Apple
 descr: FAFF Double Apple — вкус двойного яблока, кислого и сладкого, можно отнести
   к классическим вкусам которые уже всем давно знакомы. Данный вкус был представлен
@@ -13,7 +13,7 @@ price: 3000
 brand: Russian products
 taste: Яблоко
 image: "/uploads/3-22821f.png"
-has_availability: false
+has_availability: true
 ---
 
 FAFF Double Apple — вкус двойного яблока, кислого и сладкого, можно отнести к классическим вкусам которые уже всем давно знакомы. Данный вкус был представлен в числе первых от бренда FAFF, крепость 75 мг/г
