@@ -1,7 +1,7 @@
 ---
 title: Arqa Tropical Fruit
 date: 2022-05-04 05:01:00 Z
-position: 221
+position: 219
 title-seo: Arqa Tropical Fruit
 descr: Arqa Tropical Fruit – -сладкий вкус тропических фруктов, что даёт ощущение
   “холодка”. Крепость как и во всех других вкусах от Арка 70мг/г. В каждой шайбе 20

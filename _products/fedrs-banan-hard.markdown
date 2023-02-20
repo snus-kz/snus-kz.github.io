@@ -1,7 +1,7 @@
 ---
 title: Fedrs Banan Hard
 date: 2022-01-28 20:03:00 Z
-position: 381
+position: 379
 title-seo: Fedrs Banan Hard
 descr: |-
   Снюс Fedrs Banan Hard  - новое слово среди вкусовых бестабачных линеек.
