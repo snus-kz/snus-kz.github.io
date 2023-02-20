@@ -1,7 +1,7 @@
 ---
 title: Arqa Sour Grapefruit
 date: 2022-08-29 13:34:00 Z
-position: 378
+position: 376
 title-seo: Arqa Sour Grapefruit
 descr: Arqa Sour Grapefruit – ярко-выраженный, со сладкими нотками и натуральной горчинкой
   грейпфрут со свежестью на выдохе.  Крепость как и во всех других крепких вкусах

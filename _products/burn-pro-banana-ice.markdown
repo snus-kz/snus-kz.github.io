@@ -1,7 +1,7 @@
 ---
 title: Bjorn Pro Banana Ice
 date: 2021-11-10 07:50:00 Z
-position: 414
+position: 411
 title-seo: Электронная сигарета Bjorn Pro Banana Ice
 descr: Электронная сигарета Bjorn Pro Banana Ice -- вкусный и менее вредный аналог
   сигаретам Banana Ice/ Ледяной Бана - насыщенный вкус спелой мякоти банана в сочетание
