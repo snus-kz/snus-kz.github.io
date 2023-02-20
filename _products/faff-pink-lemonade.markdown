@@ -1,7 +1,7 @@
 ---
 title: FAFF Pink Lemonade
 date: 2022-02-14 15:41:00 Z
-position: 351
+position: 350
 title-seo: FAFF Pink Lemonade
 descr: 'FAFF Pink Lemonade — очередная новинка от всем известного бренда FAFF. На
   этот раз нас радуют фруктовым лимонадом, мощный микс цитрусовых в паре с высокой
