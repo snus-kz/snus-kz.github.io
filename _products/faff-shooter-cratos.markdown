@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Cratos
 date: 2022-11-05 14:16:00 Z
-position: 95
+position: 96
 title-seo: Faff Shooter Cratos
 descr: Faff Shooter Cratos 150mg — очередной белый снюс из линейки FAFF, крепость
   у данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного
