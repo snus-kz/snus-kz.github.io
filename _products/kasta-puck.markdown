@@ -1,7 +1,7 @@
 ---
 title: Kasta Puck
 date: 2022-10-20 16:20:00 Z
-position: 56
+position: 55
 title-seo: Kasta Puck
 descr: |-
   Снюс Kasta Puck - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

@@ -1,7 +1,7 @@
 ---
 title: Kasta Saske
 date: 2022-11-06 07:46:00 Z
-position: 37
+position: 36
 title-seo: Kasta Saske
 descr: |-
   Снюс Kasta Saske - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
