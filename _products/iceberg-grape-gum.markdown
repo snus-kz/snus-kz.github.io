@@ -1,7 +1,7 @@
 ---
 title: Iceberg Grape Gum
 date: 2022-09-16 05:21:00 Z
-position: 127
+position: 126
 title-seo: Iceberg Grape Gum
 descr: "Снюс Iceberg Grape Gum  со вкусом Виноградной Жвачки. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25
