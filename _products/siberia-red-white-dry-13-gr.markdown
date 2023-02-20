@@ -14,6 +14,7 @@ price: 3000
 brand: Siberia
 sale: new-snus
 image: "/uploads/4.jpg"
+has_availability: false
 ---
 
 Siberia Red White Dry 13 gr -брэнд сибири был создан для любителей крепких жевательных табаков (сносов)содержит 13 мг никотина. 

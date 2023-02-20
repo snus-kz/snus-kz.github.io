@@ -15,7 +15,7 @@ price: 3600
 brand: Siberia
 strong: Крепкий
 image: "/uploads/siberia123.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Siberia Blue/ Синяя Сибирь по крепости немного крепче оденса кд, но слабее красной сибири, пакетики более влажные и очень мягкие. Никотиновый удар быстрый, но не такой долгий как в пакетах dry. Идеально подойдет любителям odens cold dry.
