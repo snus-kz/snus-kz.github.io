@@ -1,7 +1,7 @@
 ---
 title: Arqa Watermelon gum
 date: 2021-12-29 20:50:00 Z
-position: 142
+position: 140
 title-seo: Arqa Watermelon gum
 descr: 'Arqa Watermelon gum 100 mg – снюс со вкусом арбузной жвачки. Высокая крепость
   100 мг. В банке 20 порций slim формата. Продукт считается аналогом шведского снюса,
