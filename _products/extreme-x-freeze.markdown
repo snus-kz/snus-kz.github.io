@@ -1,7 +1,7 @@
 ---
 title: EXTREME X FREEZE
 date: 2022-05-08 06:21:00 Z
-position: 93
+position: 424
 title-seo: EXTREME X FREEZE
 descr: "**XTRIME X-FREEZE.** От производителя «Пабло и Килла»! \nМега прочный пакет
   с восхитительным вкусом свежей мяты.\nЧрезвычайно свежий вкус, который выводит ваши
@@ -17,7 +17,7 @@ price: 3200
 brand: Russian products
 sale: sale
 image: "/uploads/xtr.png"
-has_availability: true
+has_availability: false
 ---
 
 **XTRIME X-FREEZE.** От производителя «Пабло и Килла»! 
