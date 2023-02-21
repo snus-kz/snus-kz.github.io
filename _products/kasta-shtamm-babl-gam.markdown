@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Штамм Бабл Гам
 nicotine: 105
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 sale: best-snus
 taste: Жвачка
