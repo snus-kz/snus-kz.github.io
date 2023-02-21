@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Cool Menthol
 date: 2022-11-27 15:21:00 Z
-position: 58
+position: 59
 title-seo: Bjorn URSUS Cool Menthol
 descr: "Электронная сигарета Bjorn URSUS Cool Menthol  -- вкусный и менее вредный
   аналог сигаретам \n\nBjorn URSUS Cool Menthol  - насыщенный вкус фруктов сделают
