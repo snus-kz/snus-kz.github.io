@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Berries
 date: 2021-12-29 08:32:00 Z
-position: 422
+position: 417
 title-seo: Arqa Cold Berries
 descr: ARQA Cold Berries – кисло-сладкий вкус лесных ягод в паре с ментоловым послевкусием,
   что даёт ощущение “холодка”. Крепость как и во всех других вкусах от Арка 70мг/г.
@@ -15,7 +15,7 @@ brand: Russian products
 strong: Крепкий
 taste: лесные ягоды
 image: "/uploads/1-6ef263.png"
-has_availability: true
+has_availability: false
 ---
 
 ARQA Cold Berries – кисло-сладкий вкус лесных ягод в паре с ментоловым послевкусием, что даёт ощущение “холодка”. Крепость как и во всех других вкусах от Арка 70мг/г. В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.

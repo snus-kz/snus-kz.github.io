@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Fresh Mix
 date: 2022-08-22 17:45:00 Z
-position: 421
+position: 416
 title-seo: Red Stigma Fresh Mix
 descr: |-
   Снюс Red Stigma Fresh Mix - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Тропический Микс
 image: "/uploads/3-670ce8.png"
+has_availability: false
 ---
 
 Снюс Red Stigma Fresh Mix - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.

@@ -1,7 +1,7 @@
 ---
 title: LYFT Melon
 date: 2022-09-02 15:50:00 Z
-position: 359
+position: 354
 title-seo: LYFT Melon
 descr: "LYFT Melon\nLYFT Melon полна сюрпризов! Тропический вкус с заманчивым сочетанием
   прекрасной сладкой дыни и освежающего огурца. Если вы ищете незабываемый вкус, то
