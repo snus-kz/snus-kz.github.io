@@ -1,7 +1,7 @@
 ---
 title: Faff Classic
 date: 2022-11-06 06:42:00 Z
-position: 99
+position: 98
 title-seo: Faff Classic
 descr: 'Faff Classic — это прекрасный аналог белого шведского снюса с крепостью в
   11 мг и приятным вкусом колы. При его использовании вы вероятно сможете ощутить
