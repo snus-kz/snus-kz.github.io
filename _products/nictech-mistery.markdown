@@ -1,7 +1,7 @@
 ---
 title: Nictech Mistery
 date: 2022-01-19 17:44:00 Z
-position: 266
+position: 262
 title-seo: Nictech Mistery
 descr: |-
   Nictech Mistery  - cпециальная новинка среди вкусовых бестабачных линеек.

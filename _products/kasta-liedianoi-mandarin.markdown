@@ -1,7 +1,7 @@
 ---
 title: Kasta Ледяной Мандарин
 date: 2022-01-20 06:23:00 Z
-position: 401
+position: 397
 title-seo: Kasta Ледяной Мандарин
 descr: |-
   Снюс Kasta Ледяной Мандарин - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.
@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 taste: " Мандарин"
 image: "/uploads/10-2988bd.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Ледяной Мандарин - это порционная супер крепкая бестабачная жевательная смесь со вкусом мятного шоколада.

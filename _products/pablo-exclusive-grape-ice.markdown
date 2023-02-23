@@ -1,7 +1,7 @@
 ---
 title: Pablo Exclusive Grape Ice
 date: 2022-10-24 08:37:00 Z
-position: 405
+position: 403
 title-seo: Pablo Exclusive Grape Ice
 descr: PABLO EXCLUSIVE GRAPE ICE Представляем новый Pablo Exclusive.  Благодаря сладкому
   вкусу виноградного льда и сверхкрепкому содержанию никотина 50 мг на грамм вы можете
@@ -15,6 +15,7 @@ brand: Other brands
 sale: new-snus
 taste: виноград
 image: "/uploads/3-f62945.png"
+has_availability: false
 ---
 
 PABLO EXCLUSIVE GRAPE ICE Представляем новый Pablo Exclusive.  Благодаря сладкому вкусу виноградного льда и сверхкрепкому содержанию никотина 50 мг на грамм вы можете поднять свои ощущения от Pablo на новый эксклюзивный уровень.

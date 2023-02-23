@@ -19,6 +19,7 @@ gram: 16
 price: 3200
 brand: Other brands
 image: "/uploads/2-49067d.png"
+has_availability: false
 ---
 
 Крайне важно в современном мире иметь право выбора, что мы и предлагаем.
