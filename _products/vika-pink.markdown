@@ -1,7 +1,7 @@
 ---
 title: Vika Pink
 date: 2022-05-21 06:26:00 Z
-position: 223
+position: 0
 title-seo: Vika Pink
 descr: Vika Pink — это порционный снюс, разработанный с одной целью — обеспечить никотином,
   без лишнего дискомфорта. Он обеспечивает чрезвычайно сильный никотиновый эффект
@@ -12,7 +12,10 @@ nicotine: 12
 portions: 20
 gram: 20
 price: 2800
+new-price: 2000
 brand: Other brands
+sale: sale
+taste: Бергамот
 image: "/uploads/5-d4d48f.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ZoneX Cold Blast Slim Strong
 date: 2021-11-21 09:01:00 Z
-position: 377
+position: 362
 title-seo: ZoneX Cold Blast Slim Strong
 descr: |-
   Снюс ZoneX Cold Blast Slim Strong -н овое слово среди вкусовых бестабачных линеек.
