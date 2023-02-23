@@ -1,7 +1,7 @@
 ---
 title: Fuze Blue Raspberry
 date: 2022-02-23 06:33:00 Z
-position: 217
+position: 218
 title-seo: Fuze Blue Raspberry
 descr: Снюс Fuze Blue Raspberry со вкусом малины. Заявленная крепость 150 мг никотина.
   В банке 20-25 порций.

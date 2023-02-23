@@ -1,7 +1,7 @@
 ---
 title: Vid Cool Citrus
 date: 2022-01-20 06:32:00 Z
-position: 116
+position: 1
 title-seo: Vid Cool Citrus
 descr: |-
   Vid Cool Citrus - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -11,9 +11,10 @@ product-name: Vid Cool Citrus
 nicotine: 12
 portions: 20
 gram: 14
-price: 3200
+price: 3500
+new-price: 2800
 brand: Other brands
-sale: best-snus
+sale: sale
 taste: цитрус
 image: "/uploads/15-305d46.png"
 has_availability: true

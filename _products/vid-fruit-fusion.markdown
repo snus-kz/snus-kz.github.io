@@ -1,7 +1,7 @@
 ---
 title: Vid Fruit Fusion
 date: 2022-01-20 06:30:00 Z
-position: 119
+position: 0
 title-seo: Vid Fruit Fusion
 descr: |-
   Vid Fruit Fusion - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -11,8 +11,10 @@ product-name: Vid Fruit Fusion
 nicotine: 12
 portions: 20
 gram: 14
-price: 3200
+price: 3500
+new-price: 2800
 brand: Other brands
+sale: sale
 taste: Фрукты
 image: "/uploads/14-80ddd0.png"
 has_availability: true
