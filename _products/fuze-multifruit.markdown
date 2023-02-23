@@ -12,6 +12,7 @@ price: 2800
 brand: Russian products
 taste: Мультифрукт
 image: "/uploads/6-27936d.png"
+has_availability: false
 ---
 
 Снюс Fuze Multifruit со вкусом фруктов. Заявленная крепость 150 мг никотина. В банке 20-25 порций.
