@@ -11,8 +11,9 @@ nicotine: 12
 portions: 29
 gram: 14
 price: 3500
+new-price: 2800
 brand: Other brands
-sale: new-snus
+sale: sale
 taste: Арбуз
 image: "/uploads/1-15e83a.png"
 ---
