@@ -11,9 +11,10 @@ nicotine: 12
 portions: 20
 gram: 14
 price: 3500
+new-price: 2800
 brand: Other brands
-sale: new-snus
-taste: сладкий ликёп
+sale: sale
+taste: сладкий ликёр
 image: "/uploads/2-2ab863.png"
 ---
 
