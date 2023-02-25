@@ -1,7 +1,7 @@
 ---
 title: Grant Extreme Edition
 date: 2022-01-18 04:32:00 Z
-position: 39
+position: 409
 title-seo: Grant Extreme Edition
 descr: Grant Extreme Edition – отличный продукт без содержания табака. Имеет высокую
   крепость которая выше чем у самых крепких табачных позиций. Обладает отличным вкусом
@@ -17,7 +17,7 @@ brand: Other brands
 sale: sale
 taste: Ментол
 image: "/uploads/5-de56fd.png"
-has_availability: true
+has_availability: false
 ---
 
 Grant Extreme Edition – отличный продукт без содержания табака. Имеет высокую крепость которая выше чем у самых крепких табачных позиций. Обладает отличным вкусом мяты, ментола и эвкалипта. В шайбе около 27 пакетиков слим формата. Крайне не рекомендуем новичкам так как в продукте высокий уровень содержания никотина!
