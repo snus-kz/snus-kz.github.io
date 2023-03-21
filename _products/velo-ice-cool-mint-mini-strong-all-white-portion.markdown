@@ -1,7 +1,7 @@
 ---
 title: VELO Ice Cool Mint Mini Strong All White Portion
 date: 2023-01-10 08:43:00 Z
-position: 28
+position: 415
 title-seo: 'VELO Ice Cool Mint Mini Strong All White Portion '
 descr: "VELO Ice Cool Mint Mini Strong All White Portion \n\nВыразительный вкус перечной
   мяты с освежающим\nпослевкусием.\n\nОбщая информация\n\nБренд:\nVelo\nСтрана:\nВенгрия\nСрок

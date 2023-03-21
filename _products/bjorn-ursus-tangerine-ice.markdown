@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Tangerine Ice
 date: 2022-02-23 05:48:00 Z
-position: 223
+position: 222
 title-seo: Bjorn URSUS Tangerine Ice
 descr: 'Электронная сигарета Bjorn URSUS Tangerine Ice -- вкусный и менее вредный
   аналог сигаретам Холодный Мандарин - насыщенный вкус фруктов сделают каждую затяжку
