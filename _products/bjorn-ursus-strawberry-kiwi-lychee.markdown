@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Strawberry Kiwi Lychee
 date: 2022-11-27 14:47:00 Z
-position: 71
+position: 69
 title-seo: Bjorn URSUS Strawberry Kiwi Lychee
 descr: "Электронная сигарета Bjorn URSUS Strawberry Kiwi Lychee  -- вкусный и менее
   вредный аналог сигаретам \n\nBjorn URSUS Orange Soda - насыщенный вкус фруктов сделают
