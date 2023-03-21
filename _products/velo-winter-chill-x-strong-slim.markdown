@@ -26,6 +26,7 @@ price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/7-88e97c.png"
+has_availability: false
 ---
 
 VELO Winter Chill X-Strong Slim
