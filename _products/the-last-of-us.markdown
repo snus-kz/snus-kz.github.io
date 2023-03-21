@@ -14,6 +14,7 @@ brand: Russian products
 sale: sale
 taste: Переччная мята
 image: "/uploads/lsft.png"
+has_availability: false
 ---
 
 The Last of us peppermint  -со вкусом перечной мяты

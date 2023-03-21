@@ -16,7 +16,7 @@ brand: Other brands
 sale: sale
 taste: Мята
 image: "/uploads/6-04af7b.png"
-has_availability: true
+has_availability: false
 ---
 
 Качественные никотиновые паучи Grant Ice Cool отлично подойдут для любителей свежей мяты. Испытайте эволюцию никотинового удара. GRANT обеспечивает освежающий всплеск вкуса и никотина без содержания табака. 
