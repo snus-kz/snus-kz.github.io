@@ -1,7 +1,7 @@
 ---
 title: General Extra Strong Portion
 date: 2022-12-28 17:48:00 Z
-position: 28
+position: 0
 title-seo: General Extra Strong Portion
 descr: |-
   General Extra Strong Portion
@@ -11,8 +11,9 @@ nicotine: 14
 portions: 24
 gram: 22
 price: 3000
+new-price: 2500
 brand: Other brands
-sale: new-snus
+sale: sale
 taste: табак,бергамот,дым
 image: "/uploads/asd.png"
 ---
