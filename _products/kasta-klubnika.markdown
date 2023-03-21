@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 taste: Клубника
 image: "/uploads/14.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Клубника -это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты.

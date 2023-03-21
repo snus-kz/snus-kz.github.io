@@ -11,6 +11,7 @@ portions: 30
 price: 2800
 brand: Russian products
 image: "/uploads/7-013056.png"
+has_availability: false
 ---
 
 Снюс Fuze Mint Lime со вкусом мяты. Заявленная крепость 150 мг никотина. В банке 20-25 порций.

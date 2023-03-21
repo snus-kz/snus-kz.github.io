@@ -12,6 +12,7 @@ price: 2800
 brand: Russian products
 taste: Арбузная жвачка
 image: "/uploads/5-267335.png"
+has_availability: false
 ---
 
 Снюс Fuze Watermellon Bubble Gum со вкусом малины. Заявленная крепость 150 мг никотина. В банке 20-25 порций.
