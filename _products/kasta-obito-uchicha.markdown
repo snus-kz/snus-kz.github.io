@@ -1,7 +1,7 @@
 ---
 title: Kasta Obito Uchicha
 date: 2022-11-06 07:15:00 Z
-position: 49
+position: 46
 title-seo: Kasta Obito Uchicha
 descr: |-
   Снюс Kasta Obito - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

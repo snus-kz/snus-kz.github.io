@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Strawberry Kiwi Pomergranate
 date: 2022-11-27 15:17:00 Z
-position: 66
+position: 63
 title-seo: Bjorn URSUS Strawberry Kiwi Pomergranate
 descr: "Электронная сигарета Bjorn URSUS Strawberry Kiwi Pomergranate  -- вкусный
   и менее вредный аналог сигаретам \nBjorn URSUS Strawberry Kiwi Pomergranate  - насыщенный

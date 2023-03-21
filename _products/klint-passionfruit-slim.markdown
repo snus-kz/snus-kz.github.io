@@ -1,7 +1,7 @@
 ---
 title: Klint Passionfruit slim
 date: 2021-10-28 10:53:00 Z
-position: 341
+position: 337
 title-seo: Klint Passionfruit - купить в Казахстане
 descr: "KLINTs Passionfruit дарит соблазнительные и сочные ощущения благодаря своему
   сладкому и привлекательному вкусу в окружении других экзотических фруктов, которые
