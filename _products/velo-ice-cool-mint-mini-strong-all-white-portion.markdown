@@ -13,6 +13,7 @@ price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/1-e6ee9c.png"
+has_availability: false
 ---
 
 VELO Ice Cool Mint Mini Strong All White Portion 

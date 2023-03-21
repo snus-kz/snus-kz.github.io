@@ -14,6 +14,7 @@ price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/5-a27e7a.png"
+has_availability: false
 ---
 
 VELO Mint Slim 

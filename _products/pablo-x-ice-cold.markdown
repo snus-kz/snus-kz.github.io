@@ -14,7 +14,7 @@ portions: 20
 price: 3200
 brand: Other brands
 image: "/uploads/2-78f1d3.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Pablo X Ice Cold  - новое слово среди вкусовых бестабачных линеек.
