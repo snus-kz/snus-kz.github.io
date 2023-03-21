@@ -13,6 +13,7 @@ price: 3000
 brand: Russian products
 taste: Фанта
 image: "/uploads/8-478b8d.png"
+has_availability: false
 ---
 
 FAFF Orange Soda — новинка от фафф со вкусом апельсиновой содовой, крепость радует — 150мг/г. Вкус сам по себе цитрусовый и сладкий, очень напоминает фанту.
