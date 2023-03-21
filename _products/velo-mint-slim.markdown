@@ -1,7 +1,7 @@
 ---
 title: VELO Mint Slim
 date: 2023-01-10 09:07:00 Z
-position: 28
+position: 27
 title-seo: 'VELO Mint Slim '
 descr: "VELO Mint Slim \n\nВыразительный вкус мяты с освежающим\nпослевкусием.\n\nОбщая
   информация\n\nБренд:\nVelo\nСтрана:\nВенгрия\nСрок хранения:\n365 суток\nТемпература
