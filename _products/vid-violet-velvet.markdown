@@ -1,7 +1,7 @@
 ---
 title: Vid Violet Velvet
 date: 2023-02-23 18:49:00 Z
-position: 3
+position: 2
 title-seo: Vid Violet Velvet
 descr: |-
   Vid Violet Velvet - cпециальная новинка среди вкусовых бестабачных линеек.

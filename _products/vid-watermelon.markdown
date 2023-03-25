@@ -1,7 +1,7 @@
 ---
 title: Vid Watermelon
 date: 2023-02-23 17:49:00 Z
-position: 1
+position: 416
 title-seo: Vid Watermelon
 descr: |-
   Vid Watermelon - cпециальная новинка среди вкусовых бестабачных линеек.
@@ -17,6 +17,7 @@ brand: Other brands
 sale: sale
 taste: Арбуз
 image: "/uploads/1-15e83a.png"
+has_availability: false
 ---
 
 Vid Watermelon - cпециальная новинка среди вкусовых бестабачных линеек.

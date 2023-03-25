@@ -1,7 +1,7 @@
 ---
 title: Iceberg Crazy Mix
 date: 2022-09-16 05:25:00 Z
-position: 127
+position: 126
 title-seo: Iceberg Crazy Mix
 descr: "Снюс Iceberg Crazy Mix. Заявленная крепость 150 мг никотина. В банке 20 порций.
   \n\nВ линейке iceberg представлено более 25 вкусов с крепостью от 20 мг до 150 мг\n"
