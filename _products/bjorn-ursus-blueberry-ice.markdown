@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Blueberry Ice
 date: 2022-02-23 05:41:00 Z
-position: 90
+position: 91
 title-seo: Bjorn URSUS Blueberry Ice
 descr: 'Электронная сигарета Bjorn URSUS Blueberry Ice -- вкусный и менее вредный
   аналог сигаретам Blueberry Ice  / Холодная Черника - насыщенный ягоды сделают каждую
