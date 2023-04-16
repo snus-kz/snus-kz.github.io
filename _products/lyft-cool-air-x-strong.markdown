@@ -11,6 +11,7 @@ price: 3500
 brand: Lyft
 sale: new-snus
 image: "/uploads/6-c167bc.png"
+has_availability: false
 ---
 
 LYFT Cool Air X-Strong 
