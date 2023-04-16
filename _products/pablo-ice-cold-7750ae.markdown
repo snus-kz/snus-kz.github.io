@@ -16,7 +16,7 @@ new-price: 2300
 brand: Russian products
 sale: sale
 image: "/uploads/2-1b826b.png"
-has_availability: false
+has_availability: true
 ---
 
 Pablo Ice Cold - это качественная альтернатива табачному снюсу. Основой для бестабачной смеси Killa стал растительный носитель пропитанный никотином высочайшей степени очистки. Дает лёгкое жжение, приятный вкус кока-колы и привычный никотиновый удар.
