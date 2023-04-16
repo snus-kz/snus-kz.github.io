@@ -1,7 +1,7 @@
 ---
 title: Corona Tutti Frutti
 date: 2023-03-30 18:42:00 Z
-position: 9
+position: 17
 title-seo: Corona Tutti Frutti
 descr: Снюс Corona Tutti Frutti — сухая порционная супер крепкая бестабачная белая
   жевательная смесь со вкусом фруктов.

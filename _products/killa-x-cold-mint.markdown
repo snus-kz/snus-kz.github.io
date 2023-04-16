@@ -1,7 +1,7 @@
 ---
 title: KILLA X COLD MINT
 date: 2021-07-12 16:50:00 Z
-position: 360
+position: 4
 title-seo: KILLA X COLD MINT - купить  в Казахстане
 descr: KILLA X COLD MINT  - один из лучших  продуктов Дании
 product-name: KILLA X COLD MINT
@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: sale
 taste: Мята
 image: "/uploads/1-527456.png"
-has_availability: false
+has_availability: true
 ---
 
 Крайне важно в современном мире иметь право выбора, что мы и предлагаем.

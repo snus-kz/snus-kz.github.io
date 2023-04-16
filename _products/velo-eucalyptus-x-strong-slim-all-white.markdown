@@ -16,7 +16,7 @@ brand: Russian products
 sale: new-snus
 taste: эвкалипт
 image: "/uploads/4-fd4393.png"
-has_availability: false
+has_availability: true
 ---
 
 🟢VELO Eucalyptus X-Strong Slim All White дарит острую свежесть со вкусом ментола.

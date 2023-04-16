@@ -13,7 +13,7 @@ brand: Other brands
 sale: new-snus
 taste: Ликёр
 image: "/uploads/2-e3b733.png"
-has_availability: false
+has_availability: true
 ---
 
 VELO Liquorice Strong Slim 

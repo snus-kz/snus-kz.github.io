@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Doomguy
 date: 2022-11-05 15:29:00 Z
-position: 113
+position: 122
 title-seo: 'Faff Shooter Doomguy '
 descr: Faff Shooter Doomguy 150mg — очередной белый снюс из линейки FAFF, крепость
   у данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного
