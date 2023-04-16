@@ -15,7 +15,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Перечная мята
 image: "/uploads/Odens%20col%20dry%20slim.jpg"
-has_availability: 'True'
+has_availability: false
 ---
 
 Odens Cold  White Dry Slim 
