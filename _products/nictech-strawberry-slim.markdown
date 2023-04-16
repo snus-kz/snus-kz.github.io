@@ -1,7 +1,7 @@
 ---
 title: Nictech Strawberry Slim
 date: 2021-11-21 06:51:00 Z
-position: 163
+position: 164
 title-seo: Nictech Strawberry Slim
 descr: Снюс Nictech Strawberry Slim 60-новое слово среди вкусовых бестабачных линеек.
 product-name: Nictech Strawberry Slim
