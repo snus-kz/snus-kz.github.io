@@ -13,6 +13,7 @@ price: 3000
 brand: Russian products
 taste: Драконий Фрукт
 image: "/uploads/2-e43684.png"
+has_availability: false
 ---
 
 Снюс iceberg Dragon Fruit со вкусом питайа (сладкий вкус, напоминающий комбинацию киви и банана или клубники). Заявленная крепость 150 мг никотина. В банке 20-25 порций.
