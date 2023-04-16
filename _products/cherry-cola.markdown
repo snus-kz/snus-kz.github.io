@@ -14,7 +14,7 @@ price: 3000
 brand: Russian products
 taste: Кола
 image: "/uploads/10-b72e96.png"
-has_availability: true
+has_availability: false
 ---
 
 Arqa Cherry Cola 100 mg – снюс со вкусом вишневой колы. Высокая крепость 100 мг. В банке 20 порций slim формата. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.
