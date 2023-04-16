@@ -1,7 +1,7 @@
 ---
 title: KILLA X COLD MINT XXL
 date: 2022-09-24 17:08:00 Z
-position: 407
+position: 404
 title-seo: KILLA X COLD MINT XXL
 descr: "Крайне важно в современном мире иметь право выбора, что мы и предлагаем.\nЛинейка
   товаров KILLA разделена на несколько категорий, где каждый найдёт вкус для себя:\n\n

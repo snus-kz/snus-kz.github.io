@@ -1,7 +1,7 @@
 ---
 title: Zuzu Clear Mint
 date: 2023-04-05 20:15:00 Z
-position: 7
+position: 4
 title-seo: Zuzu Clear Mint
 descr: Zuzu Clear Mint — бестабачная смесь от известного бренда Faff со вкусом ментола.
   Высокая крепость 150 мг, цветные никпаки, плотная набивка, насыщенный вкусы и аромат.

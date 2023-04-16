@@ -1,7 +1,7 @@
 ---
 title: Kasta Jiraya
 date: 2023-02-25 18:16:00 Z
-position: 19
+position: 16
 title-seo: Kasta Jiraya
 descr: |-
   Снюс Kasta Jiraya - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
