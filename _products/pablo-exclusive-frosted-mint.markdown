@@ -16,6 +16,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 image: "/uploads/2-7c3088.png"
+has_availability: false
 ---
 
 Представляем новый Pablo Exclusive.  Благодаря сладкому вкусу замороженной мяты и очень сильному никотину (50 мг на грамм) вы можете поднять свои ощущения от Pablo на новый эксклюзивный уровень.

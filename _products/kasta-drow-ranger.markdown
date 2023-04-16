@@ -15,7 +15,7 @@ gram: 20
 price: 3000
 brand: Russian products
 image: "/uploads/4-d53be9.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
