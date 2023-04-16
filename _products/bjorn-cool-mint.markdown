@@ -1,7 +1,7 @@
 ---
 title: BJÖRN Cool Mint
 date: 2021-08-05 14:58:00 Z
-position: 254
+position: 253
 title-seo: BJÖRN Cool Mint - купить в Казахстане
 descr: BJÖRN Cool Mint - купить в Казахстане снюс bjorn
 product-name: BJÖRN Cool Mint
