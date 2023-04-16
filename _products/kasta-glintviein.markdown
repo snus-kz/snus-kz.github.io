@@ -1,7 +1,7 @@
 ---
 title: Kasta Глинтвейн
 date: 2021-11-18 11:21:00 Z
-position: 253
+position: 244
 title-seo: Kasta Глинтвейн
 descr: Kasta Глинтвейн
 product-name: Kasta Глинтвейн
