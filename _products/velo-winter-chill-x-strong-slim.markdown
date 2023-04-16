@@ -1,7 +1,7 @@
 ---
 title: VELO Winter Chill X-Strong Slim
 date: 2023-01-10 09:18:00 Z
-position: 399
+position: 398
 title-seo: VELO Winter Chill X-Strong Slim
 descr: |-
   VELO Winter Chill X-Strong Slim

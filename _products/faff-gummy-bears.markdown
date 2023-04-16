@@ -1,7 +1,7 @@
 ---
 title: FAFF Gummy Bears
 date: 2022-02-14 14:31:00 Z
-position: 306
+position: 305
 title-seo: FAFF Gummy Bears
 descr: 'FAFF Gummy Bears — и снова нас радуют новинками от всем известного бренда
   FAFF. Вкус мармеладных мишек обладает очень высокой крепостью 150мг/г в паре со
