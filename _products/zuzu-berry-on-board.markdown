@@ -14,7 +14,7 @@ price: 3000
 brand: Other brands
 taste: гранат и клубника замешанные с черникой
 image: "/uploads/bob.png"
-has_availability: true
+has_availability: false
 ---
 
 Zuzu Berry On Board — бестабачная смесь от известного бренда Faff со вкусом граната и клубники замешанные с черникой. Высокая крепость 150 мг, цветные никпаки, плотная набивка, насыщенный вкусы и аромат.

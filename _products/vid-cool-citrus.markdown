@@ -17,7 +17,7 @@ brand: Other brands
 sale: sale
 taste: цитрус
 image: "/uploads/15-305d46.png"
-has_availability: true
+has_availability: false
 ---
 
 Vid Cool Citrus - cпециальная новинка среди вкусовых бестабачных линеек.
