@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Арбуз Мята
 image: "/uploads/4-b81e7c.png"
+has_availability: false
 ---
 
 Снюс Iceberg Watermelon Mint Gum  со вкусом Арбуза и Мяты. Заявленная крепость 150 мг никотина. В банке 20 порций. 

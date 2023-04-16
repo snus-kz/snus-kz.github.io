@@ -13,7 +13,7 @@ brand: Russian products
 strong: Крепкий
 taste: Виноград
 image: "/uploads/2-4be2fd.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Nictech Isabella Grape Slim 60-новое слово среди вкусовых бестабачных линеек.

@@ -17,7 +17,7 @@ brand: Other brands
 sale: sale
 taste: Фрукты
 image: "/uploads/14-80ddd0.png"
-has_availability: true
+has_availability: false
 ---
 
 Vid Fruit Fusion - cпециальная новинка среди вкусовых бестабачных линеек.
