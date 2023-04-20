@@ -1,7 +1,7 @@
 ---
 title: Corona Сola
 date: 2023-03-30 18:29:00 Z
-position: 22
+position: 21
 descr: Снюс Corona Сola — сухая порционная супер крепкая бестабачная белая жевательная
   смесь со вкусом колы.
 product-name: 'Corona Сola '

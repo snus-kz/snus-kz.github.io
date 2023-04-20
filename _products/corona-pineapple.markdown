@@ -1,7 +1,7 @@
 ---
 title: Corona Pineapple
 date: 2023-03-30 18:57:00 Z
-position: 21
+position: 20
 title-seo: Corona Pineapple
 descr: Снюс Corona Pineapple — сухая порционная супер крепкая бестабачная белая жевательная
   смесь со вкусом энергетика.

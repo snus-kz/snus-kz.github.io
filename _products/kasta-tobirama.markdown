@@ -1,7 +1,7 @@
 ---
 title: Kasta Tobirama
 date: 2023-02-25 15:28:00 Z
-position: 28
+position: 27
 title-seo: Kasta Tobirama
 descr: |-
   Снюс Kasta Tobirama - Tobirama Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
