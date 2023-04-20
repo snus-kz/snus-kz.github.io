@@ -1,7 +1,7 @@
 ---
 title: FAFF Energy Cola
 date: 2022-02-12 10:58:00 Z
-position: 142
+position: 147
 title-seo: FAFF Energy Cola
 descr: FAFF Energy Cola — данный снюс является одним из самых крепких во всей линейке
   FAFF, прекрасное сочетание энергетика и колы с высокой крепостью, понравится даже
