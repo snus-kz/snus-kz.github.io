@@ -1,7 +1,7 @@
 ---
 title: Corona Cherry
 date: 2023-03-30 18:56:00 Z
-position: 24
+position: 25
 title-seo: Corona Cherry
 descr: Снюс Corona Cherry — сухая порционная супер крепкая бестабачная белая жевательная
   смесь со вкусом вишни.

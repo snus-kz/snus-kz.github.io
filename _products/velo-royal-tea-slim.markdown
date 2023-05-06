@@ -1,7 +1,7 @@
 ---
 title: VELO Royal Tea Slim
 date: 2023-01-10 08:56:00 Z
-position: 47
+position: 48
 title-seo: 'VELO Royal Tea Slim '
 descr: "VELO Royal Tea Slim \n\nВыразительный вкус чая.\n\nОбщая информация\n\nБренд:\nVelo\nСтрана:\nВенгрия\nСрок
   хранения:\n365 суток\nТемпература хранения:\n5...25"
