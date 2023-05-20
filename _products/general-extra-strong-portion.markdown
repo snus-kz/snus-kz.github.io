@@ -1,7 +1,7 @@
 ---
 title: General Extra Strong Portion
 date: 2022-12-28 17:48:00 Z
-position: 6
+position: 437
 title-seo: General Extra Strong Portion
 descr: |-
   General Extra Strong Portion
@@ -16,6 +16,7 @@ brand: Other brands
 sale: sale
 taste: табак,бергамот,дым
 image: "/uploads/asd.png"
+has_availability: false
 ---
 
 General Extra Strong Portion
