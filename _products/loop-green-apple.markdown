@@ -3,6 +3,8 @@ title: Loop - Green Apple
 date: 2023-05-24 18:09:00 Z
 title-seo: Loop - Green Apple
 product-name: Loop - Green Apple
+nicotine: 20
+portions: 55
 image: "/uploads/1-0d2a74.png"
 ---
 
