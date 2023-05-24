@@ -9,7 +9,7 @@ descr: "То что мы все любим и будем любить всегд
   незаметны при употреблении\n55 штук в пачке"
 product-name: Loop - Bubble Gum
 nicotine: 20
-portions: 44
+portions: 55
 price: 2500
 brand: Russian products
 sale: new-snus

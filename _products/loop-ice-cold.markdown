@@ -16,7 +16,7 @@ descr: |-
   55 штук в пачке
 product-name: Loop - Ice Cold
 nicotine: 20
-portions: 54
+portions: 55
 price: 2500
 brand: Russian products
 sale: new-snus

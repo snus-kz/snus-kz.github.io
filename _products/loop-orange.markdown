@@ -9,7 +9,7 @@ descr: "Этот фрукт не требует дополнительного �
   штук в пачке"
 product-name: 'Loop - Orange '
 nicotine: 20
-portions: 50
+portions: 55
 price: 2500
 brand: Russian products
 sale: new-snus
