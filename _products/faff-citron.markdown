@@ -13,7 +13,7 @@ price: 3000
 brand: Russian products
 taste: Цитрус
 image: "/uploads/1-6a642d.png"
-has_availability: true
+has_availability: false
 ---
 
 FAFF Citron — это вкус цитрусового лимонада, напоминающего освежающий спрайт. Крепость 75мг/г, в шайбе 30 пакетиков. Это один из многих вкусов всей линейки производителя FAFF, конкретно этот подойдёт для любителей цитрусовых.
