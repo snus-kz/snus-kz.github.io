@@ -15,7 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Яблоко
 image: "/uploads/4-f4ada4.png"
-has_availability: false
+has_availability: true
 ---
 
 Arqa Double Apple – насыщенный вкус  красного и зелёного яблока. Классический аромат мякоти сладких яблок Крепость как и во всех других крепких вкусах от Арка 100/г. В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.
