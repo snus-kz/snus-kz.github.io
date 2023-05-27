@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Mojito
 date: 2022-02-23 06:06:00 Z
-position: 248
+position: 246
 title-seo: Bjorn URSUS Mojito
 descr: 'Электронная сигарета Bjorn URSUS Mojito  -- вкусный и менее вредный аналог
   сигаретам - насыщенный вкус мохито сделают каждую затяжку сочной!

@@ -1,7 +1,7 @@
 ---
 title: Iceberg Strawberry Banana Gum
 date: 2022-09-15 07:41:00 Z
-position: 169
+position: 168
 title-seo: Iceberg Strawberry Banana Gum
 descr: "Снюс Iceberg Strawberry Banana Gum  со вкусом Клубники и Банана. Заявленная
   крепость 150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено
