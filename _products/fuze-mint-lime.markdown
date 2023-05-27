@@ -1,7 +1,7 @@
 ---
 title: Fuze Mint Lime
 date: 2022-02-23 06:41:00 Z
-position: 401
+position: 408
 title-seo: Fuze Mint Lime
 descr: Снюс Fuze Mint Lime со вкусом мяты. Заявленная крепость 150 мг никотина. В
   банке 20-25 порций.
