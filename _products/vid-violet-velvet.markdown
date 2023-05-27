@@ -17,6 +17,7 @@ brand: Other brands
 sale: sale
 taste: сладкий ликёр
 image: "/uploads/2-2ab863.png"
+has_availability: false
 ---
 
 Vid Violet Velvet - cпециальная новинка среди вкусовых бестабачных линеек.

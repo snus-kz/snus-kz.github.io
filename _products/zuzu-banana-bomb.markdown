@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Банана
 image: "/uploads/3-c6b4ac.png"
+has_availability: false
 ---
 
 Zuzu Banana Bomb — бестабачная смесь от известного бренда Faff со вкусом банана. Высокая крепость 150 мг, цветные никпаки, плотная набивка, насыщенный вкусы и аромат.
