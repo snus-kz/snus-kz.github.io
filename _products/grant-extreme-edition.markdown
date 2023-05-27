@@ -1,7 +1,7 @@
 ---
 title: Grant Extreme Edition
 date: 2022-01-18 04:32:00 Z
-position: 403
+position: 405
 title-seo: Grant Extreme Edition
 descr: Grant Extreme Edition – отличный продукт без содержания табака. Имеет высокую
   крепость которая выше чем у самых крепких табачных позиций. Обладает отличным вкусом

@@ -1,7 +1,7 @@
 ---
 title: Kasta Naruto
 date: 2022-11-06 07:05:00 Z
-position: 90
+position: 92
 title-seo: 'Kasta Naruto '
 descr: |-
   Снюс Kasta Naruto - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

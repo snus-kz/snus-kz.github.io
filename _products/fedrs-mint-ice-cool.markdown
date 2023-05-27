@@ -1,7 +1,7 @@
 ---
 title: Fedrs Mint Ice Cool
 date: 2022-12-10 05:56:00 Z
-position: 83
+position: 86
 title-seo: Fedrs Mint Ice Cool
 descr: Снюс Fedrs Mint Ice Cool- новое слово среди вкусовых бестабачных линеек. Теперь
   они приятны не только на запах, но и на вкус. Основа продукта-микрокристаллическая
