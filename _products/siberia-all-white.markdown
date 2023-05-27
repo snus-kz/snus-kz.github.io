@@ -14,6 +14,7 @@ price: 3600
 brand: Siberia
 sale: new-snus
 image: "/uploads/2-7fd8f0.png"
+has_availability: false
 ---
 
 SIBERIA All White - Ледяная сила! Это крепкий снюс с содержанием никотина 33 мг / г и тонкими белыми порциями, этот снюс предлагает свежий вкус мяты и невероятные ощущения от снюса!
