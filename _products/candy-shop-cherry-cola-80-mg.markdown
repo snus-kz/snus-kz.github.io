@@ -1,7 +1,7 @@
 ---
 title: Candy shop Cherry Cola 80 mg
 date: 2021-10-31 03:42:00 Z
-position: 289
+position: 293
 title-seo: Candy shop Cherry Cola 80 mg - купить со вкусом вишни и колы в Казахстане
 descr: " Candy shop \U0001F352\U0001F943Cherry Cola — бестабачная жевательная смесь,
   со вкусом колы с вишней\U0001F352\U0001F943."
