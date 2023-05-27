@@ -14,6 +14,7 @@ price: 2500
 brand: Russian products
 taste: Энергетик Манго
 image: "/uploads/4-506bb4.png"
+has_availability: false
 ---
 
 Снюс Red Stigma Mango Energy - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
