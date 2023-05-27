@@ -15,7 +15,7 @@ brand: Other brands
 sale: new-snus
 taste: клубника-личи
 image: "/uploads/4-07a61f.png"
-has_availability: false
+has_availability: true
 ---
 
 PABLO EXCLUSIVE STRAWBERRY LYCHEE  
