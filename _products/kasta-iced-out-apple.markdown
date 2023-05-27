@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Apple
 date: 2022-09-02 10:09:00 Z
-position: 191
+position: 185
 title-seo: Kasta Iced Out Apple
 descr: |-
   Снюс Kasta Iced Out Apple -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
