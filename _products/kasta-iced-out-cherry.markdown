@@ -20,6 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Вишня
 image: "/uploads/4-60b2aa.png"
+has_availability: false
 ---
 
 Снюс Kasta Iced Out Cherry -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
