@@ -1,7 +1,7 @@
 ---
 title: VELO Liquorice Strong Slim
 date: 2023-01-10 08:47:00 Z
-position: 41
+position: 44
 title-seo: 'VELO Liquorice Strong Slim '
 descr: "VELO Liquorice Strong Slim \n\nВыразительный вкус ликёра.\n\nОбщая информация\n\nБренд:\nVelo\nСтрана:\nВенгрия\nСрок
   хранения:\n365 суток\nТемпература хранения:\n5...25"
