@@ -1,7 +1,7 @@
 ---
 title: VELO Eucalyptus X-Strong Slim All White
 date: 2022-12-09 06:07:00 Z
-position: 21
+position: 29
 title-seo: VELO Eucalyptus X-Strong Slim All White
 descr: "\U0001F7E2VELO Eucalyptus X-Strong Slim All White дарит острую свежесть со
   вкусом ментола.\nСлим полностью белые порции имеют концентрацию никотина 15,6 мг/г

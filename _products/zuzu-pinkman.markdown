@@ -1,7 +1,7 @@
 ---
 title: Zuzu Pinkman
 date: 2023-04-05 20:17:00 Z
-position: 31
+position: 38
 title-seo: Zuzu Pinkman
 descr: Zuzu Pinkman — бестабачная смесь от известного бренда Faff со вкусом грейпфрута
   и черники. Высокая крепость 150 мг, цветные никпаки, плотная набивка, насыщенный
