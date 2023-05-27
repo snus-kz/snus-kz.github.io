@@ -1,7 +1,7 @@
 ---
 title: FAFF Orange Soda
 date: 2022-02-14 15:29:00 Z
-position: 387
+position: 392
 title-seo: FAFF Orange Soda
 descr: FAFF Orange Soda — новинка от фафф со вкусом апельсиновой содовой, крепость
   радует — 150мг/г. Вкус сам по себе цитрусовый и сладкий, очень напоминает фанту.
