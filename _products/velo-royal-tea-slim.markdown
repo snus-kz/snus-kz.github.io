@@ -12,6 +12,7 @@ price: 3500
 brand: Other brands
 taste: Чай
 image: "/uploads/4-81249d.png"
+has_availability: false
 ---
 
 VELO Royal Tea Slim 

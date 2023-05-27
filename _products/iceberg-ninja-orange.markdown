@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Апельсин
 image: "/uploads/13-435c98.png"
+has_availability: false
 ---
 
 Снюс Iceberg Ninja Orange  со вкусом апельсина. Заявленная крепость 150 мг никотина. В банке 20 порций. 
