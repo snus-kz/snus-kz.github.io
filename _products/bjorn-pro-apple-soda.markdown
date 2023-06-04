@@ -10,6 +10,7 @@ product-name: Bjorn URSUS Apple Soda
 nicotine: "-"
 portions: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Яблоко
 image: "/uploads/applesoda.png"
