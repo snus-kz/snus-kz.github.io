@@ -13,6 +13,7 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Мандарин
 image: "/uploads/4-7f1e09.png"
