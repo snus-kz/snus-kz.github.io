@@ -1,7 +1,7 @@
 ---
 title: Arqa Mamajuana
 date: 2022-08-29 13:31:00 Z
-position: 326
+position: 334
 title-seo: Arqa Mamajuana
 descr: Arqa Mamajuana – Уникальный вкус алкогольного напитка родом из Доминиканы.
   Сочетает в себе ром и корицу с мёдом. Крепость как и во всех других крепких вкусах
