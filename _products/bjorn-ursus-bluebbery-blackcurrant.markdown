@@ -13,6 +13,7 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Черника
 image: "/uploads/3-253697.png"

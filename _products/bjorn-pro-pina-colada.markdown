@@ -11,6 +11,7 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Пина Колада
 image: "/uploads/pinacolada.png"
