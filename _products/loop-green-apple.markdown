@@ -6,6 +6,7 @@ title-seo: Loop - Green Apple
 product-name: Loop - Green Apple
 nicotine: 20
 portions: 55
+brand: Other brands
 image: "/uploads/1-0d2a74.png"
 ---
 
