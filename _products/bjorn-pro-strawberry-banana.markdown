@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Strawberry Banana
 date: 2021-11-22 06:02:00 Z
-position: 281
+position: 284
 title-seo: Bjorn URSUS Strawberry Banana
 descr: Электронная сигарета Bjorn Pro Strawberry Banana -- вкусный и менее вредный
   аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелой клубники
