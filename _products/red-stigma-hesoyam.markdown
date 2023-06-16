@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Hesoyam
 date: 2022-08-22 17:51:00 Z
-position: 228
+position: 231
 title-seo: Red Stigma Hesoyam
 descr: |-
   Снюс Red Stigma Hesoyam - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.

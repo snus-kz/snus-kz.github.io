@@ -1,6 +1,7 @@
 ---
 title: Siberia -80 All White Long
 date: 2023-06-10 08:10:00 Z
+position: 2
 title-seo: Siberia -80 All White Long
 descr: Siberia -80 All White Long  очень крепкий снюс с очень длинными и хорошо наполненными  паучами.
   Никотин составляет 33 мг/г, что делает его одним из самых сильных снюсов. Сибирь

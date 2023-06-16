@@ -1,7 +1,7 @@
 ---
 title: Kasta Kakashi
 date: 2022-11-06 07:04:00 Z
-position: 106
+position: 109
 title-seo: Kasta Kakashi
 descr: |-
   Снюс Kasta Kakashi - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

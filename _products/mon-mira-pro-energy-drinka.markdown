@@ -1,7 +1,7 @@
 ---
 title: Mon Mira Pro - Energy Drink
 date: 2023-06-04 12:08:00 Z
-position: 1
+position: 445
 title-seo: Mon Mira Pro - Energy Drink
 descr: "Monvaper представляет Перезаряжаемый Mon Mira Pro - Energy Drinka - обновленную
   версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми
@@ -20,6 +20,7 @@ price: 2400
 brand: VAPE KIT и электронные сигареты
 sale: new-snus
 image: "/uploads/energy%20drink.png"
+has_availability: false
 ---
 
 Monvaper представляет Перезаряжаемый Mon Mira Pro - Energy Drink - обновленную версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми улучшениями и свежими сочными вкусами. Mon Mira Pro - одноразовый вейп с более лучшей вкусопередачей по сравнению с Mon Mira. Каждый вейп  содержит 12 мл жидкости и позволяет достичь более чем 5000 затяжек. 
