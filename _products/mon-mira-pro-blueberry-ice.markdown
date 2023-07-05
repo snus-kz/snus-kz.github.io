@@ -1,7 +1,7 @@
 ---
 title: 'MON: Mira Pro - Blueberry Ice'
 date: 2023-06-04 11:48:00 Z
-position: 19
+position: 21
 title-seo: 'MON: Mira Pro - Blueberry Ice'
 descr: "Monvaper представляет Mon Mira Pro - Blueberry Ice - обновленную версию вейпов
   Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми улучшениями и
