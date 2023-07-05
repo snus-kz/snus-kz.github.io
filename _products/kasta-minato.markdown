@@ -1,7 +1,7 @@
 ---
 title: Kasta Minato
 date: 2023-02-25 18:25:00 Z
-position: 90
+position: 95
 title-seo: " Kasta Minato"
 descr: |-
   Снюс Kasta Minato - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

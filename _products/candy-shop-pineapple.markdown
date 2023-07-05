@@ -1,7 +1,7 @@
 ---
 title: Candy shop Pineapple
 date: 2021-11-06 10:57:00 Z
-position: 304
+position: 309
 title-seo: 'Candy shop Pineapple - купить в Казахстане со вкусом '
 descr: "Снюс Candy shop \U0001F34DPineapple — бестабачная жевательная смесь, со вкусом
   Ананаса\U0001F34D."

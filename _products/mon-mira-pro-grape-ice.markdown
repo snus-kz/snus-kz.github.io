@@ -1,7 +1,7 @@
 ---
 title: Mon Mira Pro - Grape Ice
 date: 2023-06-04 12:09:00 Z
-position: 22
+position: 27
 title-seo: Mon Mira Pro - Grape Ice
 descr: "Monvaper представляет Перезаряжаемый Mon Mira Pro - Grape Ice - обновленную
   версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми
