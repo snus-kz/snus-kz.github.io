@@ -1,7 +1,7 @@
 ---
 title: Kasta Tobacco
 date: 2022-12-04 08:00:00 Z
-position: 115
+position: 1
 title-seo: Kasta Tobacco
 descr: |-
   Снюс Kasta Tobacco - это порционная крепкая бестабачная жевательная смесь со вкусом настоящего табака.
@@ -13,9 +13,9 @@ product-name: Kasta Tobacco
 nicotine: 42
 portions: 20
 gram: 16
-price: 3000
+price: 2500
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: Табак
 image: "/uploads/2-e1251d.png"
 ---

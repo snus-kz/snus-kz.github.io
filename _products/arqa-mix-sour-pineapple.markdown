@@ -1,7 +1,7 @@
 ---
 title: Arqa Mix Sour Pineapple
 date: 2022-05-04 05:10:00 Z
-position: 232
+position: 230
 title-seo: Arqa Mix Sour Pineapple
 descr: "Снюс Arqa Mix Sour Pineapple – это бестабачная жевательная смесь, со вкусом
   кислого ананаса \U0001F34D. Высокая крепость 70 мг. Продукт считается аналогом шведского

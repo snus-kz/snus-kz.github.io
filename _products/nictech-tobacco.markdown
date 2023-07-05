@@ -1,7 +1,7 @@
 ---
 title: Nictech Tobacco
 date: 2022-12-04 08:03:00 Z
-position: 116
+position: 0
 title-seo: Nictech Tobacco
 descr: |-
   Снюс Nictech Tobacco - это порционная крепкая табачная жевательная смесь со вкусом настоящего табака.
@@ -14,8 +14,9 @@ nicotine: 27
 portions: 20
 gram: 16
 price: 3000
+new-price: 2500
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: табак
 image: "/uploads/1-91f367.png"
 ---
