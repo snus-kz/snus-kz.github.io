@@ -1,7 +1,7 @@
 ---
 title: FAFF Raspberry Jingle
 date: 2022-02-14 15:57:00 Z
-position: 429
+position: 422
 title-seo: FAFF Raspberry Jingle
 descr: FAFF Raspberry Jingle — очередной снюс от бренда FAFF со вкусом малины, крепость
   от 65 до 75 мг/г. Данный бренд один из самых известных на рынке белого снюса. Этот

@@ -1,7 +1,7 @@
 ---
 title: MON - Blueberry Ice
 date: 2022-06-27 18:47:00 Z
-position: 383
+position: 377
 title-seo: " MON - Blueberry Ice"
 descr: |-
   Новые поды MON - на 4 000 тяг.

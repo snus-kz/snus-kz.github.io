@@ -1,7 +1,7 @@
 ---
 title: Chainsaw Cold Mint Super Strong White
 date: 2023-04-20 15:05:00 Z
-position: 71
+position: 444
 title-seo: Chainsaw Cold Mint Super Strong White
 descr: "Chainsaw Cold Mint Super Strong White\n\nНикотин: 20мг/г \nГр:15,4 \n\nБензопила
   - это очень сильный снюс от датского табака V2. Продукт обладает высоким содержанием

@@ -1,7 +1,7 @@
 ---
 title: Arqa Raspberry Juice Slim
 date: 2022-05-04 05:12:00 Z
-position: 82
+position: 79
 title-seo: Arqa Raspberry Juice Slim
 descr: "Снюс Arqa Raspberry Juice Slim – снюс, слим-пакеты со вкусом \U0001F964малинового
   сока\U0001F964. Высокая крепость 70 мг. Продукт считается аналогом шведского снюса,
