@@ -20,7 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Виноград
 image: "/uploads/5-7535bc.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Iced Out Grape -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

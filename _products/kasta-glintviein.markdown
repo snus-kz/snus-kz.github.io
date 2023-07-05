@@ -11,7 +11,7 @@ price: 2800
 brand: Other brands
 taste: Глинтвейн
 image: "/uploads/3-e89e90.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Глинтвейн-это порционная супер крепкая бестабачная жевательная смесь со вкусом глинтвейна.

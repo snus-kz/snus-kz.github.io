@@ -12,7 +12,7 @@ price: 3000
 brand: Russian products
 taste: Абсент
 image: "/uploads/kasta%20absent.jpg"
-has_availability: false
+has_availability: true
 ---
 
 KASTA Психоз из абсента

@@ -14,7 +14,7 @@ strong: Средней крепости
 sale: sale
 taste: Арктическая мята
 image: "/uploads/2-fde480.png"
-has_availability: false
+has_availability: true
 ---
 
 XTRIME никпэки с лучшей вкусопередачей !!!😋

@@ -14,7 +14,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/6-0e8015.png"
-has_availability: false
+has_availability: true
 ---
 
 Arqa Tarragon Mix – освежающий аромат любимого с детства напитка «Тархун» с тонким вкусом свежего эстрагона.  Крепость как и во всех других крепких вкусах от Арка 100/г. В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.

@@ -15,7 +15,7 @@ price: 3000
 brand: Other brands
 taste: Спрайт
 image: "/uploads/2-f08b27.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Спрайт-это порционная супер крепкая бестабачная жевательная смесь со вкусом спрайта.
