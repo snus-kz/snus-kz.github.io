@@ -1,7 +1,7 @@
 ---
 title: Corona Bubblegum
 date: 2023-03-30 18:58:00 Z
-position: 76
+position: 80
 title-seo: Corona Bubblegum
 descr: Снюс Corona Bubblegum — сухая порционная супер крепкая бестабачная белая жевательная
   смесь со вкусом энергетика.
