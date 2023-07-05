@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Ice Mint
 date: 2022-08-22 17:36:00 Z
-position: 386
+position: 390
 title-seo: Red Stigma Ice Mint
 descr: |-
   Снюс Red Stigma Ice Mint - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.

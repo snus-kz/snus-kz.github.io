@@ -1,7 +1,7 @@
 ---
 title: Iceberg Strawberry Mango Gum
 date: 2022-09-15 07:48:00 Z
-position: 174
+position: 179
 title-seo: Iceberg Strawberry Mango Gum
 descr: "Снюс Iceberg Strawberry Mango Gum  со вкусом Клубники и Манго. Заявленная
   крепость 150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено

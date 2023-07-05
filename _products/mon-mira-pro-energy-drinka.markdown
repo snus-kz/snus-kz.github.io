@@ -1,7 +1,7 @@
 ---
 title: Mon Mira Pro - Energy Drink
 date: 2023-06-04 12:08:00 Z
-position: 445
+position: 446
 title-seo: Mon Mira Pro - Energy Drink
 descr: "Monvaper представляет Перезаряжаемый Mon Mira Pro - Energy Drinka - обновленную
   версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми

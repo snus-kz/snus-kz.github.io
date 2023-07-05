@@ -1,7 +1,7 @@
 ---
 title: Kasta Invoker
 date: 2022-10-20 16:10:00 Z
-position: 24
+position: 29
 title-seo: Kasta Invoker
 descr: |-
   Снюс Kasta Invoker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
