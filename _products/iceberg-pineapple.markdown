@@ -12,7 +12,7 @@ price: 3000
 brand: Russian products
 taste: Ананас
 image: "/uploads/3-435f4b.png"
-has_availability: true
+has_availability: false
 ---
 
 Iceberg Pineapple  Снюс iceberg со вкусом 🍍ананаса🍍. Заявленная крепость 75 мг никотина. В банке 20-25 порций.

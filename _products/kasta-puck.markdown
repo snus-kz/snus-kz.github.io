@@ -16,6 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/3-4d33ba.png"
+has_availability: false
 ---
 
 Снюс Kasta Puck - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

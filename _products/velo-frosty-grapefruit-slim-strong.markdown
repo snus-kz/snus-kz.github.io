@@ -14,6 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Грейпфрут
 image: "/uploads/velo-013e7c.png"
+has_availability: false
 ---
 
 VELO Frosty Grapefruit Slim Strong - это  новинка от одного из ведущих производителей снюса.VELO Frosty Grapefruit Slim Strong со вкусом грейпфрута, дает мягкое жжение под губой.  Порции слим и очень незаметно ложатся под губу.

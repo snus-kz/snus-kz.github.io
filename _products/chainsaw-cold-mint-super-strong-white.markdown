@@ -16,6 +16,7 @@ price: 2800
 brand: Other brands
 sale: new-snus
 image: "/uploads/asdasd.png"
+has_availability: false
 ---
 
 Chainsaw Cold Mint Super Strong White
