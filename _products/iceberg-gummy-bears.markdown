@@ -14,7 +14,7 @@ price: 3000
 brand: Russian products
 taste: Мармеладные мишки
 image: "/uploads/8-2c48f7.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Iceberg Gummy Bears со вкусом мармеладных мишек. Заявленная крепость 150 мг никотина. В банке 20 порций. 
