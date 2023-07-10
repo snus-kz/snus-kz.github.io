@@ -1,7 +1,7 @@
 ---
 title: Kasta - Shadow Fiend
 date: 2022-06-10 19:38:00 Z
-position: 139
+position: 138
 title-seo: Kasta - Shadow Fiend
 descr: |-
   Снюс Kasta - Shadow Fiend - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

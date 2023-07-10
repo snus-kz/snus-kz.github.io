@@ -13,6 +13,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 image: "/uploads/green.png"
+has_availability: false
 ---
 
 Tony Snusano - Green - Вкус сладкой мяты и охлаждающей свежести в каждом пауче. 
