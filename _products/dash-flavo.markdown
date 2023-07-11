@@ -10,7 +10,9 @@ product-name: Dash Flavo
 nicotine: 105
 portions: 20
 price: 2800
+new-price: 2300
 brand: Russian products
+sale: sale
 image: "/uploads/5-b1fad8.png"
 has_availability: true
 ---

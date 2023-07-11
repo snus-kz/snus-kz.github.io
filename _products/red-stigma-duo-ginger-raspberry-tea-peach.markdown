@@ -11,8 +11,9 @@ product-name: Red Stigma Duo Ginger Raspberry, Tea Peach
 nicotine: 150
 portions: 20
 price: 2500
+new-price: 2300
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: Малина.Имбирь-Персик.Чай
 image: "/uploads/7-d08c17.png"
 ---

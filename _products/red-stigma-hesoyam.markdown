@@ -11,8 +11,9 @@ product-name: Red Stigma Hesoyam
 nicotine: 150
 portions: 20
 price: 2500
+new-price: 2300
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: Яблоко Корица
 image: "/uploads/6-04f9c4.png"
 ---

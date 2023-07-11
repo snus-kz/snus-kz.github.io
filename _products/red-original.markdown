@@ -12,7 +12,9 @@ product-name: Red Original
 nicotine: 60
 portions: 20
 price: 2800
+new-price: 2300
 brand: Other brands
+sale: sale
 image: "/uploads/red.png"
 has_availability: true
 ---

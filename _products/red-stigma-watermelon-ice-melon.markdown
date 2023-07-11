@@ -11,8 +11,9 @@ product-name: Red Stigma Watermelon Ice melon
 nicotine: 150
 portions: 20
 price: 2500
+new-price: 2300
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: Арбуз Дыня
 image: "/uploads/9-7f1a8a.png"
 ---

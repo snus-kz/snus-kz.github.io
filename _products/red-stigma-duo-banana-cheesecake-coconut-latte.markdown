@@ -11,8 +11,9 @@ product-name: Red Stigma Duo Banana Cheesecake, Coconut Latte
 nicotine: 150
 portions: 20
 price: 2500
+new-price: 2300
 brand: Russian products
-sale: new-snus
+sale: sale
 taste: Банан, Чизкейк - Кокос, Латте
 image: "/uploads/8-720a79.png"
 ---

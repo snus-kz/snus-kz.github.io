@@ -10,7 +10,9 @@ product-name: Dash Lacus
 nicotine: 105
 portions: 20
 price: 2800
+new-price: 2300
 brand: Russian products
+sale: sale
 taste: Инжир
 image: "/uploads/1-d9d130.png"
 has_availability: true

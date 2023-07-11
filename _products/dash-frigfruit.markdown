@@ -9,7 +9,9 @@ descr: Снюс Dash Frigfruit – это бестабачная жевател�
 product-name: Dash Frigfruit
 nicotine: 150
 price: 2800
+new-price: 2300
 brand: Russian products
+sale: sale
 image: "/uploads/8-0ebd04.png"
 has_availability: true
 ---

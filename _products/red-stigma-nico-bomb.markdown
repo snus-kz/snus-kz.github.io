@@ -11,8 +11,9 @@ product-name: Red Stigma Nico Bomb
 nicotine: 150
 portions: 20
 price: 2500
+new-price: 2300
 brand: Russian products
-sale: new-snus
+sale: sale
 image: "/uploads/5-a200b5.png"
 ---
 
