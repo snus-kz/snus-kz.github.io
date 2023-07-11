@@ -1,7 +1,7 @@
 ---
 title: Faff Shooter Stray
 date: 2022-11-05 14:49:00 Z
-position: 170
+position: 172
 title-seo: 'Faff Shooter Stray '
 descr: Faff Shooter Stray 150mg — очередной белый снюс из линейки FAFF, крепость у
   данного вкуса 150мг/г, что является предельной для всей линейки. Вкус немного сладкий

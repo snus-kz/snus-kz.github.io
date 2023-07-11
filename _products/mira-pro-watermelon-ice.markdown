@@ -1,7 +1,7 @@
 ---
 title: Mira Pro - Watermelon Ice
 date: 2023-06-04 12:12:00 Z
-position: 38
+position: 40
 title-seo: Mira Pro - Watermelon Ice
 descr: "Monvaper представляет Перезаряжаемый Mon Mira Pro - Watermelon Ice - обновленную
   версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми
