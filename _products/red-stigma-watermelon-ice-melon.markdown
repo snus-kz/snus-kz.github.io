@@ -1,7 +1,7 @@
 ---
 title: Red Stigma Watermelon Ice melon
 date: 2022-08-22 17:59:00 Z
-position: 2
+position: 4
 title-seo: Red Stigma Watermelon Ice melon
 descr: |-
   Red Stigma WatermelonСнюс Red Stigma Watermelon Ice melon - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
