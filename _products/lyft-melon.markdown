@@ -12,7 +12,7 @@ descr: "LYFT Melon\nLYFT Melon полна сюрпризов! Тропическ
   \ банки\nПорций 24 \nКрепость 18"
 product-name: LYFT Melon
 nicotine: 18
-portions: 24
+portions: 20
 gram: 17
 price: 3000
 brand: Lyft
