@@ -12,7 +12,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 image: "/uploads/blue.png"
-has_availability: false
+has_availability: true
 ---
 
 Tony Snusano - Blue - Насыщенный вкус мяты и ментола сочетается с высокой концентрацией никотина - 55мг, создавая действительно крепкий продукт для опытных пользователей.

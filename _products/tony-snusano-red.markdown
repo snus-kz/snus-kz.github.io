@@ -13,7 +13,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 image: "/uploads/red-f7ad48.png"
-has_availability: false
+has_availability: true
 ---
 
 Tony Snusano - Red - Крепкий. Эффект от интенсивной мяты и освежающего ментола, присутствующих в этом продукте, непросто описать словами. Концентрация никотина в 75мг лишь усиливает эти ощущения.
