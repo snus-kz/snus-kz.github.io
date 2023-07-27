@@ -1,7 +1,7 @@
 ---
 title: Pablo Exclusive Frosted Mint
 date: 2022-10-24 08:35:00 Z
-position: 25
+position: 24
 title-seo: Pablo Exclusive Frosted Mint
 descr: 'Представляем новый Pablo Exclusive.  Благодаря сладкому вкусу замороженной
   мяты и очень сильному никотину (50 мг на грамм) вы можете поднять свои ощущения

@@ -1,7 +1,7 @@
 ---
 title: Mon Mira Pro - Strawberry Watermelon Ice
 date: 2023-06-04 12:11:00 Z
-position: 43
+position: 39
 title-seo: Mon Mira Pro - Strawberry Watermelon Ice
 descr: "Monvaper представляет Перезаряжаемый Mon Mira Pro - Strawberry Watermelon
   Ice - обновленную версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они

@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Cherry
 date: 2022-09-02 12:51:00 Z
-position: 28
+position: 327
 title-seo: Kasta Iced Out Cherry
 descr: |-
   Снюс Kasta Iced Out Cherry -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -20,7 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Вишня
 image: "/uploads/4-60b2aa.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Iced Out Cherry -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
