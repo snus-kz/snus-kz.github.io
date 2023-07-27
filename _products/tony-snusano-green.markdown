@@ -1,7 +1,7 @@
 ---
 title: Tony Snusano - Green
 date: 2023-07-09 19:02:00 Z
-position: 329
+position: 0
 title-seo: Tony Snusano - Green
 descr: "Tony Snusano - Green - Вкус сладкой мяты и охлаждающей свежести в каждом пауче.
   \n\nЛучший выбор для тех, кто ищет легкое и приятное начало своего знакомства с
@@ -13,7 +13,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 image: "/uploads/green.png"
-has_availability: false
+has_availability: true
 ---
 
 Tony Snusano - Green - Вкус сладкой мяты и охлаждающей свежести в каждом пауче. 

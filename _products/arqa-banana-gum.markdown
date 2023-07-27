@@ -1,7 +1,7 @@
 ---
 title: Arqa Banana Gum
 date: 2022-05-04 05:15:00 Z
-position: 244
+position: 247
 title-seo: Arqa Banana Gum
 descr: "Arqa Banana Gum – снюс со вкусом арбузной жвачки. Высокая крепость 100 мг.
   В банке 20 порций slim формата. Продукт считается аналогом шведского снюса, не содержит

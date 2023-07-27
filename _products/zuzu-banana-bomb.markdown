@@ -1,7 +1,7 @@
 ---
 title: Zuzu Banana Bomb
 date: 2023-04-05 20:18:00 Z
-position: 311
+position: 314
 title-seo: 'Zuzu Banana Bomb '
 descr: Zuzu Banana Bomb — бестабачная смесь от известного бренда Faff со вкусом граната
   и клубники замешанные с черникой. Высокая крепость 150 мг, цветные никпаки, плотная

@@ -1,7 +1,7 @@
 ---
 title: Mon Mira Pro - Peach Ice
 date: 2023-06-04 12:10:00 Z
-position: 40
+position: 43
 title-seo: 'Mon Mira Pro - Peach Ice '
 descr: "Monvaper представляет Перезаряжаемый Mon Mira Pro - Peach Ice - обновленную
   версию вейпов Mon Mira, доступную в нашем интернет-магазине. Они обладают новыми
