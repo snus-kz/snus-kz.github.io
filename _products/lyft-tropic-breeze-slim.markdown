@@ -1,7 +1,7 @@
 ---
 title: LYFT Tropic Breeze Slim
 date: 2022-09-02 15:47:00 Z
-position: 26
+position: 330
 title-seo: LYFT Tropic Breeze Slim
 descr: "LYFT Tropic Breeze Slim All White чтобы обеспечить приятное летнее ощущение,
   в котором мы все нуждаемся время от времени.  Эти никотиновые пакетики без табака
@@ -23,7 +23,7 @@ strong: Средней крепости
 sale: new-snus
 taste: Тропические Фрукты
 image: "/uploads/1-bf5f51.png"
-has_availability: true
+has_availability: false
 ---
 
 LYFT Tropic Breeze Slim All White чтобы обеспечить приятное летнее ощущение, в котором мы все нуждаемся время от времени.  Эти никотиновые пакетики без табака блестяще смешивают ароматы маракуйи, манго и тангаринов, создавая поистине тропический вкус.  Их содержание никотина дает им небольшой дополнительный заряд энергии!

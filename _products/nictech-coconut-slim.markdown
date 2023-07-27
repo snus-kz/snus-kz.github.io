@@ -1,7 +1,7 @@
 ---
 title: Nictech Coconut Slim
 date: 2021-11-21 08:29:00 Z
-position: 236
+position: 235
 title-seo: Nictech Coconut Slim
 descr: |-
   Снюс Nictech Coconut Slim 60-новое слово среди вкусовых бестабачных линеек.
