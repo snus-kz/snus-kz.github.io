@@ -1,7 +1,7 @@
 ---
 title: Fedrs Double Mint Hard
 date: 2022-01-28 19:55:00 Z
-position: 284
+position: 123
 title-seo: Fedrs Double Mint Hard
 descr: |-
   Снюс Fedrs Double Mint Hard  - новое слово среди вкусовых бестабачных линеек.
@@ -12,8 +12,10 @@ product-name: Fedrs Double Mint Hard
 nicotine: 65
 portions: 20
 gram: 15
-price: 2800
+price: 3000
+new-price: 2800
 brand: Other brands
+sale: sale
 image: "/uploads/2-c421af.png"
 has_availability: true
 ---

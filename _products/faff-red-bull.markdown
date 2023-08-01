@@ -1,7 +1,7 @@
 ---
 title: FAFF Red Bull
 date: 2022-02-12 10:56:00 Z
-position: 326
+position: 302
 title-seo: FAFF Red Bull
 descr: FAFF Red Bull — новая линейка FAFF не так давно попала на рынок и теперь мы
   вам представляем новый вкус — энергетик ред булл. Данный снюс производят из ароматизаторов
@@ -10,7 +10,7 @@ descr: FAFF Red Bull — новая линейка FAFF не так давно �
 product-name: FAFF Red Bull
 nicotine: 75
 portions: 30
-price: 2800
+price: 3000
 brand: Russian products
 taste: 'Энергетик '
 image: "/uploads/4-29e402.png"

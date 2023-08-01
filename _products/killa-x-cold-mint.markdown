@@ -1,14 +1,14 @@
 ---
 title: KILLA X COLD MINT
 date: 2021-07-12 16:50:00 Z
-position: 3
+position: 85
 title-seo: KILLA X COLD MINT - купить  в Казахстане
 descr: KILLA X COLD MINT  - один из лучших  продуктов Дании
 product-name: KILLA X COLD MINT
 nicotine: 16
 portions: 20
 gram: 16
-price: 2900
+price: 3200
 brand: Other brands
 strong: Средней крепости
 sale: sale

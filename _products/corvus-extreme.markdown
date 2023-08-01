@@ -1,7 +1,7 @@
 ---
 title: Corvus Extreme
 date: 2021-07-14 07:51:00 Z
-position: 170
+position: 129
 title-seo: Corvus Extreme - купить в Казахстане
 descr: Corvus Extreme - купить в Казахстане ,
 product-name: Corvus Extreme

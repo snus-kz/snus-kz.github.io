@@ -1,7 +1,7 @@
 ---
 title: Kasta - Pudge
 date: 2022-06-10 19:32:00 Z
-position: 58
+position: 57
 title-seo: Kasta - Pudge
 descr: |-
   Снюс Kasta Pudge - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -9,7 +9,7 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta - Pudge
-nicotine: 105
+nicotine: 120
 portions: 20
 gram: 20
 price: 3000

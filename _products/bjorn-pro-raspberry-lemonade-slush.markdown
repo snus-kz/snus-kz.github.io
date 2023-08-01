@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Raspberry Lemonade Slush
 date: 2021-11-22 05:51:00 Z
-position: 260
+position: 150
 title-seo: Bjorn URSUS Raspberry Lemonade Slush
 descr: Электронная сигарета Bjorn URSUS Raspberry Lemonade Slush -- вкусный и менее
   вредный аналог сигаретам Bjorn URSUS Raspberry Lemonade Slush / Малиновый Лимонад
@@ -11,10 +11,11 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Малина
 image: "/uploads/raspberry.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Raspberry Lemonade Slush -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Raspberry Lemonade Slush / Малиновый Лимонад - насыщенный вкус спелой малины сделают каждую затяжку сочной!

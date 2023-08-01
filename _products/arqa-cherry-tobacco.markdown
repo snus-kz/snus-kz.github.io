@@ -1,7 +1,7 @@
 ---
 title: Arqa Cherry Tobacco
 date: 2022-08-29 13:41:00 Z
-position: 94
+position: 293
 title-seo: Arqa Cherry Tobacco
 descr: Arqa Cherry Tobacco – терпковато-сладкая и яркая груша, которая совмещает в
   себе нотки напитка дюшес. Крепость как и во всех других крепких вкусах от Арка 100/г.
@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Вишня
 image: "/uploads/5-2de280.png"
+has_availability: false
 ---
 
 Arqa Cherry Tobacco – терпковато-сладкая и яркая груша, которая совмещает в себе нотки напитка дюшес. Крепость как и во всех других крепких вкусах от Арка 100/г. В каждой шайбе 20 широких пакетиков, а общий вес продукта 20г.

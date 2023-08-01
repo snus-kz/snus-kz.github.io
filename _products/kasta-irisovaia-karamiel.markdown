@@ -1,7 +1,7 @@
 ---
 title: Kasta Ирисовая Карамель
 date: 2021-11-18 15:10:00 Z
-position: 261
+position: 27
 title-seo: Kasta Ирисовая Карамель
 descr: |-
   Снюс Kasta Ирисовая Карамель-это порционная супер крепкая бестабачная жевательная смесь со вкусом ирисовой карамели.
@@ -11,7 +11,7 @@ descr: |-
 product-name: Kasta Ирисовая Карамель
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 taste: Карамель
 image: "/uploads/4-1db615.png"

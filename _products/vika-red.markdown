@@ -1,7 +1,7 @@
 ---
 title: Vika Red
 date: 2022-05-21 06:23:00 Z
-position: 174
+position: 180
 title-seo: Vika Red
 descr: " — это порционный снюс, разработанный с одной целью — обеспечить никотином,
   без лишнего дискомфорта. Он обеспечивает чрезвычайно сильный никотиновый эффект
@@ -12,7 +12,9 @@ nicotine: 22
 portions: 20
 gram: 20
 price: 2800
+new-price: 2000
 brand: Other brands
+sale: sale
 image: "/uploads/3-ce19a4.png"
 ---
 

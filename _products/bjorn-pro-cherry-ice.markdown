@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Cherry Ice
 date: 2021-11-22 06:14:00 Z
-position: 265
+position: 155
 title-seo: Bjorn URSUS Cherry Ice
 descr: Электронная сигарета Bjorn URSUS Cherry Ice -- -- вкусный и менее вредный аналог
   сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают
@@ -11,10 +11,11 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Вишня
 image: "/uploads/cherry%20ice.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Cherry Ice -- -- вкусный и менее вредный аналог сигаретам Apple Soda / Яблочная газировка - насыщенный вкус спелого яблока сделают каждую затяжку сочной!

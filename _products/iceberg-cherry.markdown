@@ -1,7 +1,7 @@
 ---
 title: Iceberg Cherry
 date: 2022-05-16 07:22:00 Z
-position: 16
+position: 299
 title-seo: Iceberg Cherry
 descr: "Снюс Iceberg Cherry со вкусом мармеладных мишек. Заявленная крепость 150 мг
   никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов
@@ -15,7 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Вишня
 image: "/uploads/12-4b4eea.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Iceberg Cherry со вкусом мармеладных мишек. Заявленная крепость 150 мг никотина. В банке 20 порций. 

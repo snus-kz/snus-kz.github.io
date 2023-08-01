@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Melon Ice
 date: 2021-11-22 04:04:00 Z
-position: 258
+position: 153
 title-seo: Bjorn URSUS Melon Ice
 descr: 'Электронная сигарета Bjorn URSUS Melon Ice -- вкусный и менее вредный аналог
   сигаретам Melon Ice / Холодная Дыня - насыщенный вкус спелой дыни сделают каждую
@@ -13,9 +13,10 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 image: "/uploads/melonice.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Melon Ice -- вкусный и менее вредный аналог сигаретам Melon Ice / Холодная Дыня - насыщенный вкус спелой дыни сделают каждую затяжку сочной!

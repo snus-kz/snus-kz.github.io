@@ -1,7 +1,7 @@
 ---
 title: FAFF Wafles
 date: 2022-02-14 15:52:00 Z
-position: 221
+position: 295
 title-seo: FAFF Wafles
 descr: FAFF Wafles — уникальный вкус от бренда фафф. Сладкий сливочный вкус и приятное
   послевкусие. Крепость 150 мг/г, а каждой шайбе около 30 пакетиков и они слим формата,
@@ -9,10 +9,11 @@ descr: FAFF Wafles — уникальный вкус от бренда фафф.
 product-name: FAFF Wafles
 nicotine: 150
 portions: 30
+price: 3000
 brand: Other brands
 taste: Сливочные вафли
 image: "/uploads/15-962425.png"
-has_availability: true
+has_availability: false
 ---
 
 FAFF Wafles — уникальный вкус от бренда фафф. Сладкий сливочный вкус и приятное послевкусие. Крепость 150 мг/г, а каждой шайбе около 30 пакетиков и они слим формата, а это значит что они практически не заметны во время использования.

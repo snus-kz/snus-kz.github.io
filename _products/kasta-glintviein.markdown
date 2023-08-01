@@ -1,16 +1,17 @@
 ---
 title: Kasta Глинтвейн
 date: 2021-11-18 11:21:00 Z
-position: 271
+position: 29
 title-seo: Kasta Глинтвейн
 descr: Kasta Глинтвейн
 product-name: Kasta Глинтвейн
 nicotine: 101
 portions: 20
-price: 2800
+price: 3000
 brand: Other brands
 taste: Глинтвейн
 image: "/uploads/3-e89e90.png"
+has_availability: true
 ---
 
 Снюс Kasta Глинтвейн-это порционная супер крепкая бестабачная жевательная смесь со вкусом глинтвейна.

@@ -1,7 +1,7 @@
 ---
 title: FAFF Peach Tea
 date: 2022-02-14 15:32:00 Z
-position: 209
+position: 261
 title-seo: FAFF Peach Tea
 descr: FAFF Peach Tea 150mg — очередной белый снюс из линейки FAFF, крепость у данного
   вкуса 150мг/г, что является предельной для всей линейки. Вкус немного сладкий со
@@ -11,7 +11,7 @@ product-name: FAFF Peach Tea
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Персик
 image: "/uploads/9-700f1f.png"

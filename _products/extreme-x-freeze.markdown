@@ -1,7 +1,7 @@
 ---
 title: EXTREME X FREEZE
 date: 2022-05-08 06:21:00 Z
-position: 317
+position: 281
 title-seo: EXTREME X FREEZE
 descr: "**XTRIME X-FREEZE.** От производителя «Пабло и Килла»! \nМега прочный пакет
   с восхитительным вкусом свежей мяты.\nЧрезвычайно свежий вкус, который выводит ваши
@@ -13,8 +13,7 @@ product-name: EXTREME X FREEZE
 nicotine: 30
 portions: 20
 gram: 202
-price: 2800
-new-price: 1800
+price: 3200
 brand: Russian products
 sale: sale
 image: "/uploads/xtr.png"

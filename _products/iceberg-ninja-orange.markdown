@@ -1,7 +1,7 @@
 ---
 title: Iceberg Ninja Orange
 date: 2022-05-16 07:41:00 Z
-position: 20
+position: 300
 title-seo: 'Iceberg Ninja Orange '
 descr: "Снюс Iceberg Ninja Orange  со вкусом апельсина. Заявленная крепость 150 мг
   никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов
@@ -15,6 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Апельсин
 image: "/uploads/13-435c98.png"
+has_availability: false
 ---
 
 Снюс Iceberg Ninja Orange  со вкусом апельсина. Заявленная крепость 150 мг никотина. В банке 20 порций. 

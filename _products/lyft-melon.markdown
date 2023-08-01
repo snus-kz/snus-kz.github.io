@@ -1,7 +1,7 @@
 ---
 title: LYFT Melon
 date: 2022-09-02 15:50:00 Z
-position: 23
+position: 20
 title-seo: LYFT Melon
 descr: "LYFT Melon\nLYFT Melon полна сюрпризов! Тропический вкус с заманчивым сочетанием
   прекрасной сладкой дыни и освежающего огурца. Если вы ищете незабываемый вкус, то
@@ -12,13 +12,14 @@ descr: "LYFT Melon\nLYFT Melon полна сюрпризов! Тропическ
   \ банки\nПорций 24 \nКрепость 18"
 product-name: LYFT Melon
 nicotine: 18
-portions: 24
+portions: 20
 gram: 17
 price: 3000
 brand: Lyft
 sale: new-snus
 taste: Дыня
 image: "/uploads/2-6c4fa8.png"
+has_availability: true
 ---
 
 LYFT Melon

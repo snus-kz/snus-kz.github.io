@@ -1,7 +1,7 @@
 ---
 title: Iceberg Gummy Bears
 date: 2022-05-16 07:13:00 Z
-position: 19
+position: 310
 title-seo: Iceberg Gummy Bears
 descr: "Снюс Iceberg Gummy Bears со вкусом мармеладных мишек. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25
@@ -14,6 +14,7 @@ price: 3000
 brand: Russian products
 taste: Мармеладные мишки
 image: "/uploads/8-2c48f7.png"
+has_availability: false
 ---
 
 Снюс Iceberg Gummy Bears со вкусом мармеладных мишек. Заявленная крепость 150 мг никотина. В банке 20 порций. 

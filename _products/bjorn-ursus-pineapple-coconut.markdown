@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Pineapple Coconut
 date: 2022-02-23 06:04:00 Z
-position: 204
+position: 152
 title-seo: Bjorn URSUS Pineapple Coconut
 descr: 'Электронная сигарета Bjorn URSUS Pineapple Coconut  -- вкусный и менее вредный
   аналог сигаретам Bjorn URSUS Pineapple Coconut - насыщенный вкус фруктов сделают
@@ -13,10 +13,11 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Ананас Кокос
 image: "/uploads/6-adc615.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Pineapple Coconut  -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Pineapple Coconut - насыщенный вкус фруктов сделают каждую затяжку сочной!

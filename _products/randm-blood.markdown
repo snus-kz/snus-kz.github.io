@@ -1,7 +1,7 @@
 ---
 title: RANDM Blood
 date: 2022-02-14 16:00:00 Z
-position: 202
+position: 173
 title-seo: RANDM Blood
 descr: |-
   Снюс Рик и морти со вкусом Граната ( RANDM Blood )
@@ -15,10 +15,11 @@ product-name: RANDM Blood
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Гранат
 image: "/uploads/randm%20blood.png"
+has_availability: true
 ---
 
 Снюс Рик и морти со вкусом Граната ( RANDM Blood )

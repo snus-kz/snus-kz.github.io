@@ -1,7 +1,7 @@
 ---
 title: Kasta - Monkey King
 date: 2022-06-10 19:29:00 Z
-position: 48
+position: 146
 title-seo: Kasta - Monkey King
 descr: |-
   Снюс Kasta Dazzle - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -9,7 +9,7 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta - Monkey King
-nicotine: 105
+nicotine: 120
 portions: 20
 gram: 20
 price: 3000

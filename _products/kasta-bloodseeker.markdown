@@ -1,7 +1,7 @@
 ---
 title: Kasta - Bloodseeker
 date: 2022-06-10 19:37:00 Z
-position: 55
+position: 149
 title-seo: Kasta - Bloodseeker
 descr: |-
   Снюс Kasta Bloodseeker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -9,7 +9,7 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta - Bloodseeker
-nicotine: 105
+nicotine: 120
 portions: 20
 gram: 20
 price: 3000

@@ -1,7 +1,7 @@
 ---
 title: Kasta Штамм Бабл Гам
 date: 2022-03-12 06:26:00 Z
-position: 337
+position: 109
 title-seo: Kasta Штамм Бабл Гам
 descr: |-
   Снюс Kasta Штамм Бабл Гам - это порционная супер крепкая бестабачная жевательная смесь со вкусом жвачки.
@@ -11,12 +11,12 @@ descr: |-
 product-name: Kasta Штамм Бабл Гам
 nicotine: 105
 portions: 20
-price: 2800
+price: 3000
 brand: Russian products
 sale: best-snus
 taste: Жвачка
 image: "/uploads/5-593c67.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Штамм Бабл Гам - это порционная супер крепкая бестабачная жевательная смесь со вкусом жвачки.

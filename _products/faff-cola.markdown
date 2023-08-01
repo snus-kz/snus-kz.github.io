@@ -1,7 +1,7 @@
 ---
 title: FAFF Cola
 date: 2022-02-12 10:32:00 Z
-position: 212
+position: 319
 title-seo: FAFF Cola
 descr: 'FAFF Cola — новинка в линейке всеми известного производителя FAFF, это приятный
   вкус колы, вместе с которым вы сможете ощутить сильный никотиновый удар, который
@@ -10,10 +10,11 @@ product-name: FAFF Cola
 nicotine: 75
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Кола
 image: "/uploads/2-2b5871.png"
+has_availability: false
 ---
 
 FAFF Cola — новинка в линейке всеми известного производителя FAFF, это приятный вкус колы, вместе с которым вы сможете ощутить сильный никотиновый удар, который вы сможете получить благодаря высокому содержанию никотина в 75 мг. 

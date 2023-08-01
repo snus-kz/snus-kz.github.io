@@ -1,7 +1,7 @@
 ---
 title: KILLA X COLD MINT XXL
 date: 2022-09-24 17:08:00 Z
-position: 4
+position: 309
 title-seo: KILLA X COLD MINT XXL
 descr: "Крайне важно в современном мире иметь право выбора, что мы и предлагаем.\nЛинейка
   товаров KILLA разделена на несколько категорий, где каждый найдёт вкус для себя:\n\n
@@ -14,11 +14,12 @@ descr: "Крайне важно в современном мире иметь п
   50 мг/ 1 г\nпорций в одной пачки 20. вес 16г"
 product-name: KILLA X COLD MINT XXL
 nicotine: 16
-portions: 20
+portions: 30
 gram: 16
 price: 3200
 brand: Other brands
 image: "/uploads/2-49067d.png"
+has_availability: false
 ---
 
 Крайне важно в современном мире иметь право выбора, что мы и предлагаем.

@@ -1,7 +1,7 @@
 ---
 title: Red Original
 date: 2022-01-28 20:10:00 Z
-position: 75
+position: 9
 title-seo: Red Original
 descr: |-
   Снюс Red Original  - новое слово среди вкусовых бестабачных линеек.
@@ -12,7 +12,9 @@ product-name: Red Original
 nicotine: 60
 portions: 20
 price: 2800
+new-price: 2300
 brand: Other brands
+sale: sale
 image: "/uploads/red.png"
 has_availability: true
 ---

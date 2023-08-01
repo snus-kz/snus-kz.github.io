@@ -1,7 +1,7 @@
 ---
 title: Bjorn URSUS Cola Ice
 date: 2021-11-22 04:07:00 Z
-position: 259
+position: 148
 title-seo: Bjorn URSUS Cola Ice
 descr: 'Электронная сигарета Bjorn URSUS Cola Ice -- вкусный и менее вредный аналог
   сигаретам Bjorn URSUS Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую
@@ -13,10 +13,11 @@ nicotine: "-"
 portions: "-"
 gram: "-"
 price: 5000
+new-price: 2300
 brand: VAPE KIT и электронные сигареты
 taste: Кола
 image: "/uploads/cola-f7ff74.png"
-has_availability: false
+has_availability: true
 ---
 
 Электронная сигарета Bjorn URSUS Cola Ice -- вкусный и менее вредный аналог сигаретам Bjorn URSUS Cola Ice / Холодная Кола - насыщенный вкус колы сделают каждую затяжку сочной!

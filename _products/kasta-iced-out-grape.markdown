@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Grape
 date: 2022-09-02 12:54:00 Z
-position: 37
+position: 328
 title-seo: Kasta Iced Out Grape
 descr: |-
   Снюс Kasta Iced Out Grape -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -20,6 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Виноград
 image: "/uploads/5-7535bc.png"
+has_availability: false
 ---
 
 Снюс Kasta Iced Out Grape -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

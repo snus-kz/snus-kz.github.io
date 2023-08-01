@@ -1,7 +1,7 @@
 ---
 title: Kasta - Shadow Fiend
 date: 2022-06-10 19:38:00 Z
-position: 50
+position: 147
 title-seo: Kasta - Shadow Fiend
 descr: |-
   Снюс Kasta - Shadow Fiend - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -9,7 +9,7 @@ descr: |-
   Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.
   Снюс Kasta полностью сертифицирован и максимально безвреден для потребления.
 product-name: Kasta - Shadow Fiend
-nicotine: 105
+nicotine: 120
 portions: 20
 gram: 20
 price: 3000

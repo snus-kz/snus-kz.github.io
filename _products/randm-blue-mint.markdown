@@ -1,7 +1,7 @@
 ---
 title: RANDM BLUE MINT
 date: 2022-02-15 04:48:00 Z
-position: 342
+position: 290
 title-seo: RANDM BLUE MINT
 descr: 'RANDM BLUE MINT — бестабачный снюс со вкусом черники и мяты.  Снюс рик и морти
   с насыщенным чернично-мятным вкусом отлично подойдёт для опытных пользователей.
@@ -10,7 +10,7 @@ product-name: RANDM BLUE MINT
 nicotine: 150
 portions: 30
 gram: 15
-price: 2800
+price: 3000
 brand: Russian products
 taste: Черника и мята
 image: "/uploads/19.png"
