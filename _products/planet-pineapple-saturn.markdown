@@ -5,7 +5,7 @@ position: 3
 title-seo: Planet Pineapple Saturn
 descr: Planet Pineapple Saturn - cнюс крепостью 30 мг/г. Со вкусом свежого Лайма.
 product-name: Planet Pineapple Saturn
-nicotine: 30
+nicotine: 150
 portions: 20
 gram: 20
 price: 3000
