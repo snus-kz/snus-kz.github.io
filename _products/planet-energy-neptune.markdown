@@ -5,7 +5,7 @@ position: 2
 title-seo: Planet Energy Neptune
 descr: Planet Lemon Venus - cнюс крепостью 30 мг/г. Со вкусом свежого Энергетика.
 product-name: Planet Energy Neptune
-nicotine: 30
+nicotine: 50
 portions: 20
 gram: 20
 price: 3000
