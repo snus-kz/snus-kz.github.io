@@ -5,7 +5,7 @@ position: 1
 title-seo: Planet Tropical Sun
 descr: Planet Tropical Sun - cнюс крепостью 30 мг/г. Со вкусом свежого Лайма.
 product-name: Planet Tropical Sun
-nicotine: 30
+nicotine: 150
 portions: 20
 gram: 20
 price: 3000
