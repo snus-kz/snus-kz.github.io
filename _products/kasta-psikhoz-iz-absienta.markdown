@@ -1,7 +1,7 @@
 ---
 title: KASTA Психоз из абсента
 date: 2021-10-26 08:09:00 Z
-position: 33
+position: 336
 title-seo: KASTA Психоз из абсента- купить в Казахстане
 descr: KASTA Психоз из абсента
 product-name: KASTA Психоз из абсента
@@ -12,7 +12,7 @@ price: 3000
 brand: Russian products
 taste: Абсент
 image: "/uploads/kasta%20absent.jpg"
-has_availability: true
+has_availability: false
 ---
 
 KASTA Психоз из абсента

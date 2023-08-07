@@ -1,7 +1,7 @@
 ---
 title: LYFT Cool Air X-Strong
 date: 2023-01-10 09:15:00 Z
-position: 291
+position: 297
 title-seo: 'LYFT Cool Air X-Strong '
 descr: "LYFT Cool Air X-Strong \nКрепкий снюс со вкусом мяты"
 product-name: 'LYFT Cool Air X-Strong '
