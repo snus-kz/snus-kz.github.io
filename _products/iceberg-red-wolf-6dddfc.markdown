@@ -1,7 +1,7 @@
 ---
 title: Iceberg Red Wolf
 date: 2022-05-16 07:44:00 Z
-position: 236
+position: 231
 title-seo: Iceberg Red Wolf
 descr: "Снюс Iceberg Red Wolf со вкусом барбариса. Заявленная крепость 150 мг никотина.
   В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов с крепостью
