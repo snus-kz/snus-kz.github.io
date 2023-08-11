@@ -1,7 +1,7 @@
 ---
 title: Fedrs Double Mint Hard
 date: 2022-01-28 19:55:00 Z
-position: 146
+position: 147
 title-seo: Fedrs Double Mint Hard
 descr: |-
   Снюс Fedrs Double Mint Hard  - новое слово среди вкусовых бестабачных линеек.
