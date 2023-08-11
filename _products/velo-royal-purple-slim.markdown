@@ -1,7 +1,7 @@
 ---
 title: VELO Royal Purple Slim
 date: 2023-06-10 08:00:00 Z
-position: 24
+position: 23
 title-seo: VELO Royal Purple Slim
 descr: |
   VELO Royal Purple Slim - это  новинка от одного из ведущих производителей снюса.

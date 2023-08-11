@@ -1,7 +1,7 @@
 ---
 title: Kasta Мандарин
 date: 2022-08-31 07:07:00 Z
-position: 304
+position: 303
 title-seo: Kasta Мандарин
 descr: |-
   Снюс Kasta Мандарин - это порционная супер крепкая бестабачная жевательная смесь со вкусом мандарина.
@@ -15,6 +15,7 @@ gram: 20
 price: 3000
 brand: Russian products
 image: "/uploads/%D0%BA%D0%B0%D1%81%D1%82%D0%B0%20%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D0%BD.png"
+has_availability: false
 ---
 
 Снюс Kasta Мандарин - это порционная супер крепкая бестабачная жевательная смесь со вкусом мандарина.
