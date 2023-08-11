@@ -20,6 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Яблоко
 image: "/uploads/2-9f8b4c.png"
+has_availability: false
 ---
 
 Снюс Kasta Iced Out Apple -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

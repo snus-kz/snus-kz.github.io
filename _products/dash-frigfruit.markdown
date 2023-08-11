@@ -13,7 +13,7 @@ new-price: 2300
 brand: Russian products
 sale: sale
 image: "/uploads/8-0ebd04.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Dash Frigfruit – это бестабачная жевательная смесь. Высокая крепость 105 мг. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.

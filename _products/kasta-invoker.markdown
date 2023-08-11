@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/1-ed1c37.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Invoker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

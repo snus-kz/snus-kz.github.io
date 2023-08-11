@@ -13,7 +13,7 @@ price: 3000
 brand: Russian products
 taste: Кокос
 image: "/uploads/3-44dbd4.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс iceberg со вкусом кокоса. Заявленная крепость 150 мг никотина. В банке 20-25 порций. В линейке iceberg представлено более 25 вкусов с крепостью от 20 мг до 150 мг

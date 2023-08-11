@@ -20,6 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Барбарис
 image: "/uploads/3-1b6cae.png"
+has_availability: false
 ---
 
 Снюс Kasta Iced Out Barberry -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

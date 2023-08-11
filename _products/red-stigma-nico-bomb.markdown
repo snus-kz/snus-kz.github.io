@@ -15,6 +15,7 @@ new-price: 2300
 brand: Russian products
 sale: sale
 image: "/uploads/5-a200b5.png"
+has_availability: false
 ---
 
 Снюс Red Stigma Nico Bomb - в новом дизайне. Бестабачный продукт на растительной основе с никотином высокой степени очистки (99,99%), аналог шведского снюса SIBERIA и ODENS.
