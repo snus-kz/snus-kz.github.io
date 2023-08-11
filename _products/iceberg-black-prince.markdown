@@ -15,7 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Клубника
 image: "/uploads/9-934d2f.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Iceberg Black Prince со вкусом клубники. Заявленная крепость 150 мг никотина. В банке 20 порций. 

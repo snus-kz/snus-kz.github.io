@@ -15,7 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Йогурт
 image: "/uploads/15-87b528.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Iceberg Yami со вкусом мармеладных йогурта. Заявленная крепость 150 мг никотина. В банке 20 порций. 

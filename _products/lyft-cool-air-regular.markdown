@@ -11,7 +11,7 @@ price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/3-061278.png"
-has_availability: false
+has_availability: true
 ---
 
 LYFT Cool Air Regular 

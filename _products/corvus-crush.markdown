@@ -25,7 +25,7 @@ brand: Russian products
 sale: new-snus
 taste: табак
 image: "/uploads/corvus%20crush.png"
-has_availability: false
+has_availability: true
 ---
 
 CORVUS CRUSH
