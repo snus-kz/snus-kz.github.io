@@ -1,7 +1,7 @@
 ---
 title: Kasta Puck
 date: 2022-10-20 16:20:00 Z
-position: 321
+position: 14
 title-seo: Kasta Puck
 descr: |-
   Снюс Kasta Puck - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/3-4d33ba.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Puck - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

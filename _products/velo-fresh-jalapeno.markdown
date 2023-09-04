@@ -1,7 +1,7 @@
 ---
 title: VELO Fresh Jalapeno
 date: 2023-06-10 07:53:00 Z
-position: 329
+position: 24
 title-seo: VELO Fresh Jalapeno
 descr: |
   VELO Fresh Jalapeno - это необычная новинка от одного из ведущих производителей снюса.
@@ -15,7 +15,7 @@ brand: Other brands
 sale: new-snus
 taste: мята и халапеньо
 image: "/uploads/1-c9e062.png"
-has_availability: false
+has_availability: true
 ---
 
 VELO Fresh Jalapeno - это необычная новинка от одного из ведущих производителей снюса.

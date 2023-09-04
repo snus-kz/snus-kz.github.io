@@ -1,7 +1,7 @@
 ---
 title: Iceberg Black Prince
 date: 2022-05-16 07:17:00 Z
-position: 303
+position: 8
 title-seo: Iceberg Black Prince
 descr: "Снюс Iceberg Black Prince со вкусом клубники. Заявленная крепость 150 мг никотина.
   В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов с крепостью
@@ -15,7 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Клубника
 image: "/uploads/9-934d2f.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Iceberg Black Prince со вкусом клубники. Заявленная крепость 150 мг никотина. В банке 20 порций. 

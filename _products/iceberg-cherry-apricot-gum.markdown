@@ -1,7 +1,7 @@
 ---
 title: Iceberg Cherry Apricot Gum
 date: 2022-09-16 05:14:00 Z
-position: 189
+position: 309
 title-seo: Iceberg Cherry Apricot Gum
 descr: "Снюс Iceberg CHERRY APRICOT GUM Gum  со вкусом Вишни. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25
@@ -14,6 +14,7 @@ price: 3000
 brand: Russian products
 taste: Вишня
 image: "/uploads/5-5cb36a.png"
+has_availability: false
 ---
 
 Снюс Iceberg CHERRY APRICOT GUM Gum  со вкусом Вишни. Заявленная крепость 150 мг никотина. В банке 20 порций. 

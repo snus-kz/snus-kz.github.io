@@ -1,7 +1,7 @@
 ---
 title: Arqa Schweppes
 date: 2020-11-26 16:24:00 Z
-position: 285
+position: 2
 title-seo: Arqa Schweppes - купить в Казахстане
 descr: Arqa Schweppes
 product-name: Arqa Schweppes
@@ -14,7 +14,7 @@ strong: Крепкий
 sale: new-snus
 taste: Швепс
 image: "/uploads/schwe.png"
-has_availability: false
+has_availability: true
 ---
 
 **ARQA Schweppes** — жевательная смесь со вкусом швепс . Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия

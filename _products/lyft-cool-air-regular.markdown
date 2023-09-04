@@ -1,7 +1,7 @@
 ---
 title: LYFT Cool Air Regular
 date: 2023-01-10 08:53:00 Z
-position: 302
+position: 7
 title-seo: 'LYFT Cool Air Regular '
 descr: "LYFT Cool Air Regular \n\nСредней крепости снюс со вкусом мяты"
 product-name: 'LYFT Cool Air Regular '
@@ -11,7 +11,7 @@ price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/3-061278.png"
-has_availability: false
+has_availability: true
 ---
 
 LYFT Cool Air Regular 

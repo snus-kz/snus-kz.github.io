@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Dry
 date: 2021-09-02 14:52:00 Z
-position: 286
+position: 3
 title-seo: Arqa Cold Dry - купить в Казахстане
 descr: Arqa Cold Dry - купить в Казахстане со вкусом перечной мяты
 product-name: Arqa Cold Dry
@@ -13,7 +13,7 @@ brand: Russian products
 strong: Средней крепости
 taste: Перечная мята
 image: "/uploads/cold%20dry.png"
-has_availability: false
+has_availability: true
 ---
 
 ARQA жевательная смесь со вкусом перечная мята. Порционность: 20 порций Никотин: 70 мг/г Вес пакетика: 1 г Состав: пищевая добавка E460, никотин, E1520, соль, ароматизатор. Производитель: ИП Голубков Смоленск Россия

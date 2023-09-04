@@ -1,7 +1,7 @@
 ---
 title: Planet Pineapple Saturn
 date: 2023-08-01 14:24:00 Z
-position: 3
+position: 30
 title-seo: Planet Pineapple Saturn
 descr: Planet Pineapple Saturn - cнюс крепостью 30 мг/г. Со вкусом свежого Лайма.
 product-name: Planet Pineapple Saturn

@@ -1,7 +1,7 @@
 ---
 title: Arqa Cherry Strawberry
 date: 2023-01-07 20:35:00 Z
-position: 324
+position: 19
 title-seo: Arqa Cherry Strawberry
 descr: Снюс Arqa Cherry Strawberry - умеренное сочетание черной вишни с клубникой  .
   Высокая крепость 70 мг подарит максимальное расслабление с приятным опьяняющим эффектом
@@ -15,7 +15,7 @@ brand: Russian products
 sale: new-snus
 taste: Клубника-Вишня
 image: "/uploads/6-7dc8e0.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Arqa Cherry Strawberry - умеренное сочетание черной вишни с клубникой  . Высокая крепость 70 мг подарит максимальное расслабление с приятным опьяняющим эффектом от никотина. Продукт считается аналогом шведского снюса, не содержит табака и делается на основе целлюлозы, с использованием особенных добавок.

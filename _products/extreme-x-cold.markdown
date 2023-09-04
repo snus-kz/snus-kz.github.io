@@ -1,7 +1,7 @@
 ---
 title: EXTREME X COLD
 date: 2021-06-14 13:35:00 Z
-position: 335
+position: 26
 title-seo: EXTREME X COLD - купить в Казахстане
 descr: 'EXTREME X COLD - купить в Казахстане '
 product-name: EXTREME X COLD
@@ -14,7 +14,7 @@ strong: Крепкий
 sale: sale
 taste: Ментол
 image: "/uploads/3.png"
-has_availability: false
+has_availability: true
 Key: EXTREME X COLD
 ---
 

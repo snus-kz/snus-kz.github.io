@@ -1,7 +1,7 @@
 ---
 title: VELO Winter Chill X-Strong Slim
 date: 2023-01-10 09:18:00 Z
-position: 59
+position: 307
 title-seo: VELO Winter Chill X-Strong Slim
 descr: |-
   VELO Winter Chill X-Strong Slim
@@ -26,7 +26,7 @@ price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/7-88e97c.png"
-has_availability: true
+has_availability: false
 ---
 
 VELO Winter Chill X-Strong Slim

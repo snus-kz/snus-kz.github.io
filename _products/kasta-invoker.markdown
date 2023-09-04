@@ -1,7 +1,7 @@
 ---
 title: Kasta Invoker
 date: 2022-10-20 16:10:00 Z
-position: 62
+position: 306
 title-seo: Kasta Invoker
 descr: |-
   Снюс Kasta Invoker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 image: "/uploads/1-ed1c37.png"
-has_availability: true
+has_availability: false
 ---
 
 Снюс Kasta Invoker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

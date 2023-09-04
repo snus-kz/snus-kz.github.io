@@ -1,7 +1,7 @@
 ---
 title: CORVUS Crush
 date: 2023-01-28 19:52:00 Z
-position: 326
+position: 18
 title-seo: CORVUS Crush
 descr: |-
   CORVUS CRUSH
@@ -25,7 +25,7 @@ brand: Russian products
 sale: new-snus
 taste: табак
 image: "/uploads/corvus%20crush.png"
-has_availability: false
+has_availability: true
 ---
 
 CORVUS CRUSH
