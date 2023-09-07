@@ -1,15 +1,16 @@
 ---
-title: Fedrs Cheer and Up Refresh Forestberry Ice hard
+title: Forestberry Ice hard
 date: 2023-04-20 14:56:00 Z
 position: 105
-title-seo: Fedrs Cheer and Up Refresh Forestberry Ice hard
+title-seo: Forestberry Ice hard
 descr: Снюс Fedrs Cheer and Up Refresh - новое слово среди вкусовых бестабачных линеек.
   Теперь они приятны не только на запах, но и на вкус. Основа продукта-микрокристаллическая
   целлюлоза из хлопка (имеет самые высокие показатели полимеризации и сохраняют влагу
   в несколько раз лучше, чем древесные аналоги). В удобных слим никпаках.
-product-name: Fedrs Cheer and Up Refresh Forestberry Ice hard
+product-name: Forestberry Ice hard
 nicotine: 55
 portions: 20
+gram: 13
 price: 2800
 brand: Other brands
 sale: new-snus
