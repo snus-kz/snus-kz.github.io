@@ -12,7 +12,7 @@ nicotine: 20
 portions: 20
 gram: 14
 price: 3500
-brand: Other brands
+brand: Lyft
 sale: new-snus
 image: "/uploads/1-ef2d28.png"
 ---
