@@ -11,7 +11,7 @@ gram: 16
 price: 3200
 brand: Other brands
 strong: Крепкий
-sale: sale
+sale: new-snus
 taste: Ментол
 image: "/uploads/3.png"
 has_availability: true
