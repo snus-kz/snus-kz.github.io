@@ -7,7 +7,7 @@ descr: VELO Freeze - купить в Казахстане ,хорошая цен
 product-name: VELO Freeze
 nicotine: 16
 portions: 24
-gram: 16
+gram: 16.8
 price: 3500
 brand: Lyft
 strong: Легкий
