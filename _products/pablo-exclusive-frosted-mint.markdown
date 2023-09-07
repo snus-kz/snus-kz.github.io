@@ -1,5 +1,5 @@
 ---
-title: Pablo Exclusive Frosted Mint
+title: PABLO Exclusive Frosted Mint
 date: 2022-10-24 08:35:00 Z
 position: 56
 title-seo: Pablo Exclusive Frosted Mint
@@ -19,14 +19,14 @@ image: "/uploads/2-7c3088.png"
 has_availability: true
 ---
 
-Pablo Exclusive Frosted Ice — это никотиновые пакетики с содержанием никотина 50 мг/г. Пакетики обладают ледяным эффектом.
+PABLO Exclusive Frosted Mint — это никотиновые пакетики с содержанием никотина 50 мг/г. Пакетики имеют вкус: Мята. Который очень свежий благодаря ледяной части.
 
 
 
 Описание продукта
-Что характеризует PABLO Exclusive Frosted Ice?
+Что характеризует PABLO Exclusive Frosted Mint?
 
-Pablo Exclusive Frosted Ice — это никотиновый пакетик с эффектом ледяной заморозки. Никотиновые пакетики Pablo Exclusive Frosted Ice имеют содержание никотина 50 мг/г.
+Pablo Exclusive Frosted Mint — это пакетик никотина с содержанием никотина 50 мг/г. Прохладный эффект новых пакетиков подчеркивает аромат мяты.
 
 Пакетики Pablo в основном используются опытными потребителями снюса и никотиновых пакетиков. Мы не рекомендуем эту дозировку начинающим пользователям никотиновых пакетиков.
 
