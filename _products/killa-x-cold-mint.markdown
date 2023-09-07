@@ -2,9 +2,9 @@
 title: KILLA Cold Mint
 date: 2021-07-12 16:50:00 Z
 position: 106
-title-seo: KILLA X COLD MINT - купить  в Казахстане
-descr: KILLA X COLD MINT  - один из лучших  продуктов Дании
-product-name: KILLA X COLD MINT
+title-seo: KILLA Cold Mint - купить  в Казахстане
+descr: KILLA Cold Mint  - один из лучших  продуктов Дании
+product-name: KILLA Cold Mint
 nicotine: 16
 portions: 20
 gram: 16
