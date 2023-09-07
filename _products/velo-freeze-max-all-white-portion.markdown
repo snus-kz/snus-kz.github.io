@@ -11,8 +11,8 @@ descr: "VELO Freeze MAX All White Portion — идеальный снюс для
   простоту использования и незаметное использование в любой ситуации.\n"
 product-name: VELO Freeze MAX All White Portion
 nicotine: 17
-portions: 20
-gram: 14
+portions: 24
+gram: 16.8
 price: 3500
 brand: Lyft
 sale: new-snus
