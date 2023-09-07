@@ -9,9 +9,10 @@ descr: Испытайте всю мощь Cool Storm X-Strong. Словно хо
   чувствами и откиньтесь на спинку кресла.
 product-name: VELO Cool Storm X-Strong
 nicotine: 15
-portions: 20
+portions: 24
+gram: 16.8
 price: 3500
-brand: Other brands
+brand: Lyft
 sale: new-snus
 image: "/uploads/2-a407f7.png"
 ---
