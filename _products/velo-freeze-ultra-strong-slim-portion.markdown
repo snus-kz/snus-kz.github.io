@@ -1,7 +1,7 @@
 ---
 title: VELO Freeze Ultra Strong Slim Portion
 date: 2023-02-05 22:02:00 Z
-position: 135
+position: 137
 title-seo: VELO Freeze Ultra Strong Slim Portion
 descr: VELO Freeze Ultra Strong Slim Portion — снюс, который дает вам свежий и сбалансированный
   вкус с оттенками перечной мяты и ментола. Перечный вкус держит вас в тонусе весь
@@ -12,7 +12,7 @@ nicotine: 20
 portions: 20
 gram: 14
 price: 3500
-brand: Other brands
+brand: Lyft
 sale: new-snus
 image: "/uploads/1-ef2d28.png"
 ---

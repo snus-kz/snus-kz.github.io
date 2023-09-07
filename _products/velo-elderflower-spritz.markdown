@@ -1,6 +1,7 @@
 ---
 title: VELO Elderflower Spritz
 date: 2023-09-04 10:25:00 Z
+position: 1
 title-seo: 'VELO Elderflower Spritz '
 descr: |+
   О VELO Elderflower Spritz Slim All White
@@ -10,8 +11,8 @@ descr: |+
 
 product-name: 'VELO Elderflower Spritz '
 nicotine: 10
-portions: 20
-gram: 20
+portions: 24
+gram: 16.8
 price: 3500
 new-price: 2800
 brand: Other brands

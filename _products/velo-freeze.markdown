@@ -1,13 +1,13 @@
 ---
 title: VELO Freeze
 date: 2021-08-17 10:43:00 Z
-position: 231
+position: 232
 title-seo: VELO Freeze- купить в Казахстан
 descr: VELO Freeze - купить в Казахстане ,хорошая цена
 product-name: VELO Freeze
 nicotine: 16
 portions: 24
-gram: 16
+gram: 16.8
 price: 3500
 brand: Lyft
 strong: Легкий

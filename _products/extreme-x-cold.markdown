@@ -1,7 +1,7 @@
 ---
 title: EXTREME X COLD
 date: 2021-06-14 13:35:00 Z
-position: 26
+position: 28
 title-seo: EXTREME X COLD - купить в Казахстане
 descr: 'EXTREME X COLD - купить в Казахстане '
 product-name: EXTREME X COLD
@@ -11,7 +11,7 @@ gram: 16
 price: 3200
 brand: Other brands
 strong: Крепкий
-sale: sale
+sale: new-snus
 taste: Ментол
 image: "/uploads/3.png"
 has_availability: true

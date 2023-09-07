@@ -1,7 +1,7 @@
 ---
 title: Iceberg Bubble Gum
 date: 2022-05-16 07:20:00 Z
-position: 194
+position: 195
 title-seo: Iceberg Bubble Gum
 descr: "Снюс Iceberg Bubble Gum со вкусом жвачки. Заявленная крепость 150 мг никотина.
   В банке 20 порций. \n\nВ линейке iceberg представлено более 25 вкусов с крепостью

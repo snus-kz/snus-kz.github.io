@@ -1,7 +1,7 @@
 ---
 title: Siberia -80 Degrees White Dry MINI
 date: 2021-07-17 08:34:00 Z
-position: 253
+position: 254
 title-seo: Siberia -80 Degrees White Dry MINI - купить в Казахстане
 descr: Siberia -80 Degrees White Dry MINI - купить слим сибирь мини ,легендарная новинка
   в мире табачного снюса
@@ -14,7 +14,7 @@ brand: Siberia
 strong: Крепкий
 taste: Мята
 image: "/uploads/WhatsApp%20Image%202021-10-25%20at%2012.53.43.jpeg"
-has_availability: false
+has_availability: true
 ---
 
 ## **Siberia -80 Degrees White Dry MINI**
