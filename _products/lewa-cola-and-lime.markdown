@@ -17,7 +17,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 taste: Кофе и Лайм
-image: "/uploads/1-eba07b.png"
+image: "/uploads/1-361f9c.png"
 ---
 
 LEWA Cola & Lime
