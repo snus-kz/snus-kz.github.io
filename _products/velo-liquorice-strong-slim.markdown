@@ -9,7 +9,7 @@ product-name: 'VELO Liquorice Strong Slim '
 nicotine: 14
 portions: 20
 price: 3500
-brand: Other brands
+brand: Lyft
 sale: new-snus
 taste: Ликёр
 image: "/uploads/2-e3b733.png"
