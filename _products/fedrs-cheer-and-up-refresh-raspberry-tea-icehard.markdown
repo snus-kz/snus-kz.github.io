@@ -1,20 +1,21 @@
 ---
-title: Fedrs Cheer and Up Refresh Raspberry Tea Icehard
+title: Raspberry Tea Icehard
 date: 2023-04-20 15:01:00 Z
 position: 106
-title-seo: Fedrs Cheer and Up Refresh Raspberry Tea Icehard
+title-seo: Raspberry Tea Icehard
 descr: Снюс Fedrs Cheer and Up Refresh Raspberry Tea Icehard - новое слово среди вкусовых
   бестабачных линеек. Теперь они приятны не только на запах, но и на вкус. Основа
   продукта-микрокристаллическая целлюлоза из хлопка (имеет самые высокие показатели
   полимеризации и сохраняют влагу в несколько раз лучше, чем древесные аналоги). В
   удобных слим никпаках.
-product-name: Fedrs Cheer and Up Refresh Raspberry Tea Icehard
+product-name: Raspberry Tea Icehard
 nicotine: 55
 portions: 20
+gram: 10
 price: 2800
 brand: Other brands
 sale: new-snus
-taste: малина и мята
+taste: малина и чай
 image: "/uploads/4-c6c4ed.png"
 ---
 
