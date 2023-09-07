@@ -12,7 +12,7 @@ nicotine: '15,6'
 portions: 20
 gram: 16
 price: 3500
-brand: Russian products
+brand: Lyft
 sale: new-snus
 taste: эвкалипт
 image: "/uploads/4-fd4393.png"
