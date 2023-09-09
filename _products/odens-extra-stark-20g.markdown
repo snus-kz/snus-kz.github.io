@@ -22,7 +22,7 @@ price: 3500
 brand: Odens
 sale: new-snus
 taste: табак
-image: "/uploads/10-3820d0.png"
+image: "/uploads/1-552382.png"
 ---
 
 Oden’s Extra Stark 20G

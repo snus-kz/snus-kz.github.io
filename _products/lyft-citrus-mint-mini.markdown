@@ -22,7 +22,7 @@ price: 3000
 brand: Lyft
 sale: new-snus
 taste: цитрус
-image: "/uploads/11-765e07.png"
+image: "/uploads/2-9c2d0f.png"
 ---
 
 LYFT Citrus Mint Mini
