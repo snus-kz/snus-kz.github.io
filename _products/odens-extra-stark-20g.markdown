@@ -24,7 +24,7 @@ brand: Odens
 sale: new-snus
 taste: табак
 image: "/uploads/1-552382.png"
-has_availability: false
+has_availability: true
 ---
 
 Oden’s Extra Stark 20G
