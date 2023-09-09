@@ -28,7 +28,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 taste: Банан
-image: "/uploads/8-1dd3c3.png"
+image: "/uploads/8-abe2a1.png"
 ---
 
 PABLO Exclusive Banana Ice
