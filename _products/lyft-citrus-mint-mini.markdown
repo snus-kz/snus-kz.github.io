@@ -1,6 +1,7 @@
 ---
 title: LYFT Citrus Mint Mini
 date: 2023-09-07 18:42:00 Z
+position: 335
 title-seo: 'LYFT Citrus Mint Mini
 
 '
@@ -23,6 +24,7 @@ brand: Lyft
 sale: new-snus
 taste: цитрус
 image: "/uploads/2-7060f1.png"
+has_availability: false
 ---
 
 LYFT Citrus Mint Mini

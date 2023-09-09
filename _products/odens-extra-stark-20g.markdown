@@ -1,6 +1,7 @@
 ---
 title: Oden’s Extra Stark 20G
 date: 2023-09-07 18:39:00 Z
+position: 0
 title-seo: 'Oden’s Extra Stark 20G
 
 '
@@ -23,6 +24,7 @@ brand: Odens
 sale: new-snus
 taste: табак
 image: "/uploads/1-552382.png"
+has_availability: true
 ---
 
 Oden’s Extra Stark 20G

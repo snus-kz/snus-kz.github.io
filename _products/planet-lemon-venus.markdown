@@ -1,7 +1,7 @@
 ---
 title: Planet Lemon Venus
 date: 2023-08-01 14:21:00 Z
-position: 29
+position: 49
 title-seo: Planet Lemon Venus
 descr: Planet Lemon Venus - cнюс крепостью 30 мг/г. Со вкусом свежого Лайма.
 product-name: Planet Lemon Venus

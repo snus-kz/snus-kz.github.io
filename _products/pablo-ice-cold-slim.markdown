@@ -1,7 +1,7 @@
 ---
 title: PABLO ICE COLD CHEWBAGS
 date: 2022-01-18 04:27:00 Z
-position: 147
+position: 167
 title-seo: PABLO ICE COLD CHEWBAGS
 descr: Pablo Ice Cold Slim - это качественная альтернатива табачному снюсу. Основой
   для бестабачной смеси Killa стал растительный носитель пропитанный никотином высочайшей
