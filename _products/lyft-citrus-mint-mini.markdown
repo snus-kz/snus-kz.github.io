@@ -23,6 +23,7 @@ brand: Lyft
 sale: new-snus
 taste: цитрус
 image: "/uploads/2-7060f1.png"
+has_availability: false
 ---
 
 LYFT Citrus Mint Mini
