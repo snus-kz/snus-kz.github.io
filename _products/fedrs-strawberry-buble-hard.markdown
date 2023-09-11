@@ -18,7 +18,7 @@ price: 3000
 brand: Other brands
 sale: new-snus
 taste: Ананас, Кокос
-image: "/uploads/1-5074a7.png"
+image: "/uploads/1-ce8977.png"
 ---
 
 Fedrs Strawberry Buble Hard
