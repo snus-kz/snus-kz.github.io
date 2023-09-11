@@ -13,7 +13,7 @@ product-name: 'Fedrs Pineapple Coconut Hard
 nicotine: 50
 portions: 20
 gram: 20
-price: 2800
+price: 3000
 brand: Other brands
 sale: new-snus
 taste: Ананас, Кокос
