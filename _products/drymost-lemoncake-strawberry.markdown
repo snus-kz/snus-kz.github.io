@@ -8,7 +8,7 @@ descr: "DryMost - LEMONCAKE STRAWBERRY \nDryMost - LEMONCAKE STRAWBERRY  -нов
   показатели полимеризации и сохраняют влагу в несколько раз лучше, чем древесные
   аналоги). В удобных слим никпаках.\n\n"
 product-name: "DryMost - LEMONCAKE STRAWBERRY \n"
-nicotine: 25
+nicotine: 150
 portions: 20
 gram: 16
 price: 3000

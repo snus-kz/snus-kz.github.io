@@ -12,7 +12,7 @@ descr: |+
 product-name: 'DryMost - PINEAPPLE JAM
 
 '
-nicotine: 25
+nicotine: 150
 portions: 16
 gram: 20
 price: 3000

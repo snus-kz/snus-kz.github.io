@@ -11,7 +11,7 @@ descr: |+
 product-name: 'DryMost - Green Mint
 
 '
-nicotine: 25
+nicotine: 150
 portions: 20
 gram: 16
 price: 3000
