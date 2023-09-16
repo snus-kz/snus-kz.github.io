@@ -19,6 +19,7 @@ brand: Russian products
 sale: new-snus
 taste: Арбузная Жвачка
 image: "/uploads/3-91dfd4.png"
+has_availability: true
 ---
 
 Fedrs Watermelon Bubble Hard
