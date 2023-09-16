@@ -1,7 +1,7 @@
 ---
 title: 10 истекший срок годности Случайных Шайб (Россия)
 date: 2023-09-15 13:51:00 Z
-position: 6
+position: 0
 title-seo: 10 Случайных Шайб (Россия)
 descr: "10 Случайных Шайб со снюсом Российского производства:\n\nNictech\nKasta \nIceberg\nARQA
   \nCorvus \nRed\nTony Snusano\nDash"
