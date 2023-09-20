@@ -1,7 +1,7 @@
 ---
 title: ZYN Slim Citrus
 date: 2023-09-07 18:30:00 Z
-position: 14
+position: 15
 title-seo: ZYN Slim Citrus
 descr: |-
   ZYN Slim CitrusZYN Slim Citrus освещает жизнь своим солнечным, полезным и восхитительным вкусом лимона, апельсинового сока и лайма. Полностью белые пакеты ZYN Slim мягкие, хорошо укомплектованы и имеют низкую скорость потока.
