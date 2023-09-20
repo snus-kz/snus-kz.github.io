@@ -1,7 +1,7 @@
 ---
 title: Raspberry Tea Icehard
 date: 2023-04-20 15:01:00 Z
-position: 142
+position: 141
 title-seo: Raspberry Tea Icehard
 descr: Raspberry Tea Icehard - новое слово среди вкусовых бестабачных линеек. Теперь
   они приятны не только на запах, но и на вкус. Основа продукта-микрокристаллическая
