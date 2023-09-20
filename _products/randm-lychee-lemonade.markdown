@@ -1,7 +1,7 @@
 ---
 title: RANDM LYCHEE LEMONADE
 date: 2022-02-14 16:12:00 Z
-position: 216
+position: 215
 title-seo: RANDM LYCHEE LEMONADE
 descr: "LYCHEE LEMONADE RANDM — это крепкий бестабачный снюс от производителя Faff.
   Крепость снюса составляет 150 миллиграмм никотина на 1 грамм продукта. Никпаки очень
