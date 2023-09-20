@@ -1,7 +1,7 @@
 ---
 title: Corona Mint Menthol
 date: 2023-03-30 18:41:00 Z
-position: 157
+position: 158
 title-seo: Corona Mint Menthol
 descr: Снюс Corona Mint Menthol — сухая порционная супер крепкая бестабачная белая
   жевательная смесь со вкусом мяты и ментола.
