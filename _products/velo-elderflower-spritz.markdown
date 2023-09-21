@@ -1,7 +1,7 @@
 ---
 title: VELO Elderflower Spritz
 date: 2023-09-04 10:25:00 Z
-position: 36
+position: 42
 title-seo: 'VELO Elderflower Spritz '
 descr: |+
   О VELO Elderflower Spritz Slim All White

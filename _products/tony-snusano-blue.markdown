@@ -1,7 +1,7 @@
 ---
 title: Tony Snusano - Blue
 date: 2023-07-09 19:01:00 Z
-position: 72
+position: 78
 title-seo: Tony Snusano - Blue
 descr: Tony Snusano - Blue - Насыщенный вкус мяты и ментола сочетается с высокой концентрацией
   никотина - 55мг, создавая действительно крепкий продукт для опытных пользователей.
