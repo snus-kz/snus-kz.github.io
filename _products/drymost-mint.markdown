@@ -1,7 +1,7 @@
 ---
 title: DryMost - MINT
 date: 2023-09-11 13:42:00 Z
-position: 14
+position: 19
 title-seo: DryMost - MINT
 descr: |+
   DryMost - MINT

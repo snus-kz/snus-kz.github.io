@@ -1,7 +1,7 @@
 ---
 title: PABLO Exclusive Frosted Ice
 date: 2023-09-09 10:52:00 Z
-position: 29
+position: 34
 title-seo: "PABLO Exclusive Frosted Ice \n"
 descr: "PABLO Exclusive Frosted Ice \n\nPablo Exclusive Frosted Ice — это никотиновые
   пакетики с содержанием никотина 50 мг/г. Пакетики обладают ледяным эффектом.\n\nОписание
