@@ -1,7 +1,7 @@
 ---
 title: Iceberg Watermelon Mint Gum
 date: 2022-09-15 07:53:00 Z
-position: 121
+position: 126
 title-seo: 'Iceberg Watermelon Mint Gum '
 descr: "Снюс Iceberg Watermelon Mint Gum  со вкусом Арбуза и Мяты. Заявленная крепость
   150 мг никотина. В банке 20 порций. \n\nВ линейке iceberg представлено более 25
