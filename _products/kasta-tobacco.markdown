@@ -1,7 +1,7 @@
 ---
 title: Kasta Tobacco
 date: 2022-12-04 08:00:00 Z
-position: 85
+position: 91
 title-seo: Kasta Tobacco
 descr: |-
   Снюс Kasta Tobacco - это порционная крепкая бестабачная жевательная смесь со вкусом настоящего табака.

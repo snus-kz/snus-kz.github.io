@@ -24,7 +24,7 @@ portions: 20
 gram: 20
 price: 3000
 brand: Russian products
-image: "/uploads/2-3c505e.png"
+image: "/uploads/1-db9536.png"
 ---
 
 Раскройте освежающую силу Iceberg Sweet Mint
