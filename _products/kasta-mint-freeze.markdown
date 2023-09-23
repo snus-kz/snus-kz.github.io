@@ -1,6 +1,7 @@
 ---
 title: Kasta - Mint Freeze
 date: 2023-09-21 17:41:00 Z
+position: 2
 title-seo: Kasta - Mint Freeze
 descr: |-
   Снюс Kasta Puck - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -14,7 +15,7 @@ gram: 20
 price: 3000
 brand: Russian products
 sale: new-snus
-image: "/uploads/6-3a5837.png"
+image: "/uploads/2-2e4268.png"
 ---
 
 Снюс Kasta Mint Freeze - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
