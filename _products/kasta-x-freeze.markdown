@@ -16,6 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Сладкая Мята
+image: "/uploads/1-482189.png"
 ---
 
 Снюс Kasta X - Freeze  - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
