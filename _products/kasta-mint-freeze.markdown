@@ -15,7 +15,7 @@ gram: 20
 price: 3000
 brand: Russian products
 sale: new-snus
-image: "/uploads/6-3a5837.png"
+image: "/uploads/2-ea80f6.png"
 ---
 
 Снюс Kasta Mint Freeze - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
