@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Клубника
-image: "/uploads/7-175220.png"
+image: "/uploads/7-04bb1a.png"
 ---
 
 Снюс Kasta 120mg Covid Сливочно клубничный вирус - Лимитированная Ковид Серия - это порционная супер крепкая бестабачная жевательная смесь.
