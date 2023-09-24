@@ -1,7 +1,7 @@
 ---
 title: KILLA Cold Mint
 date: 2021-07-12 16:50:00 Z
-position: 154
+position: 157
 title-seo: KILLA Cold Mint - купить  в Казахстане
 descr: KILLA Cold Mint  - один из лучших  продуктов Дании
 product-name: KILLA Cold Mint
