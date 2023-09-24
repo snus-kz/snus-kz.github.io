@@ -1,7 +1,7 @@
 ---
 title: VELO Fresh Jalapeno
 date: 2023-06-10 07:53:00 Z
-position: 75
+position: 88
 title-seo: VELO Fresh Jalapeno
 descr: |
   VELO Fresh Jalapeno - это необычная новинка от одного из ведущих производителей снюса.
