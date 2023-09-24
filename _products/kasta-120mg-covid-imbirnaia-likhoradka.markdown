@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: имбирь
-image: "/uploads/1-3de168.png"
+image: "/uploads/1-dc016b.png"
 ---
 
 Снюс Kasta 120mg - Covid-Имбирная Лихорадка - Лимитированная Ковид Серия - это порционная супер крепкая бестабачная жевательная смесь.
