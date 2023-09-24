@@ -1,7 +1,7 @@
 ---
 title: Fedrs Tropic breeze Bubble Hard
 date: 2023-04-20 15:00:00 Z
-position: 153
+position: 156
 title-seo: Fedrs Tropic breeze Bubble Hard
 descr: Снюс Fedrs Burst My Bubble Tropic Hard - новое слово среди вкусовых бестабачных
   линеек. Теперь они приятны не только на запах, но и на вкус. Основа продукта-микрокристаллическая

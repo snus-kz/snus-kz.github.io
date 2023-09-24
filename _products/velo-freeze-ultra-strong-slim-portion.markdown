@@ -1,7 +1,7 @@
 ---
 title: VELO Freeze Ultra Strong Slim Portion
 date: 2023-02-05 22:02:00 Z
-position: 183
+position: 186
 title-seo: VELO Freeze Ultra Strong Slim Portion
 descr: VELO Freeze Ultra Strong Slim Portion — снюс, который дает вам свежий и сбалансированный
   вкус с оттенками перечной мяты и ментола. Перечный вкус держит вас в тонусе весь
