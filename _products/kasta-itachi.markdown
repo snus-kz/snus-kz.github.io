@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Фанта с Мятой
-image: "/uploads/1-f5f2c3.png"
+image: "/uploads/1-b044bd.png"
 ---
 
 Снюс Kasta Itachi - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
