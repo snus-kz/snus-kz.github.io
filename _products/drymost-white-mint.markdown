@@ -1,7 +1,7 @@
 ---
 title: DryMost - WHITE MINT
 date: 2023-09-11 13:34:00 Z
-position: 17
+position: 20
 title-seo: 'DryMost - WHITE MINT
 
 '
