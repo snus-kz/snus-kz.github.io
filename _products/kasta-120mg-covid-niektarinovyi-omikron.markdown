@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Нектарин
-image: "/uploads/3-769a95.png"
+image: "/uploads/3-6c8d9e.png"
 ---
 
 Снюс Kasta 120mg Covid Нектариновый омикрон - Лимитированная Ковид Серия - это порционная супер крепкая бестабачная жевательная смесь.
