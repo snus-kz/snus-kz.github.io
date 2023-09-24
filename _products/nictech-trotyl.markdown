@@ -13,7 +13,7 @@ gram: 20
 price: 3000
 brand: Russian products
 sale: new-snus
-image: "/uploads/3-f79b66.png"
+image: "/uploads/3-ef9337.png"
 ---
 
 NICTECH Trotyl — самые крепкий в линейке, с максимально допустимым содержанием никотина для тех кому нужно максимально сильное никотиновое насыщение за минимальное время употребления.
