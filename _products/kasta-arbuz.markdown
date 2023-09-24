@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Арбуз
-image: "/uploads/6-59923a.png"
+image: "/uploads/6-b0acca.png"
 ---
 
 Снюс Kasta Арбуз - Лимитированная Фруктовая Серия - это порционная супер крепкая бестабачная жевательная смесь.
