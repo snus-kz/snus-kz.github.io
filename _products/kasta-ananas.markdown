@@ -14,7 +14,7 @@ gram: 20
 price: 3000
 brand: Russian products
 taste: Ананас
-image: "/uploads/7-661380.png"
+image: "/uploads/7-0e4789.png"
 ---
 
 Снюс Kasta Ананас - Лимитированная Фруктовая Серия - это порционная супер крепкая бестабачная жевательная смесь.

@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Фисташки
-image: "/uploads/2-0f584a.png"
+image: "/uploads/2-b9a456.png"
 ---
 
 Снюс Kasta 120mg Covid Фисташковый спутник - Лимитированная Ковид Серия - это порционная супер крепкая бестабачная жевательная смесь.
