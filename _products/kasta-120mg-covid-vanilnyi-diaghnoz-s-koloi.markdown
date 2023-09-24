@@ -15,7 +15,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Ванильная Колла
-image: "/uploads/9-267244.png"
+image: "/uploads/9-576c35.png"
 ---
 
 Снюс Kasta 120mg Covid -Ванильный диагноз с колой - Лимитированная Ковид Серия - это порционная супер крепкая бестабачная жевательная смесь.
