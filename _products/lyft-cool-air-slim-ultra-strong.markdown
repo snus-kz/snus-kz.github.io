@@ -14,7 +14,7 @@ product-name: 'LYFT Cool Air Slim Ultra Strong
 nicotine: 20
 portions: 20
 gram: 20
-price: 3000
+price: 3600
 brand: Lyft
 sale: new-snus
 image: "/uploads/10-cd4bd4.png"
