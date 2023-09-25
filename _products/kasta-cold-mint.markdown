@@ -1,7 +1,7 @@
 ---
 title: Kasta Cold Mint
 date: 2023-09-21 17:46:00 Z
-position: 21
+position: 24
 title-seo: Kasta Cold Mint
 descr: |-
   Снюс Kasta Cold Mint   - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

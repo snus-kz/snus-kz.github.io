@@ -1,7 +1,7 @@
 ---
 title: 'ZYN Mini Dry Cool Mint Extra Strong #4'
 date: 2023-09-07 18:33:00 Z
-position: 39
+position: 42
 title-seo: 'ZYN Mini Dry Cool Mint Extra Strong #4'
 descr: |-
   ZYN Mini Dry Cool Mint Extra Strong #4
