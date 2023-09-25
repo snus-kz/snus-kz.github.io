@@ -1,7 +1,7 @@
 ---
 title: Kasta Ice Cold - Danger Strong
 date: 2023-09-21 17:48:00 Z
-position: 22
+position: 25
 title-seo: Kasta Ice Cold - Danger Strong
 descr: |-
   Снюс Kasta Ice Cold - Danger Strong  - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
