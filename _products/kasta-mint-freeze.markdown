@@ -1,7 +1,7 @@
 ---
 title: Kasta - Mint Freeze
 date: 2023-09-21 17:41:00 Z
-position: 5
+position: 18
 title-seo: Kasta - Mint Freeze
 descr: |-
   Снюс Kasta Puck - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

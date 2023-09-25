@@ -1,7 +1,7 @@
 ---
 title: Kasta Itachi
 date: 2023-09-24 12:20:00 Z
-position: 2
+position: 15
 title-seo: Kasta Itachi
 descr: |-
   Снюс Kasta Itachi - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Фанта с Мятой
-image: "/uploads/1-b044bd.png"
+image: "/uploads/1-28cdbd.png"
 ---
 
 Снюс Kasta Itachi - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

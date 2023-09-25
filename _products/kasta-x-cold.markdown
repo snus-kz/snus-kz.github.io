@@ -1,7 +1,7 @@
 ---
 title: Kasta X - Cold
 date: 2023-09-21 17:45:00 Z
-position: 7
+position: 20
 title-seo: Kasta X - Cold
 descr: |-
   Снюс Kasta X - Cold   - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

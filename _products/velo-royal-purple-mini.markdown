@@ -1,7 +1,7 @@
 ---
 title: VELO Royal Purple Mini
 date: 2023-09-07 18:48:00 Z
-position: 21
+position: 34
 title-seo: 'VELO Royal Purple Mini
 
 '
