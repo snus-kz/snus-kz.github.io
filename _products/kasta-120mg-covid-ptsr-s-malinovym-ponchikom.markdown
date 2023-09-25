@@ -16,7 +16,7 @@ price: 3000
 brand: Russian products
 sale: new-snus
 taste: Малиновый Пончик
-image: "/uploads/4-141838.png"
+image: "/uploads/4-d527cb.png"
 ---
 
 Снюс Kasta 120mg Covid ПЦР с малиновым пончиком - Лимитированная Ковид Серия - это порционная супер крепкая бестабачная жевательная смесь.
