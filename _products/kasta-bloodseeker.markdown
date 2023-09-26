@@ -1,7 +1,7 @@
 ---
 title: Kasta - Bloodseeker
 date: 2022-06-10 19:37:00 Z
-position: 227
+position: 230
 title-seo: Kasta - Bloodseeker
 descr: |-
   Снюс Kasta Bloodseeker - Дота Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
