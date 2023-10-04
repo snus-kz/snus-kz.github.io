@@ -1,6 +1,8 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} nicokaz.com
-RewriteRule (.*) http://nico-kaz.com/$1 [R=301,L]
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^nicokaz.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.nico-kaz.com [NC]
+RewriteRule ^(.*)$ https://nico-kaz.com/$1 [L,R=301,NC]
+
 
 <ifModule mod_expires.c>
 
