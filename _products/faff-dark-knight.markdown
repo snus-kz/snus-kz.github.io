@@ -1,7 +1,7 @@
 ---
 title: Faff Dark Knight
 date: 2022-11-06 05:58:00 Z
-position: 10
+position: 12
 title-seo: Faff Dark Knight
 descr: 'Faff Dark Knight — это прекрасный аналог белого шведского снюса с крепостью
   в 11 мг и приятным вкусом колы. При его использовании вы вероятно сможете ощутить

@@ -1,7 +1,7 @@
 ---
 title: Vika Red
 date: 2022-05-21 06:23:00 Z
-position: 78
+position: 80
 title-seo: Vika Red
 descr: |-
   ОПИСАНИЕ
