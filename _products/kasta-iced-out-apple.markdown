@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Apple
 date: 2022-09-02 10:09:00 Z
-position: 379
+position: 11
 title-seo: Kasta Iced Out Apple
 descr: |-
   Снюс Kasta Iced Out Apple -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -20,7 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Яблоко
 image: "/uploads/2-9f8b4c.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Iced Out Apple -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
