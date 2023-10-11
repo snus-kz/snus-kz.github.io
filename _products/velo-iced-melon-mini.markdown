@@ -29,7 +29,7 @@ product-name: 'VELO Iced Melon Mini
 nicotine: 12
 portions: 24
 gram: '16,8'
-price: 3000
+price: 3500
 brand: Lyft
 sale: new-snus
 taste: Мята-Дыня
