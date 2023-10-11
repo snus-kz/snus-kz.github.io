@@ -1,7 +1,7 @@
 ---
 title: Kasta X - Freeze
 date: 2023-09-21 17:43:00 Z
-position: 23
+position: 26
 title-seo: Kasta X - Freeze
 descr: |-
   Снюс Kasta X - Freeze  - Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

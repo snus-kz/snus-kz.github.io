@@ -1,7 +1,7 @@
 ---
 title: Loop - Green Apple
 date: 2023-05-24 18:09:00 Z
-position: 137
+position: 141
 title-seo: Loop - Green Apple
 product-name: Loop - Green Apple
 nicotine: 20

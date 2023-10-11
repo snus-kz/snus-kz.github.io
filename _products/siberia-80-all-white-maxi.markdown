@@ -1,7 +1,7 @@
 ---
 title: Siberia -80 All White Maxi
 date: 2023-06-18 06:20:00 Z
-position: 116
+position: 120
 title-seo: Siberia -80 All White Maxi
 descr: Siberia -80 All White Maxi - очень крепкий снюс схорошо наполненными  паучами.
   Никотин составляет 33 мг/г, что делает его одним из самых сильных снюсов. Сибирь
