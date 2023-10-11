@@ -1,7 +1,7 @@
 ---
 title: 'ZYN Mini Dry Cool Mint Extra Strong #4'
 date: 2023-09-07 18:33:00 Z
-position: 42
+position: 57
 title-seo: 'ZYN Mini Dry Cool Mint Extra Strong #4'
 descr: |-
   ZYN Mini Dry Cool Mint Extra Strong #4
@@ -11,7 +11,7 @@ product-name: 'ZYN Mini Dry Cool Mint Extra Strong #4'
 nicotine: 8
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/8-9ed417.png"

@@ -1,7 +1,7 @@
 ---
 title: PABLO ICE COLD CHEWBAGS SLIM
 date: 2022-01-18 04:25:00 Z
-position: 182
+position: 2
 title-seo: PABLO ICE COLD CHEWBAGS SLIM
 descr: |-
   Pablo Ice Cold Chewbags Slim – это именно то, что нужно опытным парням и любителям сильных ощущений.
@@ -11,6 +11,7 @@ nicotine: 43
 portions: 20
 gram: 13
 price: 3200
+new-price: 2300
 brand: Russian products
 sale: sale
 taste: ICE COLD MINT

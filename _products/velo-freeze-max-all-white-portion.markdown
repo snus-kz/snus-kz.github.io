@@ -1,7 +1,7 @@
 ---
 title: VELO Freeze MAX All White Portion
 date: 2023-02-05 21:54:00 Z
-position: 201
+position: 214
 title-seo: VELO Freeze MAX All White Portion
 descr: "VELO Freeze MAX All White Portion — идеальный снюс для тех, кто хочет ощутить
   мощный ледяной вкус. Этот сильный снюс сделан из высококачесвтенного сырья и предлагает

@@ -1,7 +1,7 @@
 ---
 title: Jakobsson´s Strong Cola
 date: 2023-09-25 19:36:00 Z
-position: 3
+position: 18
 title-seo: 'Jakobsson´s Strong Cola
 
 '

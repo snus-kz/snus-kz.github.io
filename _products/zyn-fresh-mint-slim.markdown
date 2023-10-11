@@ -1,7 +1,7 @@
 ---
 title: Zyn Fresh Mint Slim
 date: 2023-09-07 18:17:00 Z
-position: 46
+position: 61
 title-seo: 'Zyn Fresh Mint Slim
 
 '
@@ -16,7 +16,7 @@ product-name: 'Zyn Fresh Mint Slim
 nicotine: 8
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 strong: Средней крепости
 sale: new-snus

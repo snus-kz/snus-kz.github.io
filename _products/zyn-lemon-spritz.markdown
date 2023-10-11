@@ -1,7 +1,7 @@
 ---
 title: ZYN Lemon Spritz
 date: 2023-09-07 18:12:00 Z
-position: 60
+position: 75
 title-seo: ZYN Lemon Spritz
 descr: |-
   ZYN Lemon Spritz украшает жизнь свежим кисловатым вкусом цитрусовых и грейпфрута, а также легкой сладостью персика и розовой воды. Вместе они образуют кисло-сладкое ощущение под губой.
@@ -15,7 +15,7 @@ product-name: ZYN Lemon Spritz
 nicotine: '8,5'
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 sale: new-snus
 taste: Лемон

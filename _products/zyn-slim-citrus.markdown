@@ -1,7 +1,7 @@
 ---
 title: ZYN Slim Citrus
 date: 2023-09-07 18:30:00 Z
-position: 44
+position: 59
 title-seo: ZYN Slim Citrus
 descr: |-
   ZYN Slim CitrusZYN Slim Citrus освещает жизнь своим солнечным, полезным и восхитительным вкусом лимона, апельсинового сока и лайма. Полностью белые пакеты ZYN Slim мягкие, хорошо укомплектованы и имеют низкую скорость потока.
@@ -13,7 +13,7 @@ product-name: ZYN Slim Citrus
 nicotine: 11
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 sale: new-snus
 taste: Цитрусы

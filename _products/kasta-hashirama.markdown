@@ -1,7 +1,7 @@
 ---
 title: Kasta Hashirama
 date: 2023-02-25 15:19:00 Z
-position: 199
+position: 212
 title-seo: Kasta Hashirama
 descr: |-
   Снюс Kasta Hashirama - Naruto Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.

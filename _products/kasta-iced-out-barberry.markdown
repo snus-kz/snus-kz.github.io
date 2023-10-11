@@ -1,7 +1,7 @@
 ---
 title: Kasta Iced Out Barberry
 date: 2022-09-02 10:11:00 Z
-position: 377
+position: 15
 title-seo: Kasta Iced Out Barberry
 descr: |-
   Снюс Kasta Iced Out Barberry -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
@@ -20,7 +20,7 @@ brand: Russian products
 sale: new-snus
 taste: Барбарис
 image: "/uploads/3-1b6cae.png"
-has_availability: false
+has_availability: true
 ---
 
 Снюс Kasta Iced Out Barberry -  Лимитированная Серия - это порционная супер крепкая бестабачная жевательная смесь.
