@@ -1,7 +1,7 @@
 ---
 title: ZYN Slim Cool Mint
 date: 2023-09-07 18:14:00 Z
-position: 75
+position: 77
 title-seo: ZYN Slim Cool Mint
 descr: |-
   ZYN Slim Cool Mint очень крепкий – он содержит больше никотина, чем другие варианты ZYN Slim. Он освежает интенсивным, но мягким мятным вкусом и острым, охлаждающим послевкусием. Полностью белые пакеты ZYN Slim мягкие, хорошо укомплектованы и имеют низкую скорость потока.
@@ -13,7 +13,7 @@ product-name: ZYN Slim Cool Mint
 nicotine: 14
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 sale: new-snus
 image: "/uploads/4-16b945.png"

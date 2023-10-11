@@ -1,7 +1,7 @@
 ---
 title: Zyn Ginger Blood Orange Strong Slim
 date: 2023-09-07 18:21:00 Z
-position: 51
+position: 53
 title-seo: 'Zyn Ginger Blood Orange Strong Slim
 
 '
@@ -18,7 +18,7 @@ product-name: 'Zyn Ginger Blood Orange Strong Slim
 nicotine: 11
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 strong: Крепкий
 taste: апельсин и имбирь

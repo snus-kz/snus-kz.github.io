@@ -1,7 +1,7 @@
 ---
 title: Zyn Cucumber Lime
 date: 2023-09-07 18:36:00 Z
-position: 53
+position: 55
 title-seo: 'Zyn Cucumber Lime
 
 '
@@ -14,7 +14,7 @@ product-name: 'Zyn Cucumber Lime
 nicotine: 5
 portions: 20
 gram: 20
-price: 3000
+price: 3500
 brand: Other brands
 sale: new-snus
 taste: Огурец и Лайм
