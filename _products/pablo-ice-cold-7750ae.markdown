@@ -11,6 +11,7 @@ nicotine: 43
 portions: 20
 gram: 13
 price: 3200
+new-price: 2300
 brand: Russian products
 sale: sale
 taste: ICE COLD MINT

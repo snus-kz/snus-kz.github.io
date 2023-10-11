@@ -9,9 +9,9 @@ nicotine: 50
 portions: 20
 gram: 20
 price: 3200
+new-price: 2300
 brand: Other brands
 strong: Крепкий
-sale: new-snus
 taste: Аромат жвачки
 image: "/uploads/pab.png"
 has_availability: true
