@@ -1,7 +1,7 @@
 ---
 title: LYFT Cool Air Slim Ultra Strong
 date: 2023-09-25 19:29:00 Z
-position: 2
+position: 3
 title-seo: 'LYFT Cool Air Slim Ultra Strong
 
 '

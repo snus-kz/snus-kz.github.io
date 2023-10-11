@@ -14,7 +14,7 @@ product-name: 'VELO Royal Purple Mini
 nicotine: 12
 portions: 20
 gram: 20
-price: 3500
+price: 3000
 brand: Lyft
 sale: new-snus
 taste: Виноград
